@@ -1,0 +1,70 @@
+# ============================================================
+# ThriftyNest 全自动流水线
+# 每天 03:00 UTC 自动：生成新文章 → 构建站点 → 部署 Pages
+# 也可在 Actions 页面手动触发（Run workflow）
+# ============================================================
+name: Daily Publish
+
+on:
+  schedule:
+    # 每天 03:00 UTC = 北京时间 11:00
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Articles to generate this run (default 3)"
+        required: false
+        default: "3"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  generate-build-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate new articles
+        run: python scripts/generate_articles.py --limit ${{ inputs.limit || '3' }}
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+
+      - name: Build static site
+        run: python scripts/build_site.py
+
+      - name: Commit new content
+        run: |
+          git config user.name "thriftybot"
+          git config user.email "actions@github.com"
+          git add content site
+          git diff --cached --quiet || git commit -m "chore: publish $(date -u +%F) articles"
+          git push
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

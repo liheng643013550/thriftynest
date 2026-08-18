@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="$lang">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>$page_title</title>
+<meta name="description" content="$description">
+<link rel="canonical" href="$canonical">
+<meta property="og:type" content="$og_type">
+<meta property="og:site_name" content="$site_name">
+<meta property="og:title" content="$page_title">
+<meta property="og:description" content="$description">
+<meta property="og:url" content="$og_url">
+<meta name="robots" content="index, follow">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%8F%A0%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="$base/static/style.css">
+<link rel="alternate" type="application/rss+xml" title="$site_name RSS" href="$base/feed.xml">
+$adsense_script
+<script type="application/ld+json">$jsonld</script>
+</head>
+<body>
+<header class="site-head">
+  <div class="wrap">
+    <a class="logo" href="$base/">🏠 $site_name</a>
+    <p class="tagline">$tagline</p>
+  </div>
+</header>
+<main class="wrap">
+$content
+</main>
+<footer class="site-foot">
+  <div class="wrap">
+    <p>$site_name — $tagline</p>
+    <p>As an Amazon Associate we earn from qualifying purchases. Prices and availability are accurate as of the date published.</p>
+    <p>&copy; $footer_year $site_name</p>
+  </div>
+</footer>
+</body>
+</html>

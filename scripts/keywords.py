@@ -1,0 +1,118 @@
+"""Built-in keyword / topic pool for ThriftyNest.
+
+Each topic is a dict:
+    kw      - the target search phrase (long-tail, low competition)
+    title   - article title template (may contain {year})
+    cat     - category slug (see build_site.py CATEGORY_NAMES)
+    type    - comparison | howto | list
+
+The generator picks topics that have not been written yet and never repeats
+them. Add your own topics to this list anytime — the pipeline picks them up
+on the next run.
+"""
+
+TOPICS = [
+    # --- kitchen ---
+    {"kw": "best air fryer under $50", "cat": "kitchen", "type": "comparison",
+     "title": "The 7 Best Air Fryers Under $50 in {year} (Tested & Compared)"},
+    {"kw": "best air fryer for one person", "cat": "kitchen", "type": "comparison",
+     "title": "Best Air Fryers for One Person in {year}: Small, Cheap & Quiet"},
+    {"kw": "best coffee maker under $100", "cat": "kitchen", "type": "comparison",
+     "title": "The 5 Best Coffee Makers Under $100 in {year} (Honest Review)"},
+    {"kw": "cheap electric kettle that lasts", "cat": "kitchen", "type": "comparison",
+     "title": "5 Cheap Electric Kettles That Actually Last (Under $30)"},
+    {"kw": "best meal prep containers that don't leak", "cat": "kitchen", "type": "comparison",
+     "title": "Best Meal Prep Containers That Don't Leak or Break (Budget Picks)"},
+    {"kw": "best slow cooker under $40", "cat": "kitchen", "type": "comparison",
+     "title": "Best Slow Cookers Under $40 in {year}: Set It and Forget It, Cheaply"},
+    {"kw": "best rice cooker under $50", "cat": "kitchen", "type": "comparison",
+     "title": "Best Rice Cookers Under $50: Foolproof Rice Without the Price Tag"},
+    {"kw": "best toaster under $30", "cat": "kitchen", "type": "comparison",
+     "title": "Best Toasters Under $30 That Actually Toast Evenly"},
+    {"kw": "best budget blender for smoothies", "cat": "kitchen", "type": "comparison",
+     "title": "Best Budget Blenders for Smoothies in {year} (Under $50)"},
+    {"kw": "how to stock a budget pantry", "cat": "kitchen", "type": "howto",
+     "title": "How to Stock a Budget Pantry: 50 Items for Under $100"},
+    {"kw": "cheapest way to cook healthy meals", "cat": "kitchen", "type": "howto",
+     "title": "The Cheapest Way to Cook Healthy Meals at Home (Real Numbers)"},
+    {"kw": "best budget cookware set", "cat": "kitchen", "type": "comparison",
+     "title": "Best Budget Cookware Sets in {year}: What's Worth Buying"},
+    # --- organization ---
+    {"kw": "how to organize a small kitchen on a budget", "cat": "organization", "type": "howto",
+     "title": "How to Organize a Small Kitchen on a Budget (12 Cheap Tricks)"},
+    {"kw": "best cheap storage bins for closets", "cat": "organization", "type": "comparison",
+     "title": "Best Cheap Storage Bins for Closets That Actually Look Good"},
+    {"kw": "how to declutter your home in a weekend", "cat": "organization", "type": "howto",
+     "title": "How to Declutter Your Home in One Weekend (Room-by-Room Plan)"},
+    {"kw": "best drawer organizers under $20", "cat": "organization", "type": "comparison",
+     "title": "Best Drawer Organizers Under $20 (Kitchen, Desk & Bathroom)"},
+    {"kw": "small apartment storage ideas on a budget", "cat": "organization", "type": "howto",
+     "title": "Small Apartment Storage Ideas That Cost Almost Nothing"},
+    {"kw": "best under-bed storage containers", "cat": "organization", "type": "comparison",
+     "title": "Best Under-Bed Storage Containers: Cheap, Durable & Dust-Free"},
+    {"kw": "how to organize a tiny bathroom cheaply", "cat": "organization", "type": "howto",
+     "title": "How to Organize a Tiny Bathroom Without Spending Much"},
+    {"kw": "best closet organizers under $50", "cat": "organization", "type": "comparison",
+     "title": "Best Closet Organizers Under $50 (Shelves, Rods & Bins)"},
+    {"kw": "garage organization on a budget", "cat": "organization", "type": "howto",
+     "title": "Garage Organization on a Budget: Cheap Ideas That Work"},
+    {"kw": "best shoe racks for small spaces", "cat": "organization", "type": "comparison",
+     "title": "Best Shoe Racks for Small Spaces (Under $30)"},
+    # --- cleaning ---
+    {"kw": "best cheap robot vacuum under $150", "cat": "cleaning", "type": "comparison",
+     "title": "Best Robot Vacuums Under $150 in {year}: Worth It or Not?"},
+    {"kw": "how to clean a house fast in 30 minutes", "cat": "cleaning", "type": "howto",
+     "title": "How to Clean a House Fast: A 30-Minute Routine That Works"},
+    {"kw": "best budget steam mop", "cat": "cleaning", "type": "comparison",
+     "title": "Best Budget Steam Mops: Clean Floors Without Chemicals"},
+    {"kw": "how to remove stains with baking soda and vinegar", "cat": "cleaning", "type": "howto",
+     "title": "How to Remove Stains with Baking Soda and Vinegar (12 Fixes)"},
+    {"kw": "best microfiber cloths value pack", "cat": "cleaning", "type": "comparison",
+     "title": "Best Microfiber Cloth Value Packs: Why Cheap Ones Are Fine"},
+    {"kw": "best cordless vacuum under $100", "cat": "cleaning", "type": "comparison",
+     "title": "Best Cordless Vacuums Under $100 in {year} (Real Tests)"},
+    {"kw": "how often should you wash your bedding", "cat": "cleaning", "type": "howto",
+     "title": "How Often Should You Wash Your Bedding? A Simple Schedule"},
+    {"kw": "cheapest green cleaning products you can make", "cat": "cleaning", "type": "howto",
+     "title": "The Cheapest Green Cleaning Products Are the Ones You Make"},
+    # --- home-office ---
+    {"kw": "best budget office chair under $150", "cat": "home-office", "type": "comparison",
+     "title": "Best Budget Office Chairs Under $150 in {year} (Back Pain Check)"},
+    {"kw": "cheapest standing desk setup", "cat": "home-office", "type": "howto",
+     "title": "The Cheapest Standing Desk Setup That Actually Works"},
+    {"kw": "best budget desk lamp for eye strain", "cat": "home-office", "type": "comparison",
+     "title": "Best Budget Desk Lamps for Eye Strain (Under $40)"},
+    {"kw": "how to build a home office on $200", "cat": "home-office", "type": "howto",
+     "title": "How to Build a Whole Home Office for $200 (Full Parts List)"},
+    {"kw": "best budget monitor under $150", "cat": "home-office", "type": "comparison",
+     "title": "Best Budget Monitors Under $150: What to Buy and What to Skip"},
+    {"kw": "best cable management ideas on a budget", "cat": "home-office", "type": "howto",
+     "title": "Best Cable Management Ideas on a Budget (No Drilling Needed)"},
+    # --- pet ---
+    {"kw": "best budget dog bed that lasts", "cat": "pet", "type": "comparison",
+     "title": "Best Budget Dog Beds That Last (Chewed & Tested)"},
+    {"kw": "cheapest way to keep your dog entertained", "cat": "pet", "type": "howto",
+     "title": "The Cheapest Ways to Keep Your Dog Entertained (Most Are Free)"},
+    {"kw": "best cat scratching post under $30", "cat": "pet", "type": "comparison",
+     "title": "Best Cat Scratching Posts Under $30 Your Cat Will Actually Use"},
+    {"kw": "how to save money on pet food safely", "cat": "pet", "type": "howto",
+     "title": "How to Save Money on Pet Food Without Cutting Corners"},
+    # --- garden ---
+    {"kw": "best budget garden tools for beginners", "cat": "garden", "type": "comparison",
+     "title": "Best Budget Garden Tools for Beginners (You Don't Need 50)"},
+    {"kw": "how to start a vegetable garden for under $50", "cat": "garden", "type": "howto",
+     "title": "How to Start a Vegetable Garden for Under $50 (Step by Step)"},
+    {"kw": "cheapest way to build raised garden beds", "cat": "garden", "type": "howto",
+     "title": "The Cheapest Way to Build Raised Garden Beds That Last"},
+    {"kw": "best indoor plants for low light cheap", "cat": "garden", "type": "comparison",
+     "title": "Best Indoor Plants for Low Light (Cheap & Nearly Impossible to Kill)"},
+    # --- energy ---
+    {"kw": "cheapest ways to save on electricity bills", "cat": "energy", "type": "howto",
+     "title": "The Cheapest Ways to Save on Electricity Bills (Ranked by Effort)"},
+    {"kw": "best smart plugs under $15 to cut energy waste", "cat": "energy", "type": "comparison",
+     "title": "Best Smart Plugs Under $15 to Cut Energy Waste"},
+    {"kw": "how to lower your heating bill without buying anything", "cat": "energy", "type": "howto",
+     "title": "How to Lower Your Heating Bill Without Buying Anything"},
+    {"kw": "are cheap LED bulbs worth it", "cat": "energy", "type": "comparison",
+     "title": "Are Cheap LED Bulbs Worth It? We Did the Math"},
+]
