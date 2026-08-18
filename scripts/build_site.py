@@ -57,6 +57,7 @@ def load_posts():
         if len(parts) < 3:
             continue
         meta = yaml.safe_load(parts[1]) or {}
+        meta["date"] = str(meta.get("date") or "")
         body = parts[2].strip()
         posts.append({"meta": meta, "body": body, "path": path})
     posts.sort(key=lambda p: (p["meta"].get("date", ""), p["path"].name), reverse=True)
