@@ -68,3 +68,6 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Notify Bing (IndexNow)
+        run: python scripts/ping_indexnow.py
