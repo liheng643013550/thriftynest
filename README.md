@@ -38,14 +38,16 @@ thriftynest/
 ├── config.yaml                  # ★ 所有配置在这改（网址、tag、广告ID、节奏）
 ├── scripts/
 │   ├── generate_articles.py     # 文章生成器（DeepSeek API）
-│   ├── keywords.py              # 48 个内置长尾选题库
+│   ├── keywords.py              # 189 个内置长尾选题库
+│   ├── ping_indexnow.py         # Bing 即时收录推送（IndexNow）
 │   ├── llm.py                   # 极简 LLM 客户端（可换 OpenAI）
 │   └── build_site.py            # 静态站生成器
 ├── content/posts/               # 文章仓库（markdown + frontmatter）
 ├── templates/base.html          # 站点母版
 ├── static/style.css             # 全站样式
 ├── site/                        # 构建产物（部署目录）
-└── .github/workflows/daily-publish.yml
+├── .github/workflows/daily-publish.yml
+└── BING.md                      # Bing 第二引擎设置手册
 ```
 
 ## 快速启动（3 步，约 15 分钟）

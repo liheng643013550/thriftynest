@@ -15,9 +15,6 @@ site:
   author: "ThriftyNest Team"
   lang: "en"
   locale: "en_US"
-  # Pinterest 网站认领验证代码（Pinterest 设置里 Claim website → HTML tag 方式，
-  # 会给你形如 "abc123..." 的字符串，填到这里）。留空则无。
-  pinterest_verify: ""
   # Bing IndexNow 密钥：去 bing.com/webmasters 添加网站后，在网站的
   # "API 提交/IndexNow" 区域复制它给你的 key 填到这里。
   # 流水线会自动把这个 key 生成一个 .txt 文件放到网站根目录，并在每天
