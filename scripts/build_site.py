@@ -57,6 +57,8 @@ def load_posts():
         if len(parts) < 3:
             continue
         meta = yaml.safe_load(parts[1]) or {}
+        # normalize date to a plain string: YAML may parse "2026-08-18" as a
+        # date object, which breaks sorting and html escaping downstream
         meta["date"] = str(meta.get("date") or "")
         body = parts[2].strip()
         posts.append({"meta": meta, "body": body, "path": path})
@@ -101,6 +103,7 @@ class Site:
         self.tag = (self.money.get("amazon_tag") or "").strip()
         self.adsense = (self.money.get("adsense_client") or "").strip()
         self.adsense_slot = (self.money.get("adsense_slot") or "").strip()
+        self.pinterest = (self.site.get("pinterest_verify") or "").strip()
         self.base_tpl = Template(TEMPLATE_PATH.read_text(encoding="utf-8"))
 
     def path(self, *parts):
@@ -109,7 +112,7 @@ class Site:
     # ---------- rendering helpers ----------
 
     def render_page(self, title, description, body_html, canonical, jsonld=None,
-                    og_type="website"):
+                    og_type="website", og_image=""):
         adsense_script = ""
         if self.adsense:
             adsense_script = (
@@ -117,6 +120,12 @@ class Site:
                 'adsbygoogle.js?client=%s" crossorigin="anonymous"></script>'
                 % self.adsense
             )
+        og_image_line = ""
+        if og_image:
+            og_image_line = '<meta property="og:image" content="%s">' % html.escape(og_image)
+        pinterest_line = ""
+        if self.pinterest:
+            pinterest_line = '<meta name="p:domain_verify" content="%s">' % html.escape(self.pinterest)
         ctx = {
             "site_name": self.name,
             "tagline": self.tagline,
@@ -127,6 +136,8 @@ class Site:
             "canonical": html.escape(canonical),
             "og_url": html.escape(canonical),
             "og_type": og_type,
+            "og_image": og_image_line,
+            "pinterest_verify": pinterest_line,
             "jsonld": jsonld or "",
             "adsense_script": adsense_script,
             "content": body_html,
@@ -214,6 +225,8 @@ class Site:
             % (html.escape(meta.get("title", "")), html.escape(date),
                html.escape(category_name(cat)), body_html, related_html)
         )
+        pin = OUT_DIR / "static" / "pins" / (slug + ".png")
+        og_image = self.path("static", "pins", slug + ".png") if pin.exists() else ""
         page = self.render_page(
             title=meta.get("title", ""),
             description=meta.get("description", ""),
@@ -221,6 +234,7 @@ class Site:
             canonical=canonical,
             jsonld=json.dumps(jsonld),
             og_type="article",
+            og_image=og_image,
         )
         out = OUT_DIR / "posts" / slug / "index.html"
         out.parent.mkdir(parents=True, exist_ok=True)
@@ -321,6 +335,12 @@ class Site:
             canonical=self.path(""),
         )
         (OUT_DIR / "404.html").write_text(not_found, encoding="utf-8")
+
+        # IndexNow key file (Bing instant indexing): makes <key>.txt live at
+        # the site root so Bing can verify the key. Configured in config.yaml.
+        key = (self.site.get("indexnow_key") or "").strip()
+        if key:
+            (OUT_DIR / (key + ".txt")).write_text(key, encoding="utf-8")
 
     def build(self, posts):
         OUT_DIR.mkdir(parents=True, exist_ok=True)
