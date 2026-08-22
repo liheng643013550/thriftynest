@@ -153,6 +153,13 @@ a:hover { color: var(--brand); text-decoration: underline; }
 .related li { margin-bottom: 6px; }
 .ad-slot { margin: 26px 0; min-height: 90px; }
 
+/* ---------- article illustrations ---------- */
+.illustration { margin: 30px 0; }
+.illustration img {
+  width: 100%; height: auto; border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+}
+
 /* ---------- category / list pages ---------- */
 .cat-head { padding: 34px 0 4px; }
 .cat-head h1 { font-family: var(--font-head); font-size: 1.9rem; margin: 0 0 8px; letter-spacing: -0.02em; }
