@@ -103,7 +103,6 @@ class Site:
         self.tag = (self.money.get("amazon_tag") or "").strip()
         self.adsense = (self.money.get("adsense_client") or "").strip()
         self.adsense_slot = (self.money.get("adsense_slot") or "").strip()
-        self.pinterest = (self.site.get("pinterest_verify") or "").strip()
         self.base_tpl = Template(TEMPLATE_PATH.read_text(encoding="utf-8"))
 
     def path(self, *parts):
@@ -123,9 +122,6 @@ class Site:
         og_image_line = ""
         if og_image:
             og_image_line = '<meta property="og:image" content="%s">' % html.escape(og_image)
-        pinterest_line = ""
-        if self.pinterest:
-            pinterest_line = '<meta name="p:domain_verify" content="%s">' % html.escape(self.pinterest)
         ctx = {
             "site_name": self.name,
             "tagline": self.tagline,
@@ -137,7 +133,6 @@ class Site:
             "og_url": html.escape(canonical),
             "og_type": og_type,
             "og_image": og_image_line,
-            "pinterest_verify": pinterest_line,
             "jsonld": jsonld or "",
             "adsense_script": adsense_script,
             "content": body_html,
@@ -164,13 +159,13 @@ class Site:
         title = html.escape(post["meta"].get("title") or "Untitled")
         link = self.path("posts", slug_of(post))
         date = post["meta"].get("date") or ""
-        cat = post["meta"].get("category") or ""
+        cat = post["meta"].get("category") or "misc"
         desc = html.escape(post["meta"].get("description") or "")
         return (
-            '<article class="card"><h2 class="card-title"><a href="%s">%s</a></h2>'
+            '<article class="card cat-%s"><h2 class="card-title"><a href="%s">%s</a></h2>'
             '<p class="card-meta">%s &middot; <a href="%s">%s</a></p>'
             '<p class="card-desc">%s</p></article>'
-            % (link, title, html.escape(date),
+            % (cat, link, title, html.escape(date),
                self.path("category", cat), html.escape(category_name(cat)), desc)
         )
 
@@ -287,8 +282,38 @@ class Site:
         out.parent.mkdir(parents=True, exist_ok=True)
         out.write_text(page, encoding="utf-8")
 
+    def build_categories_index(self, posts):
+        counts = {}
+        for p in posts:
+            cat = p["meta"].get("category", "misc")
+            counts[cat] = counts.get(cat, 0) + 1
+        items = ""
+        for cat, name in CATEGORY_NAMES.items():
+            n = counts.get(cat, 0)
+            items += (
+                '<article class="card cat-%s"><h2 class="card-title"><a href="%s">%s</a></h2>'
+                '<p class="card-meta">%d guide%s</p></article>'
+                % (cat, self.path("category", cat), html.escape(name), n,
+                   "" if n == 1 else "s")
+            )
+        body = (
+            '<header class="cat-head"><h1>Browse all guides</h1>'
+            '<p class="hero-sub">Every category on %s, in one place.</p></header>'
+            '<section class="grid">%s</section>' % (self.name, items)
+        )
+        page = self.render_page(
+            title="All guides — %s" % self.name,
+            description="Browse every buying guide and money-saving tip on %s by category." % self.name,
+            body_html=body,
+            canonical=self.path("categories"),
+        )
+        out = OUT_DIR / "categories" / "index.html"
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text(page, encoding="utf-8")
+
     def build_seo_files(self, posts):
         urls = [self.path("")]
+        urls += [self.path("categories")]
         urls += [self.path("category", c) for c in CATEGORY_NAMES]
         urls += [self.path("posts", slug_of(p)) for p in posts]
         lastmod = datetime.now().strftime("%Y-%m-%d")
@@ -350,6 +375,7 @@ class Site:
             by_cat.setdefault(p["meta"].get("category", "misc"), []).append(p)
         for cat, cat_posts in by_cat.items():
             self.build_category(cat, cat_posts)
+        self.build_categories_index(posts)
         for i, post in enumerate(posts):
             cat_posts = [p for p in posts if p["meta"].get("category") == post["meta"].get("category")
                          and p is not post]
