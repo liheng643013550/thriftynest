@@ -16,6 +16,9 @@
 $og_image
 <meta name="robots" content="index, follow">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%8F%A0%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Sora:wght@600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="$base/static/style.css">
 <link rel="alternate" type="application/rss+xml" title="$site_name RSS" href="$base/feed.xml">
 $adsense_script
@@ -23,19 +26,46 @@ $adsense_script
 </head>
 <body>
 <header class="site-head">
-  <div class="wrap">
-    <a class="logo" href="$base/">🏠 $site_name</a>
+  <div class="wrap head-inner">
+    <a class="logo" href="$base/">🏠 <span>$site_name</span></a>
     <p class="tagline">$tagline</p>
+    <nav class="nav" aria-label="Main navigation">
+      <a class="nav-link" href="$base/">Home</a>
+      <a class="nav-link" href="$base/category/kitchen/">Kitchen</a>
+      <a class="nav-link" href="$base/category/organization/">Organization</a>
+      <a class="nav-link" href="$base/category/cleaning/">Cleaning</a>
+      <a class="nav-link" href="$base/category/energy/">Energy</a>
+      <a class="nav-link nav-cta" href="$base/categories/">All Guides</a>
+    </nav>
   </div>
 </header>
 <main class="wrap">
 $content
 </main>
 <footer class="site-foot">
-  <div class="wrap">
-    <p>$site_name — $tagline</p>
-    <p>As an Amazon Associate we earn from qualifying purchases. Prices and availability are accurate as of the date published.</p>
-    <p>&copy; $footer_year $site_name</p>
+  <div class="wrap foot-grid">
+    <div class="foot-col">
+      <p class="foot-brand">🏠 $site_name</p>
+      <p class="foot-tag">$tagline</p>
+    </div>
+    <div class="foot-col">
+      <p class="foot-title">Explore</p>
+      <a href="$base/category/kitchen/">Kitchen &amp; Cooking</a>
+      <a href="$base/category/organization/">Organization &amp; Storage</a>
+      <a href="$base/category/cleaning/">Cleaning</a>
+      <a href="$base/category/home-office/">Home Office</a>
+      <a href="$base/category/pet/">Pets</a>
+      <a href="$base/category/garden/">Garden</a>
+      <a href="$base/category/energy/">Energy &amp; Savings</a>
+      <a href="$base/category/tools/">Tools &amp; DIY</a>
+    </div>
+    <div class="foot-col">
+      <p class="foot-title">About</p>
+      <a href="$base/categories/">All guides</a>
+      <a href="$base/feed.xml">RSS feed</a>
+      <p class="foot-note">As an Amazon Associate we earn from qualifying purchases. Prices and availability are accurate as of the date published.</p>
+      <p class="foot-note">&copy; $footer_year $site_name</p>
+    </div>
   </div>
 </footer>
 </body>
