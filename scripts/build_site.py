@@ -92,6 +92,30 @@ def amazon_links(html_text, tag):
     return AMAZON_LINK_RE.sub(_href, html_text)
 
 
+def insert_illustrations(base, body_html, slug):
+    """Insert generated article illustrations after selected paragraphs."""
+    ends = [m.end() for m in re.finditer(r"</p>", body_html)]
+    n = len(ends)
+    if n < 2:
+        return body_html
+    inserts = []
+    if n >= 3:
+        inserts.append((ends[1], 1))
+    if n >= 6:
+        inserts.append((ends[n // 2], 2))
+    if n >= 10:
+        inserts.append((ends[-3], 3))
+    out = body_html
+    for pos, num in reversed(inserts):
+        src = "%s/static/img/%s-%d.png" % (base, slug, num)
+        fig = (
+            '<figure class="illustration"><img src="%s" alt="Illustration" '
+            'loading="lazy" width="1200" height="675"></figure>' % src
+        )
+        out = out[:pos] + "\n" + fig + "\n" + out[pos:]
+    return out
+
+
 class Site:
     def __init__(self, config):
         self.cfg = config
@@ -186,6 +210,8 @@ class Site:
             if m:
                 pos = m.end()
                 body_html = body_html[:pos] + "\n" + ad + "\n" + body_html[pos:]
+
+        body_html = insert_illustrations(self.base, body_html, slug)
 
         canonical = self.path("posts", slug)
         crumbs = (
