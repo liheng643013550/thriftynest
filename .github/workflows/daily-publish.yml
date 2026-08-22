@@ -49,6 +49,9 @@ jobs:
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
 
+      - name: Generate article illustrations
+        run: python scripts/make_illustrations.py
+
       - name: Build static site
         run: python scripts/build_site.py
 
