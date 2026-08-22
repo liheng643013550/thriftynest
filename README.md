@@ -39,6 +39,7 @@ thriftynest/
 ├── scripts/
 │   ├── generate_articles.py     # 文章生成器（DeepSeek API）
 │   ├── keywords.py              # 189 个内置长尾选题库
+│   ├── make_illustrations.py    # 文章插图自动生成器（每篇 3 张）
 │   ├── ping_indexnow.py         # Bing 即时收录推送（IndexNow）
 │   ├── llm.py                   # 极简 LLM 客户端（可换 OpenAI）
 │   └── build_site.py            # 静态站生成器
