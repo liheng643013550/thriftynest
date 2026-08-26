@@ -37,10 +37,7 @@ WRITER_SYSTEM = (
 
 
 def slugify(text):
-    return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
-
-
-def load_config():
+    return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")def load_config():
     with open(CONFIG_PATH, "r", encoding="utf-8") as fh:
         return yaml.safe_load(fh)
 
@@ -106,6 +103,65 @@ def build_prompt(topic, year):
     ) % (topic["kw"], topic["title"].format(year=year), structure)
 
 
+def de_templatify(body, seed):
+    """Reduce 'AI template' feel by lightly humanizing prose paragraphs.
+
+    Only touches plain prose paragraphs (not headings, lists, tables, code, or
+    lines containing a markdown link), so Amazon links and structure stay intact.
+    Deterministic for a given seed+paragraph so output is stable.
+    """
+    openers = (
+        "In practice,", "To be fair,", "From real-world use,", "That said,",
+        "As a rule of thumb,", "Honestly,", "In most cases,", "Worth noting,",
+    )
+    inline = ("in practice", "in my experience", "believe it or not", "honestly")
+    lowerable = {"the", "this", "these", "that", "if", "you", "it", "a", "an",
+                 "we", "they", "i", "when", "for", "there", "here"}
+
+    def should_touch(block):
+        s = block.strip()
+        if not s:
+            return False
+        if s.startswith(("#", "-", "*", ">", "|")):
+            return False
+        if re.match(r"^\d+\.", s):
+            return False
+        if "[" in s or "]" in s or "|" in s:
+            return False
+        return True
+
+    blocks = re.split(r"\n\s*\n", body)
+    out = []
+    prose_i = 0
+    used = set()
+    for blk in blocks:
+        if not should_touch(blk):
+            out.append(blk)
+            continue
+        s = blk.strip()
+        if len(s.split()) < 8:
+            out.append(blk)
+            continue
+        prose_i += 1
+        h = (hash((seed, s)) ^ (prose_i * 7919)) % 100000
+        # prepend a casual opener to a few scattered paragraphs
+        if 2 <= prose_i <= 6 and len(used) < 3:
+            opener = openers[h % len(openers)]
+            if opener not in used:
+                used.add(opener)
+                first = s.split(" ", 1)[0].lower()
+                if s.split(" ", 1)[0].lower() in lowerable:
+                    s = opener + " " + s[0].lower() + s[1:]
+                else:
+                    s = opener + " " + s
+        # sprinkle an inline human phrase every few paragraphs
+        if s.rstrip().endswith(".") and prose_i % 3 == 0:
+            trimmed = s.rstrip()
+            s = trimmed[:-1] + ", " + inline[(h // 7) % len(inline)] + "."
+        out.append(s)
+    return "\n\n".join(out)
+
+
 def write_article(topic, config, year):
     prompt = build_prompt(topic, year)
     llm_cfg = config.get("llm", {})
@@ -117,6 +173,7 @@ def write_article(topic, config, year):
         max_tokens=llm_cfg.get("max_tokens", 4096),
         system=WRITER_SYSTEM,
     )
+    body = de_templatify(body, topic["kw"])
     slug = slugify(topic["kw"])
     date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     plain = re.sub(r"[#*`>\[\]()!|]", " ", body)
