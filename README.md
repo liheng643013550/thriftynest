@@ -37,12 +37,12 @@ GitHub Actions (免费定时任务, 每天 03:00 UTC)
 thriftynest/
 ├── config.yaml                  # ★ 所有配置在这改（网址、tag、广告ID、节奏）
 ├── scripts/
-│   ├── generate_articles.py     # 文章生成器（DeepSeek API）
+│   ├── generate_articles.py     # 文章生成器（DeepSeek API，含FAQ、内容质量优化）
 │   ├── keywords.py              # 189 个内置长尾选题库
 │   ├── make_illustrations.py    # 文章插图自动生成器（每篇 3 张）
 │   ├── ping_indexnow.py         # Bing 即时收录推送（IndexNow）
 │   ├── llm.py                   # 极简 LLM 客户端（可换 OpenAI）
-│   └── build_site.py            # 静态站生成器
+│   └── build_site.py            # 静态站生成器（含内链、FAQ结构化数据、信任页）
 ├── content/posts/               # 文章仓库（markdown + frontmatter）
 ├── templates/base.html          # 站点母版
 ├── static/style.css             # 全站样式
