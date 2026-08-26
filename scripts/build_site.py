@@ -391,9 +391,12 @@ class Site:
 
         # IndexNow key file (Bing instant indexing): makes <key>.txt live at
         # the site root so Bing can verify the key. Configured in config.yaml.
+        # The key may contain "/" (Bing's format), so create parent dirs.
         key = (self.site.get("indexnow_key") or "").strip()
         if key:
-            (OUT_DIR / (key + ".txt")).write_text(key, encoding="utf-8")
+            key_file = OUT_DIR / (key + ".txt")
+            key_file.parent.mkdir(parents=True, exist_ok=True)
+            key_file.write_text(key, encoding="utf-8")
 
     def build(self, posts):
         OUT_DIR.mkdir(parents=True, exist_ok=True)
