@@ -74,6 +74,36 @@ def category_name(cat):
     return CATEGORY_NAMES.get(cat, cat.replace("-", " ").title())
 
 
+def strip_tags(text):
+    return re.sub(r"<[^>]+>", "", text).strip()
+
+
+def extract_faq(body_html):
+    """Pull (question, answer) pairs from a trailing FAQ section (if present)."""
+    m = re.search(
+        r"<h2[^>]*>(?P<t>.*?(?:Frequently Asked Questions|FAQ).*?)</h2>",
+        body_html, re.IGNORECASE,
+    )
+    if not m:
+        return []
+    region = body_html[m.end():]
+    nxt = re.search(r"<h2", region)
+    if nxt:
+        region = region[:nxt.start()]
+    pairs = re.findall(r"<h3>(.*?)</h3>\s*<p>(.*?)</p>", region, re.DOTALL)
+    faqs = []
+    for q, a in pairs:
+        q = strip_tags(q)
+        a = strip_tags(a)
+        if q and a:
+            faqs.append({
+                "@type": "Question",
+                "name": q,
+                "acceptedAnswer": {"@type": "Answer", "text": a},
+            })
+    return faqs
+
+
 def excerpt(html_text, limit=160):
     plain = re.sub(r"<[^>]+>", " ", html_text)
     plain = re.sub(r"\s+", " ", plain).strip()
@@ -196,6 +226,21 @@ class Site:
 
     # ---------- page builders ----------
 
+    def inline_links(self, related, category=""):
+        """Build a natural in-body paragraph linking to 1-2 related posts."""
+        picks = related[:2] if related else []
+        linked = []
+        for p in picks:
+            title = html.escape(p["meta"].get("title", "this guide"))
+            linked.append('<a href="%s">%s</a>' % (self.path("posts", slug_of(p)), title))
+        if not linked:
+            return ""
+        if len(linked) == 1:
+            sentence = "While you're here, you might also like %s." % linked[0]
+        else:
+            sentence = "If this helped, you'll also want to read %s and %s." % (linked[0], linked[1])
+        return '<p class="inline-links">%s</p>' % sentence
+
     def build_post(self, post, related):
         meta = post["meta"]
         slug = slug_of(post)
@@ -215,6 +260,14 @@ class Site:
         body_html = insert_illustrations(
             self.base, body_html, slug, meta.get("title", slug))
 
+        # in-body contextual links to related posts (after the 3rd paragraph)
+        inline = self.inline_links(related, cat)
+        if inline:
+            ends = [m.end() for m in re.finditer(r"</p>", body_html)]
+            if len(ends) >= 3:
+                pos = ends[2]
+                body_html = body_html[:pos] + "\n" + inline + "\n" + body_html[pos:]
+
         canonical = self.path("posts", slug)
         crumbs = (
             '<nav class="breadcrumbs"><a href="%s">Home</a> &rsaquo; '
@@ -231,8 +284,7 @@ class Site:
             )
             related_html = '<section class="related"><h2>Related reads</h2><ul>%s</ul></section>' % items
 
-        jsonld = {
-            "@context": "https://schema.org",
+        article = {
             "@type": "Article",
             "headline": meta.get("title", ""),
             "description": meta.get("description", ""),
@@ -241,6 +293,17 @@ class Site:
             "publisher": {"@type": "Organization", "name": self.name},
             "mainEntityOfPage": canonical,
         }
+        faqs = extract_faq(body_html)
+        if faqs:
+            jsonld = {
+                "@context": "https://schema.org",
+                "@graph": [
+                    article,
+                    {"@type": "FAQPage", "mainEntity": faqs},
+                ],
+            }
+        else:
+            jsonld = dict({"@context": "https://schema.org"}, **article)
         body = (
             "<header class=\"post-head\"><h1>%s</h1>"
             "<p class=\"post-meta\">%s &middot; %s</p></header>"
@@ -339,9 +402,87 @@ class Site:
         out.parent.mkdir(parents=True, exist_ok=True)
         out.write_text(page, encoding="utf-8")
 
+    def _trust_page(self, slug, title, body):
+        page = self.render_page(
+            title="%s — %s" % (title, self.name),
+            description="%s for %s." % (title, self.name),
+            body_html=body,
+            canonical=self.path(slug),
+        )
+        out = OUT_DIR / slug / "index.html"
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text(page, encoding="utf-8")
+
+    def build_trust_pages(self):
+        home = self.path("")
+        # Privacy policy (required by Amazon Associates + AdSense)
+        privacy = (
+            "<h1>Privacy Policy</h1>"
+            "<p>%s (\"we\", \"us\") values your privacy. This policy explains what "
+            "data we collect and how it is used when you visit %s.</p>"
+            "<h2>Information we collect</h2>"
+            "<p>We collect limited, non-identifying information such as browser type, "
+            "device, and pages visited. We do not ask for personal details beyond what "
+            "you voluntarily provide (for example, if you contact us).</p>"
+            "<h2>Cookies and advertising</h2>"
+            "<p>We use cookies to improve your experience and to display relevant "
+            "advertising. Third-party vendors, including Google, may use cookies to serve "
+            "ads based on your prior visits to this website. You may opt out of "
+            "personalized advertising at <a href=\"https://adssettings.google.com\">"
+            "Google Ads Settings</a>.</p>"
+            "<h2>Advertising partners</h2>"
+            "<p>We use advertising and affiliate partners, including Amazon Associates "
+            "and Google AdSense. These partners may use cookies or web beacons to "
+            "measure the effectiveness of their ads. As an Amazon Associate we earn "
+            "from qualifying purchases made through links on this site.</p>"
+            "<h2>Affiliate disclosure</h2>"
+            "<p>Some links on this site are affiliate links. If you click one and make a "
+            "purchase, we may earn a small commission at no extra cost to you.</p>"
+            "<h2>Your choices</h2>"
+            "<p>You can disable cookies in your browser settings. Note that some parts "
+            "of the site may not work as well without them.</p>"
+            "<h2>Contact</h2>"
+            "<p>Questions about this policy? See our <a href=\"%s/contact/\">contact page</a>.</p>"
+            % (self.name, self.base, self.base)
+        )
+        self._trust_page("privacy-policy", "Privacy Policy", privacy)
+
+        # About
+        about = (
+            "<h1>About %s</h1>"
+            "<p>%s is a practical guide to saving money on your home. We research budget "
+            "kitchen appliances, storage solutions, cleaning supplies, and every-day "
+            "household buys so you can make smart, affordable choices.</p>"
+            "<p>Every guide is written to be honest and easy to read: no hype, no fluff, "
+            "just real recommendations that help you spend less without sacrificing "
+            "quality.</p>"
+            "<h2>How we work</h2>"
+            "<p>We compare products across price points, weigh the pros and cons, and "
+            "tell you what is genuinely worth your money. When you buy through links on "
+            "this site, we may earn a commission - it does not change the price you pay.</p>"
+            "<h2>Start exploring</h2>"
+            "<p>Browse all of our buying guides on the <a href=\"%s\">home page</a> or by "
+            "<a href=\"%s/categories/\">category</a>.</p>"
+            % (self.name, self.name, self.base, self.base)
+        )
+        self._trust_page("about", "About", about)
+
+        # Contact
+        contact = (
+            "<h1>Contact</h1>"
+            "<p>Have a question, a suggestion, or found an issue on the site? We would "
+            "love to hear from you.</p>"
+            "<p>We read every message and reply as soon as we can.</p>"
+            "<p>You can also browse our guides from the <a href=\"%s\">home page</a> or "
+            "check our <a href=\"%s/categories/\">full list of categories</a>.</p>"
+            % (self.base, self.base)
+        )
+        self._trust_page("contact", "Contact", contact)
+
     def build_seo_files(self, posts):
         urls = [self.path("")]
         urls += [self.path("categories")]
+        urls += [self.path("privacy-policy"), self.path("about"), self.path("contact")]
         urls += [self.path("category", c) for c in CATEGORY_NAMES]
         urls += [self.path("posts", slug_of(p)) for p in posts]
         lastmod = datetime.now().strftime("%Y-%m-%d")
@@ -407,6 +548,7 @@ class Site:
         for cat, cat_posts in by_cat.items():
             self.build_category(cat, cat_posts)
         self.build_categories_index(posts)
+        self.build_trust_pages()
         for i, post in enumerate(posts):
             cat_posts = [p for p in posts if p["meta"].get("category") == post["meta"].get("category")
                          and p is not post]
