@@ -164,6 +164,13 @@ a:hover { color: var(--brand); text-decoration: underline; }
 .cat-head { padding: 34px 0 4px; }
 .cat-head h1 { font-family: var(--font-head); font-size: 1.9rem; margin: 0 0 8px; letter-spacing: -0.02em; }
 
+/* ---------- in-body context links ---------- */
+.inline-links {
+  background: #f6f3ee; border: 1px solid var(--line); border-radius: 10px;
+  padding: 12px 16px; font-size: 0.95rem; color: #3d434b;
+}
+.inline-links a { font-weight: 600; }
+
 /* ---------- footer ---------- */
 .site-foot { background: #22262c; color: #c6ccd4; margin-top: 48px; padding: 40px 0 44px; font-size: 0.9rem; }
 .foot-grid { display: grid; grid-template-columns: 1.2fr 1fr 1.2fr; gap: 34px; }
