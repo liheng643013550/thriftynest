@@ -19,7 +19,7 @@ site:
   # "API 提交/IndexNow" 区域复制它给你的 key 填到这里。
   # 流水线会自动把这个 key 生成一个 .txt 文件放到网站根目录，并在每天
   # 发布新文章时自动通知 Bing 即时收录。详见 BING.md
-  indexnow_key: ""
+  indexnow_key: "6c7c/c9db64444a1a/0f1ef4a/Eab7f"
 
 monetization:
   # Amazon Associates 联盟 tag（去 affiliate-program.amazon.com 申请，
