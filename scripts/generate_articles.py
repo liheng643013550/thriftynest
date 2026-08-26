@@ -37,7 +37,10 @@ WRITER_SYSTEM = (
 
 
 def slugify(text):
-    return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")def load_config():
+    return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
+
+
+def load_config():
     with open(CONFIG_PATH, "r", encoding="utf-8") as fh:
         return yaml.safe_load(fh)
 
