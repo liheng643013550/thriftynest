@@ -39,6 +39,17 @@ CATEGORY_NAMES = {
     "tools": "Tools & DIY",
 }
 
+CATEGORY_ICONS = {
+    "kitchen": "🍳",
+    "organization": "🗂️",
+    "cleaning": "🧽",
+    "home-office": "💻",
+    "pet": "🐾",
+    "garden": "🌿",
+    "energy": "💡",
+    "tools": "🔧",
+}
+
 AMAZON_LINK_RE = re.compile(r'<a href="(https://www\.amazon\.com/[^"]*)"')
 
 
@@ -147,6 +158,29 @@ def insert_illustrations(base, body_html, slug, alt_text):
     return out
 
 
+def add_toc(body_html):
+    """Add anchor ids to H2 headings and return a table-of-contents snippet."""
+    toc_items = []
+    counter = 0
+
+    def _repl(m):
+        nonlocal counter
+        counter += 1
+        sid = "section-%d" % counter
+        text = m.group(1)
+        toc_items.append((sid, strip_tags(text)))
+        return '<h2 id="%s">%s</h2>' % (sid, text)
+
+    out = re.sub(r"<h2>(.*?)</h2>", _repl, body_html, flags=re.DOTALL)
+    if not toc_items:
+        return "", body_html
+    li = "".join(
+        '<li><a href="#%s">%s</a></li>' % (sid, html.escape(t)) for sid, t in toc_items
+    )
+    toc = '<nav class="toc"><h2>In this article</h2><ol>%s</ol></nav>' % li
+    return toc, out
+
+
 class Site:
     def __init__(self, config):
         self.cfg = config
@@ -216,11 +250,15 @@ class Site:
         date = post["meta"].get("date") or ""
         cat = post["meta"].get("category") or "misc"
         desc = html.escape(post["meta"].get("description") or "")
+        icon = CATEGORY_ICONS.get(cat, "🏠")
         return (
-            '<article class="card cat-%s"><h2 class="card-title"><a href="%s">%s</a></h2>'
+            '<article class="card cat-%s">'
+            '<div class="card-thumb cat-%s"><span>%s</span></div>'
+            '<div class="card-body">'
+            '<h2 class="card-title"><a href="%s">%s</a></h2>'
             '<p class="card-meta">%s &middot; <a href="%s">%s</a></p>'
-            '<p class="card-desc">%s</p></article>'
-            % (cat, link, title, html.escape(date),
+            '<p class="card-desc">%s</p></div></article>'
+            % (cat, cat, icon, link, title, html.escape(date),
                self.path("category", cat), html.escape(category_name(cat)), desc)
         )
 
@@ -304,12 +342,13 @@ class Site:
             }
         else:
             jsonld = dict({"@context": "https://schema.org"}, **article)
+        toc_html, body_html = add_toc(body_html)
         body = (
             "<header class=\"post-head\"><h1>%s</h1>"
             "<p class=\"post-meta\">%s &middot; %s</p></header>"
-            "<div class=\"post-body\">%s</div>%s"
+            "<div class=\"post-body\">%s%s</div>%s"
             % (html.escape(meta.get("title", "")), html.escape(date),
-               html.escape(category_name(cat)), body_html, related_html)
+               html.escape(category_name(cat)), toc_html, body_html, related_html)
         )
         pin = OUT_DIR / "static" / "pins" / (slug + ".png")
         og_image = self.path("static", "pins", slug + ".png") if pin.exists() else ""
@@ -332,6 +371,10 @@ class Site:
             '<a class="chip" href="%s">%s</a>' % (self.path("category", cat), name)
             for cat, name in sorted(CATEGORY_NAMES.items())
         )
+        quick = "".join(
+            '<a class="hero-btn" href="%s">%s</a>' % (self.path("category", cat), name)
+            for cat, name in sorted(CATEGORY_NAMES.items())
+        )
         jsonld = {
             "@context": "https://schema.org",
             "@type": "WebSite",
@@ -339,11 +382,16 @@ class Site:
             "url": self.path(""),
         }
         body = (
-            '<section class="hero"><h1>%s</h1><p class="hero-sub">%s</p></section>'
+            '<section class="hero">'
+            '<p class="hero-eyebrow">Budget home &amp; kitchen guides</p>'
+            '<h1>%s</h1>'
+            '<p class="hero-sub">%s</p>'
+            '<div class="hero-btns">%s</div>'
+            '</section>'
             '<section class="grid">%s</section>'
             '<section class="chips"><h2>Browse by topic</h2>%s</section>'
-            % (html.escape(self.site.get("description", self.name)),
-               html.escape(self.tagline), cards, chips)
+            % (html.escape(self.tagline), html.escape(self.site.get("description", "")),
+               quick, cards, chips)
         )
         page = self.render_page(
             title=self.name + " — " + self.tagline,
