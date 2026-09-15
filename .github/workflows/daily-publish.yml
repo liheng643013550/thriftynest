@@ -1,6 +1,6 @@
 # ============================================================
 # ThriftyNest 全自动流水线
-# 每天 03:00 UTC 自动：生成新文章 → 构建站点 → 部署 Pages
+# 每天 03:00 UTC 自动：生成新文章 → 生成配图 → 构建 → 校验 → 提交 → 部署
 # 也可在 Actions 页面手动触发（Run workflow）
 # ============================================================
 name: Daily Publish
@@ -12,9 +12,13 @@ on:
   workflow_dispatch:
     inputs:
       limit:
-        description: "Articles to generate this run (default 3)"
+        description: "Articles to generate this run (leave empty to use publishing.posts_per_day from config.yaml)"
         required: false
-        default: "3"
+        default: ""
+      resubmit_all:
+        description: "Resubmit ALL URLs to IndexNow (only after a domain change)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -45,23 +49,51 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Generate new articles
-        run: python scripts/generate_articles.py --limit ${{ inputs.limit || '3' }}
+        # 注意：原来这里写死 --limit 3，导致 config.yaml 的 publishing.posts_per_day
+        # 对定时任务完全无效（只有本地运行才生效）。现在：手动触发时用 inputs.limit，
+        # 定时触发时留空 -> generate_articles.py 回退读取 config.yaml。
         env:
+          LIMIT: ${{ inputs.limit }}
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: |
+          if [ -n "$LIMIT" ]; then
+            python scripts/generate_articles.py --limit "$LIMIT"
+          else
+            python scripts/generate_articles.py
+          fi
 
       - name: Generate article illustrations
         run: python scripts/make_illustrations.py
 
+      - name: Generate Pinterest pin images
+        # 每篇文章一张 1000x1500 竖图 -> site/static/pins/<slug>.png。
+        # 必须跑在 build_site 之前：build_site 会优先把 pin 图写进 og:image，
+        # 没有它就只能退回插图（Pinterest 存图时抓到的图会差很多）。
+        # 这一步原先缺失，导致 pin 图从未生成过 —— 见 PINTEREST.md。
+        run: python scripts/make_pins.py
+
       - name: Build static site
         run: python scripts/build_site.py
+
+      - name: Verify built site
+        # 冒烟测试：页数/分类数/sitemap/title/canonical/JSON-LD 是否齐全、
+        # 是否泄漏 __AMAZON_TAG__ 占位符、feed 条数是否正确。
+        # 失败即让整个 job 变红，从而不会提交也不会部署一个坏站。
+        run: python scripts/verify_site.py
 
       - name: Commit new content
         run: |
           git config user.name "thriftybot"
           git config user.email "actions@github.com"
           git add content site
-          git diff --cached --quiet || git commit -m "chore: publish $(date -u +%F) articles"
-          git push
+          if git diff --cached --quiet; then
+            echo "No content changes to commit."
+          else
+            git commit -m "chore: publish $(date -u +%F) articles"
+            # 手动加跑与定时任务并发时，远端可能已前进，rebase 后再推
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+            git push
+          fi
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
@@ -73,4 +105,12 @@ jobs:
         uses: actions/deploy-pages@v4
 
       - name: Notify Bing (IndexNow)
-        run: python scripts/ping_indexnow.py
+        # 默认只推最近 3 天新增的文章；换域名后请手动触发并勾选 resubmit_all
+        env:
+          ALL: ${{ inputs.resubmit_all }}
+        run: |
+          if [ "$ALL" = "true" ]; then
+            python scripts/ping_indexnow.py --all
+          else
+            python scripts/ping_indexnow.py
+          fi
