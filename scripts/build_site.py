@@ -192,10 +192,37 @@ class Site:
         self.tag = (self.money.get("amazon_tag") or "").strip()
         self.adsense = (self.money.get("adsense_client") or "").strip()
         self.adsense_slot = (self.money.get("adsense_slot") or "").strip()
+        # Pinterest 网站认领：填了才输出 meta，空着就不输出。
+        # 这个占位曾经存在过（PINTEREST.md 里写着），但 base.html 与 config.yaml
+        # 都没有实现它 —— 所以认领一直没法完成，pin 图带来的曝光也就没归因到站点。
+        self.pinterest_verify = (self.site.get("pinterest_verify") or "").strip()
         self.base_tpl = Template(TEMPLATE_PATH.read_text(encoding="utf-8"))
 
     def path(self, *parts):
-        return self.base + "/" + "/".join(str(p).strip("/") for p in parts if str(p))
+        """Build a canonical site URL.
+
+        GitHub Pages serves directory-style URLs **with** a trailing slash and
+        301-redirects the slash-less form. The old version of this helper always
+        emitted the slash-less form, which meant every <link rel=canonical> and
+        every sitemap <loc> pointed at a redirect:
+
+            /posts/foo      -> 301 -> /posts/foo/
+            canonical       -> https://…/posts/foo        (a redirect)
+            sitemap <loc>   -> https://…/posts/foo        (a redirect)
+
+        The sitemap spec requires canonical, 200-OK URLs, and Search Console
+        reports redirecting URLs as "Page with redirect" instead of "Indexed".
+        So: directory-style URLs get the trailing slash, file URLs (style.css,
+        xxx-1.png) do not.
+        """
+        clean = [str(p).strip("/") for p in parts if str(p).strip("/")]
+        if not clean:
+            return self.base + "/"
+        url = self.base + "/" + "/".join(clean)
+        last_segment = clean[-1].rsplit("/", 1)[-1]
+        if "." in last_segment:
+            return url            # 文件：static/style.css、static/img/x-1.png
+        return url + "/"          # 目录式页面：GitHub Pages 的规范形式
 
     # ---------- rendering helpers ----------
 
@@ -209,9 +236,19 @@ class Site:
                 % self.adsense
             )
         og_image_line = ""
+        og_twitter_line = ""
         if og_image:
             og_image_line = '<meta property="og:image" content="%s">' % html.escape(og_image)
+            og_twitter_line = '<meta name="twitter:image" content="%s">' % html.escape(og_image)
+
+        # Pinterest 网站认领标签（config.yaml -> site.pinterest_verify）。
+        # 未填写时输出空行，页面与现在完全一致。
+        pinterest_meta = ""
+        if self.pinterest_verify:
+            pinterest_meta = ('<meta name="p:domain_verify" content="%s">'
+                              % html.escape(self.pinterest_verify))
         ctx = {
+            "pinterest_verify_meta": pinterest_meta,
             "site_name": self.name,
             "tagline": self.tagline,
             "lang": self.site.get("lang", "en"),
@@ -222,6 +259,7 @@ class Site:
             "og_url": html.escape(canonical),
             "og_type": og_type,
             "og_image": og_image_line,
+            "og_image_twitter": og_twitter_line,
             "jsonld": jsonld or "",
             "adsense_script": adsense_script,
             "content": body_html,
@@ -332,16 +370,23 @@ class Site:
             "mainEntityOfPage": canonical,
         }
         faqs = extract_faq(body_html)
+        # BreadcrumbList: the page already renders a visual breadcrumb, but it
+        # had no structured data, so Google could not show the breadcrumb trail.
+        breadcrumb = {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {"@type": "ListItem", "position": 1, "name": "Home",
+                 "item": self.path("")},
+                {"@type": "ListItem", "position": 2, "name": category_name(cat),
+                 "item": self.path("category", cat)},
+                {"@type": "ListItem", "position": 3, "name": meta.get("title", ""),
+                 "item": canonical},
+            ],
+        }
+        graph = [article, breadcrumb]
         if faqs:
-            jsonld = {
-                "@context": "https://schema.org",
-                "@graph": [
-                    article,
-                    {"@type": "FAQPage", "mainEntity": faqs},
-                ],
-            }
-        else:
-            jsonld = dict({"@context": "https://schema.org"}, **article)
+            graph.append({"@type": "FAQPage", "mainEntity": faqs})
+        jsonld = {"@context": "https://schema.org", "@graph": graph}
         toc_html, body_html = add_toc(body_html)
         body = (
             "<header class=\"post-head\"><h1>%s</h1>"
@@ -350,8 +395,14 @@ class Site:
             % (html.escape(meta.get("title", "")), html.escape(date),
                html.escape(category_name(cat)), toc_html, body_html, related_html)
         )
+        # og:image. The original code only looked for static/pins/<slug>.png,
+        # a directory nothing ever generates, so every page shipped with no
+        # social preview image. Fall back to the first generated illustration.
         pin = OUT_DIR / "static" / "pins" / (slug + ".png")
-        og_image = self.path("static", "pins", slug + ".png") if pin.exists() else ""
+        if pin.exists():
+            og_image = self.path("static", "pins", slug + ".png")
+        else:
+            og_image = self.path("static", "img", slug + "-1.png")
         page = self.render_page(
             title=meta.get("title", ""),
             description=meta.get("description", ""),
@@ -528,14 +579,22 @@ class Site:
         self._trust_page("contact", "Contact", contact)
 
     def build_seo_files(self, posts):
-        urls = [self.path("")]
-        urls += [self.path("categories")]
-        urls += [self.path("privacy-policy"), self.path("about"), self.path("contact")]
-        urls += [self.path("category", c) for c in CATEGORY_NAMES]
-        urls += [self.path("posts", slug_of(p)) for p in posts]
-        lastmod = datetime.now().strftime("%Y-%m-%d")
+        # lastmod: use each post's own publish date instead of stamping every
+        # URL with "today". The old behaviour told search engines the whole
+        # site changed every single day, which trains them to ignore the field
+        # entirely. Index/listing pages legitimately change on every build.
+        today = datetime.now().strftime("%Y-%m-%d")
+        entries = [(self.path(""), today)]
+        entries.append((self.path("categories"), today))
+        entries += [(self.path("privacy-policy"), today),
+                    (self.path("about"), today),
+                    (self.path("contact"), today)]
+        entries += [(self.path("category", c), today) for c in CATEGORY_NAMES]
+        entries += [(self.path("posts", slug_of(p)), p["meta"].get("date") or today)
+                    for p in posts]
         urls_xml = "".join(
-            "<url><loc>%s</loc><lastmod>%s</lastmod></url>" % (u, lastmod) for u in urls
+            "<url><loc>%s</loc><lastmod>%s</lastmod></url>" % (u, lm)
+            for u, lm in entries
         )
         (OUT_DIR / "sitemap.xml").write_text(
             '<?xml version="1.0" encoding="UTF-8"?>\n<urlset '

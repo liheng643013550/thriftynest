@@ -1,3 +1,17 @@
-PyYAML>=6.0
-Markdown>=3.5
-Pillow>=10.0
+# ThriftyNest 依赖
+#
+# 版本锁定（==）而不是浮动（>=）：这个项目每天在 CI 里无人值守地重建并部署
+# 132+ 个页面，一次上游 breaking change 会静默推毁整站。锁定版本后，升级必须
+# 是一次显式的提交。
+#
+# 以下版本已在本地 Python 3.12.10 实测通过：
+#   - build_site.py         （Markdown 渲染 + YAML frontmatter）
+#   - make_illustrations.py （Pillow 生成 396 张插图）
+#   - verify_site.py        （YAML 解析）
+#   - ping_indexnow.py      （YAML 解析）
+#
+# 升级方式：改这里 -> 本地跑 python run.py build_site.py 与
+#           python run.py verify_site.py -> 通过后提交。
+PyYAML==6.0.3
+Markdown==3.10.3
+Pillow==12.3.0
