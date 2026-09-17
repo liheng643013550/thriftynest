@@ -23,6 +23,17 @@ site:
   # 发布新文章时自动通知 Bing 即时收录。详见 BING.md
   indexnow_key: "6c7cc9db64444a1a0f1ef4aEab7f"
 
+  # Pinterest 网站认领（第二流量引擎）。
+  # 步骤：pinterest.com 注册【企业账号】→ Settings → Claim → Claim website
+  #       → 选 "HTML Tag" 方式 → 复制 content="..." 里那串字符填到这里
+  #       → 提交后把 config.yaml 传上仓库 → 跑一次 Actions
+  #       → 回 Pinterest 点 Submit，显示已验证。
+  # 填写后全站每个页面都会输出 <meta name="p:domain_verify" ...>；
+  # 留空则不输出，页面行为与现在完全一致。
+  # 认领的意义：Pin 带来的流量会归因到你的站点，且能看 Pinterest Analytics。
+  # 详见 PINTEREST.md
+  pinterest_verify: ""
+
 monetization:
   # Amazon Associates 联盟 tag（去 affiliate-program.amazon.com 申请，
   # 拿到形如 "thriftynest-20" 的 tag 后填这里）。留空则链接不带 tag。
@@ -36,10 +47,38 @@ monetization:
   # 留空则只加载自动广告，不插入手动广告位。
   adsense_slot: ""
 
+# ------------------------------------------------------------
+# 访问统计
+# 为什么不用 Google Analytics：本站面向英文读者，GA4 对【访问者】没问题，
+# 但站长自己在国内连不上 Google —— 统计装了看不见，等于没装。
+# 所以只接【免费 + 后台能从国内打开】的两家，填了才输出脚本，都留空则页面与现在完全一致。
+analytics:
+  # Microsoft Clarity：免费无限量，带会话录像（能看到访客怎么浏览，对导购站特别有用）。
+  # 开通：clarity.microsoft.com（用 Microsoft 账号登录）→ New project →
+  #       填网站地址 → 拿到形如 "abcd1234ef" 的 10 位 ID → 填到这里。
+  clarity_id: ""
+  # Umami Cloud：轻量、隐私友好（无需 cookie 弹窗），免费 10 万事件/月。
+  # 开通：cloud.umami.is → Add website → 复制 Website ID 填到这里。
+  umami_id: ""
+  # 自建 Umami 时改这里，用官方云保持默认即可。
+  umami_host: "https://cloud.umami.is"
+
+  # hits.sh 计数像素：零注册、零账号、零成本，立刻可用。
+  # 开启后每个页面埋一个 1x1 隐形图，计数键 = 该页 URL 去掉协议
+  # （例：liheng643013550.github.io/thriftynest/posts/best-air-fryer-under-50）
+  # 于是每篇文章一个独立计数器 —— 既能看到站点总量，也能看出哪篇有人看。
+  #
+  # 查数据【必须】用只读 API，不要直接打开 .svg（那会把数字刷高）：
+  #   https://hits.sh/api/urns/liheng643013550.github.io/thriftynest/posts/<slug>
+  #
+  # 局限：只有浏览量；没有独立访客、来源、国家、设备；
+  #       爬虫和链接预览也会被计入，所以数字偏高。
+  # 想升级成真正的分析工具（独立访客/来源/国家）时，填上面的 umami_id 即可。
+  hits_sh: true
+
 publishing:
   # 每次运行生成几篇（建议 1-3，Google 看重质量多于数量）
   posts_per_day: 3
-
 llm:
   # 内容生成模型。deepseek-chat 便宜够用；想用别的模型改这里
   # （llm.py 里已内置 openai 配置，需把 API key 放进同名的环境变量）
