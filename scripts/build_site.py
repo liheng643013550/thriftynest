@@ -196,7 +196,71 @@ class Site:
         # 这个占位曾经存在过（PINTEREST.md 里写着），但 base.html 与 config.yaml
         # 都没有实现它 —— 所以认领一直没法完成，pin 图带来的曝光也就没归因到站点。
         self.pinterest_verify = (self.site.get("pinterest_verify") or "").strip()
+        # 访问统计配置。为什么不是 GA4：这个站面向英文读者，GA4 对【访问者】
+        # 没问题，但站长自己连不上 Google —— 统计装了看不见等于没装。
+        # 所以只接【免费 + 后台能从国内打开】的两家：Clarity / Umami。
+        self.analytics = config.get("analytics", {}) or {}
         self.base_tpl = Template(TEMPLATE_PATH.read_text(encoding="utf-8"))
+
+    def analytics_snippet(self):
+        """按 config.yaml 的 analytics: 生成 <head> 里的统计脚本。
+
+        两个键，都不填就返回空串，页面与现在完全一致：
+          clarity_id : Microsoft Clarity（免费无限量，带会话录像；
+                       后台 login.microsoftonline.com，国内可开）
+          umami_id   : Umami Cloud（轻量隐私友好，免费 10 万事件/月）
+          umami_host : 自建 Umami 时改这里（默认官方云）
+        """
+        a = self.analytics
+        parts = []
+
+        clarity = (a.get("clarity_id") or "").strip()
+        if clarity:
+            parts.append(
+                "<script type=\"text/javascript\">\n"
+                "(function(c,l,a,r,i,t,y){\n"
+                "c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};\n"
+                "t=l.createElement(r);t.async=1;t.src=\"https://www.clarity.ms/tag/\"+i;\n"
+                "y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);\n"
+                "})(window, document, \"clarity\", \"script\", \"%s\");\n"
+                "</script>" % html.escape(clarity))
+
+        umami = (a.get("umami_id") or "").strip()
+        if umami:
+            host = (a.get("umami_host") or "https://cloud.umami.is").strip().rstrip("/")
+            parts.append('<script defer src="%s/script.js" '
+                         'data-website-id="%s"></script>'
+                         % (html.escape(host), html.escape(umami)))
+
+        return "\n".join(parts)
+
+    def hits_pixel(self, canonical):
+        """hits.sh 计数像素。零注册，1x1 隐形图，读完不污染。
+
+        为什么用它：这台机器的站长只有 Gmail（Web 打不开）且没有微软账号，
+        任何"要邮箱验证"的统计服务都注册不了。hits.sh 不需要任何账号。
+
+        计数键 = URL 去掉协议，例如
+            liheng643013550.github.io/thriftynest/posts/best-air-fryer-under-50
+        于是【每篇文章一个独立计数器】—— 既能汇总出站点总量，又能看出
+        哪篇文章有人看（做内容决策要的就是这个）。
+
+        必须知道的坑：只有 .svg 端点会计数。读取数据要用只读 API
+        https://hits.sh/api/urns/<key>  —— 直接 GET .svg 会把数字刷高。
+        （不是猜测：实测连调 API 5 次总数不变，GET 一次 .svg 就 +1。）
+
+        局限（已向用户说明）：只有浏览量，没有独立访客/来源/国家；
+        爬虫和链接预览也会计入，所以数字偏高。
+        """
+        if not self.analytics.get("hits_sh"):
+            return ""
+        key = re.sub(r"^https?://", "", (canonical or "").strip()).rstrip("/")
+        if not key:
+            return ""
+        return ('<img src="https://hits.sh/%s.svg" width="1" height="1" '
+                'alt="" aria-hidden="true" '
+                'style="position:absolute;left:-9999px;top:0;border:0">'
+                % html.escape(key))
 
     def path(self, *parts):
         """Build a canonical site URL.
@@ -249,6 +313,8 @@ class Site:
                               % html.escape(self.pinterest_verify))
         ctx = {
             "pinterest_verify_meta": pinterest_meta,
+            "analytics_head": self.analytics_snippet(),
+            "hits_pixel": self.hits_pixel(canonical),
             "site_name": self.name,
             "tagline": self.tagline,
             "lang": self.site.get("lang", "en"),
