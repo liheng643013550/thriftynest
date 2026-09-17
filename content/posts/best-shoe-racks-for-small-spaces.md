@@ -34,7 +34,7 @@ Before you buy, keep these things in mind. They will save you from buying someth
 
 ## Simple Houseware 4-Tier Shoe Rack
 
-[Simple Houseware 4-Tier Shoe Rack](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) costs around $25 and is the workhorse of budget shoe storage. It is a simple metal frame with four slanted tiers, and each tier holds about three to four pairs of adult shoes. The open design means you can see everything at a glance, so you are never digging for a matching pair.
+[Simple Houseware 4-Tier Shoe Rack](https://www.amazon.com/dp/B088QZPVPW?tag=__AMAZON_TAG__) costs around $25 and is the workhorse of budget shoe storage. It is a simple metal frame with four slanted tiers, and each tier holds about three to four pairs of adult shoes. The open design means you can see everything at a glance, so you are never digging for a matching pair.
 
 What makes it great is the build quality for the price. The steel tubes are welded, not just snapped together, and the shelves are solid enough to handle heavy work boots without sagging. It also has rubber feet that keep it from scratching your floor or sliding around when you pull a shoe out.
 
@@ -54,7 +54,7 @@ Buy this if you want a shoe rack that does not ruin the look of your living room
 
 ## Whitmor Over-the-Door Shoe Rack
 
-[Whitmor Over-the-Door Shoe Rack](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the cheapest option here at around $15, and it is a lifesaver for renters. This is a fabric organizer with clear plastic pockets that hangs over a standard interior door. It holds up to 12 pairs of shoes, and each pocket fits a pair of sneakers or flats easily.
+[Whitmor Over-the-Door Shoe Rack](https://www.amazon.com/dp/B01M19ZHJT?tag=__AMAZON_TAG__) is the cheapest option here at around $15, and it is a lifesaver for renters. This is a fabric organizer with clear plastic pockets that hangs over a standard interior door. It holds up to 12 pairs of shoes, and each pocket fits a pair of sneakers or flats easily.
 
 The best part is that there is zero assembly. You just loop the hooks over the top of the door and you are done. It also folds flat for storage or moving, which makes it ideal for dorm rooms and temporary living situations. The clear pockets let you see your shoes without opening anything.
 
@@ -74,7 +74,7 @@ Buy this if you need something that can take a beating and you do not want to de
 
 ## Honey-Can-Do 2-Tier Shoe Rack
 
-[Honey-Can-Do 2-Tier Shoe Rack](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is around $18 and is the simplest, most compact option here. It is a two-tier metal rack with a wide footprint, about 28 inches wide and 13 inches deep. It is designed to hold bulky shoes like Uggs, sneakers, and slippers without cramping them.
+[Honey-Can-Do 2-Tier Shoe Rack](https://www.amazon.com/dp/B08XTMWYQW?tag=__AMAZON_TAG__) is around $18 and is the simplest, most compact option here. It is a two-tier metal rack with a wide footprint, about 28 inches wide and 13 inches deep. It is designed to hold bulky shoes like Uggs, sneakers, and slippers without cramping them.
 
 What makes it great is the depth. Most budget racks are shallow, but this one lets you fit larger footwear easily. The tiers are also spaced far apart, so you can see and grab any pair without pulling out the whole stack. It is a great choice for a mudroom or a garage entry where you need quick access.
 
@@ -94,4 +94,4 @@ Buy this if you have a large shoe collection and limited floor space. It is the 
 
 ## The bottom line
 
-For most people, the [Simple Houseware 4-Tier Shoe Rack](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the best all-around choice. It is sturdy, affordable, and easy to clean, and it fits in most closets. If you need something that looks nicer for a visible spot, get the [Songmics Bamboo 3-Tier Shoe Rack](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). And if you have zero floor space, the [Whitmor Over-the-Door Shoe Rack](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a no-brainer. Measure your space, count your shoes, and pick the one that fits your life. Your floor will thank you.
+For most people, the [Simple Houseware 4-Tier Shoe Rack](https://www.amazon.com/dp/B088QZPVPW?tag=__AMAZON_TAG__) is the best all-around choice. It is sturdy, affordable, and easy to clean, and it fits in most closets. If you need something that looks nicer for a visible spot, get the [Songmics Bamboo 3-Tier Shoe Rack](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). And if you have zero floor space, the [Whitmor Over-the-Door Shoe Rack](https://www.amazon.com/dp/B01M19ZHJT?tag=__AMAZON_TAG__) is a no-brainer. Measure your space, count your shoes, and pick the one that fits your life. Your floor will thank you.

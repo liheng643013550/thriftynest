@@ -30,7 +30,7 @@ You don't need a caddy full of specialized tools. Here is the entire shopping li
 - A squeegee (optional, but helpful for drying)
 - Baking soda (only for stubborn, crusty spots)
 
-The "specialty" tools are just for speed. A [Squeegee](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) helps you dry the glass quickly to prevent new spots from forming, but a clean, dry towel works just as well.
+The "specialty" tools are just for speed. A [Squeegee](https://www.amazon.com/dp/B0F24MHHFD?tag=__AMAZON_TAG__) helps you dry the glass quickly to prevent new spots from forming, but a clean, dry towel works just as well.
 
 ## Step 1: Mix the Vinegar Solution
 
@@ -60,7 +60,7 @@ The baking soda acts as a very mild abrasive. It physically scrubs away the calc
 
 This is the most critical step for preventing future stains. After you have scrubbed the entire surface, you must rinse away the vinegar and dissolved minerals. Use the showerhead or a bucket of clean water to thoroughly rinse the glass.
 
-Once rinsed, **dry the glass immediately**. If you let it air dry, the minerals in your tap water will simply re-deposit onto the glass, leaving new spots. Use a clean, dry microfiber cloth or a [Squeegee](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) to remove all the water.
+Once rinsed, **dry the glass immediately**. If you let it air dry, the minerals in your tap water will simply re-deposit onto the glass, leaving new spots. Use a clean, dry microfiber cloth or a [Squeegee](https://www.amazon.com/dp/B0F24MHHFD?tag=__AMAZON_TAG__) to remove all the water.
 
 ## How to Prevent Hard Water Stains from Coming Back
 

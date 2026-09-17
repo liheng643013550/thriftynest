@@ -25,13 +25,13 @@ Before you buy, keep these five things in mind. You do not need 4K resolution fo
 
 | Product | Price | Best For | Key Pros |
 | :--- | :--- | :--- | :--- |
-| [Logitech C920x](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$60 (often on sale) | Overall reliability | Sharp 1080p, dual mics, wide compatibility |
+| [Logitech C920x](https://www.amazon.com/dp/B085TFF7M1?tag=__AMAZON_TAG__) | ~$60 (often on sale) | Overall reliability | Sharp 1080p, dual mics, wide compatibility |
 | [Anker PowerConf C200](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$50 | Smart framing | AI framing, good low light, USB-C |
-| [Razer Kiyo X](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$50 | Streamers & bright setups | Great color accuracy, flexible mount |
-| [Logitech C310](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$25 | Extreme budgets | Cheap, plug-and-play, decent for daylight |
+| [Razer Kiyo X](https://www.amazon.com/dp/B0FNBLG4SD?tag=__AMAZON_TAG__) | ~$50 | Streamers & bright setups | Great color accuracy, flexible mount |
+| [Logitech C310](https://www.amazon.com/dp/B00CCXUZBC?tag=__AMAZON_TAG__) | ~$25 | Extreme budgets | Cheap, plug-and-play, decent for daylight |
 | [Papalook PA930](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$40 | Privacy seekers | Built-in cover, tripod mount, solid mic |
 | [AverMedia PW310P](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$40 | Face tracking | Auto-framing, compact, private mode |
-| [Logitech Brio 300](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$60 (sale) | Simple modern design | Auto light correction, USB-C, clean look |
+| [Logitech Brio 300](https://www.amazon.com/dp/B09RGJWVG7?tag=__AMAZON_TAG__) | ~$60 (sale) | Simple modern design | Auto light correction, USB-C, clean look |
 
 ## Logitech C920x
 

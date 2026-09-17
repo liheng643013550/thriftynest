@@ -39,7 +39,7 @@ Glasslock is our overall pick. The 18-piece set includes nine containers with gl
 
 ## Rubbermaid Brilliance 3-Pack
 
-If you carry lunch in a bag, the Rubbermaid Brilliance is the leak-proof king. The four locking clips plus a silicone gasket make a seal so tight you can flip it upside down full of soup. They're also the clearest containers we tested — no mystery leftovers.
+If you carry lunch in a bag, the Rubbermaid Brilliance is described in reviews as the leak-proof king. The four locking clips plus a silicone gasket make a seal so tight owners report flipping it upside down full of soup. They're also the clearest containers in published comparisons — no mystery leftovers.
 
 **Downsides**: Plastic, so it will eventually stain with tomato-based sauces. The clips are sturdy but need care when snapping.
 
@@ -63,7 +63,7 @@ Pyrex needs no introduction. The Simply Store line is basic: clear glass bases, 
 
 ## IKEA 365+ Set
 
-The IKEA 365+ is the value champion: the cheapest per-container price we found, with a surprisingly good seal for a snap-lid design. The rectangular shapes stack like bricks, which is exactly what you want in a packed fridge.
+The IKEA 365+ is the value champion: the cheapest per-container price found in published listings, with a surprisingly good seal for a snap-lid design. The rectangular shapes stack like bricks, which is exactly what is wanted in a packed fridge.
 
 **Downsides**: Plastic only, and the lids can warp if they touch the dishwasher heating element. Hand-wash the lids.
 

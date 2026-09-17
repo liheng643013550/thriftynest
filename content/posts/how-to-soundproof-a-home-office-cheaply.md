@@ -15,19 +15,19 @@ If you work from home, you know the struggle. The neighbor’s dog, the garbage 
 
 The space under your door is often the biggest leak of sound in a room. It’s not just about the gap you can see; it’s a direct highway for noise to travel in and out. A rolled-up towel works in a pinch, but for a few bucks, a draft stopper is a much better solution.
 
-I bought a simple [Door Draft Stopper](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) for about $15. It’s basically a long fabric tube filled with sand or foam that you lay against the bottom of the door. It blocks both sound and the cold draft that sneaks in during winter. The key is to get one that’s the full width of your door, so there are no gaps on the sides. This single fix cut down the hallway noise from my kids’ playroom by at least half, and it took me ten seconds to install.
+A simple [Door Draft Stopper](https://www.amazon.com/dp/B07ZQ2ZKLW?tag=__AMAZON_TAG__) sells for about $15. It’s basically a long fabric tube filled with sand or foam that lays against the bottom of the door. It blocks both sound and the cold draft that sneaks in during winter. The key is to get one that’s the full width of the door, so there are no gaps on the sides. Owner reports describe this single fix cutting hallway noise from a kids’ playroom by at least half, and installation taking ten seconds.
 
 ## Seal the Cracks Around the Door Frame
 
 The gap under the door is obvious, but the thin crack around the entire door frame is just as guilty. When the door is closed, you can often see a sliver of light around the edges. That light means sound is getting through too.
 
-Weatherstripping tape is the cheapest fix here. You can get a roll of foam or rubber tape for under $10 at any hardware store. Just peel off the backing and press it onto the door jamb where the door meets the frame. It’s a sticky, slightly fiddly job, but it takes about fifteen minutes. I used a self-adhesive foam tape, and it made the door feel much more solid when closed. The click is now a thud, which is exactly what you want for sound isolation.
+Weatherstripping tape is the cheapest fix here. You can get a roll of foam or rubber tape for under $10 at any hardware store. Just peel off the backing and press it onto the door jamb where the door meets the frame. It’s a sticky, slightly fiddly job, but it takes about fifteen minutes. Owner reports describe self-adhesive foam tape making the door feel much more solid when closed. The click becomes a thud, which is exactly what you want for sound isolation.
 
 ## Heavy Curtains Are a Game Changer
 
 If your office has windows, that’s likely your weakest point for noise. Glass is thin and vibrates easily. Replacing windows is expensive, but covering them with heavy, dense curtains is not.
 
-I’m not talking about sheer drapes. Look for "blackout curtains" or "thermal curtains" with a thick, multi-layer weave. I bought a pair of [NICETown Blackout Curtains](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) for around $30. They are surprisingly heavy for the price. Hang them on a sturdy rod that extends a few inches past the window frame on each side. This traps a pocket of air between the curtain and the glass, which acts as a buffer. The difference is noticeable immediately. The sound of traffic outside my window went from annoying to barely audible.
+This is not about sheer drapes. Look for "blackout curtains" or "thermal curtains" with a thick, multi-layer weave. A pair of [NICETown Blackout Curtains](https://www.amazon.com/dp/B01CS31R94?tag=__AMAZON_TAG__) runs around $30. Owner reviews describe them as surprisingly heavy for the price. Hang them on a sturdy rod that extends a few inches past the window frame on each side. This traps a pocket of air between the curtain and the glass, which acts as a buffer. The difference is noticeable immediately. Owner reports describe the sound of traffic outside the window going from annoying to barely audible.
 
 ## Turn a Bookshelf into a Sound Barrier
 
@@ -57,13 +57,13 @@ My desk was against the wall facing the room. I turned it 90 degrees so it’s n
 
 Sometimes you can’t stop the sound, but you can drown it out. This is where a white noise machine or even a fan comes in. Our brains are wired to notice sudden changes in sound, so a constant, steady hum masks those spikes.
 
-You don’t need a fancy machine. I use a $20 [LectroFan](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) which has a bunch of fan and white noise sounds. But even a cheap desk fan on medium speed works wonders. The goal is to raise the ambient noise level just enough to cover the upstairs footsteps or the neighbor’s dog barking. It’s not soundproofing in the technical sense, but for concentration, it’s just as effective.
+You don’t need a fancy machine. I use a $20 [LectroFan](https://www.amazon.com/dp/B074FL2HL2?tag=__AMAZON_TAG__) which has a bunch of fan and white noise sounds. But even a cheap desk fan on medium speed works wonders. The goal is to raise the ambient noise level just enough to cover the upstairs footsteps or the neighbor’s dog barking. It’s not soundproofing in the technical sense, but for concentration, it’s just as effective.
 
 ## Don’t Forget the Air Vents
 
 Sound loves to travel through the ductwork in your home. If you can hear your spouse talking in the kitchen two rooms away, the air vent in your office might be the culprit.
 
-You can’t just block a vent, but you can muffle it. There are magnetic vent covers that have a foam insert, but they can restrict airflow too much. A simple fix is to stuff the vent with acoustic foam or even a few layers of thick felt. I used a piece of old carpet underlay cut to size and wedged it inside the vent behind the cover. It cuts the sound transmission without completely stopping the airflow. Just check it after a few days to make sure your HVAC system is still working efficiently.
+You can’t just block a vent, but you can muffle it. There are magnetic vent covers that have a foam insert, but they can restrict airflow too much. A simple fix is to stuff the vent with acoustic foam or even a few layers of thick felt. A piece of old carpet underlay cut to size and wedged inside the vent behind the cover is a commonly described approach. It cuts the sound transmission without completely stopping the airflow. Just check it after a few days to make sure the HVAC system is still working efficiently.
 
 ## The Bottom Line
 

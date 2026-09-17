@@ -48,7 +48,7 @@ The downsides: It is wide (about 30 inches), so it takes up floor space. It is n
 
 Who should buy it: Renters who cannot drill holes, or anyone who wants a quick "closet makeover" without measuring a single bracket. It is the best bang for the buck if you need folded storage.
 
-[ClosetMaid 4-Cube Organizer](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[ClosetMaid 4-Cube Organizer](https://www.amazon.com/dp/B07MP18DVL?tag=__AMAZON_TAG__)
 
 ## Rubbermaid Configurations Deluxe
 
@@ -76,7 +76,7 @@ The downsides: It is an eyesore. It looks like a garage rack, not a bedroom clos
 
 Who should buy it: Anyone on a strict budget who needs heavy-duty storage fast. If you are setting up a laundry room, mudroom, or utility closet, this is your pick.
 
-[Amazon Basics Wire Shelving Kit](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Amazon Basics Wire Shelving Kit](https://www.amazon.com/dp/B09W2Y51TC?tag=__AMAZON_TAG__)
 
 ## Seville Classics Expandable
 
@@ -118,7 +118,7 @@ The downsides: Like the Amazon Basics, it is not pretty. The chrome finish refle
 
 Who should buy it: Budget shoppers who need maximum cubic feet for the least money. It is the best choice for a shared closet or a coat closet.
 
-[SimpleHouseware 6-Tier](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[SimpleHouseware 6-Tier](https://www.amazon.com/dp/B0BNTYVFKT?tag=__AMAZON_TAG__)
 
 ## ClosetMaid 8-Cube
 
@@ -132,7 +132,7 @@ The downsides: It is the most expensive item on this list, and it is heavy to mo
 
 Who should buy it: Families with kids who need dedicated zones for different clothing types. It is also a great anchor piece if you want to build a "closet wall" in a room without built-ins.
 
-[ClosetMaid 8-Cube](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[ClosetMaid 8-Cube](https://www.amazon.com/dp/B0BZHD3QKP?tag=__AMAZON_TAG__)
 
 ## The bottom line
 

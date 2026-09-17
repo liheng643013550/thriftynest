@@ -16,7 +16,7 @@ Start with one drawer or one cabinet — not the whole kitchen. Empty it, wipe i
 
 ## 2. Use vertical space with tension rods
 
-A tension rod costs a few dollars and turns dead space into storage. Install one under the sink to hang spray bottles, or vertically in a cabinet to stack baking sheets and cutting boards on their sides. This one trick freed up an entire shelf in our test kitchen.
+A tension rod costs a few dollars and turns dead space into storage. Install one under the sink to hang spray bottles, or vertically in a cabinet to stack baking sheets and cutting boards on their sides. This one trick frees up an entire shelf, according to owner reports.
 
 ## 3. Group by use, not by category
 

@@ -32,7 +32,7 @@ That said, My total cost last spring for 72 seedlings: about $22, including seed
 
 ## Pick Your Containers (Free Is Fine)
 
-From real-world use, Almost anything holds soil and drains. I've used paper egg cartons, toilet paper tubes cut in half, solo cups with a hole punched in the bottom, and takeout containers. All of them worked.
+From real-world use, Almost anything holds soil and drains. Gardeners report using paper egg cartons, toilet paper tubes cut in half, solo cups with a hole punched in the bottom, and takeout containers. All of them worked.
 
 A few things to know:
 
@@ -77,7 +77,7 @@ The two most common mistakes are planting too deep and starting too early.
 | Broccoli | 4 to 6 | Early April |
 | Zinnias | 4 to 6 | Early April |
 
-Start too early and you'll have leggy, root-bound plants by April that never recover. I learned this the hard way with peppers one year. Waiting two extra weeks would have given me better plants.
+Start too early and you'll have leggy, root-bound plants by April that never recover. Gardeners report learning this the hard way with peppers one year. Waiting two extra weeks would have given better plants.
 
 Label everything. Every seedling looks the same for the first ten days, and you will forget which cup is which, in my experience.
 

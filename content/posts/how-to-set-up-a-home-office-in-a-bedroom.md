@@ -33,7 +33,7 @@ Here are the three best desk types for a bedroom:
 - **Corner desk (L-shaped):** If you have an empty corner, this uses otherwise wasted space. Make sure it has a solid back panel so cables don’t dangle against the wall.
 - **Tiny writing desk (40-48 inches wide):** A simple, flat desk without drawers is the most flexible. You can push it against the wall or float it in the room.
 
-If you want a simple, sturdy option that doesn’t break the bank, look for a basic desk from IKEA (like the Lagkapten/Alex combo) or a solid wood option from Amazon. For a compact foldable that actually feels stable, the [SHW 48-Inch Electric Height Adjustable Standing Desk](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a solid choice if you want to alternate between sitting and standing without taking up extra floor space.
+If you want a simple, sturdy option that doesn’t break the bank, look for a basic desk from IKEA (like the Lagkapten/Alex combo) or a solid wood option from Amazon. For a compact foldable that actually feels stable, the [SHW 48-Inch Electric Height Adjustable Standing Desk](https://www.amazon.com/dp/B0CFF17W3V?tag=__AMAZON_TAG__) is a solid choice if you want to alternate between sitting and standing without taking up extra floor space.
 
 ## Manage Cables and Clutter Before It Starts
 

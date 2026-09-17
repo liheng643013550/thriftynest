@@ -122,7 +122,7 @@ If you can, shop after a meal and on a day when you have energy. If you have to 
 
 This is an old-school trick that works incredibly well. At the start of the month, take out your grocery budget in cash. Put it in an envelope. When you go shopping, leave your debit and credit cards at home, and pay with the cash.
 
-When the envelope is empty, you are done. No overdrafts, no "I’ll pay for it next week" mentality. It hurts more to hand over physical bills than it does to swipe a card. This psychological friction is often enough to make you put that bag of chips back on the shelf. If you want to make your grocery budget stretch further, consider pairing this with the [Amazon Basics Digital Kitchen Scale](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) to portion out your bulk meat and cheese exactly, so you aren't paying for waste.
+When the envelope is empty, you are done. No overdrafts, no "I’ll pay for it next week" mentality. It hurts more to hand over physical bills than it does to swipe a card. This psychological friction is often enough to make you put that bag of chips back on the shelf. If you want to make your grocery budget stretch further, consider pairing this with the [Amazon Basics Digital Kitchen Scale](https://www.amazon.com/dp/B085214W32?tag=__AMAZON_TAG__) to portion out your bulk meat and cheese exactly, so you aren't paying for waste.
 
 ## The "Zero Waste" Rotation
 

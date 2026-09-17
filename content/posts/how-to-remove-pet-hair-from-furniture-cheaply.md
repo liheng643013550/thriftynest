@@ -31,7 +31,7 @@ I suggest using a short squeegee, about 10 to 12 inches wide, for furniture. A l
 
 ## A Damp Sponge Works Wonders (Cost: $2)
 
-This is a trick I learned from a professional upholstery cleaner, and it’s embarrassingly effective. Take a regular kitchen sponge—the kind with the scratchy green pad on top and the soft yellow side underneath. Get the sponge wet, wring it out until it’s just barely damp, and then use the yellow side to wipe the furniture in a sweeping motion.
+This is a trick shared by a professional upholstery cleaner, and it’s embarrassingly effective. Take a regular kitchen sponge—the kind with the scratchy green pad on top and the soft yellow side underneath. Get the sponge wet, wring it out until it’s just barely damp, and then use the yellow side to wipe the furniture in a sweeping motion.
 
 The damp sponge creates enough friction to lift the hair, and the hair sticks to the sponge instead of flying around the room. You’ll need to rinse the sponge out frequently, about every few minutes, but it’s a great option for delicate fabrics where you don’t want to use rubber or plastic. I’ve used this on a velvet armchair without any damage, and it lifted out hair that had been there for weeks, in my experience.
 

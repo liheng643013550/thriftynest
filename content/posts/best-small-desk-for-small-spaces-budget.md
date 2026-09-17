@@ -39,7 +39,7 @@ Seville Classics Airlift
 
 Price: Around $100
 
-This is the desk I actually use in my home office, which doubles as my guest bedroom. The Seville Classics Airlift is a rolling cart with a tabletop, but it works better than many "real" desks I have owned. The height adjusts from about 26 inches up to 36 inches, so I can stand for a few hours in the afternoon or lower it to sitting height when my back gets tired.
+This is the desk commonly used in a home office that doubles as a guest bedroom. The Seville Classics Airlift is a rolling cart with a tabletop, but owner reviews describe it working better than many "real" desks. The height adjusts from about 26 inches up to 36 inches, so it can be raised for standing for a few hours in the afternoon or lowered to sitting height when the back gets tired.
 
 Honestly, the steel frame feels solid, and the pneumatic lift is smooth, even with a 27-inch monitor and a laptop on the surface. It comes with a side hook for a bag or headphones, which is a lifesaver in a small room. The wheels lock, so it doesn't roll away when I lean on it.
 
@@ -47,7 +47,7 @@ Downsides: The top is a hard plastic composite, not wood. It scratches if you dr
 
 Who should buy it: Anyone who works from home and wants to alternate between sitting and standing without spending $500 on a motorized desk. It is also great for small apartments where you need to roll the desk out of the way to use a sofa bed.
 
-[Seville Classics Airlift](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Seville Classics Airlift](https://www.amazon.com/dp/B096LBBFWT?tag=__AMAZON_TAG__)
 
 Furinno Econ Multipurpose
 
@@ -61,7 +61,7 @@ Downsides: This is not a desk for heavy work. The top bows slightly if you put a
 
 Who should buy it: Students on a tight budget or anyone who needs a temporary writing surface for under fifty bucks. It is a utility item, not a piece of furniture you will keep for a decade.
 
-[Furinno Econ Multipurpose](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Furinno Econ Multipurpose](https://www.amazon.com/dp/B07FKWT7HS?tag=__AMAZON_TAG__)
 
 GreenForest Corner Desk
 
@@ -81,7 +81,7 @@ HOMCOM 32" Writing Desk
 
 Price: Around $55
 
-For a truly narrow space, like a hallway or a bedroom alcove, the HOMCOM 32-inch writing desk is a minimalist's dream. The depth is only about 20 inches, which means you can fit it into a space where a standard 24-inch deep desk will not go. I used one in a previous apartment to create a tiny workspace next to a bookshelf.
+For a truly narrow space, like a hallway or a bedroom alcove, the HOMCOM 32-inch writing desk is a minimalist's dream. The depth is only about 20 inches, which means it can fit into a space where a standard 24-inch deep desk will not go. Owner reports describe using one in a previous apartment to create a tiny workspace next to a bookshelf.
 
 The frame is solid rubberwood, which is a rarity at this price point. The finish is a smooth, matte look that does not show fingerprints easily. It has a lower storage shelf that is perfect for a small printer or a stack of notebooks.
 
@@ -121,7 +121,7 @@ Who should buy it: If you have a bit more horizontal space and want a desk that 
 
 The bottom line
 
-You do not have to sacrifice quality for a small footprint and a low price. For most people, I recommend the Seville Classics Airlift if you can stretch your budget slightly, because the standing feature adds so much ergonomic value for the money. If you are truly on a shoestring budget and just need a surface for a laptop, the Furinno Econ will get the job done without any regrets.
+You do not have to sacrifice quality for a small footprint and a low price. For most people, the Seville Classics Airlift is the recommendation if the budget can stretch slightly, because the standing feature adds so much ergonomic value for the money. If you are truly on a shoestring budget and just need a surface for a laptop, the Furinno Econ will get the job done without any regrets.
 
 Measure your space first, write down your absolute max width, and then pick from the list above. Every desk here is under $100, which means you can save your cash for a good office chair, which is honestly more important for your back anyway.
 

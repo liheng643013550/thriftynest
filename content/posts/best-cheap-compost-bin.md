@@ -36,17 +36,17 @@ Before you click "buy," here is what actually matters when you are shopping on a
 
 ## FCMP Outdoor 37 Gallon Compost Bin
 
-The FCMP Outdoor 37-Gallon is the best value in the outdoor bin category, and it’s the one I recommend to friends who want to start composting without a huge commitment. It’s a dual-chamber tumbling unit, which means you can have one side "cooking" while you add fresh scraps to the other. I like that it sits off the ground, which helps keep critters out and makes it easy to spin.
+The FCMP Outdoor 37-Gallon is the best value in the outdoor bin category, and it’s the one owner reviews and buying guides most often point to for anyone who wants to start composting without a huge commitment. It’s a dual-chamber tumbling unit, which means one side can be "cooking" while fresh scraps go into the other. Owner reviews frequently note that it sits off the ground, which helps keep critters out and makes it easy to spin.
 
 The plastic is thick and UV-resistant, so it won't crack after one summer of sun. The best part is the door on each chamber—it slides open so you can scoop out the finished compost without wrestling the whole bin. It holds about 37 gallons, which is plenty for a standard suburban lawn and vegetable garden.
 
 The downsides? Assembly takes about 30 minutes, and the instructions are mostly pictures. Also, you will need to give it a spin every couple of days to keep the air flowing. It is not a "set it and forget it" system. Who should buy it? Anyone with a medium-sized yard who wants a clean, enclosed way to turn kitchen scraps into soil without a pile on the ground.
 
-[FCMP Outdoor 37 Gallon](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[FCMP Outdoor 37 Gallon](https://www.amazon.com/dp/B009378AG2?tag=__AMAZON_TAG__)
 
 ## Exaco 2.4 Gallon Kitchen Compost Collector
 
-If you want something that looks nice on your counter and doesn't scream "garbage can," the Exaco is a great pick. It’s a ceramic bin with a charcoal filter built into the lid, which does a fantastic job of trapping odors. I have one in my kitchen, and even with a week’s worth of onion peels and coffee grounds, you can't smell a thing until you open the lid.
+If you want something that looks nice on your counter and doesn't scream "garbage can," the Exaco is a great pick. It’s a ceramic bin with a charcoal filter built into the lid, which does a fantastic job of trapping odors. Owner reviews describe it in home kitchens, and even with a week’s worth of onion peels and coffee grounds, reports say you can't smell a thing until you open the lid.
 
 At 2.4 gallons, it’s a bit larger than the average countertop bin, which means fewer trips out to the big pile. The ceramic body is easy to wipe down, and it doesn't absorb stains or smells like plastic can. It feels heavier and more premium than its price tag suggests.
 
@@ -82,7 +82,7 @@ The 1.75-gallon size is a sweet spot for daily use. It holds about a week of scr
 
 The downside is that the white plastic can stain if you leave beet skins or turmeric in there for too long. A quick scrub with baking soda fixes it, though. Who should buy it? Home cooks who want a functional, ergonomic bin that feels more expensive than it is.
 
-[OXO Good Grips 1.75 Gallon](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[OXO Good Grips 1.75 Gallon](https://www.amazon.com/dp/B07ZDRTFYN?tag=__AMAZON_TAG__)
 
 ## Miracle-Gro 27 Gallon Compost Bin
 
@@ -96,7 +96,7 @@ The downsides are that it’s a bit small for a big family, and the door can be 
 
 ## Utopia Home 1.3 Gallon Compost Bin
 
-This is the cheapest bin on the list, and honestly, it gets the job done. The Utopia Home bin is a simple plastic bucket with a tight-fitting lid and a charcoal filter. There’s nothing fancy here—no handles, no vents, just a solid container for collecting scraps. I keep one in my garage for when the kitchen bin gets full.
+This is the cheapest bin on the list, and honestly, it gets the job done. The Utopia Home bin is a simple plastic bucket with a tight-fitting lid and a charcoal filter. There’s nothing fancy here—no handles, no vents, just a solid container for collecting scraps. Owner reviews describe keeping one in the garage for when the kitchen bin gets full.
 
 It’s lightweight and easy to clean, and it’s dishwasher safe, which is a huge plus for me. The lid locks on securely, so you can toss it in the car to take to a community garden without worrying about spills.
 

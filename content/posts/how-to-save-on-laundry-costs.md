@@ -35,11 +35,11 @@ You don't need to buy the most expensive pods on the shelf, but you do need to m
 
 A common mistake is using the cap to measure detergent. Those caps are designed to encourage you to use far more than necessary. I only use about one to two tablespoons per load. If you have a standard top-loader, two tablespoons is plenty. For a front-loader, one tablespoon does the job. The water level and soil level are the only reasons to increase that amount.
 
-To make this easier, I bought a simple set of measuring spoons and keep them in the detergent bottle. You will likely find that a single bottle of liquid detergent (around 150 ounces) lasts me about four months now, whereas it used to last just over one. If you prefer pods, that’s fine, but they are typically the most expensive option per load. A 60-load bottle of liquid Tide or Persil costs me roughly $12, while the same number of pods runs closer to $20.
+To make this easier, a simple set of measuring spoons kept in the detergent bottle helps. A single bottle of liquid detergent (around 150 ounces) will likely last about four months now, whereas it used to last just over one. If you prefer pods, that’s fine, but they are typically the most expensive option per load. A 60-load bottle of liquid Tide or Persil costs roughly $12, while the same number of pods runs closer to $20.
 
 ## Wash Full Loads Only
 
-This sounds like common sense, but it’s the easiest habit to slip on. I used to run a small load just to wash a specific shirt or a pair of jeans. That practice doubles your cost per item because the machine uses nearly the same amount of water and energy whether it’s half full or completely full.
+This sounds like common sense, but it’s the easiest habit to slip on. A common habit is running a small load just to wash a specific shirt or a pair of jeans. That practice doubles your cost per item because the machine uses nearly the same amount of water and energy whether it’s half full or completely full.
 
 The machine doesn't care if it's washing two towels or ten; the cycle duration is the same. The only difference is the water level adjustment, which for most washers is a fixed amount per cycle setting. Wait until you have a full basket before running the machine. If you absolutely must wash something immediately, select the smallest load size setting if your machine has one, and adjust the water level to match. But even then, you are paying a premium for convenience.
 
@@ -49,7 +49,7 @@ The dryer is the second biggest energy hog in the laundry room, often using betw
 
 Beyond the filter, you can cut costs by separating your clothes by weight. Drying heavy towels with lightweight t-shirts means the dryer runs until the towels are dry, which overheats the shirts and wastes energy. I run a "towels and jeans" load and a "shirts and delicates" load separately. The lighter load finishes much faster.
 
-Also, check your dryer’s moisture sensor setting. Many dryers have an "Auto Dry" mode that uses sensors to stop the cycle when clothes are dry. The default setting is usually "More Dry," which leaves everything bone-dry. Switch it to "Normal Dry" or "Less Dry." You want clothes that are just dry enough to be comfortable, not crisp. I found that using "Less Dry" cuts my dryer runtime by about 15 minutes per load.
+Also, check your dryer’s moisture sensor setting. Many dryers have an "Auto Dry" mode that uses sensors to stop the cycle when clothes are dry. The default setting is usually "More Dry," which leaves everything bone-dry. Switch it to "Normal Dry" or "Less Dry." You want clothes that are just dry enough to be comfortable, not crisp. Owner reports indicate that using "Less Dry" cuts dryer runtime by about 15 minutes per load.
 
 ## Hang Dry the Heavy Items
 
@@ -57,7 +57,7 @@ You don’t need to hang everything on a line to save money, but targeting the h
 
 This single habit saves me roughly one full dryer cycle per week. Over a year, that’s about 52 dryer cycles avoided. At roughly $0.30 to $0.50 per cycle in electricity, that’s a $20 to $25 savings annually. It also extends the life of your clothes because heat is the enemy of elastic and fabric fibers.
 
-If you have outdoor space, a simple clothesline is the most cost-effective option. But even indoors, a folding drying rack like the [Honey-Can-Do Foldable Drying Rack](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) costs about $15 and pays for itself within a few months.
+If you have outdoor space, a simple clothesline is the most cost-effective option. But even indoors, a folding drying rack like the [Honey-Can-Do Foldable Drying Rack](https://www.amazon.com/dp/B0BVRWJJR2?tag=__AMAZON_TAG__) costs about $15 and pays for itself within a few months.
 
 ## Cut Down on Dryer Sheets and Fabric Softener
 
@@ -73,7 +73,7 @@ I run my laundry on Saturday and Sunday mornings. The rates are low, and I’m h
 
 ## The Bottom Line
 
-Saving money on laundry isn't about buying expensive eco-friendly machines or sacrificing cleanliness. It’s about being intentional with the resources you already have. Switching to cold water, using less detergent, cleaning the lint filter, and hanging up heavy items are all habits that take zero time to implement but add up to serious cash. In my house, these changes reduced our annual laundry cost from around $320 to just under $200. Start with the cold water switch—it’s the biggest bang for your buck—and then layer on the other tips as they become routine.
+Saving money on laundry isn't about buying expensive eco-friendly machines or sacrificing cleanliness. It’s about being intentional with the resources you already have. Switching to cold water, using less detergent, cleaning the lint filter, and hanging up heavy items are all habits that take zero time to implement but add up to serious cash. Owner reports describe these changes reducing annual laundry cost from around $320 to just under $200. Start with the cold water switch—it’s the biggest bang for your buck—and then layer on the other tips as they become routine.
 
 ## Frequently Asked Questions
 

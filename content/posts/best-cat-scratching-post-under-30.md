@@ -31,17 +31,17 @@ Before you click "buy," keep these five criteria in mind. They make the differen
 
 | Product | Price | Best For | Key Pros |
 | :--- | :--- | :--- | :--- |
-| [PetFusion Ultimate Cat Scratcher](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$25 | Horizontal scratchers | Durable cardboard, low mess, replaceable pad |
+| [PetFusion Ultimate Cat Scratcher](https://www.amazon.com/dp/B01NC0A463?tag=__AMAZON_TAG__) | ~$25 | Horizontal scratchers | Durable cardboard, low mess, replaceable pad |
 | [SmartCat Pioneer Pet Scratching Post](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$28 | Big cats and heavy scratchers | Rock-solid base, tall, natural sisal |
-| [M-Pets Multi-Level Cat Scratching Post](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$22 | Kittens and playful cats | Multi-function, toys included, budget-friendly |
-| [Amazon Basics Cat Scratching Post](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$18 | Tight budgets | Simple, sturdy enough, cheap replacement |
+| [M-Pets Multi-Level Cat Scratching Post](https://www.amazon.com/dp/B0F6CPGWJ5?tag=__AMAZON_TAG__) | ~$22 | Kittens and playful cats | Multi-function, toys included, budget-friendly |
+| [Amazon Basics Cat Scratching Post](https://www.amazon.com/dp/B07G3GVBV7?tag=__AMAZON_TAG__) | ~$18 | Tight budgets | Simple, sturdy enough, cheap replacement |
 | [Frisco 20.5" Cardboard Cat Scratcher](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$15 | Multi-cat households | Inexpensive, disposable, satisfies "couch" scratching |
-| [Pawz Road Cat Scratcher with Catnip](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$20 | Aesthetic-conscious owners | Looks like furniture, includes catnip, dual-sided |
+| [Pawz Road Cat Scratcher with Catnip](https://www.amazon.com/dp/B09Y31T4CC?tag=__AMAZON_TAG__) | ~$20 | Aesthetic-conscious owners | Looks like furniture, includes catnip, dual-sided |
 
 ## PetFusion Ultimate Cat Scratcher
 
 **Price:** ~$25
-**Link:** [PetFusion Ultimate Cat Scratcher](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+**Link:** [PetFusion Ultimate Cat Scratcher](https://www.amazon.com/dp/B01NC0A463?tag=__AMAZON_TAG__)
 
 This is not a vertical post; it is a horizontal lounge. It is a solid block of recycled cardboard that lies flat on the floor. This is the best option if your cat scratches the carpet or the side of your mattress.
 
@@ -71,7 +71,7 @@ The key selling point here is stability. The base is wide and heavy, and the pos
 ## M-Pets Multi-Level Cat Scratching Post
 
 **Price:** ~$22
-**Link:** [M-Pets Multi-Level Cat Scratching Post](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+**Link:** [M-Pets Multi-Level Cat Scratching Post](https://www.amazon.com/dp/B0F6CPGWJ5?tag=__AMAZON_TAG__)
 
 This one is a bit different. It is a floor-to-ceiling tension pole, but it is sold in a shorter version that works well for smaller spaces. It is a modular system with multiple scratching surfaces, a platform, and a hanging toy.
 
@@ -86,7 +86,7 @@ The value here is the "stuff." You get a lot of bang for your buck. It has a nat
 ## Amazon Basics Cat Scratching Post
 
 **Price:** ~$18
-**Link:** [Amazon Basics Cat Scratching Post](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+**Link:** [Amazon Basics Cat Scratching Post](https://www.amazon.com/dp/B07G3GVBV7?tag=__AMAZON_TAG__)
 
 This is the "no-frills" option. It is a classic 28-inch tall post with a heavy base, wrapped in sisal. It is the cheapest vertical post on this list that isn't a complete waste of money.
 
@@ -116,7 +116,7 @@ The shape is a gentle curve, which gives your cat different angles to scratch. I
 ## Pawz Road Cat Scratcher with Catnip
 
 **Price:** ~$20
-**Link:** [Pawz Road Cat Scratcher with Catnip](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+**Link:** [Pawz Road Cat Scratcher with Catnip](https://www.amazon.com/dp/B09Y31T4CC?tag=__AMAZON_TAG__)
 
 This is a stylish cardboard option. It is a flat, rectangular pad that looks like a small piece of modern art. It is covered in a smooth cardboard surface that is designed to be replaced.
 
@@ -132,6 +132,6 @@ Unlike the Frisco, this one has a denser, honeycomb-style cardboard core. It is 
 
 If you want the most durable and reliable vertical post, buy the [SmartCat Pioneer Pet Scratching Post](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). It is the only one on this list that feels like it will last for years, and it handles heavy use without wobbling.
 
-If your cat is a "carpet serial killer" who ignores vertical posts, get the [PetFusion Ultimate Cat Scratcher](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). It is the most effective tool for redirecting that horizontal scratching behavior, and it doubles as a bed.
+If your cat is a "carpet serial killer" who ignores vertical posts, get the [PetFusion Ultimate Cat Scratcher](https://www.amazon.com/dp/B01NC0A463?tag=__AMAZON_TAG__). It is the most effective tool for redirecting that horizontal scratching behavior, and it doubles as a bed.
 
-If you are just trying to survive on the tightest budget possible, the [Amazon Basics Cat Scratching Post](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a functional choice. It won't win any awards for durability, but it will stop the immediate damage to your furniture. Remember, the best scratching post is the one your cat actually uses. Watch their behavior, pick the matching style, and save your sofa.
+If you are just trying to survive on the tightest budget possible, the [Amazon Basics Cat Scratching Post](https://www.amazon.com/dp/B07G3GVBV7?tag=__AMAZON_TAG__) is a functional choice. It won't win any awards for durability, but it will stop the immediate damage to your furniture. Remember, the best scratching post is the one your cat actually uses. Watch their behavior, pick the matching style, and save your sofa.

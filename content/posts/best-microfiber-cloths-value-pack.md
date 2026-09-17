@@ -42,7 +42,7 @@ The downsides are minor. The edges are stitched but can fray after many hot wash
 
 Who should buy it: Anyone who needs a no-fuss, bulk supply for general cleaning without worrying about ruining a "nice" cloth.
 
-[Amazon Basics Microfiber Cloths](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Amazon Basics Microfiber Cloths](https://www.amazon.com/dp/B082XSXNJ5?tag=__AMAZON_TAG__)
 
 ## Scotch-Brite Large Microfiber Cloths
 
@@ -66,7 +66,7 @@ The color-coded edges are a practical touch, letting you separate kitchen cloths
 
 Who should buy it: People who want a thicker, more comfortable cloth without stepping up to premium pricing. Great for kitchens and bath areas.
 
-[Mr. Siga 12-Pack](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Mr. Siga 12-Pack](https://www.amazon.com/dp/B09FX7TFJV?tag=__AMAZON_TAG__)
 
 ## Zwipes Microfiber Cleaning Cloths
 
@@ -78,7 +78,7 @@ The biggest flaw is the size. These run a bit smaller than standard cloths, so l
 
 Who should buy it: Busy households that go through cloths quickly and want to avoid doing laundry every few days. Perfect for workshop or garage use.
 
-[Zwipes 24-Pack](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Zwipes 24-Pack](https://www.amazon.com/dp/B0HFXBX4N5?tag=__AMAZON_TAG__)
 
 ## HOMEXCEL Microfiber Cleaning Cloths
 
@@ -90,7 +90,7 @@ The trade-off is that the plush texture is not great for scrubbing dried-on mess
 
 Who should buy it: Anyone who wants a dedicated set of soft cloths for electronics, stainless steel, and streak-free glass without paying for premium microfiber.
 
-[HOMEXCEL 12-Pack](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[HOMEXCEL 12-Pack](https://www.amazon.com/dp/B0CX9718K1?tag=__AMAZON_TAG__)
 
 ## E-Cloth General Purpose Cleaning Cloths
 
@@ -102,7 +102,7 @@ The downside is the price per cloth is higher than the others on this list. They
 
 Who should buy it: Budget-conscious buyers who are willing to pay a little more upfront for a cloth that lasts longer and cleans more effectively on the first pass.
 
-[E-Cloth General Purpose Pack](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[E-Cloth General Purpose Pack](https://www.amazon.com/dp/B07TTCJXX4?tag=__AMAZON_TAG__)
 
 ## The bottom line
 

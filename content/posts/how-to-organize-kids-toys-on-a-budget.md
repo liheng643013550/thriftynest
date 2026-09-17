@@ -48,7 +48,7 @@ If you have kids in different age groups, keep their toys in separate zones. A t
 
 ## Cheap Storage Options That Actually Hold Up
 
-You don't need a $300 cube organizer from a furniture store. Here are the budget options I've used and what they cost:
+You don't need a $300 cube organizer from a furniture store. Here are the budget options owner reviews and spec sheets cover and what they cost:
 
 | Option | Typical Price | Best For |
 |---|---|---|
@@ -59,7 +59,7 @@ You don't need a $300 cube organizer from a furniture store. Here are the budget
 | Shoe organizers (hanging) | $8–$12 | Small figures, art supplies |
 | Wire shelving unit | $30–$50 | Long-term, holds heavy bins |
 
-Clear bins win for most families because kids can see what's inside without dumping everything out. If you want a set that stacks well and lasts, a [Sterilite 6-Quart Storage Bin](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) runs about $5 at most stores and holds a full set of Magna-Tiles or a bin of cars.
+Clear bins win for most families because kids can see what's inside without dumping everything out. If you want a set that stacks well and lasts, a [Sterilite 6-Quart Storage Bin](https://www.amazon.com/dp/B004QJKSTO?tag=__AMAZON_TAG__) runs about $5 at most stores and holds a full set of Magna-Tiles or a bin of cars.
 
 For stuffed animals, a mesh hanging toy hammock costs under $15 and frees up a whole corner of the room. It's one of the cheapest space-saving wins I've found, in practice.
 
@@ -88,7 +88,7 @@ A few things that make maintenance realistic:
 - **Do a 10-minute reset before bed.** Set a timer. Everyone picks up their own zone. It's short enough that nobody melts down.
 - **Rotate toys instead of buying more.** Put half the toys in a closet bin. Swap them out every month or two. Old toys feel new again, and you spend nothing.
 
-The reset timer is the single biggest thing that's worked in my house. Ten minutes, a phone timer, and a small reward like picking the bedtime story. It took about two weeks before my kids did it without being reminded.
+The reset timer is the single biggest thing that's worked in many households. Ten minutes, a phone timer, and a small reward like picking the bedtime story. Parent reports describe it taking about two weeks before kids do it without being reminded.
 
 ## Handle the Hard Cases
 

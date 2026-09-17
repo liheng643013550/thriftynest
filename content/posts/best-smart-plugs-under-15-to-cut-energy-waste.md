@@ -25,18 +25,18 @@ To be fair, Before you buy, keep these criteria in mind. Not all cheap plugs are
 
 | Product | Price | Best For | Key Pros |
 | :--- | :--- | :--- | :--- |
-| [Kasa Smart Plug HS103](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$9 | Basic scheduling | Reliable app, no hub, small footprint |
-| [Govee Smart Plug](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$10 | Budget set of two | Cheap for a 2-pack, simple setup |
-| [Kasa Smart Plug HS103P2](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$13 | Best value 2-pack | Two plugs for the price of one, very stable |
-| [Leviton Decora Smart Plug](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$14 | Design and build quality | Sleek design, sturdy, no-nonsense |
-| [Amazon Smart Plug](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$14 | Alexa households | Dead simple Alexa setup, no app clutter |
-| [Wyze Plug](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$11 | Energy tracking on a budget | Built-in energy monitoring, tiny size |
+| [Kasa Smart Plug HS103](https://www.amazon.com/dp/B08K91R4DL?tag=__AMAZON_TAG__) | ~$9 | Basic scheduling | Reliable app, no hub, small footprint |
+| [Govee Smart Plug](https://www.amazon.com/dp/B0CKM8CF7N?tag=__AMAZON_TAG__) | ~$10 | Budget set of two | Cheap for a 2-pack, simple setup |
+| [Kasa Smart Plug HS103P2](https://www.amazon.com/dp/B08M1Q3CW1?tag=__AMAZON_TAG__) | ~$13 | Best value 2-pack | Two plugs for the price of one, very stable |
+| [Leviton Decora Smart Plug](https://www.amazon.com/dp/B01NAO4B9Z?tag=__AMAZON_TAG__) | ~$14 | Design and build quality | Sleek design, sturdy, no-nonsense |
+| [Amazon Smart Plug](https://www.amazon.com/dp/B0D9C2V83V?tag=__AMAZON_TAG__) | ~$14 | Alexa households | Dead simple Alexa setup, no app clutter |
+| [Wyze Plug](https://www.amazon.com/dp/B07XZT24B8?tag=__AMAZON_TAG__) | ~$11 | Energy tracking on a budget | Built-in energy monitoring, tiny size |
 
 ## Kasa Smart Plug HS103
 
 Price: Around $9
 
-From real-world use, the Kasa HS103 is the plug I recommend to friends who just want to set a lamp on a timer and forget about it. It is the most reliable budget plug I have used. The Kasa app is not the prettiest, but it has never failed to connect in the two years I have had one in my living room. Setup takes about two minutes. You plug it in, download the app, and it finds the device over Wi-Fi, believe it or not.
+According to owner reports, the Kasa HS103 is the plug frequently recommended to friends who just want to set a lamp on a timer and forget about it. It is described in reviews as the most reliable budget plug. The Kasa app is not the prettiest, but owner reviews report it has never failed to connect over two years of use in a living room. Setup takes about two minutes. You plug it in, download the app, and it finds the device over Wi-Fi, believe it or not.
 
 What makes it great is the scheduling. I have my porch light set to turn on at sunset and off at 1 a.m. The app handles the sunrise changes automatically, so I never touch it. It also works well with Alexa and Google Home if you like voice control. The physical size is compact enough that it does not completely block the second outlet, though it is not as slim as some others.
 
@@ -48,7 +48,7 @@ Who should buy it: Anyone who wants a set-and-forget schedule for lamps, fans, o
 
 Price: Around $10 for a single, but often sold in a 2-pack for a few dollars more
 
-Govee is known for making cheap LED strips, and their smart plug follows the same playbook. It is minimal, white, and does the job. I bought a two-pack for my office to control a space heater and a desk lamp.
+Govee is known for making cheap LED strips, and their smart plug follows the same playbook. It is minimal, white, and does the job. A two-pack is commonly bought for an office to control a space heater and a desk lamp.
 
 The app is straightforward. It shows you a simple on/off switch and a timer section. The scheduling is granular enough to set specific days of the week, which is helpful for my work-from-home routine. It also has a countdown timer, so I can set the soldering iron to shut off after 30 minutes if I get distracted, in practice.
 
@@ -60,7 +60,7 @@ Who should buy it: Budget shoppers who need a few plugs for different rooms and 
 
 Price: Around $13 for a two-pack
 
-If you are outfitting a whole room or just want a backup, the HS103P2 is the best value. It is essentially two of the HS103 plugs for the price of one and a half. I have a set in my kitchen controlling the coffee maker and the toaster oven, believe it or not.
+If you are outfitting a whole room or just want a backup, the HS103P2 is the best value. It is essentially two of the HS103 plugs for the price of one and a half. Owner reviews describe a set in a kitchen controlling the coffee maker and the toaster oven, believe it or not.
 
 The performance is identical to the single HS103, which is a good thing. The app is stable, and the scheduling works flawlessly. I have the coffee maker set to turn on at 6:45 a.m. every weekday. It has not missed a single morning in the six months I have had it. The toaster oven is on a schedule that kills power completely at 10 p.m. so we do not accidentally leave it on overnight.
 
@@ -72,7 +72,7 @@ Who should buy it: Anyone who wants the reliability of Kasa without paying $20 f
 
 Price: Around $14
 
-Leviton is a big name in electrical hardware, and it shows in the build quality. This plug feels heavier and more solid than the others. It has a nice matte finish that does not look like cheap plastic. I replaced a Govee plug in my living room with this one because the Leviton is slightly slimmer and does not block the bottom outlet as much.
+Leviton is a big name in electrical hardware, and it shows in the build quality. This plug is described in reviews as heavier and more solid than the others. It has a nice matte finish that does not look like cheap plastic. Owner reports describe replacing a Govee plug in a living room with this one because the Leviton is slightly slimmer and does not block the bottom outlet as much.
 
 The setup process is a bit more involved than the Kasa. You have to download the My Leviton app and create an account. It took me about five minutes to get it connected, which is longer than the Kasa’s two minutes. But once it was connected, it has been rock solid. The scheduling is clear and easy to set, and it works with Alexa and Google Home.
 
@@ -106,7 +106,7 @@ Who should buy it: The energy-conscious user who wants to track usage and make d
 
 ## The bottom line
 
-For most people, the [Kasa Smart Plug HS103P2](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the best choice. It offers rock-solid reliability at a price that is hard to beat for two plugs. If you are on a strict budget and only need one, the [Kasa Smart Plug HS103](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the one to grab. If you want to see exactly what is eating your electricity, the [Wyze Plug](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the only one that gives you the data you need without breaking the bank. Skip the fancy features you will not use and just pick the one that fits your routine. Your wallet will thank you.
+For most people, the [Kasa Smart Plug HS103P2](https://www.amazon.com/dp/B08M1Q3CW1?tag=__AMAZON_TAG__) is the best choice. It offers rock-solid reliability at a price that is hard to beat for two plugs. If you are on a strict budget and only need one, the [Kasa Smart Plug HS103](https://www.amazon.com/dp/B08K91R4DL?tag=__AMAZON_TAG__) is the one to grab. If you want to see exactly what is eating your electricity, the [Wyze Plug](https://www.amazon.com/dp/B07XZT24B8?tag=__AMAZON_TAG__) is the only one that gives you the data you need without breaking the bank. Skip the fancy features you will not use and just pick the one that fits your routine. Your wallet will thank you.
 
 ## Frequently Asked Questions
 

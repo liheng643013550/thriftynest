@@ -27,18 +27,18 @@ Before you click "buy," keep these five things in mind. They make the difference
 
 | Product | Price | Best For | Key Pros |
 | :--- | :--- | :--- | :--- |
-| [Aroma Housewares 6-Cup](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$30 | First-time buyers & families | Simple switch, steamer basket, easy to clean |
+| [Aroma Housewares 6-Cup](https://www.amazon.com/dp/B08KFPZ1MF?tag=__AMAZON_TAG__) | ~$30 | First-time buyers & families | Simple switch, steamer basket, easy to clean |
 | [Black+Decker 3-Cup](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$15 | Singles & couples | Ultra-cheap, compact, very lightweight |
 | [Hamilton Beach Digital 8-Cup](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$35 | Small households | Digital timer, easy-read display, auto keep-warm |
 | [Zojirushi NHS-06 3-Cup](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$40 | Rice perfectionists | Legendary brand, excellent texture, durable |
-| [Dash Mini Rice Cooker](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$20 | Portion control & dorm rooms | Cute design, non-stick, makes perfect single servings |
-| [Aroma Digital 8-Cup](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$40 | Set-and-forget cooking | Delay timer, multiple settings, steams well |
+| [Dash Mini Rice Cooker](https://www.amazon.com/dp/B0FT46M9XR?tag=__AMAZON_TAG__) | ~$20 | Portion control & dorm rooms | Cute design, non-stick, makes perfect single servings |
+| [Aroma Digital 8-Cup](https://www.amazon.com/dp/B007WQ9YNO?tag=__AMAZON_TAG__) | ~$40 | Set-and-forget cooking | Delay timer, multiple settings, steams well |
 
 ## Aroma Housewares 6-Cup (ARC-363N)
 
 **Price:** Around $30
 
-This is the gold standard for budget rice cookers. It is the one I recommend to friends and family more than any other. It has a simple mechanical on/off switch, a tempered glass lid, and a steamer basket that fits perfectly on top.
+This is the gold standard for budget rice cookers. It is the one recommended to friends and family more than any other. It has a simple mechanical on/off switch, a tempered glass lid, and a steamer basket that fits perfectly on top.
 
 **What makes it great:** It makes textbook-perfect white rice every single time. The 6-cup capacity is the sweet spot for a family of four, and the non-stick pot is incredibly forgiving. It also comes with a rice paddle and measuring cup, so you have everything you need out of the box. The "Keep Warm" function is automatic, so you can set it and forget it without worrying about cold rice.
 
@@ -50,7 +50,7 @@ This is the gold standard for budget rice cookers. It is the one I recommend to 
 
 **Price:** Around $15
 
-This is the ultimate "just in case" cooker. It is tiny, light as a feather, and costs less than a large pizza. I bought one for my office and it has survived years of heavy use.
+This is the ultimate "just in case" cooker. It is tiny, light as a feather, and costs less than a large pizza. Owner reports describe buying one for the office and it surviving years of heavy use.
 
 **What makes it great:** It is incredibly simple. You add rice and water, press the switch down, and wait. It has a tempered glass lid so you can watch the water boil, and the non-stick bowl makes cleanup a breeze. Because it is so small, it heats up fast and cooks a single cup of rice in about 20 minutes.
 

@@ -31,7 +31,7 @@ Soil is the single most important purchase you will make. If the soil is bad, th
 
 For containers and raised beds, you cannot use regular garden soil; it compacts and drowns roots. You need a potting mix.
 
-For the best value, look for a large bag of a basic, all-purpose [Miracle-Gro Potting Mix](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) or a generic store brand. One 1.5-cubic-foot bag usually costs between $8 and $12 and will fill two to three 5-gallon buckets.
+For the best value, look for a large bag of a basic, all-purpose [Miracle-Gro Potting Mix](https://www.amazon.com/dp/B087F7GNFG?tag=__AMAZON_TAG__) or a generic store brand. One 1.5-cubic-foot bag usually costs between $8 and $12 and will fill two to three 5-gallon buckets.
 
 If you are amending an in-ground bed, buy a bag of compost instead. A single bag of compost worked into the top few inches of soil is enough to get a small patch started. The goal here is to give the roots a decent medium to live in. You can improve the soil more next season.
 
@@ -54,7 +54,7 @@ When buying seeds, check the "days to maturity" on the packet. Choose varieties 
 
 You do not need a $200 set of stainless steel garden tools. You need a way to dig a hole, a way to water, and a way to label things.
 
-A basic hand trowel is essential, but a large kitchen spoon works in a pinch. For a small garden, a single, sturdy [Fiskars Transplanter](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a worthwhile investment because it will last for years. But honestly, a cheap trowel from the dollar store will work for the first season.
+A basic hand trowel is essential, but a large kitchen spoon works in a pinch. For a small garden, a single, sturdy [Fiskars Transplanter](https://www.amazon.com/dp/B004BDNHTI?tag=__AMAZON_TAG__) is a worthwhile investment because it will last for years. But honestly, a cheap trowel from the dollar store will work for the first season.
 
 For watering, a watering can is nice, but a clean, empty milk jug or 2-liter soda bottle filled with water works perfectly. If you have a hose, get a simple spray nozzle attachment. The key is to water at the base of the plant, not the leaves, to avoid disease.
 

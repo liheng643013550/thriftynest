@@ -41,7 +41,7 @@ Here’s a quick look at the top contenders. We’ve kept the prices as of this 
 
 ## The Detailed Breakdown
 
-Now, let's get into the nitty-gritty of each pan. We've tested and used these, so you know it's the real deal.
+Now, let's get into the nitty-gritty of each pan. These are covered in published testing and owner reports, so you know it's the real deal.
 
 ### T-fal E93808
 
@@ -121,6 +121,6 @@ The nonstick coating is a 5-layer coating that feels very durable and looks prem
 
 If you want the best all-around pan that will last a good while without breaking the bank, go with the [T-fal E93808](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). It's the perfect balance of price, durability, and everyday performance.
 
-If you're willing to spend a few more dollars for a more professional, heavy-duty feel, get the [Oxo Good Grips Pro](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). It's a pan you'll reach for every single day.
+If you're willing to spend a few more dollars for a more professional, heavy-duty feel, get the [Oxo Good Grips Pro](https://www.amazon.com/dp/B0GS3RS3ZR?tag=__AMAZON_TAG__). It's a pan you'll reach for every single day.
 
-And if you're just looking for the absolute cheapest pan that can fry an egg, the [Farberware Nonstick](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) will do the trick. No matter which you choose, you can cook great food without spending a fortune.
+And if you're just looking for the absolute cheapest pan that can fry an egg, the [Farberware Nonstick](https://www.amazon.com/dp/B07HHVXTZ7?tag=__AMAZON_TAG__) will do the trick. No matter which you choose, you can cook great food without spending a fortune.
