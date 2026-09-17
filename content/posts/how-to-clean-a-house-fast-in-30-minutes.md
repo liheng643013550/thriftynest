@@ -56,7 +56,7 @@ You might think you need to vacuum everything, but that takes too long. I use a 
 
 If the floors are visibly sticky or dirty, I switch to the spray mop and do a quick pass over the same areas. I use a fast "S" pattern and do not worry about corners. I find that a lightly damp mopping is better than a drenching wet mop because it dries faster and doesn't leave streaks, honestly.
 
-Here is the trick I learned from a professional organizer: I mop the kitchen floor last, because that is where most of the tracked-in dirt is. By doing the living room first, I avoid dragging dirt into a clean space. If you have hardwood, use a cleaner specifically for wood, not an all-purpose spray.
+mop the kitchen floor last, because that is where most of the tracked-in dirt is. By doing the living room first, dirt is not dragged into a clean space. If you have hardwood, use a cleaner specifically for wood, not an all-purpose spray.
 
 ## The Final Sweep: Fluff, Spritz, and Hide
 

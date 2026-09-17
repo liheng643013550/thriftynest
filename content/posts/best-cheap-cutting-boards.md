@@ -25,14 +25,14 @@ Before you click "add to cart," keep these points in mind. They matter more than
 
 | Product | Price | Best For | Key Pros |
 | :--- | :--- | :--- | :--- |
-| [Farberware Medium Cutting Board](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | Under $15 | Everyday prep | Dishwasher-safe, built-in grips |
-| [Oxo Good Grips Carving Board](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | Under $25 | Meat and poultry | Deep juice groove, non-slip feet |
-| [Teakhaus Teak Board](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | Under $40 | Heavy daily use | Durable, knife-friendly, large |
+| [Farberware Medium Cutting Board](https://www.amazon.com/dp/B005FU50ZU?tag=__AMAZON_TAG__) | Under $15 | Everyday prep | Dishwasher-safe, built-in grips |
+| [Oxo Good Grips Carving Board](https://www.amazon.com/dp/B08CF8FQYV?tag=__AMAZON_TAG__) | Under $25 | Meat and poultry | Deep juice groove, non-slip feet |
+| [Teakhaus Teak Board](https://www.amazon.com/dp/B0F85N8KJG?tag=__AMAZON_TAG__) | Under $40 | Heavy daily use | Durable, knife-friendly, large |
 | [GreenHive Bamboo Board](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | Under $20 | Value and looks | Reversible, built-in handle |
 | [KitchenAid Bamboo Board](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | Under $15 | Tight budgets | Low price, simple design |
-| [John Boos End Grain Board](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | Under $50 | Knife care | Premium surface, self-healing cuts |
+| [John Boos End Grain Board](https://www.amazon.com/dp/B00063QBE0?tag=__AMAZON_TAG__) | Under $50 | Knife care | Premium surface, self-healing cuts |
 
-## [Farberware Medium Cutting Board](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+## [Farberware Medium Cutting Board](https://www.amazon.com/dp/B005FU50ZU?tag=__AMAZON_TAG__)
 
 Price: Around $12
 
@@ -40,9 +40,9 @@ This plastic board is the workhorse of budget kitchens. It is thick enough to st
 
 The downsides? Plastic gets scratched up over time. You will see knife marks, but that is cosmetic. It is not a board you will pass down to your kids, but it is a board you can replace for the price of a fast-food lunch.
 
-Who should buy it: Anyone who wants a no-fuss, dishwasher-safe board for raw meat or everyday veggies. It is the best cheap plastic board we tested.
+Who should buy it: Anyone who wants a no-fuss, dishwasher-safe board for raw meat or everyday veggies. It is the best cheap plastic board in published reviews and spec sheets.
 
-## [Oxo Good Grips Carving Board](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+## [Oxo Good Grips Carving Board](https://www.amazon.com/dp/B08CF8FQYV?tag=__AMAZON_TAG__)
 
 Price: Around $22
 
@@ -52,7 +52,7 @@ The downside is the size. It is a bit long and can be awkward to store in a stan
 
 Who should buy it: Home cooks who cut meat regularly and hate cleaning juice off the counter. It is the best budget board for messy jobs.
 
-## [Teakhaus Teak Board](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+## [Teakhaus Teak Board](https://www.amazon.com/dp/B0F85N8KJG?tag=__AMAZON_TAG__)
 
 Price: Around $35
 
@@ -82,7 +82,7 @@ The downsides are obvious. It is thin, so it can slide around if your counter is
 
 Who should buy it: Students, occasional cooks, or anyone who needs a backup board. It is the best cheap bamboo board for minimal needs.
 
-## [John Boos End Grain Board](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+## [John Boos End Grain Board](https://www.amazon.com/dp/B00063QBE0?tag=__AMAZON_TAG__)
 
 Price: Around $45
 
@@ -90,8 +90,8 @@ This is the splurge on the list, but it is still a deal compared to similar boar
 
 The downsides are real. It is heavy to move and store. It requires more oiling than the Teakhaus board. And at this price, you will want to take care of it. It is not dishwasher-safe, ever.
 
-Who should buy it: Serious home cooks who care about their knife edges and want a board that will last for decades. It is the best cheap end-grain option we found.
+Who should buy it: Serious home cooks who care about their knife edges and want a board that will last for decades. It is the best cheap end-grain option found in published reviews.
 
 ## The Bottom Line
 
-For most people, the [Farberware Medium Cutting Board](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the best all-around pick. It is cheap, dishwasher-safe, and stable. If you cut a lot of meat, spend a few more bucks on the [Oxo Good Grips Carving Board](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). If you want a single board that looks great and lasts, go with the [Teakhaus Teak Board](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). Skip the fancy sets and buy one good board that fits how you cook. Your wallet and your knives will thank you.
+For most people, the [Farberware Medium Cutting Board](https://www.amazon.com/dp/B005FU50ZU?tag=__AMAZON_TAG__) is the best all-around pick. It is cheap, dishwasher-safe, and stable. If you cut a lot of meat, spend a few more bucks on the [Oxo Good Grips Carving Board](https://www.amazon.com/dp/B08CF8FQYV?tag=__AMAZON_TAG__). If you want a single board that looks great and lasts, go with the [Teakhaus Teak Board](https://www.amazon.com/dp/B0F85N8KJG?tag=__AMAZON_TAG__). Skip the fancy sets and buy one good board that fits how you cook. Your wallet and your knives will thank you.

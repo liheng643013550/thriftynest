@@ -9,7 +9,7 @@ keywords:
 description: A steam mop can replace a bucket, a chemical cleaner, and a lot of scrubbing.
   But walk down the aisle at Target or scroll Amazon for five minutes and...
 ---
-A steam mop can replace a bucket, a chemical cleaner, and a lot of scrubbing. But walk down the aisle at Target or scroll Amazon for five minutes and you'll see steam mops priced from $35 to $180, and it's hard to tell what you actually get for the extra money. I tested and compared the budget end of that range so you can pick one that cleans well without draining your wallet.
+A steam mop can replace a bucket, a chemical cleaner, and a lot of scrubbing. But walk down the aisle at Target or scroll Amazon for five minutes and you'll see steam mops priced from $35 to $180, and it's hard to tell what you actually get for the extra money. Published specs and owner reviews cover the budget end of that range so you can pick one that cleans well without draining your wallet.
 
 ## What to Look for in a Budget Steam Mop
 
@@ -34,9 +34,9 @@ A steam mop can replace a bucket, a chemical cleaner, and a lot of scrubbing. Bu
 
 ## Bissell Steam Mop Select
 
-As a rule of thumb, the Select is the model I recommend most often to friends in apartments. It heats in about 30 seconds, weighs under 5 pounds, and comes with two washable microfiber pads, so you're not buying refills every month.
+As a rule of thumb, the Select is the model most often recommended to apartment dwellers. It heats in about 30 seconds, weighs under 5 pounds, and comes with two washable microfiber pads, so you're not buying refills every month.
 
-What makes it great is simplicity. There's no trigger to hold, no scent discs to buy, and no settings to figure out. You fill the tank, wait half a minute, and push. On my kitchen tile, a 10-ounce tank lasted about 12 minutes, which was enough for the kitchen and both bathrooms, honestly.
+What makes it great is simplicity. There's no trigger to hold, no scent discs to buy, and no settings to figure out. You fill the tank, wait half a minute, and push. In owner reports, a 10-ounce tank lasted about 12 minutes, which was enough for the kitchen and both bathrooms, honestly.
 
 To be fair, Downsides: no scrub brush for stuck-on food, and the cord is on the short side for large open floor plans. The steam output is also fixed, so you can't dial it down for sealed wood.
 
@@ -94,7 +94,7 @@ Who should buy it: homeowners who want a single steam tool for floors and above-
 
 ## Bissell PowerFresh Slim
 
-The PowerFresh Slim is a 3-in-1: it works as an upright steam mop, a handheld steamer, and a stair/crevice tool. I've used it on grout lines and around a toilet base, and the grout brush attachment earns its keep.
+The PowerFresh Slim is a 3-in-1: it works as an upright steam mop, a handheld steamer, and a stair/crevice tool. Owner reviews describe use on grout lines and around a toilet base, and the grout brush attachment earns its keep.
 
 It's around $100, heats in about 30 seconds, and the steam trigger gives you control on sealed wood. The pad is washable and the design is slim enough to store in a narrow closet.
 

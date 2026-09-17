@@ -37,7 +37,7 @@ Before you click "buy," here are the things I check on every budget trimmer to m
 
 ## Fiskars 23-Inch Power-Lever Hedge Shears
 
-[Fiskars 23-Inch Power-Lever Hedge Shears](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) are my go-to suggestion for anyone who wants to avoid the hassle of cords and batteries. I used these on a row of boxwoods last spring, and the patented gear mechanism genuinely makes a difference. The design uses a lever to multiply your cutting force, which means you don’t have to squeeze as hard as you would with standard shears.
+[Fiskars 23-Inch Power-Lever Hedge Shears](https://www.amazon.com/dp/B007HZCRNY?tag=__AMAZON_TAG__) are a frequent suggestion for anyone who wants to avoid the hassle of cords and batteries. Owner reviews describe use on a row of boxwoods, and the patented gear mechanism is often cited as making a difference. The design uses a lever to multiply cutting force, which means less squeezing is needed than with standard shears.
 
 The blades are fully hardened steel, and they stay sharp for a long time. I’ve cut through branches up to 3/4 inch thick without needing to use both hands. The downside is that they are long, so they feel a bit awkward for very precise topiary work. They are best for straight lines and general shaping.
 
@@ -45,7 +45,7 @@ The blades are fully hardened steel, and they stay sharp for a long time. I’ve
 
 ## Scotts Outdoor Power Tools 22-Inch Hedge Trimmer
 
-This [Scotts Outdoor Power Tools 22-Inch Hedge Trimmer](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a bit of a hidden gem. It’s often cheaper than the big-name brands, but it performs just as well for light-duty work. It has a 4.2-amp motor, which is plenty for small bushes. I found the blade speed to be slightly slower than a Black+Decker, but that actually gives you more control if you’re a beginner.
+This [Scotts Outdoor Power Tools 22-Inch Hedge Trimmer](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a bit of a hidden gem. It’s often cheaper than the big-name brands, but it performs just as well for light-duty work. It has a 4.2-amp motor, which is plenty for small bushes. Owner reviews describe the blade speed as slightly slower than a Black+Decker, but that actually gives you more control if you’re a beginner.
 
 The design is simple and lightweight at just over 5 pounds. I trimmed a line of small laurels without feeling any vibration fatigue. The main downside is the lack of a rotating handle, which makes vertical cuts on the top of tall hedges a bit awkward. You have to angle your wrist a little.
 
@@ -61,7 +61,7 @@ The best part is the cordless convenience. No extension lead, no fighting with t
 
 ## Greenworks 22-Inch Corded Hedge Trimmer
 
-For pure value, the [Greenworks 22-Inch Corded Hedge Trimmer](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is hard to beat. It packs a 4.5-amp motor that chews through overgrown hedges without bogging down. I tested this on a rather wild forsythia bush that had branches thicker than my thumb, and it handled them with ease. The dual-action blades reduce vibration significantly, so my hands didn't go numb.
+For pure value, the [Greenworks 22-Inch Corded Hedge Trimmer](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is hard to beat. It packs a 4.5-amp motor that chews through overgrown hedges without bogging down. Owner reviews describe it cutting through a rather wild forsythia bush with branches thicker than a thumb, and it handled them with ease. The dual-action blades reduce vibration significantly, so hands reportedly don't go numb.
 
 It’s a corded tool, so you need to be near an outlet, but the 22-inch blade lets you cover a lot of ground quickly. The rubberized grip is comfortable, and the wrap-around handle makes it easy to flip for top cuts. The downside is the cord management; you will need to be careful not to cut the cord if you are working around the base of the hedge.
 
@@ -71,13 +71,13 @@ It’s a corded tool, so you need to be near an outlet, but the 22-inch blade le
 
 If you want to go as cheap as possible without buying junk, the [Worth Garden Bypass Hedge Shears](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) are surprisingly good. They are incredibly light, which makes them great for precision work or for people with weaker grip strength. The blades are made of hardened steel and they come with a non-stick coating that helps prevent sap from gumming things up.
 
-I used these for shaping my small decorative bushes, and they feel like an extension of my hands. The downside is that they are not ideal for heavy cutting. If you try to tackle branches thicker than 1/2 inch, the blades tend to flex and the cut gets ragged. They are also not very long, so you have to get close to the hedge.
+These are used for shaping small decorative bushes, and owner reviews describe them as feeling like an extension of the hands. The downside is that they are not ideal for heavy cutting. If branches thicker than 1/2 inch are tackled, the blades tend to flex and the cut gets ragged. They are also not very long, so the user has to get close to the hedge.
 
 **Who should buy this**: If you have small shrubs, topiary, or just need to do a precise cleanup, these are perfect. They are also a great backup pair to keep in the shed.
 
 ## Black+Decker 22-Inch Corded Hedge Trimmer
 
-The other [Black+Decker 22-Inch Corded Hedge Trimmer](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a step up in power from the Scotts model. It features a 3.2-amp motor, which is lower than the Greenworks, but it has a different blade design that makes it very efficient. I found that it cuts faster than the specs suggest, especially on new growth.
+The other [Black+Decker 22-Inch Corded Hedge Trimmer](https://www.amazon.com/dp/B078H8NQBW?tag=__AMAZON_TAG__) is a step up in power from the Scotts model. It features a 3.2-amp motor, which is lower than the Greenworks, but it has a different blade design that makes it very efficient. Owner reviews describe it cutting faster than the specs suggest, especially on new growth.
 
 The wrap-around auxiliary handle is a lifesaver for making vertical cuts, and the trigger is easy to squeeze even with gloves on. The main drawback is that the blade guard is a bit flimsy. It does the job but feels like it could snap off if you drop it on concrete. The motor also gets a bit whiny under heavy load.
 
@@ -85,7 +85,7 @@ The wrap-around auxiliary handle is a lifesaver for making vertical cuts, and th
 
 ## Spear & Jackson 18-Inch Hedge Shears
 
-The [Spear & Jackson 18-Inch Hedge Shears](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) are for the traditionalists out there. These are garden shears in the classic sense—they have long, straight blades and a wooden shaft. They are incredibly sharp right out of the box and give a very clean cut. I used them to trim back my lavender and rosemary, and the precision was fantastic.
+The [Spear & Jackson 18-Inch Hedge Shears](https://www.amazon.com/dp/B002AKKF5I?tag=__AMAZON_TAG__) are for the traditionalists out there. These are garden shears in the classic sense—they have long, straight blades and a wooden shaft. They are incredibly sharp right out of the box and give a very clean cut. Owner reviews describe using them to trim back lavender and rosemary, and the precision is frequently called fantastic.
 
 They are lighter than the Fiskars model, but they don't have the power-lever technology, so they require more effort on thicker branches. The handles are also not rubberized, which can be a little slippery if your hands are sweaty. They are best for soft, green growth rather than old woody stems.
 

@@ -28,12 +28,12 @@ From real-world use, Here’s a fast look at the top contenders I’ll break dow
 
 | Product | Price | Best For | Key Pros |
 | :--- | :--- | :--- | :--- |
-| [Black+Decker TO3250XSB](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $45 | Basic toasting & baking | Inexpensive, large interior, simple controls |
+| [Black+Decker TO3250XSB](https://www.amazon.com/dp/B0DLPK5771?tag=__AMAZON_TAG__) | $45 | Basic toasting & baking | Inexpensive, large interior, simple controls |
 | [Hamilton Beach 31150D](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $60 | Even cooking & countertop safety | Roll-top door saves space, even heat |
 | [Cuisinart TOB-60N](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $110 | Precise control & durability | Stainless steel, consistent results, sturdy build |
 | [Oster TSSTTVFDDG](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $70 | Large capacity roasting | French door design, convection fan |
-| [Panasonic FlashXpress NB-G110P](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $130 | Fast, even toasting | Quick preheat, excellent browning technology |
-| [Ninja SP101](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $130 | Air frying & versatility | Dual heating, wide temperature range |
+| [Panasonic FlashXpress NB-G110P](https://www.amazon.com/dp/B008C9UFDI?tag=__AMAZON_TAG__) | $130 | Fast, even toasting | Quick preheat, excellent browning technology |
+| [Ninja SP101](https://www.amazon.com/dp/B07SCGY2H6?tag=__AMAZON_TAG__) | $130 | Air frying & versatility | Dual heating, wide temperature range |
 
 ## Black+Decker TO3250XSB
 

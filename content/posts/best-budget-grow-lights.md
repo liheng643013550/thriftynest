@@ -9,7 +9,7 @@ keywords:
 description: If you're starting seeds on a windowsill or trying to keep a pothos alive
   through a dark winter, you've probably figured out that regular room light i...
 ---
-If you're starting seeds on a windowsill or trying to keep a pothos alive through a dark winter, you've probably figured out that regular room light isn't enough. The good news: you don't need to spend $150 on a pro setup. I've tested and compared lights in the $15 to $40 range, and a few of them genuinely work. Here's what's worth buying, and what to skip.
+If you're starting seeds on a windowsill or trying to keep a pothos alive through a dark winter, you've probably figured out that regular room light isn't enough. The good news: you don't need to spend $150 on a pro setup. Reviews and spec sheets cover lights in the $15 to $40 range, and a few of them genuinely work. Here's what's worth considering, and what to skip.
 
 ## What to look for
 
@@ -36,7 +36,7 @@ If you're starting seeds on a windowsill or trying to keep a pothos alive throug
 
 **Price:** Around $20
 
-From real-world use, this is the light I recommend to anyone who just wants one plant to stop looking sad. It's a clip-on gooseneck design that clamps to a table or shelf edge, with a small head that puts out enough light for a single pothos, snake plant, or small herb pot. The built-in timer runs 3, 9, or 12 hours, which is genuinely useful.
+In owner reviews, this is the light frequently described as the one to get for anyone who just wants one plant to stop looking sad. It's a clip-on gooseneck design that clamps to a table or shelf edge, with a small head that puts out enough light for a single pothos, snake plant, or small herb pot. The built-in timer runs 3, 9, or 12 hours, which owner reviews describe as genuinely useful.
 
 What makes it great is the combination of price, timer, and no assembly. You clamp it on, plug it in, and you're done in 30 seconds. The gooseneck lets you aim it where you need it, honestly.
 
@@ -62,7 +62,7 @@ Downsides: no built-in timer or dimmer. You'll need a $10 outlet timer, which br
 
 This is a standard E26 bulb, which means it screws into any regular lamp you already own. That's the whole appeal. If you have a floor lamp with an adjustable arm, you can turn it into a grow light for $25 with zero new hardware.
 
-At 24 actual watts, it's noticeably stronger than the clip-on lights. I've used one over a monstera in a north-facing room and seen new leaf growth through the winter, which that plant had never done before. The light is white, not purple, so it looks like a normal bright bulb, honestly.
+At 24 actual watts, it's noticeably stronger than the clip-on lights. Owner reports describe using one over a monstera in a north-facing room and seeing new leaf growth through the winter, which that plant had reportedly never done before. The light is white, not purple, so it looks like a normal bright bulb, honestly.
 
 Downsides: it's heavy for a bulb, so flimsy lamp sockets can sag. It also runs warm, and the light is fairly directional, so it works best when you can aim it down at the plant.
 

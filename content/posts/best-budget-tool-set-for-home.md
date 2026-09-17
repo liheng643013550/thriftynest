@@ -41,7 +41,7 @@ Before you buy any set, keep these five things in mind. They matter more than th
 
 **Price:** Around $110
 
-This is the set I recommend to almost everyone. It is the sweet spot between price and professional-grade durability. The DEWALT set focuses on sockets and ratchets, which are the most expensive tools to buy individually. You get a solid range of 1/4" and 3/8" drive sockets, plus a full set of hex keys and a few screwdriver bits.
+This is the set recommended to almost everyone. It is the sweet spot between price and professional-grade durability. The DEWALT set focuses on sockets and ratchets, which are the most expensive tools to buy individually. You get a solid range of 1/4" and 3/8" drive sockets, plus a full set of hex keys and a few screwdriver bits.
 
 The ratchets are the standout feature. They have a 90-tooth mechanism, which means you can turn a bolt with very little swing room. That is a feature usually found on $200+ professional sets. The case is heavy-duty plastic that actually latches shut securely, which is rarer than you would think.
 
@@ -49,7 +49,7 @@ The ratchets are the standout feature. They have a 90-tooth mechanism, which mea
 
 **Who should buy it:** Anyone who owns a house or rents an apartment and wants a reliable set for the next ten years. If you plan to hang shelves, fix a toilet, or assemble furniture, this is the one to get.
 
-[DEWALT 108-Piece Mechanics Tool Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[DEWALT 108-Piece Mechanics Tool Set](https://www.amazon.com/dp/B0DBWGMZVL?tag=__AMAZON_TAG__)
 
 ---
 
@@ -129,7 +129,7 @@ The best part of this set is the Craftsman warranty. It is a lifetime warranty, 
 
 **Who should buy it:** The traditionalist who wants a classic tool set with a trusted name. If you are looking for a gift for a dad or grandpa who grew up with Craftsman tools, this is a safe bet.
 
-[Craftsman 109-Piece Mechanics Tool Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Craftsman 109-Piece Mechanics Tool Set](https://www.amazon.com/dp/B0CPYVKLZQ?tag=__AMAZON_TAG__)
 
 ---
 

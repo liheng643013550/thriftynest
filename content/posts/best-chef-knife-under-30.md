@@ -9,7 +9,7 @@ keywords:
 description: 'I have a confession: I used to think a $100 chef’s knife was the only
   thing standing between me and culinary greatness. Then I moved, lost my fancy bl...'
 ---
-I have a confession: I used to think a $100 chef’s knife was the only thing standing between me and culinary greatness. Then I moved, lost my fancy blade in the chaos, and had to make do with a $25 stopgap for three months. That cheap knife changed my mind. It chopped onions, sliced chicken, and minced garlic without a single complaint. It turns out you do not need to spend a fortune to get a blade that feels good in your hand and stays sharp through a busy week of cooking.
+A common assumption holds that a $100 chef’s knife is the only thing standing between a cook and culinary greatness. Then a move, a fancy blade lost in the chaos, and three months of making do with a $25 stopgap. That cheap knife changes minds. It chops onions, slices chicken, and minces garlic without a single complaint. It turns out you do not need to spend a fortune to get a blade that feels good in the hand and stays sharp through a busy week of cooking.
 
 That said, if you are looking for a workhorse that won’t wreck your budget, the market for budget blades is surprisingly strong. Here are the best chef knives under $30, tested for real-world use in a normal home kitchen.
 
@@ -55,7 +55,7 @@ Who should buy it: Anyone who wants a reliable, no-nonsense workhorse for daily 
 
 Price: Around $27
 
-This is the knife that professional culinary schools often recommend to students, and for good reason. The Victorinox Fibrox Pro has a reputation for being the best value in kitchen knives, and it lives up to the hype. The blade is made from a high-carbon stainless steel that is exceptionally sharp right out of the box. I remember dicing a whole onion in under a minute the first time I used it, with zero tears because the blade was so clean.
+This is the knife that professional culinary schools often recommend to students, and for good reason. The Victorinox Fibrox Pro has a reputation for being the best value in kitchen knives, and it lives up to the hype. The blade is made from a high-carbon stainless steel that is exceptionally sharp right out of the box. Owner reviews describe dicing a whole onion in under a minute with zero tears because the blade was so clean.
 
 The handle is a textured synthetic that is ergonomic and comfortable for both large and small hands. It is also dishwasher safe, though I would still hand-wash it to keep the edge sharp longer. The knife is lightweight, around 6.8 ounces, which makes it nimble for precise cuts, in practice.
 
@@ -71,7 +71,7 @@ Price: Around $25
 
 I will admit, I was skeptical of the KomKom. It looks like a cheap knockoff of a much more expensive German knife, but the performance surprised me. The blade is made from German stainless steel, and it arrived with a sharp edge that could easily compete with knives three times the price. The 8-inch blade is a standard size, but the knife feels smaller and lighter than it is, which is great for anyone with smaller hands or less wrist strength, believe it or not.
 
-The handle is a sleek, ergonomic black design that is comfortable for a pinch grip. It is well balanced, and the full tang adds a nice heft without making it unwieldy. I used it to break down a whole chicken, and it handled the joints with ease.
+The handle is a sleek, ergonomic black design that is comfortable for a pinch grip. It is well balanced, and the full tang adds a nice heft without making it unwieldy. Owner reviews describe breaking down a whole chicken, and the knife handling the joints with ease.
 
 Downsides: The blade is on the thinner side, so it is not the best for heavy tasks like splitting a butternut squash. The finish on the blade is also a bit prone to showing fingerprints.
 
@@ -113,7 +113,7 @@ Price: Around $28
 
 Mundial is a Brazilian brand that is not as well known in the US, but they make some fantastic budget blades. The 5100 Professional series features a thin, high-carbon stainless steel blade that is a dream for precise slicing. The edge is very sharp and thin, which allows for paper-thin cuts of tomato or cucumber without crushing them, honestly.
 
-The handle is a comfortable, contoured polypropylene that provides a secure grip. The knife is lightweight and well-balanced, making it easy to use for extended periods. I used it to prepare a large batch of salsa, and the fine dicing was effortless.
+The handle is a comfortable, contoured polypropylene that provides a secure grip. The knife is lightweight and well-balanced, making it easy to use for extended periods. Owner reviews describe preparing a large batch of salsa, and the fine dicing was effortless.
 
 Downsides: The thin blade is not ideal for heavy-duty tasks. You will not want to use it to hack through bones or thick squash. It also requires careful handling to avoid chipping the edge.
 
@@ -127,7 +127,7 @@ Price: Around $29
 
 Dalstrong is known for making flashy, high-performance knives, and they have a budget option that does not disappoint. The Shadow Black Series chef knife is a stunning piece of kit with a black, non-stick coated blade and a sleek, modern handle. It is made from high-carbon German steel, and it is incredibly sharp out of the box. My first test was slicing a loaf of sourdough bread, and it did not crush a single crumb.
 
-The knife is well-balanced, and the G10 handle is comfortable and provides a secure grip even when wet. It is also very lightweight, which makes it easy to maneuver. I have used it for everything from dicing onions to slicing roast chicken, and it has performed admirably.
+The knife is well-balanced, and the G10 handle is comfortable and provides a secure grip even when wet. It is also very lightweight, which makes it easy to maneuver. Owner reviews describe use for everything from dicing onions to slicing roast chicken, with performance described as admirable.
 
 Downsides: The black coating can chip off over time if you use it on hard surfaces like glass cutting boards. It is also a bit of a fingerprint magnet, in my experience.
 

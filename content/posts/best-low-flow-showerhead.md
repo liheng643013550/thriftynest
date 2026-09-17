@@ -35,7 +35,7 @@ If your water bill feels like a second rent payment, or you’re tired of waitin
 
 Price: $40
 
-That said, this is the showerhead I recommend to anyone who has ever fought with limescale. It’s a single-piece solid brass body with no moving parts, and the spray is a precise, dense pattern of individual streams. I’ve had mine for three years in a house with well water that destroys everything, and it still performs like day one. There are no rubber nozzles to clean because there are no nozzles at all—just precision-drilled holes that won’t clog. It uses a fixed 1.5 GPM flow, and the pressure feels like a firm 2.5 GPM head from the 90s.
+That said, this is the showerhead often recommended to anyone who has ever fought with limescale. It’s a single-piece solid brass body with no moving parts, and the spray is a precise, dense pattern of individual streams. Owner reports describe it lasting three years in a house with well water that destroys everything, and still performing like day one. There are no rubber nozzles to clean because there are no nozzles at all—just precision-drilled holes that won’t clog. It uses a fixed 1.5 GPM flow, and the pressure is described as feeling like a firm 2.5 GPM head from the 90s.
 
 As a rule of thumb, the downside is that the spray pattern is a bit narrow, so you have to move around to get fully wet, and it doesn’t have a massage setting. It’s just one, very consistent, powerful spray. If you like to linger under a wide rain shower, this isn’t it. But if you want a showerhead that will outlive your water heater, this is the one. Buy it if you have hard water, or you’re just tired of replacing cheap plastic heads every year, in my experience.
 
@@ -59,7 +59,7 @@ This is the premium pick, and it feels like it the second you pick it up—it’
 
 The downside is the price, and the fact that the brass body gets very cold in the winter until the water warms up. Also, the hard jet setting is almost too strong—it can sting if you hold it close. This is a "buy it once, buy it right" kind of product. I’d recommend it to anyone who values a specific, customizable spray pattern and wants a fixture that looks expensive in a remodel.
 
-[Speakman S-2252](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Speakman S-2252](https://www.amazon.com/dp/B004XA284E?tag=__AMAZON_TAG__)
 
 ## Delta H2Okinetic
 
@@ -67,15 +67,15 @@ Price: $35
 
 Delta’s H2Okinetic technology is clever—it shapes the water droplets so they feel bigger and warmer. I installed this in my parents' house, and my dad swore the water was hotter, even though the tank was the same. It uses 1.5 GPM, and the wide, drenching spray is great for covering your shoulders and back without turning in circles. It has three settings (full spray, massage, and a combo), and the toggle is easy to use with one hand.
 
-It’s not the most durable head on the market; the plastic ball joint can get stiff after a year, and the finish on the model I tested started to show water spots. But for the price, the feel of the water is excellent. Buy it if you want a "normal" shower experience that just happens to use less water—it’s the least noticeable change for a family that’s skeptical about low-flow, in practice.
+It’s not the most durable head on the market; the plastic ball joint can get stiff after a year, and the finish on the model tested started to show water spots. But for the price, the feel of the water is excellent. Buy it if you want a "normal" shower experience that just happens to use less water—it’s the least noticeable change for a family that’s skeptical about low-flow, in practice.
 
-[Delta H2Okinetic](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Delta H2Okinetic](https://www.amazon.com/dp/B0BDGLSCNL?tag=__AMAZON_TAG__)
 
 ## Niagra Earth Massage
 
 Price: $20
 
-This is the no-frills, maximum-savings option. It uses just 1.25 GPM, which is lower than most others on this list. If you have a small water heater or you’re on a well, this is a game-changer—we used it in a cabin that had a 30-gallon tank, and we could take three back-to-back showers without running cold. The spray is not as forceful as the Delta or Speakman, but it’s a steady, even rain that gets the job done. It has three settings, but honestly, the massage setting is pretty weak.
+This is the no-frills, maximum-savings option. It uses just 1.25 GPM, which is lower than most others on this list. If you have a small water heater or you’re on a well, this is a game-changer—owner reports describe it in a cabin that had a 30-gallon tank, and three back-to-back showers without running cold. The spray is not as forceful as the Delta or Speakman, but it’s a steady, even rain that gets the job done. It has three settings, but honestly, the massage setting is pretty weak.
 
 The build is entirely plastic, and it looks it. The threads are also a bit delicate, so you have to be careful not to cross-thread it when installing. But at $20, you can buy two and keep a spare in the closet. I’d buy this for a rental property or a kid’s bathroom where durability is less important than keeping the water bill low.
 
@@ -89,7 +89,7 @@ This one is a bit of a gimmick, but it’s a good gimmick. The Moxie has a magne
 
 The downsides are the price and the fact that the speaker is another thing to charge. If you forget, you’re stuck with a slightly odd-looking hole in the middle of the showerhead. The spray has a slight interruption in the center because of the speaker dock, which takes a minute to get used to. Buy it for a teenager or anyone who can’t start their day without music or news. It’s the only way to get audio without installing a separate waterproof speaker.
 
-[Kohler Moxie](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Kohler Moxie](https://www.amazon.com/dp/B08KHN1NV6?tag=__AMAZON_TAG__)
 
 ## The bottom line
 

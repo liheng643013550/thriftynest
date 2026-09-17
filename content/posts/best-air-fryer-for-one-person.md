@@ -32,10 +32,10 @@ Controls: Physical dials are simple and rarely break. Digital touchscreens look 
 | Product | Price | Best For | Key Pros |
 | :--- | :--- | :--- | :--- |
 | [Instant Pot Vortex Mini](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $50-$60 | Versatility | 2-quart size, 6-in-1 functions, dishwasher-safe basket |
-| [Dash Compact Air Fryer](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $30-$40 | Tight Budgets | Super cheap, 2-quart capacity, simple dials |
+| [Dash Compact Air Fryer](https://www.amazon.com/dp/B075BCVSJZ?tag=__AMAZON_TAG__) | $30-$40 | Tight Budgets | Super cheap, 2-quart capacity, simple dials |
 | [Cosori Pro LE](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $70-$80 | Crispy Results | 3.5-quart basket, 5 presets, square design for more space |
-| [Ninja Air Fryer Max XL](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $90-$110 | Fast Cooking | 5.5-quart capacity, Max Crisp technology, 450°F max heat |
-| [Philips Essential Airfryer](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $80-$100 | Even Heating | Rapid Air technology, dishwasher-safe parts, compact base |
+| [Ninja Air Fryer Max XL](https://www.amazon.com/dp/B0D1GW9GMJ?tag=__AMAZON_TAG__) | $90-$110 | Fast Cooking | 5.5-quart capacity, Max Crisp technology, 450°F max heat |
+| [Philips Essential Airfryer](https://www.amazon.com/dp/B0BBWMV6S6?tag=__AMAZON_TAG__) | $80-$100 | Even Heating | Rapid Air technology, dishwasher-safe parts, compact base |
 | [Gourmia 2-Quart Compact](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $25-$35 | Dorm Rooms | Smallest footprint, 900W wattage, basic one-dial operation |
 
 ## Instant Pot Vortex Mini
@@ -112,6 +112,6 @@ Who should buy it: Anyone who is not sure if they will use an air fryer regularl
 
 ## The Bottom Line
 
-For most single people, the [Instant Pot Vortex Mini](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the best buy. It balances size, price, and versatility perfectly. It does not take over your counter and it does more than just fry. If you are on a strict budget, the [Dash Compact Air Fryer](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) gets the job done for less than the cost of a few takeout meals. And if you care more about crispy texture than counter space, the [Ninja Air Fryer Max XL](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is worth the extra money and footprint.
+For most single people, the [Instant Pot Vortex Mini](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the best buy. It balances size, price, and versatility perfectly. It does not take over your counter and it does more than just fry. If you are on a strict budget, the [Dash Compact Air Fryer](https://www.amazon.com/dp/B075BCVSJZ?tag=__AMAZON_TAG__) gets the job done for less than the cost of a few takeout meals. And if you care more about crispy texture than counter space, the [Ninja Air Fryer Max XL](https://www.amazon.com/dp/B0D1GW9GMJ?tag=__AMAZON_TAG__) is worth the extra money and footprint.
 
 Whichever you choose, remember that a small air fryer will save you money on your electric bill and help you avoid the temptation of ordering takeout. It is one of the few kitchen gadgets that actually earns its place on the counter.

@@ -9,7 +9,7 @@ keywords:
 description: Opening the closet where I keep my holiday decorations is always a little
   stressful. I’ve got a mix of cheap plastic totes and old shoeboxes, and ever...
 ---
-Opening the closet where I keep my holiday decorations is always a little stressful. I’ve got a mix of cheap plastic totes and old shoeboxes, and every year I hold my breath hoping the glass ornaments I bought for $2 at a post-Christmas sale survived the summer. Last year, I lost three. Three! That was the final straw.
+Opening the closet where holiday decorations are kept is always a little stressful. There’s a mix of cheap plastic totes and old shoeboxes, and every year the hope is that the glass ornaments bought for $2 at a post-Christmas sale survived the summer. Last year, three were lost. Three! That was the final straw.
 
 You don't need to spend a fortune to protect your ornaments. In fact, some of the best storage solutions are surprisingly affordable. I’ve spent way too much time digging through bins, testing dividers, and wrapping baubles in newspaper to bring you this list. Here are the best cheap ornament storage boxes that actually do the job without breaking the bank.
 
@@ -34,7 +34,7 @@ Here is a simple breakdown of the top contenders I’ll cover in detail below.
 | [Lion & Fox Ornament Storage Box](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $25 - $35 | Heavy glass ornaments | Rigid, deep cells, secure latches |
 | [Holiday Time Ornament Storage Box](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $15 - $20 | Standard baubles | Layered design, easy to carry |
 | [STADIUM Goods Ornament Storage](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $30 - $40 | Large collections | Heavy-duty plastic, wheels |
-| [Zober Ornament Storage Box](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $20 - $25 | Versatile storage | Adjustable dividers, strong handle |
+| [Zober Ornament Storage Box](https://www.amazon.com/dp/B016YUEHJ4?tag=__AMAZON_TAG__) | $20 - $25 | Versatile storage | Adjustable dividers, strong handle |
 | [IRIS Ornament Storage](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $18 - $22 | Lightweight ornaments | Clear view, snap-lock lid |
 
 ## The top cheap ornament storage boxes
@@ -44,9 +44,9 @@ I’ve broken down the best options based on different needs. Here is my honest 
 ### Sterilite 32-Quart Clear Tote
 
 - **Price:** Around $12
-- **What makes it great:** This is the ultimate budget hack. Instead of buying a specialized box, I use a few of these clear totes. They are incredibly cheap and widely available at any big-box store. The clear plastic lets me see exactly what is inside without opening the lid.
-- **The downside:** They don't come with dividers. You have to create your own. I use a DIY method of cutting cardboard strips to make a grid, or I simply wrap each ornament in tissue paper and nestle them in layers. It takes a little more prep time.
-- **Who should buy it:** This is perfect for the person who wants maximum value and doesn't mind a little DIY. It's also great for storing non-breakable ornaments or extra lights and tinsel on the bottom layers. I use these for my kids' plastic ornaments and the garlands, leaving the specialized boxes for the fragile glass.
+- **What makes it great:** This is the ultimate budget hack. Instead of buying a specialized box, a few of these clear totes can serve the purpose. They are incredibly cheap and widely available at any big-box store. The clear plastic lets you see exactly what is inside without opening the lid.
+- **The downside:** They don't come with dividers. You have to create your own. A DIY method of cutting cardboard strips to make a grid, or simply wrapping each ornament in tissue paper and nestling them in layers, is often suggested. It takes a little more prep time.
+- **Who should buy it:** This is perfect for the person who wants maximum value and doesn't mind a little DIY. It's also great for storing non-breakable ornaments or extra lights and tinsel on the bottom layers. These work well for kids' plastic ornaments and the garlands, leaving the specialized boxes for the fragile glass.
 
 ### Lion & Fox Ornament Storage Box
 

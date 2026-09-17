@@ -43,7 +43,7 @@ The fittings are a huge plus. They are a hybrid material that grips the spigot a
 
 **Who should buy it:** The Flexzilla is the best all-around budget hose for anyone who wants a hose that just works. If you hate fighting with stiff, coily hoses, this is your pick. It's the easiest to handle in the winter months.
 
-[Flexzilla Garden Hose](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Flexzilla Garden Hose](https://www.amazon.com/dp/B0FGDT3NTM?tag=__AMAZON_TAG__)
 
 ## Craftsman Premium Rubber Hose
 
@@ -67,7 +67,7 @@ The standout feature here is the "crush-proof" brass fittings. You can run over 
 
 **Who should buy it:** This is for the practical shopper who wants a well-known, trusted brand without paying premium prices. It's a great choice for standard watering, washing the car, and filling pools.
 
-[Gilmour Flexogen](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Gilmour Flexogen](https://www.amazon.com/dp/B01N6BIRAK?tag=__AMAZON_TAG__)
 
 ## Zero-G 4001 Lightweight Hose
 
@@ -79,7 +79,7 @@ When you turn on the water, it expands to its full length and becomes rigid. It 
 
 **Who should buy it:** Perfect for renters, people with small patios, or anyone with limited storage space. If you hate dragging a heavy hose around and need something you can hang on a small hook, the Zero-G is your best bet.
 
-[Zero-G 4001 Lightweight Hose](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Zero-G 4001 Lightweight Hose](https://www.amazon.com/dp/B079T9CBH9?tag=__AMAZON_TAG__)
 
 ## Dramm ColorStorm
 
@@ -91,7 +91,7 @@ It comes in bright, fun colors which are great for visibility (you won't trip ov
 
 **Who should buy it:** This is for the gardener who wants a durable hose with a bit of style. It’s also a great gift for a plant lover who appreciates tools that look as good as they perform.
 
-[Dramm ColorStorm](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Dramm ColorStorm](https://www.amazon.com/dp/B0018C8LK0?tag=__AMAZON_TAG__)
 
 ## Swan Element
 
@@ -103,7 +103,7 @@ It comes with a 5-year warranty, which is a good sign for a budget hose. The fit
 
 **Who should buy it:** This is for the occasional user who needs a hose for simple tasks and doesn't want to spend a lot of money. It’s perfect for first-time homeowners or for use on a back patio that sees light use.
 
-[Swan Element](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Swan Element](https://www.amazon.com/dp/B07K7W69V1?tag=__AMAZON_TAG__)
 
 ## Teknor Apex NeverKink
 
@@ -115,7 +115,7 @@ It’s a simple, no-nonsense hose. It’s not as flexible as the Flexzilla, but 
 
 **Who should buy it:** This is the perfect "set it and forget it" hose. If you want a standard, reliable hose without any gimmicks, the NeverKink is a safe bet. It’s a great value for the durability you get.
 
-[Teknor Apex NeverKink](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Teknor Apex NeverKink](https://www.amazon.com/dp/B09RQYTZ29?tag=__AMAZON_TAG__)
 
 ## The Bottom Line
 

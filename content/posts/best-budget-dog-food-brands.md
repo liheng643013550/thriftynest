@@ -50,7 +50,7 @@ The main downside is the ingredient list. The first ingredient is ground yellow 
 
 Who should buy it: Owners of dogs that refuse to eat more expensive foods, or those who need a very low-cost option that their dog will reliably eat without digestive upset.
 
-[Pedigree Complete Nutrition](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Pedigree Complete Nutrition](https://www.amazon.com/dp/B007ZZDJWY?tag=__AMAZON_TAG__)
 
 ## Iams ProActive Health
 
@@ -60,7 +60,7 @@ The downside is that it’s not grain-free, and it does include some corn and ot
 
 Who should buy it: Owners who want a step up in protein quality and added joint support without jumping to premium pricing. It's a great choice for adult dogs in their prime who need balanced nutrition.
 
-[Iams ProActive Health](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Iams ProActive Health](https://www.amazon.com/dp/B0D86Z1RW6?tag=__AMAZON_TAG__)
 
 ## Diamond Naturals
 
@@ -80,7 +80,7 @@ The main downside is that the high protein and fat are too much for a lazy couch
 
 Who should buy it: Owners of active breeds, hunting dogs, or dogs that are naturally underweight and need a calorie-dense food to maintain their condition.
 
-[Victor Hi-Pro Plus](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Victor Hi-Pro Plus](https://www.amazon.com/dp/B0FNB7H9JF?tag=__AMAZON_TAG__)
 
 ## Rachael Ray Nutrish
 
@@ -90,7 +90,7 @@ The downside is that it’s not the most nutrient-dense food, so you might find 
 
 Who should buy it: Owners of dogs with sensitive skin or stomachs who need a simple, grain-inclusive diet without the premium price tag of prescription or specialty foods.
 
-[Rachael Ray Nutrish](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Rachael Ray Nutrish](https://www.amazon.com/dp/B0GHCDCWW4?tag=__AMAZON_TAG__)
 
 ## Kirkland Signature (Costco)
 
@@ -100,7 +100,7 @@ The downside is the membership requirement and the bulk size. You need to have a
 
 Who should buy it: Costco members with the storage space who want a high-quality, no-filler food at a price that beats most competitors per pound.
 
-[Kirkland Signature](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Kirkland Signature](https://www.amazon.com/dp/B0C54GXFQ8?tag=__AMAZON_TAG__)
 
 ## The bottom line
 

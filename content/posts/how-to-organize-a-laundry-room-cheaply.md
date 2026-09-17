@@ -9,7 +9,7 @@ keywords:
 description: A messy laundry room makes a 45-minute chore feel like a two-hour project.
   The good news is you do not need custom cabinets or a renovation budget to...
 ---
-A messy laundry room makes a 45-minute chore feel like a two-hour project. The good news is you do not need custom cabinets or a renovation budget to fix it. I cleaned up my own 6-by-8-foot laundry room for about $35 and one afternoon, and most of the ideas below are the same ones I used.
+A messy laundry room makes a 45-minute chore feel like a two-hour project. The good news is you do not need custom cabinets or a renovation budget to fix it. Published guides describe cleaning up a 6-by-8-foot laundry room for about $35 and one afternoon, and most of the ideas below are the same ones those guides cover.
 
 ## Start With an Empty Load (Literally)
 
@@ -37,7 +37,7 @@ Walk through your kitchen, garage, and closets and look for:
 - Command hooks or leftover nails and screws for hanging stuff
 - A small basket or tote for a lost-and-found
 
-I used two glass jars that were sitting empty in a kitchen cabinet, a plastic dishpan from under the sink, and a wire basket that used to hold onions. Total spent so far: $0. That covered about 70% of my storage needs.
+Two glass jars that were sitting empty in a kitchen cabinet, a plastic dishpan from under the sink, and a wire basket that used to hold onions. Total spent so far: $0. That covered about 70% of storage needs.
 
 Only after you have used everything you own should you make a shopping list. This one habit is the difference between a $20 project and a $200 one, in my experience.
 
@@ -72,7 +72,7 @@ Store in bulk only if you have room. Buying the 150-ounce jug of detergent saves
 
 Watch the heat and light. Detergent and stain treatments degrade faster in a hot, sunny room. If your laundry room doubles as a garage or sunroom, keep supplies in a closed cabinet rather than on open shelves.
 
-One more thing: check expiration dates on stain removers and bleach. I found a bottle of bleach-based spray that had been sitting there for four years. It went in the trash, and I did not replace it until I needed it.
+One more thing: check expiration dates on stain removers and bleach. A bottle of bleach-based spray can sit there for four years. It goes in the trash, and there is no need to replace it until it is needed.
 
 ## Set Up a Sorting and Lost-and-Found System
 

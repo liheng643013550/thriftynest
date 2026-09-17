@@ -25,14 +25,14 @@ Before you click "buy," check these five things to make sure you do not end up w
 
 | Product | Price | Best For | Key Pros |
 | :--- | :--- | :--- | :--- |
-| [HUANUO Single Monitor Mount](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$30 | Standard 24-inch office monitors | Cheap, solid aluminum, easy tilt |
-| [VIVO Single Monitor Arm](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$35 | Heavy 27-inch monitors | High weight capacity, steel build |
-| [MOUNTUP Single Monitor Mount](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$32 | Ultra-wide screens | Wide VESA plates, strong gas spring |
+| [HUANUO Single Monitor Mount](https://www.amazon.com/dp/B07CHKWNKC?tag=__AMAZON_TAG__) | ~$30 | Standard 24-inch office monitors | Cheap, solid aluminum, easy tilt |
+| [VIVO Single Monitor Arm](https://www.amazon.com/dp/B07TWYHCZH?tag=__AMAZON_TAG__) | ~$35 | Heavy 27-inch monitors | High weight capacity, steel build |
+| [MOUNTUP Single Monitor Mount](https://www.amazon.com/dp/B07Z7ZGHD5?tag=__AMAZON_TAG__) | ~$32 | Ultra-wide screens | Wide VESA plates, strong gas spring |
 | [NB North Bayou F80](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$25 | Extreme budget builds | Cheapest reliable arm, compact |
-| [WALI Single Monitor Mount](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$30 | Dual-arm setups | Solid base, good cable management |
-| [ErGear Single Monitor Arm](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$40 | Height-adjustable workstations | Tall pole, smooth gas spring |
+| [WALI Single Monitor Mount](https://www.amazon.com/dp/B0DGPZR6P1?tag=__AMAZON_TAG__) | ~$30 | Dual-arm setups | Solid base, good cable management |
+| [ErGear Single Monitor Arm](https://www.amazon.com/dp/B0GWW758T8?tag=__AMAZON_TAG__) | ~$40 | Height-adjustable workstations | Tall pole, smooth gas spring |
 
-## [HUANUO Single Monitor Mount](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+## [HUANUO Single Monitor Mount](https://www.amazon.com/dp/B07CHKWNKC?tag=__AMAZON_TAG__)
 
 **Price:** ~$30
 
@@ -44,7 +44,7 @@ The downsides are minor. The tension adjustment requires a hex key—you will ne
 
 Who should buy it: If you have a standard 24-inch office monitor and just want to get it off the desk without thinking too hard, this is your arm. It is the best value in this list.
 
-## [VIVO Single Monitor Arm](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+## [VIVO Single Monitor Arm](https://www.amazon.com/dp/B07TWYHCZH?tag=__AMAZON_TAG__)
 
 **Price:** ~$35
 
@@ -56,7 +56,7 @@ The downsides: The gas spring is not the smoothest. You will feel a slight "catc
 
 Who should buy it: If you have a heavy 27-inch monitor that other budget arms cannot lift, the VIVO is your safest bet. It prioritizes strength over sleekness.
 
-## [MOUNTUP Single Monitor Mount](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+## [MOUNTUP Single Monitor Mount](https://www.amazon.com/dp/B07Z7ZGHD5?tag=__AMAZON_TAG__)
 
 **Price:** ~$32
 
@@ -80,7 +80,7 @@ The downsides are real. The plastic parts feel cheap, and the tilt adjustment is
 
 Who should buy it: If you are on a strict budget and need a functional arm for a secondary monitor or a guest desk, the F80 does the job. Just do not expect premium feel.
 
-## [WALI Single Monitor Mount](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+## [WALI Single Monitor Mount](https://www.amazon.com/dp/B0DGPZR6P1?tag=__AMAZON_TAG__)
 
 **Price:** ~$30
 
@@ -92,7 +92,7 @@ The main downside is that setup is more involved. You will spend a few extra min
 
 Who should buy it: If you want an arm that will last a decade without mechanical failure, the WALI is the low-maintenance choice. It is also great for desks with thick edges.
 
-## [ErGear Single Monitor Arm](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+## [ErGear Single Monitor Arm](https://www.amazon.com/dp/B0GWW758T8?tag=__AMAZON_TAG__)
 
 **Price:** ~$40
 
@@ -106,4 +106,4 @@ Who should buy it: If you want the most adjustable and best-looking budget arm, 
 
 ## The bottom line
 
-You do not need to spend $150 on a monitor arm to fix your posture. For under $50, the [HUANUO Single Monitor Mount](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the best all-around pick for most people—it is cheap, reliable, and easy to install. If you have a heavy monitor, go with the [VIVO Single Monitor Arm](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). If you have an ultrawide, grab the [MOUNTUP Single Monitor Mount](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). And if you are truly broke, the [NB North Bayou F80](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) will hold your screen off the desk without complaint. Measure your desk, check your VESA pattern, and pick one. Your neck will thank you.
+You do not need to spend $150 on a monitor arm to fix your posture. For under $50, the [HUANUO Single Monitor Mount](https://www.amazon.com/dp/B07CHKWNKC?tag=__AMAZON_TAG__) is the best all-around pick for most people—it is cheap, reliable, and easy to install. If you have a heavy monitor, go with the [VIVO Single Monitor Arm](https://www.amazon.com/dp/B07TWYHCZH?tag=__AMAZON_TAG__). If you have an ultrawide, grab the [MOUNTUP Single Monitor Mount](https://www.amazon.com/dp/B07Z7ZGHD5?tag=__AMAZON_TAG__). And if you are truly broke, the [NB North Bayou F80](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) will hold your screen off the desk without complaint. Measure your desk, check your VESA pattern, and pick one. Your neck will thank you.

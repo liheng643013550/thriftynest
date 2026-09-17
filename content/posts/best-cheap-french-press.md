@@ -25,11 +25,11 @@ Before you buy, keep these five things in mind. They make the difference between
 
 | Product | Price | Best For | Key Pros |
 | :--- | :--- | :--- | :--- |
-| [Secura French Press](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$20 | All-around value | Double screen filter, sturdy build, easy to clean |
-| [Coffee Gator French Press](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$24 | Durability & insulation | Double-wall stainless steel, keeps coffee hot, no broken glass |
-| [Frieling French Press](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$25 | Long-term durability | Mirror-polished stainless steel, 3-screen filter, lifetime warranty |
-| [Bodum Chambord French Press](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$20 | Classic style & looks | Iconic design, reliable performance, easy to find replacement parts |
-| [OVENTE French Press](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$15 | Tight budgets | Very affordable, borosilicate glass resists thermal shock, simple design |
+| [Secura French Press](https://www.amazon.com/dp/B00JE36GLQ?tag=__AMAZON_TAG__) | ~$20 | All-around value | Double screen filter, sturdy build, easy to clean |
+| [Coffee Gator French Press](https://www.amazon.com/dp/B01N1UWJAW?tag=__AMAZON_TAG__) | ~$24 | Durability & insulation | Double-wall stainless steel, keeps coffee hot, no broken glass |
+| [Frieling French Press](https://www.amazon.com/dp/B004XGBMB8?tag=__AMAZON_TAG__) | ~$25 | Long-term durability | Mirror-polished stainless steel, 3-screen filter, lifetime warranty |
+| [Bodum Chambord French Press](https://www.amazon.com/dp/B00PW537KS?tag=__AMAZON_TAG__) | ~$20 | Classic style & looks | Iconic design, reliable performance, easy to find replacement parts |
+| [OVENTE French Press](https://www.amazon.com/dp/B09MDNMJRC?tag=__AMAZON_TAG__) | ~$15 | Tight budgets | Very affordable, borosilicate glass resists thermal shock, simple design |
 | [Mueller French Press](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$18 | Everyday basic use | 4-level filter system, heat-resistant glass, no plastic parts |
 
 ## Secura French Press

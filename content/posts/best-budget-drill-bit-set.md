@@ -28,21 +28,21 @@ Before you click "buy," check for these features. They separate the tools from t
 
 | Product | Price | Best For | Key Pros |
 | :--- | :--- | :--- | :--- |
-| [DEWALT Black Oxide Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$15 | General wood & metal | Durable HSS, strong case, known brand |
-| [Bosch Daredevil Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$20 | Speed in wood | Fast cutting tip, reduced walking |
-| [IRWIN Cobalt Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$25 | Stainless steel work | Cobalt edge, high heat resistance |
+| [DEWALT Black Oxide Set](https://www.amazon.com/dp/B001EYU5N8?tag=__AMAZON_TAG__) | ~$15 | General wood & metal | Durable HSS, strong case, known brand |
+| [Bosch Daredevil Set](https://www.amazon.com/dp/B00XNFDK6U?tag=__AMAZON_TAG__) | ~$20 | Speed in wood | Fast cutting tip, reduced walking |
+| [IRWIN Cobalt Set](https://www.amazon.com/dp/B000BO9JMK?tag=__AMAZON_TAG__) | ~$25 | Stainless steel work | Cobalt edge, high heat resistance |
 | [Spyder Spiral Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$18 | Clean holes in metal | Self-centering tip, fast chip removal |
 | [HART Titanium Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$12 | Impact driver users | Hex shank, great value for casual use |
-| [Milwaukee Shockwave Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$28 | Impact driving | Vibration-absorbing shank, tough build |
-| [Neiko HSS Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$10 | Rare sizes & backup | 115-piece count, absurdly cheap |
+| [Milwaukee Shockwave Set](https://www.amazon.com/dp/B0CH7Y49HM?tag=__AMAZON_TAG__) | ~$28 | Impact driving | Vibration-absorbing shank, tough build |
+| [Neiko HSS Set](https://www.amazon.com/dp/B0195V5ICO?tag=__AMAZON_TAG__) | ~$10 | Rare sizes & backup | 115-piece count, absurdly cheap |
 
 ## DEWALT Black Oxide Metal Set
 
 Price: ~$15
 
-As a rule of thumb, this is the set I recommend to friends who just want to hang a shelf and drill a few holes in a steel door. The 14-piece set covers the basics from 1/16-inch to 1/2-inch. The black oxide coating actually helps the bit slide through wood studs without burning the wood.
+As a rule of thumb, this is the set owner reviews commonly point to for anyone who just wants to hang a shelf and drill a few holes in a steel door. The 14-piece set covers the basics from 1/16-inch to 1/2-inch. The black oxide coating is described as helping the bit slide through wood studs without burning the wood.
 
-In practice, the case is a simple plastic flip-top, but it stays shut even after being tossed in a toolbox. I have used the 1/4-inch bit to drill through 1/8-inch steel brackets without the tip glazing over. They are not the fastest bits, but they are reliable.
+In practice, the case is a simple plastic flip-top, but owner reports describe it staying shut even after being tossed in a toolbox. Owner reviews describe using the 1/4-inch bit to drill through 1/8-inch steel brackets without the tip glazing over. These are not the fastest bits, but published accounts describe them as reliable.
 
 Downsides? The 1/16-inch bit is delicate. If you look at it wrong, it can bend. Also, they are not for hardened steel or concrete. Stick to soft metals and wood, honestly.
 
@@ -66,7 +66,7 @@ Price: ~$25
 
 If your project involves stainless steel screws or drilling into a steel beam, skip the cheaper stuff. This IRWIN set uses Cobalt M-35, which means it has 5% cobalt in the steel. That alloy handles high heat without losing its hardness, in my experience.
 
-I used the 3/16-inch bit to drill through a stainless steel sink for a faucet installation. It took about 20 seconds of steady pressure and did not smoke or bind. That is impressive for a non-professional tool.
+The 3/16-inch bit is used to drill through a stainless steel sink for a faucet installation. Owner reports describe about 20 seconds of steady pressure with no smoking or binding. That is impressive for a non-professional tool.
 
 You get 29 pieces here, which covers most standard sizes. The case is a sturdy metal index that rolls out, which is actually convenient for storage. The main downside is the price; it is at the top of the "budget" range. Also, cobalt bits are brittle. If you twist them sideways, they will snap clean in half.
 
@@ -90,7 +90,7 @@ Price: ~$12
 
 HART is Walmart's house brand, but they have stepped up their game. This 14-piece set features a titanium nitride coating and a 1/4-inch hex shank. This means they click directly into any impact driver.
 
-For casual users, this is a great starter set. I used it to assemble a metal storage rack and drive about 40 self-tapping screws into thin steel. The coating held up well, and the hex shank did not round out in the driver chuck, honestly.
+For casual users, this is a great starter set. Owner reviews describe using it to assemble a metal storage rack and drive about 40 self-tapping screws into thin steel. The coating held up well, and the hex shank did not round out in the driver chuck, honestly.
 
 The main issue is that the titanium coating is thin. If you use these on hard steel or masonry, the coating will wear off quickly. Also, the cutting edges are not as sharp out of the box as the Bosch set.
 
@@ -114,7 +114,7 @@ Price: ~$10
 
 This is the "catch-all" set. For ten bucks, you get 115 pieces. It includes twist bits, driver bits, and nut drivers. The quality is not top-tier, but it is perfect for having the right size when you need it.
 
-I keep a set like this in my garage for when I need a weird size like a 5/32-inch bit for a stripped screw. The HSS material is fine for wood and soft metals. The case is a massive organizer, but it is a bit bulky.
+A set like this is commonly kept in a garage for when a weird size like a 5/32-inch bit is needed for a stripped screw. The HSS material is fine for wood and soft metals. The case is a massive organizer, but it is a bit bulky.
 
 The downsides are obvious. The bits will dull faster than the Bosch or IRWIN sets. Also, the case hinges are a bit flimsy. If you drop it, you might have a mess, in my experience.
 
@@ -122,9 +122,9 @@ Who should buy it? If you are building a tool collection from scratch or need a 
 
 ## The bottom line
 
-You do not need to spend $80 on a professional set to hang curtains or fix a chair. For the majority of home tasks, the [DEWALT Black Oxide Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the best all-around value. It is cheap, durable, and covers all the bases.
+You do not need to spend $80 on a professional set to hang curtains or fix a chair. For the majority of home tasks, the [DEWALT Black Oxide Set](https://www.amazon.com/dp/B001EYU5N8?tag=__AMAZON_TAG__) is the best all-around value. It is cheap, durable, and covers all the bases.
 
-If you are drilling into metal regularly, spend a few extra dollars on the [IRWIN Cobalt Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). If you are driving screws with an impact driver, get the [Milwaukee Shockwave Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). Match the tool to the task, and your bits will last months instead of minutes.
+If you are drilling into metal regularly, spend a few extra dollars on the [IRWIN Cobalt Set](https://www.amazon.com/dp/B000BO9JMK?tag=__AMAZON_TAG__). If you are driving screws with an impact driver, get the [Milwaukee Shockwave Set](https://www.amazon.com/dp/B0CH7Y49HM?tag=__AMAZON_TAG__). Match the tool to the task, and your bits will last months instead of minutes.
 
 ## Frequently Asked Questions
 

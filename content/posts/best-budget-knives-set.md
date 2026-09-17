@@ -27,12 +27,12 @@ Before you click "add to cart," here is what actually matters when you are shopp
 | Product | Price | Best For | Key Pros |
 | :--- | :--- | :--- | :--- |
 | [KitchenAid Classic Multi-Purpose Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $30-$40 | First apartment | Great value, self-sharpening block |
-| [Cuisinart Advantage Color Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $20-$30 | Students | Ultra-cheap, lightweight, colorful |
-| [Mercer Culinary Renaissance Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $50-$70 | Home cooks who care | Professional quality, razor-sharp out of box |
+| [Cuisinart Advantage Color Set](https://www.amazon.com/dp/B08FSGKS6S?tag=__AMAZON_TAG__) | $20-$30 | Students | Ultra-cheap, lightweight, colorful |
+| [Mercer Culinary Renaissance Set](https://www.amazon.com/dp/B0034612OK?tag=__AMAZON_TAG__) | $50-$70 | Home cooks who care | Professional quality, razor-sharp out of box |
 | [Chicago Cutlery Fusion 17-Piece Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $40-$50 | Full kitchen needs | Massive set, includes shears and steels |
 | [HENCKELS Statement 15-Piece Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $60-$80 | Everyday family meals | German-engineered, durable blades |
-| [Imarku 8-Piece Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $40-$50 | Heavy-duty chopping | Aesthetic design, sturdy full tang |
-| [Victorinox Fibrox Pro Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $50-$70 | Serious value seekers | Grip is unbeatable, no frills |
+| [Imarku 8-Piece Set](https://www.amazon.com/dp/B0H8D1BYBL?tag=__AMAZON_TAG__) | $40-$50 | Heavy-duty chopping | Aesthetic design, sturdy full tang |
+| [Victorinox Fibrox Pro Set](https://www.amazon.com/dp/B0016O8PGA?tag=__AMAZON_TAG__) | $50-$70 | Serious value seekers | Grip is unbeatable, no frills |
 
 ## KitchenAid Classic Multi-Purpose Set
 
@@ -48,7 +48,7 @@ The downside is that the handles are a bit generic and can feel slippery if your
 
 **Price:** Around $25
 
-If you are on an extremely tight budget or outfitting a dorm room, the [Cuisinart Advantage Color Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is hard to beat. It usually comes with a chef's knife, a bread knife, and a paring knife, all with bright, colorful handles that make them easy to spot in a drawer.
+If you are on an extremely tight budget or outfitting a dorm room, the [Cuisinart Advantage Color Set](https://www.amazon.com/dp/B08FSGKS6S?tag=__AMAZON_TAG__) is hard to beat. It usually comes with a chef's knife, a bread knife, and a paring knife, all with bright, colorful handles that make them easy to spot in a drawer.
 
 These knives are incredibly lightweight. They are made with a high-carbon stainless steel blade, but the construction is stamped and thin. This makes them very easy to maneuver, especially for people with smaller hands. The colored handles are also durable and won't fade or crack easily.
 
@@ -58,7 +58,7 @@ The biggest downside is that they are not meant for heavy-duty tasks. Chopping t
 
 **Price:** Around $65
 
-Mercer is a name that is well-known in professional culinary schools, but the [Mercer Culinary Renaissance Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) brings that quality into a home-friendly package. This set usually includes a chef's knife, a paring knife, and a utility knife, and it is the best option if you care about the "feel" of the knife.
+Mercer is a name that is well-known in professional culinary schools, but the [Mercer Culinary Renaissance Set](https://www.amazon.com/dp/B0034612OK?tag=__AMAZON_TAG__) brings that quality into a home-friendly package. This set usually includes a chef's knife, a paring knife, and a utility knife, and it is the best option if you care about the "feel" of the knife.
 
 What makes it great is the blade geometry. These knives are forged and feature a tapered edge that is incredibly sharp right out of the box. The handles are a textured Santoprene material that provides a secure grip even when wet. They are also perfectly balanced, making them feel much more expensive than they are.
 
@@ -88,7 +88,7 @@ The downside is the price point—it is at the top of the "budget" range. Also, 
 
 **Price:** Around $50
 
-If you want your kitchen tools to look good without breaking the bank, the [Imarku 8-Piece Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a top contender. This set usually includes a chef's knife, a bread knife, a utility knife, a santoku, and several paring knives, all with a sleek, modern design.
+If you want your kitchen tools to look good without breaking the bank, the [Imarku 8-Piece Set](https://www.amazon.com/dp/B0H8D1BYBL?tag=__AMAZON_TAG__) is a top contender. This set usually includes a chef's knife, a bread knife, a utility knife, a santoku, and several paring knives, all with a sleek, modern design.
 
 What makes it great is the build quality. The knives feature a full tang that extends through the handle, and the handles are made from a durable polymer that is comfortable to hold. The blades are high-carbon stainless steel and come extremely sharp. They have a nice weight to them that helps with chopping, giving you more momentum with less effort.
 
@@ -98,7 +98,7 @@ The downside is that the set includes a lot of similar knives, and some of the s
 
 **Price:** Around $60
 
-Victorinox is famous for making the Swiss Army Knife, but they also make some of the best budget culinary tools in the world. The [Victorinox Fibrox Pro Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the no-frills, function-first option. It typically includes a chef's knife, a bread knife, and a paring knife.
+Victorinox is famous for making the Swiss Army Knife, but they also make some of the best budget culinary tools in the world. The [Victorinox Fibrox Pro Set](https://www.amazon.com/dp/B0016O8PGA?tag=__AMAZON_TAG__) is the no-frills, function-first option. It typically includes a chef's knife, a bread knife, and a paring knife.
 
 What makes it great is the handle. The Fibrox handle is a textured, non-slip grip that is incredibly comfortable and safe. It is the handle that many professional kitchens actually use. The blades are razor-sharp and very thin, which allows for precise cuts. They are also incredibly lightweight, which reduces wrist fatigue during long prep sessions.
 
@@ -106,4 +106,4 @@ The downside is that they are not pretty. They look like industrial tools, and t
 
 ## The bottom line
 
-You truly do not need to spend $200 to get a functional knife set. If you want the best all-around deal that includes everything, the [Chicago Cutlery Fusion Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) offers the most value for the size. If you want the best performance for actual cooking, the [Mercer Culinary Renaissance Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) or the [Victorinox Fibrox Pro Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) will outperform sets twice their price. Stick to the criteria above, pick the one that fits your storage and cooking style, and you will be set for years without a dent in your wallet.
+You truly do not need to spend $200 to get a functional knife set. If you want the best all-around deal that includes everything, the [Chicago Cutlery Fusion Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) offers the most value for the size. If you want the best performance for actual cooking, the [Mercer Culinary Renaissance Set](https://www.amazon.com/dp/B0034612OK?tag=__AMAZON_TAG__) or the [Victorinox Fibrox Pro Set](https://www.amazon.com/dp/B0016O8PGA?tag=__AMAZON_TAG__) will outperform sets twice their price. Stick to the criteria above, pick the one that fits your storage and cooking style, and you will be set for years without a dent in your wallet.

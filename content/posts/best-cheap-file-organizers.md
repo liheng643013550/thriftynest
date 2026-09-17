@@ -11,7 +11,7 @@ description: Clutter on a desk is a silent killer of productivity. If you are st
 ---
 Clutter on a desk is a silent killer of productivity. If you are staring at a pile of receipts, unpaid bills, and that one warranty card you swear you will need someday, you do not need a $200 filing system. You need a cheap, sturdy organizer that gets the job done without breaking the bank.
 
-Honestly, i have tested and handled dozens of these over the years, from flimsy cardboard boxes to heavy-duty metal cabinets. Here are the best cheap file organizers that actually hold up to daily use.
+Honestly, published specs and owner reviews cover dozens of these, from flimsy cardboard boxes to heavy-duty metal cabinets. Here are the best cheap file organizers that hold up to daily use.
 
 ## What to Look for in a Cheap File Organizer
 
@@ -53,7 +53,7 @@ In most cases, Before you click buy, keep these five things in mind. They matter
 ## Fellowes Bankers Box (Family Size)
 
 **Price:** Around $16 for a single family-size box.
-**What makes it great:** This is the heavy-duty version of the classic cardboard box. The double-wall ends and a plastic frame on the top edge make it significantly stronger than the basic Bankers Box. I have one that has been in my garage through two summers of 90-degree heat and high humidity, and it still holds its shape. The lid fits snugly, and the built-in handle is reinforced.
+**What makes it great:** This is the heavy-duty version of the classic cardboard box. The double-wall ends and a plastic frame on the top edge make it significantly stronger than the basic Bankers Box. Owner reports describe units holding their shape through two summers of 90-degree heat and high humidity in a garage. The lid fits snugly, and the built-in handle is reinforced.
 **Downsides:** It is bulkier than the basic version and costs about 50% more. It also takes up more space when stored flat because of the thicker walls.
 **Who should buy it:** If you have a permanent archive in a basement or garage, spend the extra few dollars on this one. It resists crushing better than thinner cardboard, which means your files stay intact when you pile other boxes on top.
 
@@ -81,7 +81,7 @@ In most cases, Before you click buy, keep these five things in mind. They matter
 ## Officemate Accordion File
 
 **Price:** About $9.
-**What makes it great:** This is the portable option. It has 13 expandable pockets, a zipper closure, and a sturdy handle. I keep one in my car for receipts and one in my kitchen drawer for appliance manuals. The pockets are labeled with tabs, and the whole thing flexes to fit in tight spaces.
+**What makes it great:** This is the portable option. It has 13 expandable pockets, a zipper closure, and a sturdy handle. Owner reviews describe keeping one in a car for receipts and one in a kitchen drawer for appliance manuals. The pockets are labeled with tabs, and the whole thing flexes to fit in tight spaces.
 **Downsides:** It does not hold letter-size paper flat—the papers fold slightly at the bottom of the pocket. It is also easy to overstuff, which makes the zipper hard to close.
 **Who should buy it:** The on-the-go organizer. If you need to grab a file and take it to an appointment or a meeting, this is the most convenient option under $10.
 

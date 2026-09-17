@@ -15,7 +15,7 @@ Meal prepping sounds like a big commitment, but it’s really just a way to make
 
 That said, the biggest myth is that meal prep requires buying fancy containers and expensive superfoods. That’s just not true. When you prep at home, you’re paying for ingredients, not labor or restaurant markup. A simple chicken and rice bowl might cost you $2.50 per serving at home, while the same thing delivered is easily $12. Over a week of lunches, that’s a savings of nearly $50.
 
-From real-world use, you also stop wasting food. I used to buy a bunch of fresh herbs for one recipe and watch the rest go slimy in the fridge. When you plan meals around overlapping ingredients, you use everything you buy. That’s where the real savings hide. Plus, having a ready-to-eat meal in the fridge is the cheapest defense against the 6 p.m. hunger emergency that leads to pizza delivery, honestly.
+From real-world use, you also stop wasting food. A common pattern in owner reports is buying a bunch of fresh herbs for one recipe and watching the rest go slimy in the fridge. When you plan meals around overlapping ingredients, you use everything you buy. That’s where the real savings hide. Plus, having a ready-to-eat meal in the fridge is the cheapest defense against the 6 p.m. hunger emergency that leads to pizza delivery, honestly.
 
 ## Step 1: Plan Around What You Already Have
 
@@ -82,7 +82,7 @@ Chop 1 lb of smoked sausage (kielbasa is usually the cheapest) into coins. Toss 
 
 When you have a plan, your shopping list should be short. Stick to the perimeter of the store for fresh items and hit the middle aisles for dry goods. Buy store brands for basics like rice, beans, and frozen vegetables. The generic version is often the exact same product as the name brand, just with a different label.
 
-A great investment to make this easier is a solid set of airtight storage containers. You can find a great budget-friendly bundle from brands like [Rubbermaid Brilliance](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) which are leak-proof and last for years. They are a bit of an upfront cost, but they save you from replacing cracked, cheap containers every few months.
+A great investment to make this easier is a solid set of airtight storage containers. You can find a great budget-friendly bundle from brands like [Rubbermaid Brilliance](https://www.amazon.com/dp/B07X64Z8RM?tag=__AMAZON_TAG__) which are leak-proof and last for years. They are a bit of an upfront cost, but they save you from replacing cracked, cheap containers every few months.
 
 Also, never shop hungry. I cannot stress this enough. When you’re hungry, the $4 bag of chips and the $6 deli sandwich look like essentials. Eat a snack before you go, or better yet, do your grocery shopping online for pickup. Seeing your total before you check out helps you stay disciplined and avoid impulse buys, believe it or not.
 
@@ -94,7 +94,7 @@ Meal prepping on a budget isn't about gourmet cooking or expensive equipment. It
 
 ### How long will prepped food actually last in the fridge?
 
-Most cooked proteins and grains are safe to eat for 3 to 4 days in the fridge. If you want to prep for a full week, I recommend freezing portions that you won’t eat by day four. Frozen meals are good for up to 3 months, so you can mix and match your weekly prep.
+Most cooked proteins and grains are safe to eat for 3 to 4 days in the fridge. If you want to prep for a full week, freezing portions that won’t be eaten by day four is the common recommendation. Frozen meals are good for up to 3 months, so you can mix and match your weekly prep.
 
 ### What if I don't like eating the same thing every day?
 

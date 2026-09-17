@@ -28,10 +28,10 @@ Before you buy, check these five things. They separate a good budget Dutch oven 
 | Product | Price | Best For | Key Pros |
 | --- | --- | --- | --- |
 | [Lodge 6-Quart Enameled Cast Iron Dutch Oven](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$50 | Everyday braising and baking | Cheap, sturdy, no-fuss care |
-| [Crock-Pot Artisan 5-Quart Enameled Cast Iron Dutch Oven](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$60 | Beginners and gifting | Smooth enamel, nice color options |
-| [Amazon Basics Enameled Cast Iron Dutch Oven, 6-Quart](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$40 | Tight budgets | Lowest price, decent performance |
+| [Crock-Pot Artisan 5-Quart Enameled Cast Iron Dutch Oven](https://www.amazon.com/dp/B01FJPWNKA?tag=__AMAZON_TAG__) | ~$60 | Beginners and gifting | Smooth enamel, nice color options |
+| [Amazon Basics Enameled Cast Iron Dutch Oven, 6-Quart](https://www.amazon.com/dp/B073Q9WV8S?tag=__AMAZON_TAG__) | ~$40 | Tight budgets | Lowest price, decent performance |
 | [Martha Stewart 6-Quart Enameled Cast Iron Dutch Oven](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$70 | Style on a budget | Beautiful colors, wide handles |
-| [Cuisinart Chef's Classic Enameled Cast Iron 5-Quart Dutch Oven](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$65 | Even heating | Double-coated enamel, solid lid |
+| [Cuisinart Chef's Classic Enameled Cast Iron 5-Quart Dutch Oven](https://www.amazon.com/dp/B0CG7NB5H6?tag=__AMAZON_TAG__) | ~$65 | Even heating | Double-coated enamel, solid lid |
 | [Tramontina 6.5-Quart Enameled Cast Iron Dutch Oven](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$80 | Serious home cooks | Premium feel, excellent heat retention |
 | [Lodge 6-Quart Cast Iron Dutch Oven (No Enamel)](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$35 | Camping and extreme heat | Bare cast iron, lasts forever |
 
@@ -107,6 +107,6 @@ Who should buy it: Campers, preppers, or anyone who wants a no-nonsense pot that
 
 ## The bottom line
 
-For most people, the [Lodge 6-Quart Enameled Cast Iron Dutch Oven](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the best budget pick. It’s cheap, tough, and does everything you need. If you want more style and can stretch your budget, the [Tramontina 6.5-Quart](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is worth the extra money for its premium feel. And if you’re just dipping your toes in, the [Amazon Basics 6-Quart](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) will get the job done without breaking the bank.
+For most people, the [Lodge 6-Quart Enameled Cast Iron Dutch Oven](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the best budget pick. It’s cheap, tough, and does everything you need. If you want more style and can stretch your budget, the [Tramontina 6.5-Quart](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is worth the extra money for its premium feel. And if you’re just dipping your toes in, the [Amazon Basics 6-Quart](https://www.amazon.com/dp/B073Q9WV8S?tag=__AMAZON_TAG__) will get the job done without breaking the bank.
 
 Whichever you choose, you’ll get 90% of the performance of a $300 pot for a fraction of the price. That’s a deal we can get behind.

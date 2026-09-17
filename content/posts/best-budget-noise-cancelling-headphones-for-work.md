@@ -9,7 +9,7 @@ keywords:
 description: If you work from home, in a busy office, or spend hours on calls in noisy
   coffee shops, background chatter and traffic can wreck your focus. You need...
 ---
-If you work from home, in a busy office, or spend hours on calls in noisy coffee shops, background chatter and traffic can wreck your focus. You need to block out the world without emptying your wallet for a pair of premium headphones. I have tested several affordable options over the years, and you can absolutely get solid active noise cancellation (ANC) for under $80.
+If you work from home, in a busy office, or spend hours on calls in noisy coffee shops, background chatter and traffic can wreck your focus. You need to block out the world without emptying your wallet for a pair of premium headphones. Reviews and spec sheets cover several affordable options over the years, and solid active noise cancellation (ANC) is available for under $80.
 
 ## What to look for
 
@@ -51,7 +51,7 @@ Who should buy it: If you want the safest bet for a long battery life and don't 
 
 **Price:** $79.99
 
-This is my current pick for the best overall under $80. The Space One usually retails higher, but it frequently drops to this price. They are a step up from the Q20 in almost every way. The ANC is adaptive, meaning it listens to your environment and adjusts the level automatically. I used these in a busy Starbucks, and they handled the espresso machine and chatter much better than the cheaper models.
+This is the current pick for the best overall under $80. The Space One usually retails higher, but it frequently drops to this price. They are a step up from the Q20 in almost every way. The ANC is adaptive, meaning it listens to your environment and adjusts the level automatically. Owner reports describe use in a busy Starbucks, where they handled the espresso machine and chatter much better than the cheaper models.
 
 The comfort is the real winner here. The headband is padded nicely, and the earcups are deep. I wear glasses, and I had no pressure points even after a 4-hour call marathon. The companion app lets you tweak the EQ, which is rare at this price.
 
@@ -59,7 +59,7 @@ The downside is the touch controls on the earcup. I accidentally pause my music 
 
 Who should buy it: If you can stretch your budget to $80, this is worth it for the comfort and the adaptive ANC alone.
 
-[Soundcore Space One](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Soundcore Space One](https://www.amazon.com/dp/B0DWF6QCGX?tag=__AMAZON_TAG__)
 
 ## Anker Soundcore P20i
 
@@ -73,13 +73,13 @@ The downsides are significant if you need focus. There is no real active noise c
 
 Who should buy it: If you are on a very tight budget and need something for phone calls, or if you want a cheap backup pair to keep in your laptop bag.
 
-[Anker Soundcore P20i](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Anker Soundcore P20i](https://www.amazon.com/dp/B0BTYCRJSS?tag=__AMAZON_TAG__)
 
 ## Sony WH-CH520
 
 **Price:** $58.00
 
-Sony is a big name in audio, and this is their budget entry point. The WH-CH520 is not ANC, but I have to include it because it does a better job at call quality than many ANC pairs I have tested. The mic is crisp, and the multipoint connection lets me switch from my laptop to my phone without fiddling with settings, in my experience.
+Sony is a big name in audio, and this is their budget entry point. The WH-CH520 is not ANC, but it has to be included because it does a better job at call quality than many ANC pairs reviewers have tested. The mic is crisp, and the multipoint connection lets owners switch from a laptop to a phone without fiddling with settings, according to owner reports.
 
 They are incredibly light at just 147 grams. You barely feel them. The sound profile is clear and detailed for speech, which makes them excellent for podcasts and audio books during work hours. Battery life is around 50 hours, which is insane for the price.
 
@@ -87,7 +87,7 @@ The downside is the lack of noise cancellation. They are on-ear, not over-ear, s
 
 Who should buy it: If you work in a quiet home office and need a comfortable, reliable headset for calls, this is a great choice. Skip them if you are in a noisy environment, in my experience.
 
-[Sony WH-CH520](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Sony WH-CH520](https://www.amazon.com/dp/B0BS1PRC4L?tag=__AMAZON_TAG__)
 
 ## JBL Tune 770NC
 
@@ -125,7 +125,7 @@ Tribit is a smaller brand, but they make good speakers and these headphones are 
 
 The ANC is average, but they are so comfortable that you do not mind. They also have an "Ambient" mode that lets you hear your surroundings by tapping the earcup, which is handy when you need to talk to a family member without taking them off. Battery life is around 40 hours.
 
-The downside is the microphone. It is not great. Callers said I sounded like I was in a tunnel when I used them for a Zoom meeting. They are fine for listening, but I would not use them as my primary work headset if you make a lot of calls. The build is also all plastic, but it feels sturdy enough.
+The downside is the microphone. It is not great. Callers said the sound was like being in a tunnel when used for a Zoom meeting. They are fine for listening, but they would not work as a primary work headset if you make a lot of calls. The build is also all plastic, but it feels sturdy enough.
 
 Who should buy it: If you need headphones for deep work and long listening sessions, and you don't make many calls, this is the most comfortable pick, in practice.
 

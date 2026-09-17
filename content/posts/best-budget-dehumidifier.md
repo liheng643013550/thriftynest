@@ -31,7 +31,7 @@ Before you click buy, run through this quick checklist. It saves you from buying
 | [Frigidaire FFAD2233W1](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$180 | Medium rooms | Best overall, smart controls, reliable brand |
 | [hOmeLabs 1,500 Sq. Ft Energy Star Dehumidifier](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$170 | Large basements | Huge capacity, easy drain hose setup |
 | [Midea 20-Pint Cube](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$150 | Small spaces | Ultra-quiet, app control, sleek design |
-| [Pro Breeze Electric Mini Dehumidifier](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$50 | Closets & bathrooms | Cheap, silent, zero maintenance |
+| [Pro Breeze Electric Mini Dehumidifier](https://www.amazon.com/dp/B01DC5PPWM?tag=__AMAZON_TAG__) | ~$50 | Closets & bathrooms | Cheap, silent, zero maintenance |
 | [Vremi 22-Pint Dehumidifier](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$160 | Bedrooms | Compact, auto-restart, good value |
 | [GE 22-Pint with Built-In Pump](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$230 | Window wells & low spots | Pump drains uphill, no bucket duty |
 | [Toshiba 50-Pint Smart Dehumidifier](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$200 | Whole homes | Best capacity-to-price ratio |
@@ -144,6 +144,6 @@ The downside is the noise. It is a larger compressor, and it makes a low hum tha
 
 You do not need to spend a fortune to get rid of the damp. For most people, the [Frigidaire FFAD2233W1](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the best all-around choice because it is reliable, efficient, and easy to live with.
 
-If you have a big basement, go for the [hOmeLabs 1,500 Sq. Ft Energy Star Dehumidifier](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) for the best capacity-to-price ratio. And if you just need to fix a musty closet, the [Pro Breeze Electric Mini Dehumidifier](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a no-brainer at fifty bucks.
+If you have a big basement, go for the [hOmeLabs 1,500 Sq. Ft Energy Star Dehumidifier](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) for the best capacity-to-price ratio. And if you just need to fix a musty closet, the [Pro Breeze Electric Mini Dehumidifier](https://www.amazon.com/dp/B01DC5PPWM?tag=__AMAZON_TAG__) is a no-brainer at fifty bucks.
 
 The key is to match the machine to the room size. Buy a slightly bigger unit than you think you need, set it to 50% humidity, and let it do its job. Your sinuses, your walls, and your wallet will all be better off.

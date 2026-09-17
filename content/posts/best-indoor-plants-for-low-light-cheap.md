@@ -26,12 +26,12 @@ Honestly, Before you grab the first leafy thing you see, keep these criteria in 
 
 | Product | Price | Best For | Key Pros |
 | :--- | :--- | :--- | :--- |
-| [Golden Pothos](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $15 - $20 | Hanging baskets and shelves | Vining, forgiving, fast grower |
-| [Snake Plant Laurentii](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $18 - $25 | Bedrooms and offices | Drought-proof, air purifying, upright |
-| [ZZ Plant](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $20 - $30 | Dark corners | Tolerates extreme neglect, glossy leaves |
+| [Golden Pothos](https://www.amazon.com/dp/B0H3PN93JJ?tag=__AMAZON_TAG__) | $15 - $20 | Hanging baskets and shelves | Vining, forgiving, fast grower |
+| [Snake Plant Laurentii](https://www.amazon.com/dp/B0GGLS9KWR?tag=__AMAZON_TAG__) | $18 - $25 | Bedrooms and offices | Drought-proof, air purifying, upright |
+| [ZZ Plant](https://www.amazon.com/dp/B0H29M27XQ?tag=__AMAZON_TAG__) | $20 - $30 | Dark corners | Tolerates extreme neglect, glossy leaves |
 | [Aglaonema Silver Bay](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $15 - $20 | Adding color to dim rooms | Variegated, pest resistant |
-| [Spathiphyllum (Peace Lily)](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $12 - $18 | Telling you when to water | Dramatic droop, white blooms |
-| [Cast Iron Plant](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $20 - $25 | Deep shade and temperature swings | Nearly indestructible, slow grower |
+| [Spathiphyllum (Peace Lily)](https://www.amazon.com/dp/B0FPG8QQ5Z?tag=__AMAZON_TAG__) | $12 - $18 | Telling you when to water | Dramatic droop, white blooms |
+| [Cast Iron Plant](https://www.amazon.com/dp/B0F5N5DBL2?tag=__AMAZON_TAG__) | $20 - $25 | Deep shade and temperature swings | Nearly indestructible, slow grower |
 
 ## Golden Pothos
 
@@ -43,7 +43,7 @@ That said, the downside is that it is toxic to cats and dogs. If you have a nibb
 
 ## Snake Plant (Sansevieria Laurentii)
 
-The Snake Plant, often called Mother-in-Law's Tongue, is a tall, upright plant with stiff, sword-like leaves that have yellow edges. You can find a small 6-inch pot for about $18, and it will last you years. This is the plant I recommend to people who travel for work because it can go a full month without water in the winter, in my experience.
+The Snake Plant, often called Mother-in-Law's Tongue, is a tall, upright plant with stiff, sword-like leaves that have yellow edges. A small 6-inch pot can be found for about $18, and it can last years. This is the plant often recommended to people who travel for work because it can go a full month without water in the winter, according to owner reports.
 
 It thrives on neglect. It stores water in its thick leaves, so it actually prefers to stay dry. Overwatering is the only real way to kill it. It tolerates low light better than almost anything else, though it will grow a bit slower in a dark corner. I have one in my bedroom that is about twelve feet from the nearest window, and it has been fine for three years. It also releases oxygen at night, which is a nice bonus for a sleeping space.
 
@@ -53,7 +53,7 @@ The main downside is that it is slow-growing, so don't expect it to double in si
 
 The ZZ Plant looks like it came from a futuristic movie set, with its dark green, waxy leaves that grow in a graceful arch. It is a bit pricier than others on this list, usually around $25 for a 6-inch pot, but it is worth every penny because it is genuinely unkillable, honestly.
 
-I put a ZZ Plant in my home office, which has a single small window that faces a brick wall. The plant sits about eight feet away from that window, and it has pushed out three new stems this year. It survives because its rhizomes (underground storage roots) hold water and energy. You can leave it for a month and it won't even blink. It also tolerates low humidity and dry air from heaters without any brown tips.
+A ZZ Plant is often placed in a home office with a single small window that faces a brick wall. The plant sits about eight feet away from that window, and it has pushed out three new stems this year. It survives because its rhizomes (underground storage roots) hold water and energy. It can be left for a month and it won't even blink. It also tolerates low humidity and dry air from heaters without any brown tips.
 
 The downside is that it is considered toxic to pets, and the sap can irritate sensitive skin. Also, because it grows so slowly, it can be tempting to overwater it. I only water mine every four to six weeks, and I make sure the soil is completely dry first. Buy this if you want a plant that looks modern and expensive but you are a chronic plant killer.
 

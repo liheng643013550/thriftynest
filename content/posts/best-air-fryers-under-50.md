@@ -56,7 +56,7 @@ The Bella Pro is the cheapest air fryer we'd recommend without hesitation. At ar
 
 ## Crux 3.2QT
 
-The Crux is the quietest air fryer we tested under $50. If you live in a small apartment or cook while others sleep, this matters more than you'd think. It's not the fastest, but the 3.2-quart capacity handles two servings comfortably.
+The Crux is the quietest air fryer among the models covered in published reviews under $50. If you live in a small apartment or cook while others sleep, this matters more than you'd think. It's not the fastest, but the 3.2-quart capacity handles two servings comfortably.
 
 **Downsides**: The exterior gets warm to the touch, and it takes about 30 seconds longer to preheat than the others.
 

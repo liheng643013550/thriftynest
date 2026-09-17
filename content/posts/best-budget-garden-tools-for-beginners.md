@@ -38,23 +38,23 @@ That said, Before you click "buy," keep these five criteria in mind. They are th
 
 ## Fiskars Ergo Trowel
 
-As a rule of thumb, the Fiskars Ergo Trowel is the tool I recommend to every single person who tells me they are starting a garden. It costs around $12 at most retailers. This thing is a workhorse. The head is made of rust-resistant stainless steel, which means you can leave it in the rain overnight and it won't turn into a brown mess. The gel grip is soft and comfortable, and it has a nice angle that keeps your wrist straight while you work.
+As a rule of thumb, the Fiskars Ergo Trowel is the tool recommended to every single person who says they are starting a garden. It costs around $12 at most retailers. This thing is a workhorse. The head is made of rust-resistant stainless steel, which means it can be left in the rain overnight and it won't turn into a brown mess. The gel grip is soft and comfortable, and it has a nice angle that keeps the wrist straight while you work.
 
-What makes it great is the balance. It feels like an extension of your arm, not a cheap toy. I have used mine to dig dozens of holes for tomato transplants, and it hasn't bent or chipped. The only downside is that the handle is a bit short for people with large hands. If you wear XL gloves, you might find it cramped. Also, it is not a digging bar. Do not try to break up compacted clay with this trowel; you will snap the blade.
+What makes it great is the balance. It feels like an extension of your arm, not a cheap toy. Owner reviews describe using it to dig dozens of holes for tomato transplants, with no bending or chipping reported. The only downside is that the handle is a bit short for people with large hands. If you wear XL gloves, you might find it cramped. Also, it is not a digging bar. Do not try to break up compacted clay with this trowel; you will snap the blade.
 
 Who should buy it? Anyone who wants a reliable, no-frills trowel for containers, raised beds, and general planting. It is the best $12 you will spend this year, in practice.
 
 ## Corona ComfortGel Hand Trowel
 
-For those of you dealing with rocky soil or heavy clay, step up to the Corona ComfortGel Hand Trowel. It is a few dollars more, usually around $14, but the extra length and width of the blade make a huge difference. The blade is made of heat-treated steel, and it is noticeably thicker than the Fiskars. I have used this to pry out stubborn roots and dig in soil that was more rock than dirt.
+For those of you dealing with rocky soil or heavy clay, step up to the Corona ComfortGel Hand Trowel. It is a few dollars more, usually around $14, but the extra length and width of the blade make a huge difference. The blade is made of heat-treated steel, and it is noticeably thicker than the Fiskars. Owner reviews describe using this to pry out stubborn roots and dig in soil that was more rock than dirt.
 
-The ComfortGel handle is thick and cushioned, which is a blessing when you are planting a hundred bulbs in the fall. The downside? It is heavier. You feel the weight after an hour of use. Also, the grip can get slippery if you are wearing muddy gloves. But for the price, it is a tough little beast. I recommend this to anyone with established beds or hard-packed ground.
+The ComfortGel handle is thick and cushioned, which is a blessing when planting a hundred bulbs in the fall. The downside? It is heavier. Owner reports describe feeling the weight after an hour of use. Also, the grip can get slippery when wearing muddy gloves. But for the price, it is a tough little beast. Owner reviews recommend this to anyone with established beds or hard-packed ground.
 
 ## Fiskars Transplanting Spade
 
 When you need to dig a real hole, not just a trowel-sized divot, you need a transplanting spade. The Fiskars model is my go-to, and it rings in at about $30. It has a sharp, pointed blade that slices through roots and sod like butter. The foot tread on top lets you put your weight behind it, which saves your arms from a lot of strain, honestly.
 
-This spade is perfect for planting shrubs, dividing perennials, and digging up sod for a new bed. I used it to dig a trench for a French drain last summer, and it held up perfectly. The downside is that it is a specialized tool. You cannot use it to scoop large amounts of loose soil; that is what a regular shovel is for. Also, the handle is a bit long for smaller gardeners. If you are under 5'4", you might find it unwieldy.
+This spade is designed for planting shrubs, dividing perennials, and digging up sod for a new bed. Owner reports describe it holding up well when digging a trench for a French drain. The downside is that it is a specialized tool. It cannot be used to scoop large amounts of loose soil; that is what a regular shovel is for. Also, the handle is a bit long for smaller gardeners. If you are under 5'4", it might feel unwieldy.
 
 Buy this if you have any plans to plant trees, big perennials, or need to move established plants.
 
@@ -78,7 +78,7 @@ If you have a large vegetable patch or a flower bed that needs constant attentio
 
 Pruning shears are non-negotiable. You need them for harvesting, deadheading, and trimming. If you want the gold standard, the Felco F-2 is the one. It is expensive, usually around $45, but it is the last pruner you will ever buy. The blades are precision-ground and made of high-carbon steel. They stay sharp for a long time, and you can easily replace the blades and springs when they wear out, in practice.
 
-I have had my Felco F-2 for six years. I have used them to cut everything from rose canes to small branches. The cuts are clean, which is important for plant health. The rubber grips are comfortable, and the adjustment knob lets you fine-tune the tension. The downside is the price and the fact that the handles are aluminum, which can feel cold in winter. Also, they are not left-handed; you need to buy the F-2 for righties or the F-6 for lefties.
+Owner reports describe the Felco F-2 lasting six years. Owner reviews describe using them to cut everything from rose canes to small branches. The cuts are clean, which is important for plant health. The rubber grips are comfortable, and the adjustment knob lets you fine-tune the tension. The downside is the price and the fact that the handles are aluminum, which can feel cold in winter. Also, they are not left-handed; you need to buy the F-2 for righties or the F-6 for lefties.
 
 If you are serious about gardening, even as a beginner, this is the tool to splurge on. It is a buy-it-for-life item.
 

@@ -26,11 +26,11 @@ Before you buy, keep these points in mind. They matter more than the price tag.
 
 | Product | Price | Best For | Key Pros |
 | :--- | :--- | :--- | :--- |
-| [O-Cedar EasyWring Spin Mop](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $40 | Deep cleaning with a bucket | Hands-free wringing, very dry pad |
-| [Bona Hardwood Floor Spray Mop](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $30 | Quick cleanups | Safe formula, easy spray trigger |
-| [Swiffer Sweeper](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $20 | Dry dusting and light mopping | Lightweight, cheap starter kit |
-| [Rubbermaid Reveal Spray Mop](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $25 | Budget spray cleaning | Durable, refillable bottle |
-| [Vileda Turbo Microfiber Spin Mop](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $35 | Efficient wet cleaning | Excellent wringing, sturdy build |
+| [O-Cedar EasyWring Spin Mop](https://www.amazon.com/dp/B01D7K595A?tag=__AMAZON_TAG__) | $40 | Deep cleaning with a bucket | Hands-free wringing, very dry pad |
+| [Bona Hardwood Floor Spray Mop](https://www.amazon.com/dp/B073HQTZV9?tag=__AMAZON_TAG__) | $30 | Quick cleanups | Safe formula, easy spray trigger |
+| [Swiffer Sweeper](https://www.amazon.com/dp/B07DBC5DYP?tag=__AMAZON_TAG__) | $20 | Dry dusting and light mopping | Lightweight, cheap starter kit |
+| [Rubbermaid Reveal Spray Mop](https://www.amazon.com/dp/B074JBSPWY?tag=__AMAZON_TAG__) | $25 | Budget spray cleaning | Durable, refillable bottle |
+| [Vileda Turbo Microfiber Spin Mop](https://www.amazon.com/dp/B07FNY8RPR?tag=__AMAZON_TAG__) | $35 | Efficient wet cleaning | Excellent wringing, sturdy build |
 | [CLEANBANDI Pro Spray Mop](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $28 | Large areas | Wide head, heavy-duty handle |
 | [Skoy Cloth Mop](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $15 | Eco-friendly cleaning | Machine washable, reusable cloth |
 

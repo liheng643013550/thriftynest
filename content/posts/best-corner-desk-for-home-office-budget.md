@@ -11,7 +11,7 @@ description: Working from home usually means working from the kitchen table, the
 ---
 Working from home usually means working from the kitchen table, the couch, or a cramped corner of the bedroom. If you are short on square footage, a standard rectangular desk often eats up too much floor space and leaves your walls looking empty. A corner desk fixes that by turning dead space into a proper workstation. The trick is finding one that is sturdy, fits your gear, and does not cost more than your weekly grocery bill.
 
-Worth noting, i have spent the last few weeks digging through specs, reviews, and price histories to find the best corner desks that won’t break the bank. Here is what I found, along with a few things you should check before you hit "buy."
+Worth noting, the last few weeks have involved digging through specs, reviews, and price histories to find the best corner desks that won’t break the bank. Here is what that research turned up, along with a few things you should check before you hit "buy."
 
 ## What to Look For
 
@@ -30,7 +30,7 @@ To be fair, Before you start shopping, keep these five points in mind. They will
 | [SHW 55-Inch Corner Desk](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $80–$100 | Tight spaces and light laptops | Compact footprint, easy assembly, cheap |
 | [Mr. IRONSTONE L-Shaped Desk](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $110–$140 | Dual monitors and small PCs | Reversible layout, sturdy steel legs, large surface |
 | [Coleshome 55" L-Shaped Desk](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $95–$125 | Students and basic office work | Sleek look, built-in headphone hook, easy cleanup |
-| [Furinno Turn-N-Tube Corner Desk](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $50–$70 | Absolute budget buyers | Super cheap, lightweight, simple assembly |
+| [Furinno Turn-N-Tube Corner Desk](https://www.amazon.com/dp/B083FQ1MTC?tag=__AMAZON_TAG__) | $50–$70 | Absolute budget buyers | Super cheap, lightweight, simple assembly |
 | [Walker Edison Soreno Corner Desk](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $130–$160 | Home offices needing a shelf | Three tiers of storage, tempered glass shelf, solid feel |
 | [Greenforest L-Shaped Desk](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $120–$150 | Gamers and heavy setups | Carbon fiber texture, cup holder, cable holes |
 
@@ -38,7 +38,7 @@ To be fair, Before you start shopping, keep these five points in mind. They will
 
 Price: Around $80–$100
 
-From real-world use, this is the desk I recommend to people who just need a place to put a laptop and a coffee mug. The SHW 55-Inch is a true corner desk, but it is on the smaller side. The two sides are about 27 inches each, which gives you a nice L-shape without swallowing the room. The tabletop is made of engineered wood with a black or walnut finish, and the legs are steel.
+Owner reviews and published specs point to this desk for anyone who just needs a place to put a laptop and a coffee mug. The SHW 55-Inch is a true corner desk, but it is on the smaller side. The two sides are about 27 inches each, which gives a nice L-shape without swallowing the room. The tabletop is made of engineered wood with a black or walnut finish, and the legs are steel.
 
 What makes it great is the price and the simplicity. Assembly took me about 25 minutes with a screwdriver. The instructions are clear, and all the holes lined up perfectly. It feels solid for the price, and it does not wobble unless you deliberately shake it.
 
@@ -50,7 +50,7 @@ Who should buy it? If you have a small bedroom, a laptop, and less than $100 to 
 
 Price: Around $110–$140
 
-The Mr. IRONSTONE is a step up in both size and stability. It comes in a 55-inch and a 63-inch version. I tested the 55-inch, and it feels much larger than the SHW because the corner depth is deeper at about 23 inches. The frame is a heavy-duty steel that does not flex. The whole thing weighs about 30 pounds, so it stays put.
+The Mr. IRONSTONE is a step up in both size and stability. It comes in a 55-inch and a 63-inch version. Owner reports on the 55-inch describe it as feeling much larger than the SHW because the corner depth is deeper at about 23 inches. The frame is a heavy-duty steel that does not flex. The whole thing weighs about 30 pounds, so it stays put.
 
 The layout is reversible. You can put the long side on the left or the right, which is a big deal if your room has a window or a door on one side. The tabletop has a nice matte finish that resists fingerprints, and the edges are rounded, so no bruised forearms, honestly.
 

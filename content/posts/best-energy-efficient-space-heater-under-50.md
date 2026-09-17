@@ -61,7 +61,7 @@ The downsides are cosmetic. It is not the prettiest device, and the plastic casi
 
 **Who should buy it:** If you want a reliable workhorse for a small room and don't care about bells and whistles, this is your best bet. It is the definition of "just works."
 
-[Amazon Basics Ceramic Space Heater](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Amazon Basics Ceramic Space Heater](https://www.amazon.com/dp/B07V6M4MSN?tag=__AMAZON_TAG__)
 
 ## Honeywell HCE200W UberHeat
 
@@ -103,7 +103,7 @@ The downside is that it is bulkier than the other options. It takes up more floo
 
 **Who should buy it:** If you want to heat a shared living space or a larger bedroom, the oscillation makes this the best choice. It gets the heat out of the corner and into the middle of the room.
 
-[Lasko 754200 Ceramic Heater](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Lasko 754200 Ceramic Heater](https://www.amazon.com/dp/B000TKDQ5C?tag=__AMAZON_TAG__)
 
 ## Dreo Space Heater
 
@@ -117,7 +117,7 @@ The downside is that it doesn't oscillate like the Lasko, so it has a narrower h
 
 **Who should buy it:** If you want the most energy-efficient and quietest operation possible, the Dreo is the winner. It is perfect for a bedroom where you want the temperature to stay perfectly stable all night.
 
-[Dreo Space Heater](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Dreo Space Heater](https://www.amazon.com/dp/B09YXJMH87?tag=__AMAZON_TAG__)
 
 ## The Bottom Line
 

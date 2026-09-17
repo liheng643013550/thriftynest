@@ -33,9 +33,9 @@ Why a Level Is Actually a Suggestion
 
 Here is a secret that few people talk about: a bubble level can be wrong, or rather, it can be right and still look wrong. If you hang a frame level to the earth but the ceiling slants or the floor is uneven, your eye will register the frame as crooked.
 
-I learned this the hard way in my 1920s apartment where nothing is plumb. I used a laser level once and the frame looked tilted because the ceiling line was off by an inch. The better method is to step back and look at the frame relative to the furniture and architectural lines around it. If the picture is above a table, align the bottom edge of the frame parallel to the tabletop. That visual alignment matters more than what a tool says.
+This lesson comes up often in 1920s apartments where nothing is plumb. A laser level can make a frame look tilted because the ceiling line is off by an inch. The better method is to step back and look at the frame relative to the furniture and architectural lines around it. If the picture is above a table, align the bottom edge of the frame parallel to the tabletop. That visual alignment matters more than what a tool says.
 
-That said, a small [Craftsman 9-Inch Torpedo Level](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is great for a quick sanity check on a blank wall where there are no other lines to reference. It costs about six bucks and is worth having around the house. Just don't treat it as the final authority on a wall with sloped ceilings.
+That said, a small [Craftsman 9-Inch Torpedo Level](https://www.amazon.com/dp/B07RCNHV5S?tag=__AMAZON_TAG__) is great for a quick sanity check on a blank wall where there are no other lines to reference. It costs about six bucks and is worth having around the house. Just don't treat it as the final authority on a wall with sloped ceilings.
 
 The DIY Tape Level That Costs Nothing
 
@@ -51,7 +51,7 @@ If you are hanging a frame that weighs more than five pounds, stop using one hoo
 
 For heavier pieces, use two nails or two wall anchors spaced several inches apart. Mark your center point, then measure out from that center point to the left and right based on where the wire sits on the back of the frame. This spreads the load and prevents the frame from rotating.
 
-For drywall, you do not need a stud for anything under 20 pounds. Just use a standard picture hook with a steel nail. The [OOK Brand 50 lb. Picture Hanging Kit](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is my go-to. The small plastic hooks are angled down, and the nails are hardened steel. A pack of these costs less than five dollars and will hold a heavy mirror securely.
+For drywall, you do not need a stud for anything under 20 pounds. Just use a standard picture hook with a steel nail. The [OOK Brand 50 lb. Picture Hanging Kit](https://www.amazon.com/dp/B003WE9XTK?tag=__AMAZON_TAG__) is my go-to. The small plastic hooks are angled down, and the nails are hardened steel. A pack of these costs less than five dollars and will hold a heavy mirror securely.
 
 The One-Dollar Fix for Crooked Anchor Points
 

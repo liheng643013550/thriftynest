@@ -55,7 +55,7 @@ If you have a gas stove and an electric kettle, the electric kettle is almost al
 
 The purchase price matters, too. You are not just paying per boil—you are paying for the device itself.
 
-Electric kettles range from $20 to $60 for a reliable model. A basic [Hamilton Beach Electric Kettle](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) costs around $25 and lasts 3 to 5 years with daily use. A premium model like the [Cuisinart Perfectemp](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) costs $80 but has temperature presets that save time, not energy.
+Electric kettles range from $20 to $60 for a reliable model. A basic [Hamilton Beach Electric Kettle](https://www.amazon.com/dp/B07FS7SJYP?tag=__AMAZON_TAG__) costs around $25 and lasts 3 to 5 years with daily use. A premium model like the [Cuisinart Perfectemp](https://www.amazon.com/dp/B0C8Y8KNH8?tag=__AMAZON_TAG__) costs $80 but has temperature presets that save time, not energy.
 
 Stovetop kettles are cheaper upfront. A basic [OXO Good Grips Stovetop Kettle](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) costs about $35. A simple stainless steel one from Farberware can be found for $15 to $20. These last a long time—often 10 years or more—because they have no electronics to fail.
 
@@ -76,7 +76,7 @@ In these cases, the stovetop kettle is not "cheaper" per boil, but it is the low
 
 If you are a tea drinker, temperature control can save you money in a sneaky way. Electric kettles with temperature presets let you heat water to exactly 175°F for green tea or 200°F for black tea. This avoids boiling water to 212°F and then waiting for it to cool—a process that wastes electricity and time.
 
-The [Zwilling Enfinigy Electric Kettle](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) has precise temperature settings. Stovetop kettles with a whistle do not. You have to watch and guess. If you overshoot, you have wasted energy.
+The [Zwilling Enfinigy Electric Kettle](https://www.amazon.com/dp/B09X6BHBFQ?tag=__AMAZON_TAG__) has precise temperature settings. Stovetop kettles with a whistle do not. You have to watch and guess. If you overshoot, you have wasted energy.
 
 Also, consider the "reboil" habit. Many people boil a full kettle, use a cup, and then reboil the rest later. Reboiling costs the same as the first boil. An electric kettle lets you boil exactly the amount you need. A stovetop kettle often gets overfilled because you cannot see the water level easily.
 

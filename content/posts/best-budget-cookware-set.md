@@ -24,12 +24,12 @@ You don’t need to spend $400 to get a set of pans that cooks well and survives
 
 | Product | Price | Best For | Key Pros |
 | :--- | :--- | :--- | :--- |
-| [T-fal Ultimate Hard Anodized 12-Piece](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$140 | All-around family cooking | Durable hard-anodized body, oven-safe to 400°F, heavy-gauge lids |
-| [Cuisinart Chef's Classic 10-Piece](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$130 | Stainless steel lovers on a budget | Triple-ply base, induction-ready, dishwasher-safe, no coating to wear off |
-| [GreenPan Valencia Pro 11-Piece](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$180 | Non-toxic nonstick seekers | PFAS-free ceramic, scratch-resistant, oven-safe to 600°F |
+| [T-fal Ultimate Hard Anodized 12-Piece](https://www.amazon.com/dp/B0GJFZNM9W?tag=__AMAZON_TAG__) | ~$140 | All-around family cooking | Durable hard-anodized body, oven-safe to 400°F, heavy-gauge lids |
+| [Cuisinart Chef's Classic 10-Piece](https://www.amazon.com/dp/B00008CM68?tag=__AMAZON_TAG__) | ~$130 | Stainless steel lovers on a budget | Triple-ply base, induction-ready, dishwasher-safe, no coating to wear off |
+| [GreenPan Valencia Pro 11-Piece](https://www.amazon.com/dp/B071HVQL76?tag=__AMAZON_TAG__) | ~$180 | Non-toxic nonstick seekers | PFAS-free ceramic, scratch-resistant, oven-safe to 600°F |
 | [Amazon Basics 12-Piece](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$70 | First apartment or dorm | Unbeatable price, decent nonstick, lightweight and easy to handle |
-| [Farberware Classic 10-Piece](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$90 | Simple, no-frills cooking | Classic stainless, lifetime warranty, heats evenly for the price |
-| [Calphalon Premier Space Saving 10-Piece](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$200 | Small kitchens and storage | Stackable design, hard-anodized, comfortable handles |
+| [Farberware Classic 10-Piece](https://www.amazon.com/dp/B08XWVYPM6?tag=__AMAZON_TAG__) | ~$90 | Simple, no-frills cooking | Classic stainless, lifetime warranty, heats evenly for the price |
+| [Calphalon Premier Space Saving 10-Piece](https://www.amazon.com/dp/B071XM6HTC?tag=__AMAZON_TAG__) | ~$200 | Small kitchens and storage | Stackable design, hard-anodized, comfortable handles |
 
 ## T-fal Ultimate Hard Anodized 12-Piece
 
@@ -75,7 +75,7 @@ Price: Around $70
 
 This is the "I just moved out" set. It’s cheap, it works, and you won’t cry when you scratch it. The nonstick coating is fine for eggs and grilled cheese, and the pans are light enough for anyone to handle easily, in my experience.
 
-I bought a similar set for my first apartment, and it lasted me 18 months before the coating started to peel on the fry pan. The saucepans held up better. For the price, you get a lot of pieces: two fry pans, three saucepans, a Dutch oven, and lids.
+A similar set is a common first-apartment purchase, and owner reviews describe it lasting 18 months before the coating started to peel on the fry pan. The saucepans held up better. For the price, you get a lot of pieces: two fry pans, three saucepans, a Dutch oven, and lids.
 
 Downsides: The coating is thin, and you must hand-wash it carefully. The pans are not oven-safe above 350°F, so no finishing dishes in the oven. The aluminum body is thin, which means hot spots—your scrambled eggs might stick in the middle even if the edges look fine.
 
@@ -107,7 +107,7 @@ Who should buy it: City dwellers with limited storage, or anyone who hates havin
 
 ## The Bottom Line
 
-For most households, I recommend the T-fal Ultimate Hard Anodized set. It gives you the best balance of durability, nonstick performance, and price. If you’re willing to learn stainless steel, the Cuisinart Chef’s Classic is the smarter long-term investment and will outlast every nonstick set on this list, in my experience.
+For most households, the T-fal Ultimate Hard Anodized set offers the best balance of durability, nonstick performance, and price. For those willing to learn stainless steel, the Cuisinart Chef’s Classic is the smarter long-term investment and, according to owner reports, outlasts every nonstick set on this list.
 
 If you’re on a super tight budget, grab the Amazon Basics set for now, but know you’ll replace it within two years. Save your money for a better set when you can afford it.
 

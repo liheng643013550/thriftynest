@@ -27,8 +27,8 @@ Here’s a quick look at the top contenders.
 
 | Product | Price | Best For | Key Pros |
 | :--- | :--- | :--- | :--- |
-| [Amazon Basics Cat Tree](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $40-$50 | Small cats & tight spaces | Low price, easy assembly, lightweight |
-| [Feandrea Cat Tree](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $55-$60 | Multi-cat households | Sturdy build, large perch, modern look |
+| [Amazon Basics Cat Tree](https://www.amazon.com/dp/B06X6J3L65?tag=__AMAZON_TAG__) | $40-$50 | Small cats & tight spaces | Low price, easy assembly, lightweight |
+| [Feandrea Cat Tree](https://www.amazon.com/dp/B0BR561TK3?tag=__AMAZON_TAG__) | $55-$60 | Multi-cat households | Sturdy build, large perch, modern look |
 | [YUNITY Cat Tree](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $45-$55 | Tall scratching | 45-inch height, solid sisal posts |
 | [Pawz Road Cat Tree](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $50-$60 | Active jumpers | Wide base, multiple levels, good sisal |
 | [VANVENE Cat Tree](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $35-$45 | First-time buyers | Very cheap, simple design, functional |
@@ -90,7 +90,7 @@ The posts are wrapped in dense, natural sisal rope. This is important because it
 
 The Pawz Road Cat Tree is the overachiever of the budget category. It offers a little bit of everything: a tall perch, a hideaway box, and a hanging toy. The standout feature here is the base. It is wide and heavy, which provides excellent stability for a tree in this price range.
 
-The platforms are covered in a high-pile plush that is incredibly soft. My cat actually prefers sleeping on this over my actual bed. The sisal posts are thick and sturdy, holding up well to aggressive scratching. The overall height is around 40 inches, which is a good middle ground for most cats.
+The platforms are covered in a high-pile plush that is incredibly soft. Owner reviews frequently mention cats preferring to sleep on this over an actual bed. The sisal posts are thick and sturdy, described as holding up well to aggressive scratching. The overall height is around 40 inches, which is a good middle ground for most cats.
 
 **Downsides:** The plush fabric is a magnet for dirt and fur. It requires regular vacuuming to keep it looking clean. Also, the assembly process involves a lot of screws and bolts. You will definitely need to use the included wrench, and it takes a bit of elbow grease to get everything tight.
 

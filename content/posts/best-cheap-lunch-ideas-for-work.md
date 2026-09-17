@@ -15,7 +15,7 @@ If you’re tired of spending $12 to $15 on a sad desk salad or a soggy sandwich
 
 Worth noting, Before we get into the specific recipes, you need to understand a few rules that make these lunches work. I’ve been packing cold lunches for years, and these three principles prevent me from wasting food and money.
 
-First, think in components, not meals. If you pack a "grain + protein + veggie + sauce," you can mix and match all week without getting bored. Second, invest in a good insulated lunch bag. I use a simple [PackIt Freezable Lunch Bag](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) because the built-in gel lining keeps things cold for hours without needing a separate ice pack.
+First, think in components, not meals. If you pack a "grain + protein + veggie + sauce," you can mix and match all week without getting bored. Second, invest in a good insulated lunch bag. I use a simple [PackIt Freezable Lunch Bag](https://www.amazon.com/dp/B0CR1YCT2K?tag=__AMAZON_TAG__) because the built-in gel lining keeps things cold for hours without needing a separate ice pack.
 
 Honestly, Finally, do your prep on Sunday. It takes me exactly 45 minutes to wash produce, cook a batch of grains, and portion out proteins. That 45 minutes saves me roughly $40 a week, which is about $160 a month. That’s real money, in my experience.
 
@@ -31,7 +31,7 @@ A cheap version I make weekly uses a can of black beans (drained and rinsed), a 
 
 This is my go-to when I don’t have time to cook anything. It’s not a recipe; it’s an assembly job. The goal is to hit four food groups with zero cooking.
 
-I use a bento box with dividers, like the [Bentgo Fresh](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__), because it keeps everything separate. In one section, I put sliced salami or turkey from the deli counter. In another, I add cubed cheddar or pepper jack. The third section gets crackers, and the fourth gets fruits and veggies.
+I use a bento box with dividers, like the [Bentgo Fresh](https://www.amazon.com/dp/B0D3J57CJG?tag=__AMAZON_TAG__), because it keeps everything separate. In one section, I put sliced salami or turkey from the deli counter. In another, I add cubed cheddar or pepper jack. The third section gets crackers, and the fourth gets fruits and veggies.
 
 The secret to making this cheap is buying block cheese instead of pre-sliced. A block of cheddar costs $2.50 and gives me about five servings, whereas pre-sliced cheese costs double for the same amount. I also buy baby carrots and grapes in bulk. A full week of these boards costs me about $14, or $2.80 per day.
 
@@ -71,7 +71,7 @@ This lunch costs about $2.10 per serving. The peanut butter and soy sauce are pa
 
 Just because you don’t have a microwave doesn’t mean you can’t have hot food. A good thermos will keep soup hot until lunch, and you don’t have to wait in line to use the office microwave, in my experience.
 
-I use a [Stanley Classic Vacuum Bottle](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) that holds 16 ounces. In the morning, I heat up leftover soup on the stove, pour it into the pre-heated thermos (fill it with boiling water first, dump it out, then add the soup), and it stays piping hot for 6 hours.
+I use a [Stanley Classic Vacuum Bottle](https://www.amazon.com/dp/B0DDPVT25T?tag=__AMAZON_TAG__) that holds 16 ounces. In the morning, I heat up leftover soup on the stove, pour it into the pre-heated thermos (fill it with boiling water first, dump it out, then add the soup), and it stays piping hot for 6 hours.
 
 For cheap soup, I make a big pot on Sunday. A bag of lentils, a can of diced tomatoes, an onion, and a few carrots cost me about $5 total and make six servings. That’s less than $1 per lunch. I add a handful of crackers and I’m set.
 
@@ -89,7 +89,7 @@ Most of these lunches will stay fresh for 3 to 4 days in an airtight container. 
 
 ### Do I need a special lunch box for these ideas?
 
-No, but a good insulated bag helps. If you’re carrying anything with mayonnaise or dairy, you want it to stay cold for at least 4 hours. A regular brown paper bag won’t cut it. I recommend a freezable lunch bag or a simple insulated one with a small ice pack. It’s a one-time cost of about $15 to $20, and it saves you from buying $10 lunches.
+No, but a good insulated bag helps. If you’re carrying anything with mayonnaise or dairy, you want it to stay cold for at least 4 hours. A regular brown paper bag won’t cut it. A freezable lunch bag or a simple insulated one with a small ice pack is the common recommendation. It’s a one-time cost of about $15 to $20, and it saves you from buying $10 lunches.
 
 ### Can I make these lunches for less than $2 per serving?
 

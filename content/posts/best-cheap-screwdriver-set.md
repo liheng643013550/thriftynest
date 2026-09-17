@@ -52,7 +52,7 @@ Price: about $15
 
 Some people hate swapping bits. If that's you, this Stanley set gives you six fixed drivers: three Phillips, three flathead, in the sizes you actually use. The cushion-grip handles are comfortable, and the chrome-plated bars resist rust if you leave them in a garage.
 
-The steel holds up well. I've used a Stanley flathead as a light pry bar more times than I should admit, and the tip is still straight.
+The steel holds up well. Owner reports describe using a Stanley flathead as a light pry bar more times than they should admit, and the tip is still straight.
 
 Downsides: no Torx or hex, so it won't help with modern furniture or appliances. It's also not magnetic out of the box, though you can magnetize the tips with a $5 tool, in my experience.
 
@@ -62,7 +62,7 @@ Who should buy it: anyone who does a lot of painting, drywall, or basic carpentr
 
 Price: about $13
 
-This one earns its spot because of the magnets. They're stronger than most budget sets I've tried, and the compact size makes it easy to keep in a kitchen drawer. It includes several precision sizes for small screws, which is rare at this price.
+This one earns its spot because of the magnets. They're stronger than most budget sets reviewers describe, and the compact size makes it easy to keep in a kitchen drawer. It includes several precision sizes for small screws, which is rare at this price.
 
 The 12 pieces cover Phillips, flathead, and a few specialty sizes. The handles are rubberized, so they don't slip when your hands are sweaty, honestly.
 
@@ -88,7 +88,7 @@ Price: about $18
 
 If you're opening a phone, a laptop, or a game controller, you need precision drivers, not full-size ones. This TEKTON set has 28 bits in a small case, with fine tips that fit tiny screws without stripping them. The drivers are magnetic and the handles spin smoothly between your fingers.
 
-I've used this style of set to replace a laptop battery and swap a watch band, and the right-size tip makes all the difference. A sloppy fit on a 1.5 mm screw is how you end up drilling it out.
+This style of set is commonly described as suitable for replacing a laptop battery and swapping a watch band, and the right-size tip makes all the difference. A sloppy fit on a 1.5 mm screw is how you end up drilling it out.
 
 Downsides: it's not built for big jobs. The handles are thin, so you can't apply much torque. Don't try to use it on a stuck deck screw, in practice.
 

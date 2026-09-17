@@ -118,7 +118,7 @@ You don’t need a fancy kitchen, but a few tools help you cook from scratch wit
 - **Measuring cups and spoons:** You don't need a full set, just a standard set for dry and liquid.
 - **Storage containers:** Airtight containers keep grains and beans fresh and pest-free. Old mason jars work perfectly.
 
-If you need a reliable pot to start, a basic set like [Cuisinart MultiClad Pro Stainless Steel Saucepan](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a solid, budget-friendly choice that will last for years. For a knife, a [Victorinox Swiss Army Fibrox Pro Chef's Knife](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is often recommended by professional cooks and costs far less than you’d expect.
+If you need a reliable pot to start, a basic set like [Cuisinart MultiClad Pro Stainless Steel Saucepan](https://www.amazon.com/dp/B08L8F9262?tag=__AMAZON_TAG__) is a solid, budget-friendly choice that will last for years. For a knife, a [Victorinox Swiss Army Fibrox Pro Chef's Knife](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is often recommended by professional cooks and costs far less than you’d expect.
 
 ## Keeping Your Pantry Organized on a Budget
 
@@ -129,7 +129,7 @@ You don’t need a pantry makeover with fancy baskets and labels. Simple systems
 - **First in, first out.** When you buy new items, put them behind the older ones so you use the old stock first.
 - **Label with tape and marker.** Write the purchase date on the bottom of cans if you want to track freshness.
 
-A simple shelf organizer like a [SimpleHouseware Mesh Cabinet Organizer](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) can double your usable space for less than fifteen dollars.
+A simple shelf organizer like a [SimpleHouseware Mesh Cabinet Organizer](https://www.amazon.com/dp/B09CQGLRVC?tag=__AMAZON_TAG__) can double your usable space for less than fifteen dollars.
 
 ## The Bottom Line
 

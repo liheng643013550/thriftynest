@@ -81,8 +81,8 @@ Avoid using steel wool or scouring pads. These will scratch the interior surface
 
 You do not need special cleaning products, but a few tools make the job easier.
 
-- **A good microwavable bowl:** Use a Pyrex glass measuring cup. It has a handle, making it safer to remove from the hot microwave. [Pyrex Glass Measuring Cup](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
-- **Microfiber cloths:** They pick up more grime than paper towels and leave no lint. [Scrub Daddy Microfiber Cloths](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+- **A good microwavable bowl:** Use a Pyrex glass measuring cup. It has a handle, making it safer to remove from the hot microwave. [Pyrex Glass Measuring Cup](https://www.amazon.com/dp/B01GDDXDU6?tag=__AMAZON_TAG__)
+- **Microfiber cloths:** They pick up more grime than paper towels and leave no lint. [Scrub Daddy Microfiber Cloths](https://www.amazon.com/dp/B0FQ665JHD?tag=__AMAZON_TAG__)
 - **White vinegar:** The cheapest cleaning agent in your pantry. Any generic brand works; do not pay extra for "cleaning vinegar" unless you want the higher acidity.
 
 ## How Often Should You Do This?

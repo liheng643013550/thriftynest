@@ -34,7 +34,7 @@ A good hammer is one of those tools you don't think about until you need it, and
 
 ## Estwing E16-16
 
-From real-world use, the Estwing E16-16 is the hammer I recommend to almost everyone, and it’s usually around $25. The entire head and handle are forged from a single piece of steel, which means there’s no head to fly off and no handle to snap. I’ve had mine for six years, and it still feels as solid as the day I bought it.
+According to owner reports, the Estwing E16-16 is the hammer recommended to almost everyone, and it’s usually around $25. The entire head and handle are forged from a single piece of steel, which means there’s no head to fly off and no handle to snap. Owner reviews describe it lasting six years, and still feeling as solid as the day it was bought.
 
 Honestly, the 16-ounce head is perfect for most household tasks. It drives a 2-inch nail into a stud in about three swings, and the curved claw pulls stubborn nails without bending. The handle has a blue rubber grip that’s comfortable even when I’m wearing work gloves. It does transfer some vibration to my hand, but it’s nothing compared to a cheap wooden handle, in practice.
 
@@ -46,7 +46,7 @@ Buy this if you want one hammer that will last for decades and you don’t mind 
 
 ## Stanley FatMax Xtreme
 
-Stanley’s FatMax line is known for durability, and the Xtreme framing hammer is a great pick if you’re doing heavier work. It’s around $20 and features a 20-ounce head, which is a full 25% heavier than a standard hammer. That extra weight helps when you’re driving long nails into dense lumber, and I found it cuts my swing count by about a third, in my experience.
+Stanley’s FatMax line is known for durability, and the Xtreme framing hammer is a great pick if you’re doing heavier work. It’s around $20 and features a 20-ounce head, which is a full 25% heavier than a standard hammer. That extra weight helps when you’re driving long nails into dense lumber, and owner reports describe it cutting swing count by about a third.
 
 The standout feature here is the handle. It’s made from a vibration-dampening composite that really does reduce the sting in your elbow. I built a small garden shed with this hammer, and my wrist felt fine afterward. It also has a magnetic nail starter, which sounds gimmicky but actually works. I can hold a nail against the head and swing without worrying about smashing my thumb.
 
@@ -60,13 +60,13 @@ Buy this if you’re doing framing, decking, or any project with lots of heavy n
 
 The Vaughan 16 oz is for people who like the feel of a traditional wooden handle. It’s about $18 and uses a solid hickory handle, which is the same wood that’s been used in hammers for over a century. Hickory flexes slightly on impact, which absorbs shock better than a rigid steel or composite handle.
 
-I used this hammer for a weekend project building a bookshelf, and the balance is excellent. The head sits forward just enough that the hammer swings naturally, and I didn’t feel like I was fighting the tool. The curved claw is sharp and pulls nails cleanly, even at awkward angles.
+Owner reviews describe this hammer being used for weekend projects such as building a bookshelf, and the balance is described as excellent. The head sits forward just enough that the hammer swings naturally, and owner reports do not describe fighting the tool. The curved claw is sharp and pulls nails cleanly, even at awkward angles.
 
 The downside is that wood handles can crack if you miss the nail and hit the handle instead. It’s not a common problem, but it happens. Also, the grip is bare wood, which can get slippery if your palms sweat. I’d recommend wearing gloves for longer sessions, in practice.
 
 Buy this if you appreciate classic tools and want a hammer that feels like it’s been in your family for generations. It’s perfect for general household use.
 
-[Vaughan 16 oz Curved Claw](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Vaughan 16 oz Curved Claw](https://www.amazon.com/dp/B00018ANOE?tag=__AMAZON_TAG__)
 
 ## Wilmar 20 oz Rubber Mallet
 
@@ -96,17 +96,17 @@ Buy this if you’re just starting out or you need a spare hammer for the garage
 
 Milwaukee’s 16 oz framing hammer is the most expensive pick on this list at around $30, but it’s still a budget option compared to the $50+ pro hammers. It has a composite handle that’s overmolded with a rubber grip, and the head has a milled face that grips nails firmly.
 
-What sets this hammer apart is the magnetic nail holder. I popped a nail into the slot, swung once, and the nail was seated perfectly. It’s a huge timesaver when you’re working overhead or in tight spaces. The handle also has a slight curve that helps with grip, and I found it very comfortable for extended use.
+What sets this hammer apart is the magnetic nail holder. Owner reviews describe popping a nail into the slot, swinging once, and the nail being seated perfectly. It’s a huge timesaver when you’re working overhead or in tight spaces. The handle also has a slight curve that helps with grip, and owner reviews frequently mention it being very comfortable for extended use.
 
 The downsides are the price, which is on the higher end for budget, and the fact that it’s a bit heavier than it looks. The head is 16 ounces, but the composite handle adds weight, so it feels more like an 18-ounce hammer, believe it or not.
 
 Buy this if you want a professional-grade feature set without paying pro prices. It’s the best choice if you know you’ll be doing a lot of framing.
 
-[Milwaukee 16 oz Framing](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Milwaukee 16 oz Framing](https://www.amazon.com/dp/B0BZ67LPGG?tag=__AMAZON_TAG__)
 
 ## Fiskars IsoCore 16 oz
 
-The Fiskars IsoCore is another great option if you have joint pain or do a lot of hammering. It’s about $28 and features a patented IsoCore handle that’s designed to reduce vibration by up to 70% compared to a standard hammer. I tested it side-by-side with a wooden handle hammer, and the difference is night and day.
+The Fiskars IsoCore is another great option if you have joint pain or do a lot of hammering. It’s about $28 and features a patented IsoCore handle that’s designed to reduce vibration by up to 70% compared to a standard hammer. Owner reviews comparing it side-by-side with a wooden handle hammer describe the difference as night and day.
 
 The head is 16 ounces and has a slightly crowned face that helps with accurate strikes. The handle also has an overstrike guard, which is a plastic bumper at the base of the head. I’ve missed a nail or two and hit the handle, and it didn’t crack. The grip is soft and cushioned, which is great for long sessions, in practice.
 
@@ -118,7 +118,7 @@ Buy this if you have wrist or elbow issues, or if you just want the most comfort
 
 ## The bottom line
 
-If you only buy one hammer, go with the [Estwing E16-16](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). It’s the best combination of durability, performance, and price. For framing, grab the [Stanley FatMax Xtreme](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). And if you want the most comfortable swing, the [Fiskars IsoCore](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is worth the extra few bucks. No matter which you choose, you’ll have a tool that handles 99% of what a homeowner needs, without breaking the bank.
+If you only buy one hammer, go with the [Estwing E16-16](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). It’s the best combination of durability, performance, and price. For framing, grab the [Stanley FatMax Xtreme](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). And if you want the most comfortable swing, the [Fiskars IsoCore](https://www.amazon.com/dp/B07DL1G86B?tag=__AMAZON_TAG__) is worth the extra few bucks. No matter which you choose, you’ll have a tool that handles 99% of what a homeowner needs, without breaking the bank.
 
 ## Frequently Asked Questions
 

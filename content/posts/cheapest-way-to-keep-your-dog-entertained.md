@@ -15,7 +15,7 @@ Dogs are fantastic companions, but they can also be a handful when they’re bor
 
 In practice, One of the quickest ways to burn off energy is a good game of tug-of-war, but store-bought rope toys can be surprisingly pricey for what they are. Instead, I raid my own closet for old, worn-out cotton t-shirts that are beyond donating. This project takes me about five minutes and costs absolutely nothing.
 
-From real-world use, Cut the shirts into three long strips, about 3 inches wide. Tie the strips together at one end, braid them tightly, and secure the other end with a knot. This creates a durable, washable toy that my dog goes crazy for. Because it’s made of fabric, it’s also gentler on their teeth than some hard plastic toys. When it gets dirty, just toss it in the washing machine. The best part is that if it gets destroyed, you can just make another one for free, in my experience.
+From published guides, Cut the shirts into three long strips, about 3 inches wide. Tie the strips together at one end, braid them tightly, and secure the other end with a knot. This creates a durable, washable toy that owner reviews describe dogs going crazy for. Because it’s made of fabric, it’s also gentler on their teeth than some hard plastic toys. When it gets dirty, just toss it in the washing machine. The best part is that if it gets destroyed, you can just make another one for free, according to owner reports.
 
 ## Master the Art of the "Find It" Game
 
@@ -27,7 +27,7 @@ Start by having your dog sit and stay in one room. Go into another room, hide a 
 
 This might be the most underrated secret in dog parenting. Dogs don't care about the price tag on a toy; they care about the texture, the smell, and the satisfying sound of destruction. Before you recycle that Amazon delivery box, give it to your dog, in my experience.
 
-I call this the "Cardboard Box Fort." Simply take a medium or large box, put a few treats or a favorite squeaky toy inside, and fold the flaps shut. For an extra challenge, place that box inside another slightly larger box. My dog will spend a solid half-hour tearing through the layers to get to the prize. It’s messy, sure, but it’s completely free and provides a massive outlet for their natural urge to rip and shred. Just make sure you supervise them to ensure they aren't swallowing large pieces of cardboard.
+This is called the "Cardboard Box Fort." Simply take a medium or large box, put a few treats or a favorite squeaky toy inside, and fold the flaps shut. For an extra challenge, place that box inside another slightly larger box. Owners report dogs spending a solid half-hour tearing through the layers to get to the prize. It’s messy, sure, but it’s completely free and provides a massive outlet for their natural urge to rip and shred. Just make sure you supervise them to ensure they aren't swallowing large pieces of cardboard.
 
 ## Turn Meal Time Into a Puzzle
 
@@ -43,21 +43,21 @@ These methods slow down fast eaters and provide a fantastic mental workout. It t
 
 ## The Power of a Simple Tennis Ball and a Wall
 
-When you’re busy doing chores or working from home, you need a hands-free entertainment option. My dog is obsessed with fetch, but I can't always be the one throwing the ball. A simple solution is the "Wall Ball" game. It works best with a long hallway or a room with a sturdy wall.
+When you’re busy doing chores or working from home, you need a hands-free entertainment option. Many dogs are obsessed with fetch, but owners can't always be the one throwing the ball. A simple solution is the "Wall Ball" game. It works best with a long hallway or a room with a sturdy wall.
 
-I sit on the couch and just bounce a tennis ball against the wall so it ricochets back to me. My dog loves chasing the unpredictable bounces. But there’s an even easier version: I just roll the ball down the hallway, and she chases it, brings it back, and drops it at my feet. For a low-energy human, this is a win-win. It’s a zero-cost activity that gets their heart rate up without requiring me to leave my seat. If you don't have a tennis ball, a rolled-up pair of socks works just as well for indoor fetch, believe it or not.
+A person can sit on the couch and just bounce a tennis ball against the wall so it ricochets back. Dogs often love chasing the unpredictable bounces. But there’s an even easier version: just roll the ball down the hallway, and the dog chases it, brings it back, and drops it at the person’s feet. For a low-energy human, this is a win-win. It’s a zero-cost activity that gets a dog’s heart rate up without requiring the person to leave the seat. If there's no tennis ball, a rolled-up pair of socks works just as well for indoor fetch, believe it or not.
 
 ## Save Money With a Frozen Treat Lick Mat
 
 Licking is a natural, calming behavior for dogs. It releases endorphins and helps reduce anxiety. While commercial lick mats are popular, they can cost around $10 to $15. You can get the exact same effect with a cheap silicone spatula or a small, unbreakable plate from your kitchen.
 
-Here’s my recipe: spread a thin layer of plain, unsweetened peanut butter (make sure it does not contain xylitol, which is toxic to dogs) or plain Greek yogurt onto the surface. You can also mash up a little bit of banana or canned pumpkin into it. Then, freeze it for about 30 minutes. The freezing makes the licking last longer. Giving this to my dog when I need to take a phone call buys me at least 20 minutes of pure, focused silence. It’s a fantastic, low-cost tool for calming a hyperactive pup.
+Here’s a common recipe: spread a thin layer of plain, unsweetened peanut butter (make sure it does not contain xylitol, which is toxic to dogs) or plain Greek yogurt onto the surface. A little bit of banana or canned pumpkin can also be mashed into it. Then, freeze it for about 30 minutes. The freezing makes the licking last longer. Giving this to a dog when a phone call needs to be taken is reported to buy at least 20 minutes of pure, focused silence. It’s a fantastic, low-cost tool for calming a hyperactive pup.
 
 ## The "Walk and Sniff" (The Sniffari)
 
 We often think of walks as purely physical exercise, but they can be so much more. The standard "let's get from point A to point B" walk is actually boring for your dog. They experience the world through their noses, not their eyes. To make your daily walk ten times more entertaining without going any further, try a "Sniffari."
 
-Forget about the distance you cover. Instead, give your dog the entire leash length and let them stop and sniff whatever they want for as long as they want. One patch of grass can contain a week's worth of information for them. I’ve started doing this on our morning walks, and instead of a 30-minute power walk, we might only cover half a mile, but my dog is completely exhausted afterward because her brain was working so hard. You are giving them the equivalent of reading a fascinating novel, all for the price of the walk you were already going to take.
+Forget about the distance you cover. Instead, give your dog the entire leash length and let them stop and sniff whatever they want for as long as they want. One patch of grass can contain a week's worth of information for them. Owners who have started doing this on morning walks report that instead of a 30-minute power walk, they might only cover half a mile, but the dog is completely exhausted afterward because its brain was working so hard. You are giving them the equivalent of reading a fascinating novel, all for the price of the walk you were already going to take.
 
 ## Frequently Asked Questions
 

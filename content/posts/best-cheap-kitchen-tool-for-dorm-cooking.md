@@ -57,7 +57,7 @@ What fails first on cheap kettles is usually the lid hinge and the plastic aroun
 
 Who should buy it: anyone who drinks hot beverages, eats instant noodles, or wants hot water without a stove.
 
-[Hamilton Beach Electric Kettle](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Hamilton Beach Electric Kettle](https://www.amazon.com/dp/B07FS7SJYP?tag=__AMAZON_TAG__)
 
 ## Instant Pot Duo 3 Qt
 

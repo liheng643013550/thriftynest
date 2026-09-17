@@ -35,7 +35,7 @@ You spend a third of your life in bed, and if you’re sweating through the nigh
 
 Look for sheets made from **bamboo**, **linen**, or **percale cotton**. These materials are lightweight and allow for better air circulation against your skin. They feel noticeably cooler to the touch compared to standard sateen weaves.
 
-Also, consider the **Chilipad** or a similar cooling pad, but that can be pricey. A cheaper trick is to put your pillowcase in a plastic bag and stick it in the freezer for 15 minutes before bed. It feels amazing and costs nothing. For a more durable solution, the [Cooling Comforter](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a good investment for summer months, but test the fabric first—some are cooler than others.
+Also, consider the **Chilipad** or a similar cooling pad, but that can be pricey. A cheaper trick is to put your pillowcase in a plastic bag and stick it in the freezer for 15 minutes before bed. It feels amazing and costs nothing. For a more durable solution, the [Cooling Comforter](https://www.amazon.com/dp/B0CH8BK2PG?tag=__AMAZON_TAG__) is a good investment for summer months, but test the fabric first—some are cooler than others.
 
 ## Block the Heat With DIY Window Insulation
 

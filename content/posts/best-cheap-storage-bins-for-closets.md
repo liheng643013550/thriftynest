@@ -33,7 +33,7 @@ Downsides: polypropylene this thin can crack at the corners if you overload it, 
 
 Who should buy it: renters storing off-season clothes, cables, or craft supplies who want maximum bins per dollar and don't care about aesthetics.
 
-[Sterilite 16428012 Storage Box](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Sterilite 16428012 Storage Box](https://www.amazon.com/dp/B0H2M2PMZZ?tag=__AMAZON_TAG__)
 
 ## IRIS USA CNL-5 Storage Box
 
@@ -45,7 +45,7 @@ Downsides: it's smaller than it looks in photos, and the plastic is still on the
 
 Who should buy it: anyone who'll be pulling bins in and out weekly rather than once a season.
 
-[IRIS USA CNL-5 Storage Box](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[IRIS USA CNL-5 Storage Box](https://www.amazon.com/dp/B084BXK6RK?tag=__AMAZON_TAG__)
 
 ## Sterilite 19849004 Storage Basket
 
@@ -57,7 +57,7 @@ Downsides: no lid means dust settles in, and the plastic weave is decorative rat
 
 Who should buy it: renters with visible shelving who want the closet to look styled, not stocked.
 
-[Sterilite 19849004 Storage Basket](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Sterilite 19849004 Storage Basket](https://www.amazon.com/dp/B0044UMIJI?tag=__AMAZON_TAG__)
 
 ## mDesign Soft Fabric Closet Storage Bin
 
@@ -93,7 +93,7 @@ Downsides: these are genuinely lightweight. The inserts are thin, and heavy cont
 
 Who should buy it: someone furnishing a whole closet on a tight budget who needs quantity over durability.
 
-[Simple Houseware Foldable Storage Cube Bins](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Simple Houseware Foldable Storage Cube Bins](https://www.amazon.com/dp/B074841G79?tag=__AMAZON_TAG__)
 
 ## Honey-Can-Do Large Storage Bin with Lid
 

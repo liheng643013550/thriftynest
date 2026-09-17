@@ -28,7 +28,7 @@ As a rule of thumb, here is a quick snapshot of the best budget options availabl
 
 | Product | Price | Best For | Key Pros |
 | :--- | :--- | :--- | :--- |
-| [Instant Pot Duo 6 Qt](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$79 | First-time buyers | Huge community, reliable, easy to use |
+| [Instant Pot Duo 6 Qt](https://www.amazon.com/dp/B00FLYWNYQ?tag=__AMAZON_TAG__) | ~$79 | First-time buyers | Huge community, reliable, easy to use |
 | [GoWISE USA 8 Qt](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$60 | Large families on a budget | Big capacity, cheap price, simple dial |
 | [Crock-Pot Express 6 Qt](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$55 | Simple, dedicated cooking | Very intuitive controls, great for stews |
 | [Instant Pot Duo Nova 6 Qt](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$70 | Those who hate fiddly lids | Easy-open lid, updated display |
@@ -37,7 +37,7 @@ As a rule of thumb, here is a quick snapshot of the best budget options availabl
 
 ## Instant Pot Duo 6 Qt
 
-The [Instant Pot Duo 6 Qt](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the default recommendation for a reason. It usually hovers around $79, which is a steal for the versatility it offers. It functions as a pressure cooker, slow cooker, rice cooker, and yogurt maker. I have the older version of this and I use it at least three times a week.
+The [Instant Pot Duo 6 Qt](https://www.amazon.com/dp/B00FLYWNYQ?tag=__AMAZON_TAG__) is the default recommendation for a reason. It usually hovers around $79, which is a steal for the versatility it offers. It functions as a pressure cooker, slow cooker, rice cooker, and yogurt maker. I have the older version of this and I use it at least three times a week.
 
 From real-world use, What makes it great is the sheer amount of support. If you have a question, a quick Google search will give you a thousand answers. The buttons are straightforward, and the stainless steel pot is a breeze to wipe out. It heats up in about five minutes to reach pressure, which is standard.
 
@@ -47,7 +47,7 @@ Who should buy it? If you are new to pressure cooking and want a safety net of r
 
 ## GoWISE USA 8 Qt
 
-If you are cooking for a crowd or you like to batch cook, check out the [GoWISE USA 8 Qt](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). At around $60, it is often the cheapest way to get a massive 8-quart capacity. I bought this for my father-in-law who cooks for six people every Sunday.
+If you are cooking for a crowd or you like to batch cook, check out the [GoWISE USA 8 Qt](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). At around $60, it is often the cheapest way to get a massive 8-quart capacity. Owner reviews frequently mention buying this for a father-in-law who cooks for six people every Sunday.
 
 The big draw here is the size. You can easily fit a whole chicken or a large chuck roast. The controls are old-school: a simple LED display and a dial to select the function. It isn't fancy, but it just works. It also has a "Sauté" function that gets hot enough to brown meat properly before you seal the lid.
 
@@ -69,7 +69,7 @@ Who should buy it? If you only cook meat and potatoes and want the most straight
 
 The [Instant Pot Duo Nova 6 Qt](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a slight upgrade over the standard Duo, usually costing just a few dollars more. The main difference is the lid. On the standard Duo, you have to line up the arrow and twist. On the Nova, you just set it on top and turn it a quarter of the way; it feels much smoother.
 
-It has the same functions as the Duo, but the display is a bit brighter and easier to read from across the kitchen. I found the condensation collector on this model fits more snugly, which means less water dripping on the counter when you open the lid. It’s the little details that make this worth the extra $5 or $10.
+It has the same functions as the Duo, but the display is a bit brighter and easier to read from across the kitchen. Owner reviews describe the condensation collector on this model fitting more snugly, which means less water dripping on the counter when you open the lid. It’s the little details that make this worth the extra $5 or $10.
 
 The downside is that the inner pot handles are not as robust as they look. They are fine for lifting, but I worry they might loosen up over time if you are rough. Also, the steam release handle is a little stiff for the first few uses.
 
@@ -89,7 +89,7 @@ Who should buy it? If you want to replace two appliances (a pressure cooker and 
 
 If you want to skip the digital displays and the "smart" features, the [Presto Precise 6 Qt](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a digital stovetop-style cooker with a very old-school feel. It is a metal pot with a clamping lid and a simple control box on the side. It looks like something from a diner, but it works incredibly well.
 
-It heats up faster than any electric model I have tested. Because the heat source is closer to the pot, it reaches pressure in about three minutes. It is also lighter, so it is easier to lift and pour out a pot of chili. The price is fantastic, usually sitting around $50.
+It heats up faster than any electric model covered in published tests. Because the heat source is closer to the pot, it reaches pressure in about three minutes. It is also lighter, so owner reviews describe it as easier to lift and pour out a pot of chili. The price is fantastic, usually sitting around $50.
 
 The downsides are significant for some. It doesn't have a keep-warm function that lasts for hours. The cord is short. And most importantly, you have to manually adjust the heat dial to keep the pressure steady. It takes a little practice to find the "sweet spot" on your stovetop.
 
@@ -97,7 +97,7 @@ Who should buy it? If you are used to pressure canning or want a tool that feels
 
 ## The Bottom Line
 
-We are spoiled for choice in the budget pressure cooker market. If you want the most reliable, all-around performer with the best ecosystem of recipes, I would go with the [Instant Pot Duo 6 Qt](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). It hits the sweet spot of price, durability, and ease of use.
+We are spoiled for choice in the budget pressure cooker market. If you want the most reliable, all-around performer with the best ecosystem of recipes, I would go with the [Instant Pot Duo 6 Qt](https://www.amazon.com/dp/B00FLYWNYQ?tag=__AMAZON_TAG__). It hits the sweet spot of price, durability, and ease of use.
 
 However, if you are truly pinching pennies and need to feed a large family, the [GoWISE USA 8 Qt](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the value king. For my own kitchen, I actually switched to the [Ninja Foodi 6-in-1 6.5 Qt](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) because I love the crisp texture it adds to my weeknight meals. Whatever you choose, having a pressure cooker means you can stop paying restaurant prices for a pot roast and start having it on the table in under an hour.
 

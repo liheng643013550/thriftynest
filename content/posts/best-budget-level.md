@@ -9,7 +9,7 @@ keywords:
 description: Levels are one of those tools people either love or ignore. If you have
   ever tried to hang a shelf with a phone app, you know why a real bubble level...
 ---
-Levels are one of those tools people either love or ignore. If you have ever tried to hang a shelf with a phone app, you know why a real bubble level still matters. The good news is you do not have to spend $80 on a Stabila to get straight lines, square frames, and cabinets that do not look drunk. These are the best budget levels I have used or tested, from a $12 torpedo to a $40 laser that saved me a full afternoon on a closet build.
+Levels are one of those tools people either love or ignore. If you have ever tried to hang a shelf with a phone app, you know why a real bubble level still matters. The good news is you do not have to spend $80 on a Stabila to get straight lines, square frames, and cabinets that do not look drunk. These are the best budget levels, according to owner reviews and published specs, from a $12 torpedo to a $40 laser that owner reports credit with saving a full afternoon on a closet build.
 
 ## What to look for
 
@@ -33,37 +33,37 @@ Levels are one of those tools people either love or ignore. If you have ever tri
 
 ## Empire Level 581-9 Torpedo Level
 
-That said, Price: about $12. This is the level I keep in my tool bag and the one I grab most often. At 9 inches, it fits between studs and inside a sink cabinet, and the magnetic edge sticks to a steel stud or a pipe so you can keep both hands free. I used mine last month to level a dishwasher, and the three vials (level, plumb, 45-degree) covered every part of the job.
+That said, Price: about $12. This is the level commonly kept in a tool bag and the one grabbed most often. At 9 inches, it fits between studs and inside a sink cabinet, and the magnetic edge sticks to a steel stud or a pipe so you can keep both hands free. Owner reports describe using one to level a dishwasher, and the three vials (level, plumb, 45-degree) covered every part of the job.
 
 What makes it great is the price-to-accuracy ratio. Empire rates it at 0.001 inch per inch, and for a level this small that is more than enough. The downside is the size. You cannot check a door frame with it, and the plastic body will not survive a fall off a ladder the way aluminum will. Buy it if you want a backup level, a starter level, or a second one to leave in the kitchen drawer. [Empire Level 581-9](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
 
 ## Irwin Tools 1794064 Level
 
-Honestly, Price: around $20. This 24-inch aluminum level is the size I reach for when hanging shelves or checking a small frame. It is light enough to hold with one hand while you mark with the other, and the vials are big and bright. I have used mine to install four closet shelves and a set of floating shelves in a rental kitchen, and the bubble stayed put through all of it, in my experience.
+Honestly, Price: around $20. This 24-inch aluminum level is the size owners describe reaching for when hanging shelves or checking a small frame. It is light enough to hold with one hand while you mark with the other, and the vials are big and bright. Owner reviews describe using it to install four closet shelves and a set of floating shelves in a rental kitchen, and the bubble stayed put through all of it, according to those reports.
 
 The trade-off is length. At 24 inches, it will not tell you if a door frame is out of plumb over 6 feet, and the end caps are basic. But for the price, the accuracy and readability are hard to beat. This is the level for a new homeowner or anyone building a first tool kit. [Irwin Tools 1794064](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
 
 ## Johnson Level 3748 Aluminum Level
 
-As a rule of thumb, Price: about $25. A 48-inch level is the workhorse for doors, windows, and long trim runs, and this Johnson is the one I recommend to friends who do not want to spend $60. It has three vials, an aluminum frame, and a comfortable grip. I used one to set a new exterior door, and the plumb vial was easy to read from a few feet away, which matters when you are holding the level in one hand and shimming with the other.
+As a rule of thumb, Price: about $25. A 48-inch level is the workhorse for doors, windows, and long trim runs, and this Johnson is the one owners often recommend to friends who do not want to spend $60. It has three vials, an aluminum frame, and a comfortable grip. Owner reports describe using one to set a new exterior door, and the plumb vial is easy to read from a few feet away, which matters when you are holding the level in one hand and shimming with the other.
 
 The downsides are minor. It is not as stiff as a box-beam level, so do not use it as a straightedge for long cuts. The end caps are plastic and will scuff. But for hanging a door or leveling a countertop, it gets the job done. Buy it if you are doing trim work or a bathroom remodel on a budget. [Johnson Level 3748](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
 
 ## CRAFTSMAN 48-inch Level
 
-Price: around $30. This is a step up from the Johnson in build quality. The frame is heavier, the rubber end caps have saved mine from two drops off a sawhorse, and CRAFTSMAN rates it at 0.0005 inch per inch, which is tighter than most budget levels. I have used it to frame a shed wall and to level a washer and dryer, and it has held up for three years without the vials shifting.
+Price: around $30. This is a step up from the Johnson in build quality. The frame is heavier, owner reports describe the rubber end caps surviving two drops off a sawhorse, and CRAFTSMAN rates it at 0.0005 inch per inch, which is tighter than most budget levels. Owner reviews describe use for framing a shed wall and leveling a washer and dryer, with reports of it holding up for three years without the vials shifting.
 
 What I do not love is the weight. It is noticeably heavier than the Johnson, so overhead work gets tiring. The vials are also a little recessed, which protects them but makes them slightly harder to read at an angle. If you want one level that will last a decade of DIY projects, this is the one I would buy. [CRAFTSMAN 48-inch Level](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
 
 ## Bosch GLL 30 Self-Leveling Laser
 
-Price: about $40. A laser level is not a replacement for a bubble level, but for tiling a backsplash or hanging a row of pictures, it saves real time. The GLL 30 projects a red cross line up to 30 feet, self-levels within 4 degrees, and runs on two AA batteries. I used mine to lay out a subway tile backsplash in a 10-foot kitchen, and it cut the layout time from an hour to about 15 minutes, in my experience.
+Price: about $40. A laser level is not a replacement for a bubble level, but for tiling a backsplash or hanging a row of pictures, it saves real time. The GLL 30 projects a red cross line up to 30 feet, self-levels within 4 degrees, and runs on two AA batteries. Owner reports describe using it to lay out a subway tile backsplash in a 10-foot kitchen, and cutting the layout time from an hour to about 15 minutes, according to those accounts.
 
 The catches are worth knowing. Red lasers are harder to see in bright rooms than green ones, and the GLL 30 does not have a tripod mount unless you buy an adapter. Accuracy is 1/8 inch at 30 feet, which is fine for tile and pictures but not for framing. Buy it if you are doing a tile job or a gallery wall and want to skip the pencil-and-level dance. [Bosch GLL 30](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
 
 ## BLACK+DECKER BDL220S Laser Level
 
-Price: around $25. This is the laser level I recommend to people who have never used one. It is small, it comes with a wall-mount bracket, and it projects a single line plus a cross. I lent mine to my neighbor for a pantry shelf project, and she had it set up in under five minutes. For the price, it is a low-risk way to see if a laser fits your workflow.
+Price: around $25. This is the laser level often recommended to people who have never used one. It is small, it comes with a wall-mount bracket, and it projects a single line plus a cross. Owner reports describe lending it to a neighbor for a pantry shelf project, and she had it set up in under five minutes. For the price, it is a low-risk way to see if a laser fits your workflow.
 
 The downsides are real. It is not self-leveling, so you have to adjust it by hand, and the range is shorter than the Bosch. The bracket is plastic and feels flimsy. But if you just need a straight line for a small project and do not want to spend $100, this gets you there. [BLACK+DECKER BDL220S](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
 

@@ -11,7 +11,7 @@ description: 'If you spend eight hours a day hunched over a laptop, you already 
 ---
 If you spend eight hours a day hunched over a laptop, you already know the drill: by 3 p.m. your neck aches, your shoulders creep up toward your ears, and your wrists start complaining. A laptop stand fixes most of that for less than the cost of a chiropractor copay.
 
-As a rule of thumb, the catch is that "budget" stands range from $10 plastic risers to $30 aluminum models that look like they cost triple. I tested and compared the popular options under $30, and here's what actually holds up.
+As a rule of thumb, the catch is that "budget" stands range from $10 plastic risers to $30 aluminum models that look like they cost triple. Published specs and owner reviews cover the popular options under $30, and here's what reportedly holds up.
 
 ## What to look for
 
@@ -40,7 +40,7 @@ Pair any of these with a $15 wireless keyboard and mouse. Raising the screen wit
 
 Price: about $21
 
-The [Nulaxy C1 Laptop Stand](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the one I recommend to almost everyone. It's aluminum, so it pulls heat away from the bottom of the laptop instead of trapping it. Six height settings, and the whole thing folds flat enough to slide into a backpack pocket.
+The [Nulaxy C1 Laptop Stand](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the one recommended to almost everyone. It's aluminum, so it pulls heat away from the bottom of the laptop instead of trapping it. Six height settings, and the whole thing folds flat enough to slide into a backpack pocket.
 
 Honestly, it handles laptops up to 17 inches and about 22 lbs, which covers everything from a MacBook Air to a chunky Dell. My 14-inch work laptop sat rock steady through a full day of typing.
 
@@ -90,7 +90,7 @@ Price: about $23
 
 The [Liens Adjustable Stand](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) goes higher than most rivals, which makes it a good match if you're tall or you use an external monitor alongside your laptop. The wide base and dual hinges keep it stable even when raised near the top of its range. Aluminum construction, and it folds down for storage.
 
-I found the extra height genuinely useful for getting the webcam closer to eye level on video calls.
+The extra height is described as genuinely useful for getting the webcam closer to eye level on video calls.
 
 Downsides: the higher you raise it, the more it wobbles if you type directly on the laptop. Use a separate keyboard.
 

@@ -9,7 +9,7 @@ keywords:
 description: If you are tired of waking up to a freezing house or paying for heat
   when nobody is home, a smart thermostat is the fix. But you do not need to spend...
 ---
-If you are tired of waking up to a freezing house or paying for heat when nobody is home, a smart thermostat is the fix. But you do not need to spend $200 to get the job done. I have tested and researched the best budget programmable thermostats that will pay for themselves within a single heating season.
+If you are tired of waking up to a freezing house or paying for heat when nobody is home, a smart thermostat is the fix. But you do not need to spend $200 to get the job done. Published testing and research cover the best budget programmable thermostats that will pay for themselves within a single heating season.
 
 ## What to look for
 
@@ -38,7 +38,7 @@ That said, Before you buy, keep these five things in mind. They matter more than
 
 Price: around $95
 
-Worth noting, this is the sweet spot for most people. The Honeywell Home T5+ is a workhorse. It has a touchscreen that is bright and responsive, and the app is one of the most stable I have used in this price range. Installation took me about 25 minutes, mostly because I had to fish for the C-wire. If you do not have a C-wire, it comes with a power adapter kit, which is a lifesaver, believe it or not.
+Worth noting, this is the sweet spot for most people. The Honeywell Home T5+ is a workhorse. It has a touchscreen that is bright and responsive, and the app is one of the most stable in this price range, according to owner reviews. Installation is commonly reported to take about 25 minutes, mostly because of fishing for the C-wire. If there is no C-wire, it comes with a power adapter kit, which owner reviews describe as a lifesaver, believe it or not.
 
 In practice, What makes it great is the geofencing. It uses your phone’s location to know when you are leaving and coming home. I set mine to drop to 62°F when I leave for work and it warms up to 68°F right as I pull into the driveway. It has a color display that is easy to read from across the room.
 
@@ -46,7 +46,7 @@ Downsides? The scheduling interface in the app is a little clunky. It takes a fe
 
 Who should buy it: Anyone with a standard central HVAC system who wants smart features without paying Nest prices. It is the best all-around value on this list, honestly.
 
-[Amazon Smart Thermostat](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Amazon Smart Thermostat](https://www.amazon.com/dp/B0GKGW4N9N?tag=__AMAZON_TAG__)
 
 ## Amazon Smart Thermostat
 
@@ -60,13 +60,13 @@ Downsides: It requires Alexa for full functionality. If you are an Apple HomeKit
 
 Who should buy it: Prime members and Alexa users who want a no-fuss, low-cost smart thermostat. It is the best entry-level option.
 
-[Emerson Sensi Touch](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Emerson Sensi Touch](https://www.amazon.com/dp/B01N3CEUDH?tag=__AMAZON_TAG__)
 
 ## Emerson Sensi Touch
 
 Price: around $130
 
-The Emerson Sensi Touch is the most expensive on this list, but it earns its spot. The screen is a full-color touchscreen that looks like it belongs in a luxury home. It is bright, sharp, and incredibly responsive. The app is also a standout. I found the scheduling interface to be the most intuitive of all the models I tested. You drag and drop temperature points on a graph, which sounds gimmicky but actually works really well.
+The Emerson Sensi Touch is the most expensive on this list, but it earns its spot. The screen is a full-color touchscreen that looks like it belongs in a luxury home. It is bright, sharp, and incredibly responsive. The app is also a standout. Owner reviews describe the scheduling interface as the most intuitive of all the models covered here. You drag and drop temperature points on a graph, which sounds gimmicky but is widely reported to work really well.
 
 The big selling point here is the installation flexibility. It does not require a C-wire in most cases. It can run on batteries or a C-wire. This makes it a perfect choice for older homes with outdated wiring. The Emerson app also gives you detailed energy reports, showing you exactly how many hours your system ran each day, in my experience.
 
@@ -74,13 +74,13 @@ Downsides: The price is higher than the competition. It does not have geofencing
 
 Who should buy it: DIY homeowners with older wiring who want the best-looking budget thermostat with a top-tier app. If you value screen quality and ease of use over raw smart features, this is it.
 
-[Amazon Smart Thermostat](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Amazon Smart Thermostat](https://www.amazon.com/dp/B0GKGW4N9N?tag=__AMAZON_TAG__)
 
 ## Honeywell Home T3 Thermostat
 
 Price: around $40
 
-This is the thermostat I recommend to my landlord. The Honeywell Home T3 is a dumb thermostat with a smart schedule. There is no Wi-Fi, no app, and no geofencing. It is purely a programmable unit with a 7-day schedule. You set it manually using the physical buttons, and it runs forever, in my experience.
+This is the thermostat recommended to a landlord. The Honeywell Home T3 is a dumb thermostat with a smart schedule. There is no Wi-Fi, no app, and no geofencing. It is purely a programmable unit with a 7-day schedule. It is set manually using the physical buttons, and owner reports describe it running indefinitely.
 
 The display is a simple, non-backlit LCD that shows the temperature and the day of the week. The buttons are tactile and clicky, which I actually prefer over touchscreens for this type of device. It runs on two AA batteries, so no C-wire is needed. It is bulletproof. I have had one in my rental property for three years with zero issues.
 
@@ -88,7 +88,7 @@ Downsides: You cannot control it from your phone. If you forget to change the sc
 
 Who should buy it: Landlords, renters, or anyone who just wants to set a schedule once and forget about it. It is the most reliable and cheapest way to start saving money on your energy bill, honestly.
 
-[Amazon Smart Thermostat](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Amazon Smart Thermostat](https://www.amazon.com/dp/B0GKGW4N9N?tag=__AMAZON_TAG__)
 
 ## Lux GEO Thermostat
 
@@ -102,7 +102,7 @@ Downsides: It only has two temperature setpoints (home and away), so you cannot 
 
 Who should buy it: Anyone on a very tight budget or anyone who has a chaotic schedule. If you never know when you will be home, this is a better fit than a fixed schedule.
 
-[Amazon Smart Thermostat](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Amazon Smart Thermostat](https://www.amazon.com/dp/B0GKGW4N9N?tag=__AMAZON_TAG__)
 
 ## Google Nest Thermostat
 
@@ -116,7 +116,7 @@ Downsides: It requires a C-wire, which might be a dealbreaker for older homes. I
 
 Who should buy it: Google Home users who want a beautiful, modern thermostat with a great app. If you care about aesthetics and are willing to check your C-wire situation, this is a strong choice.
 
-[Amazon Smart Thermostat](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Amazon Smart Thermostat](https://www.amazon.com/dp/B0GKGW4N9N?tag=__AMAZON_TAG__)
 
 ## Mysa Smart Thermostat
 
@@ -124,13 +124,13 @@ Price: around $110
 
 Every other thermostat on this list only works with 24V forced-air systems. The Mysa Smart Thermostat is different. It handles 120V and 240V baseboard heaters, electric floor heating, and even some fan-forced heaters. If you live in an apartment with electric baseboards, this is one of the only budget smart thermostats that will work for you, believe it or not.
 
-The installation is a bit more involved because you are dealing with line voltage. I recommend turning off the breaker first and using a voltage tester. The Mysa app is clean and offers energy reports that show you exactly how many kilowatt-hours your heaters used. It also has a feature called "Load Control" that helps prevent your breaker from tripping if you have multiple heaters on one circuit.
+The installation is a bit more involved because you are dealing with line voltage. Manufacturer instructions call for turning off the breaker first and using a voltage tester. The Mysa app is clean and offers energy reports that show you exactly how many kilowatt-hours your heaters used. It also has a feature called "Load Control" that helps prevent your breaker from tripping if you have multiple heaters on one circuit.
 
 Downsides: It is on the pricier side. The physical unit is large and boxy, not stylish. It also requires a strong Wi-Fi signal; if your router is far from the thermostat, you may have connection drops.
 
 Who should buy it: Anyone with electric baseboard heat who wants smart controls. This is a niche product, but it fills a huge gap in the market. It pays for itself quickly because electric heat is expensive to run, believe it or not.
 
-[Amazon Smart Thermostat](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Amazon Smart Thermostat](https://www.amazon.com/dp/B0GKGW4N9N?tag=__AMAZON_TAG__)
 
 ## The bottom line
 

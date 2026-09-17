@@ -51,7 +51,7 @@ If you don’t want to waste water, fill a shallow bowl or baking dish with wate
 
 ## Use the “Red Dot” Strategically
 
-A laser pointer is one of the cheapest toys you can own, and most cats go crazy for it. You can buy a basic [Laser Pointer Cat Toy](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) for a few bucks.
+A laser pointer is one of the cheapest toys you can own, and most cats go crazy for it. You can buy a basic [Laser Pointer Cat Toy](https://www.amazon.com/dp/B0FHP9PT33?tag=__AMAZON_TAG__) for a few bucks.
 
 But there’s a catch: a laser never gives the cat the satisfaction of catching anything. If you use it too often, it can frustrate them. The fix is simple. End every laser session by slowly moving the dot under a piece of paper or a towel, then turn the laser off. Let the cat pounce on the spot and “catch” it. Then immediately give them a treat. That tiny moment of victory makes the whole game worth it for them.
 

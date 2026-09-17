@@ -36,9 +36,9 @@ You do not need to spend $200 to hang a shelf or build a planter box. A decent b
 
 Price: around $35.
 
-In most cases, this is the drill I recommend when someone tells me they have $40 and one afternoon to fix a wobbly cabinet door. It is light, around 2.5 pounds, and it doubles as a screwdriver. The kit includes a small set of bits, so you can start working the same day you buy it.
+In most cases, this is the drill recommended when someone has $40 and one afternoon to fix a wobbly cabinet door. It is light, around 2.5 pounds, and it doubles as a screwdriver. The kit includes a small set of bits, so work can start the same day it is bought.
 
-As a rule of thumb, What makes it great is the price-to-usefulness ratio. It runs on a 12V battery that charges in a few hours and holds enough juice for small jobs. I have used one to assemble a bookshelf and hang six picture frames on a single charge, believe it or not.
+As a rule of thumb, What makes it great is the price-to-usefulness ratio. It runs on a 12V battery that charges in a few hours and holds enough juice for small jobs. Owner reviews describe using one to assemble a bookshelf and hang six picture frames on a single charge, believe it or not.
 
 To be fair, Downsides: it lacks the torque for drilling into concrete or thick hardwood. The battery is not part of a larger tool system, so a replacement costs almost as much as the drill.
 

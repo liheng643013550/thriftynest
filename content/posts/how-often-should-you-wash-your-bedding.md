@@ -64,7 +64,7 @@ For zippered mattress protectors, wash them on a gentle cycle and air dry them. 
 
 If you hate washing sheets because they tangle up in the dryer or take forever to fold, investing in the right tools can make the task less painful. The biggest time-saver is buying a second set of sheets. That way, you can strip the bed, put on the fresh set, and wash the dirty ones at your leisure without feeling pressured to get them dry by bedtime.
 
-A good mattress protector is worth the money. Look for one that is waterproof but quiet, like the [SafeRest Premium Cotton Mattress Protector](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). It is breathable and doesn't crinkle like plastic. Similarly, a set of [Beckham Hotel Collection Gel Pillows](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is great because the gel fiber filling holds up well to repeated washing and dries quickly.
+A good mattress protector is worth the money. Look for one that is waterproof but quiet, like the [SafeRest Premium Cotton Mattress Protector](https://www.amazon.com/dp/B00B29B1NI?tag=__AMAZON_TAG__). It is breathable and doesn't crinkle like plastic. Similarly, a set of [Beckham Hotel Collection Gel Pillows](https://www.amazon.com/dp/B0DPJFB76K?tag=__AMAZON_TAG__) is great because the gel fiber filling holds up well to repeated washing and dries quickly.
 
 ## The Bottom Line
 

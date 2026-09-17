@@ -9,7 +9,7 @@ keywords:
 description: You need a laptop backpack that won't fall apart after a month, has enough
   padding to protect a work laptop, and doesn't cost more than your weekly gr...
 ---
-You need a laptop backpack that won't fall apart after a month, has enough padding to protect a work laptop, and doesn't cost more than your weekly grocery bill. I have tested dozens of bags over the years, from cheap gas-station specials to premium brands, and I know exactly where the sweet spot is for value. In this guide, I am breaking down the best budget laptop backpacks for work that actually hold up, with honest notes on where each one falls short.
+You need a laptop backpack that won't fall apart after a month, has enough padding to protect a work laptop, and doesn't cost more than your weekly grocery bill. Published reviews and owner reports cover dozens of bags over the years, from cheap gas-station specials to premium brands, and the sweet spot for value is well documented. In this guide, the best budget laptop backpacks for work that actually hold up are broken down, with honest notes on where each one falls short.
 
 ## What to Look For
 
@@ -43,19 +43,19 @@ The downsides are clear. The straps are thin and not contoured, so if you carry 
 
 Who should buy it? If you are walking five blocks to a coffee shop or taking the subway for a short ride, this bag is fine. It is not for long hikes or heavy loads. For the price, it is a no-brainer, and it easily lasts a year or two before the stitching shows wear.
 
-[Amazon Basics Classic Backpack](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Amazon Basics Classic Backpack](https://www.amazon.com/dp/B013TGESIQ?tag=__AMAZON_TAG__)
 
 ## Targus CityGear Pro
 
 **Price:** $45
 
-To be fair, Targus has been making office bags for decades, and the CityGear Pro is a solid workhorse. The laptop compartment is suspended and padded with a thick foam that I have tested by dropping it from desk height—my laptop survived without a scratch. The back panel has a nice airflow channel, and the shoulder straps are contoured with a soft, breathable mesh. It also has a luggage pass-through, which is rare at this price, honestly.
+To be fair, Targus has been making office bags for decades, and the CityGear Pro is a solid workhorse. The laptop compartment is suspended and padded with a thick foam that owner reports describe surviving drops from desk height without a scratch. The back panel has a nice airflow channel, and the shoulder straps are contoured with a soft, breathable mesh. It also has a luggage pass-through, which is rare at this price, honestly.
 
 The main downside is the fabric. It is a slightly shiny nylon that looks a bit "techy" and not very stylish. The interior pockets are adequate but not deep, so a large power brick can slip out if you open the bag upside down. The water resistance is decent, but the zippers are not sealed, so a heavy downpour will get in.
 
 Who should buy it? This is for the commuter who takes a crowded bus or train daily. The padding is good enough for a 15.6-inch work laptop, and the luggage strap is perfect for a quick business trip. It holds about 20 liters, which is enough for a laptop, a change of clothes, and a lunch box.
 
-[Targus CityGear Pro](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Targus CityGear Pro](https://www.amazon.com/dp/B07Z589W4Y?tag=__AMAZON_TAG__)
 
 ## SwissGear 1900 Scansmart
 
@@ -65,7 +65,7 @@ If you fly even once a month, this is the bag for you. The Scansmart feature mea
 
 The padding is good, though not as plush as the Targus. The back panel is padded but not ventilated, so expect a sweaty back on a warm day. The straps are decent, but the bag is large, so it can feel bulky when you are walking through a crowded terminal. The water bottle pocket is on the side and it is a bit shallow; a tall bottle can fall out when you bend over.
 
-Who should buy it? I recommend this for anyone who carries a 17-inch laptop. Most budget bags stop at 15.6 inches, but this one fits a big gaming or workstation laptop with room to spare. The price is incredible for the capacity.
+Who should buy it? This is aimed at anyone who carries a 17-inch laptop. Most budget bags stop at 15.6 inches, but this one is listed to fit a big gaming or workstation laptop with room to spare. The price is incredible for the capacity.
 
 [SwissGear 1900 Scansmart](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
 
@@ -79,7 +79,7 @@ The downside is the weight. The bag itself weighs about 2.5 pounds, which is hea
 
 Who should buy it? If you carry a 17.3-inch gaming laptop or a heavy Dell Precision workstation, this is your safest bet. The padding is the best on this list. It is overkill for a slim Ultrabook, so if you have a MacBook Air, look elsewhere.
 
-[Lenovo Legion Armored Backpack](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Lenovo Legion Armored Backpack](https://www.amazon.com/dp/B0FHQK4ZC8?tag=__AMAZON_TAG__)
 
 ## Matein Travel Laptop Backpack
 
@@ -91,7 +91,7 @@ The padding is average. It is fine for a 15.6-inch laptop, but I would not trust
 
 Who should buy it? This is the best all-rounder for a student or a young professional on a tight budget. It looks more expensive than it is, and the anti-theft features are genuinely useful for traveling in crowded cities. It holds about 25 liters, which is a good size for daily use.
 
-[Matein Travel Laptop Backpack](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Matein Travel Laptop Backpack](https://www.amazon.com/dp/B07N3WQ6H7?tag=__AMAZON_TAG__)
 
 ## Case Logic DCB-310
 
@@ -103,7 +103,7 @@ The downside is that the straps are thin and unvented, so it gets uncomfortable 
 
 Who should buy it? If you commute on a bike or walk a short distance, and you hate bulky bags, this is a great choice. It keeps your gear tidy, and the slim profile looks professional in a business casual office. It is not for heavy loads.
 
-[Case Logic DCB-310](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Case Logic DCB-310](https://www.amazon.com/dp/B0039BPG1A?tag=__AMAZON_TAG__)
 
 ## The Bottom Line
 

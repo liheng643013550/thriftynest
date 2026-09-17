@@ -35,7 +35,7 @@ Downsides: the button mechanism is the weak point. Reviews often mention that if
 
 Buy it if: you're storing dry goods long-term and want a container you can keep running with a $5 gasket instead of replacing.
 
-[OXO Good Grips POP Containers](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[OXO Good Grips POP Containers](https://www.amazon.com/dp/B07TD9QT97?tag=__AMAZON_TAG__)
 
 ### Rubbermaid Brilliance Pantry Containers
 
@@ -47,7 +47,7 @@ Downsides: the tab latches are plastic and can snap if forced. Replacement lids 
 
 Buy it if: you want airtight storage and prefer a latch lid over a button.
 
-[Rubbermaid Brilliance Pantry Containers](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Rubbermaid Brilliance Pantry Containers](https://www.amazon.com/dp/B0B1L79X41?tag=__AMAZON_TAG__)
 
 ### Progressive ProKeeper+ Bins
 
@@ -59,7 +59,7 @@ Downsides: the hinges are the failure point. Owner reviews sometimes report lids
 
 Buy it if: you want stackable bins with built-in scoops and don't need heavy-duty airtight sealing.
 
-[Progressive ProKeeper+ Bins](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Progressive ProKeeper+ Bins](https://www.amazon.com/dp/B0FT1MYG4M?tag=__AMAZON_TAG__)
 
 ### SimpleHouseware Stackable Storage Bins
 
@@ -83,7 +83,7 @@ Downsides: no replacement parts program, and the plastic is mid-grade. Some revi
 
 Buy it if: you want a specific size or shape and are okay with bins that are disposable rather than repairable.
 
-[mDesign Plastic Pantry Organizer Bins](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[mDesign Plastic Pantry Organizer Bins](https://www.amazon.com/dp/B07KJ9VF2H?tag=__AMAZON_TAG__)
 
 ### YouCopia ShelfSteps Cabinet Riser
 
@@ -107,7 +107,7 @@ Downsides: the D1 cartridges are pricey per label, and off-brand refills can jam
 
 Buy it if: you want durable labels that stick to plastic bins and don't peel in a month.
 
-[DYMO LabelManager 160 Label Maker](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[DYMO LabelManager 160 Label Maker](https://www.amazon.com/dp/B005X9VZ70?tag=__AMAZON_TAG__)
 
 ## Comparison table
 

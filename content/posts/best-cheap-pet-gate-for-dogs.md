@@ -109,7 +109,7 @@ It is taller than most at 33 inches, and the vertical slats are closely spaced, 
 
 **Who should buy it:** This is for you if the gate is going to be a permanent fixture in a visible area like a dining room or main hallway. The aesthetic upgrade is worth the extra few dollars.
 
-[Richell Wood Pet Gate](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Richell Wood Pet Gate](https://www.amazon.com/dp/B0030E5Q8E?tag=__AMAZON_TAG__)
 
 ## Cardinal Gates Stairway Specialist
 

@@ -13,7 +13,7 @@ Dogs can destroy almost anything. You know it. I know it. We have all watched a 
 
 But you also don’t want to spend $30 on a single toy that might fail. That is the real struggle. You need something that survives the jaws of doom without wrecking your monthly budget.
 
-We tested a bunch of cheap, supposedly “indestructible” toys with real power chewers. Here is what actually held up, what didn’t, and what you should buy if you are on a tight budget.
+Published reviews and owner reports cover a bunch of cheap, supposedly “indestructible” toys with real power chewers. Here is what reportedly held up, what didn’t, and what is worth considering if you are on a tight budget.
 
 ## What to Look For
 
@@ -29,12 +29,12 @@ Before you buy, ignore the marketing buzzwords. Focus on these five things.
 
 | Product | Price | Best For | Key Pros |
 | :--- | :--- | :--- | :--- |
-| [Kong Extreme](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $$ | Heavy chewers who like to gnaw | Solid rubber, fills with treats, durable |
-| [Goughnuts Indestructible Stick](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $$$ | Aggressive power chewers | Lifetime replacement warranty, natural rubber |
+| [Kong Extreme](https://www.amazon.com/dp/B0002AR0II?tag=__AMAZON_TAG__) | $$ | Heavy chewers who like to gnaw | Solid rubber, fills with treats, durable |
+| [Goughnuts Indestructible Stick](https://www.amazon.com/dp/B0997V74LL?tag=__AMAZON_TAG__) | $$$ | Aggressive power chewers | Lifetime replacement warranty, natural rubber |
 | [West Paw Zogoflex Tux](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $$ | Fetch and tug-of-war | Tough yet flexible, floats, recyclable |
-| [Nylabone Dura Chew](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $ | Aggressive chewers who like to gnaw | Very cheap, long-lasting nylon |
-| [Outward Hound Fire Biterz](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $ | Fetch fanatics | Durable rubber, squeaks, affordable |
-| [Benebone Wishbone](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $ | Flavor-driven chewers | Real bacon flavor, ergonomic grip |
+| [Nylabone Dura Chew](https://www.amazon.com/dp/B01LVU0SND?tag=__AMAZON_TAG__) | $ | Aggressive chewers who like to gnaw | Very cheap, long-lasting nylon |
+| [Outward Hound Fire Biterz](https://www.amazon.com/dp/B01MXWJ6TB?tag=__AMAZON_TAG__) | $ | Fetch fanatics | Durable rubber, squeaks, affordable |
+| [Benebone Wishbone](https://www.amazon.com/dp/B00CPDWT2M?tag=__AMAZON_TAG__) | $ | Flavor-driven chewers | Real bacon flavor, ergonomic grip |
 
 ## Kong Extreme
 
@@ -48,7 +48,7 @@ The downsides? It is not indestructible. A truly determined chewer can eventuall
 
 Who should buy it: This is the best all-around budget pick. If you have a dog that likes to settle down and chew, this is your best bet for the money.
 
-[Kong Extreme](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Kong Extreme](https://www.amazon.com/dp/B0002AR0II?tag=__AMAZON_TAG__)
 
 ## Goughnuts Indestructible Stick
 
@@ -62,7 +62,7 @@ The downside is the price. It is a lot for one toy. Also, it is heavy. You proba
 
 Who should buy it: If you have a dog that has destroyed every other toy on the market, this is the final boss. The warranty makes it a better long-term value than buying a new $10 toy every week.
 
-[Goughnuts Indestructible Stick](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Goughnuts Indestructible Stick](https://www.amazon.com/dp/B0997V74LL?tag=__AMAZON_TAG__)
 
 ## West Paw Zogoflex Tux
 
@@ -90,7 +90,7 @@ The downsides are significant. It is very hard, which can be a risk for aggressi
 
 Who should buy it: If you have a super aggressive chewer and you need something to keep them busy for hours without breaking the bank, this is it. Just watch your dog's teeth.
 
-[Nylabone Dura Chew](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Nylabone Dura Chew](https://www.amazon.com/dp/B01LVU0SND?tag=__AMAZON_TAG__)
 
 ## Outward Hound Fire Biterz
 
@@ -104,7 +104,7 @@ The downside is that they are not meant for heavy gnawing. They are designed for
 
 Who should buy it: If you have a dog that loves to chase and play with squeaky toys, this is a great budget choice. It is much more durable than a plush toy and way cheaper than a premium rubber toy.
 
-[Outward Hound Fire Biterz](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Outward Hound Fire Biterz](https://www.amazon.com/dp/B01MXWJ6TB?tag=__AMAZON_TAG__)
 
 ## Benebone Wishbone
 
@@ -118,7 +118,7 @@ The downside is the same as the Nylabone. It is very hard plastic. It is not mea
 
 Who should buy it: This is for the picky chewer who gets bored with plain rubber. If your dog loves food, this is the toy that will actually hold their attention.
 
-[Benebone Wishbone](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Benebone Wishbone](https://www.amazon.com/dp/B00CPDWT2M?tag=__AMAZON_TAG__)
 
 ## The Bottom Line
 

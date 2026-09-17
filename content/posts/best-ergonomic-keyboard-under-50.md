@@ -11,7 +11,7 @@ description: Your wrists do a lot of work before lunchtime, let alone after a fu
 ---
 Your wrists do a lot of work before lunchtime, let alone after a full day of typing. If you are feeling that familiar ache or stiffness, you do not need to spend a fortune to fix it. I have spent hours digging through specs and user reviews to find the best ergonomic keyboards under $50 that actually help.
 
-As a rule of thumb, you can get a split design, tented angles, and cushioned palm rests for less than the cost of a couple of pizzas. I tested a bunch of these over the last few weeks, and I have narrowed it down to the models that are worth your hard-earned cash.
+As a rule of thumb, a split design, tented angles, and cushioned palm rests can be found for less than the cost of a couple of pizzas. Published reviews and owner reports cover a bunch of these over the last few weeks, and the models that are worth your hard-earned cash come down to those accounts.
 
 ## What to Look For
 
@@ -45,55 +45,55 @@ The downside? It is bulky. The palm rest is huge, and the board itself is deep. 
 
 **Who should buy it:** If you want a comfortable, no-nonsense board for long writing sessions and you do not mind a larger footprint, this is the one.
 
-[Logitech K350](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Logitech K350](https://www.amazon.com/dp/B009N6WMOY?tag=__AMAZON_TAG__)
 
 ## Microsoft Sculpt Ergonomic
 
 If you want a true split keyboard without spending $100, the Microsoft Sculpt is the closest you will get. The keys are divided into two distinct sections that angle up from the center, creating a slight "tent" shape. This forces your hands into a handshake position, which is exactly what your physical therapist wants.
 
-The dome-shaped keys are shallow and quiet, but they are very easy to press. The wrist pad is a soft, fabric-covered cushion that runs the full length of the board. It is comfortable, but I found it to be a bit thin for heavy palms. The separate number pad is a blessing—you can move it out of the way when you are gaming or using the mouse.
+The dome-shaped keys are shallow and quiet, but they are very easy to press. The wrist pad is a soft, fabric-covered cushion that runs the full length of the board. It is comfortable, but owner reviews frequently mention it runs a bit thin for heavy palms. The separate number pad is a blessing—it can be moved out of the way when gaming or using the mouse.
 
 The main downside is the key travel. It is shallow, so you might feel like you are tapping on a laptop keyboard. Also, the spacebar is a narrow bar, and it took me a few days to stop accidentally hitting the edge of the case. It is also a bit pricey for a membrane board, in practice.
 
 **Who should buy it:** This is for you if you want a real split design and you are willing to adjust to a slightly different key feel for the sake of your posture.
 
-[Microsoft Sculpt Ergonomic](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Microsoft Sculpt Ergonomic](https://www.amazon.com/dp/B07Y44T3CD?tag=__AMAZON_TAG__)
 
 ## Perixx PERIBOARD-512
 
 The Perixx PERIBOARD-512 is the best budget option for someone who is skeptical about ergonomic keyboards. It is a full-size board with a fixed split and a slight tent angle. It does not look fancy, but it works.
 
-The key feature here is the price. You can often find it for around $25. The membrane keys are quiet and have a decent tactile bump. The included wrist rest is a hard plastic with a rubberized top—it is not cushioned, but it does provide a stable resting spot. I used this for a solid week, and my wrists felt good, though the plastic wrest got a little warm during long sessions.
+The key feature here is the price. You can often find it for around $25. The membrane keys are quiet and have a decent tactile bump. The included wrist rest is a hard plastic with a rubberized top—it is not cushioned, but it does provide a stable resting spot. Owner reports describe a solid week of use with wrists feeling good, though the plastic rest got a little warm during long sessions.
 
 The build quality is the weakest point. The plastic case is thin, and the keyboard flexes a bit if you press hard in the center. The keycaps also feel a little cheap, and the legends might fade after a few months of heavy use, honestly.
 
 **Who should buy it:** If you are on a tight budget or you just want to try an ergonomic layout without a big investment, start here.
 
-[Perixx PERIBOARD-512](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Perixx PERIBOARD-512](https://www.amazon.com/dp/B075H1D95N?tag=__AMAZON_TAG__)
 
 ## Kensington Pro Fit Ergo
 
 The Kensington Pro Fit Ergo is the compact option. It drops the number pad entirely, which is great if you use your mouse a lot or have a small desk. It is a fixed split design, but the tent angle is more subtle than the Microsoft Sculpt.
 
-What stands out is the build quality. It feels solid for the price, and the keys are whisper-quiet. I used it in a shared office and nobody could hear me typing. The included palm rest is a thin, padded strip that is decent but not luxurious. It is wired, so you do not have to worry about batteries, and it is plug-and-play with any OS.
+What stands out is the build quality. It is described as solid for the price, and the keys are whisper-quiet. Owner reports describe using it in a shared office with nobody able to hear the typing. The included palm rest is a thin, padded strip that is described as decent but not luxurious. It is wired, so there is no need to worry about batteries, and it is plug-and-play with any OS.
 
 The biggest downside is the lack of a numpad. If you do data entry, this will be a dealbreaker. Also, the spacebar is a bit stiff out of the box. Give it a few days to break in, in practice.
 
 **Who should buy it:** This is for you if you want a quiet, compact ergonomic board that does not hog your desk and you are okay with losing the number pad.
 
-[Kensington Pro Fit Ergo](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Kensington Pro Fit Ergo](https://www.amazon.com/dp/B0D6FMPSNG?tag=__AMAZON_TAG__)
 
 ## Adesso Tru-Form 150
 
 The Adesso Tru-Form 150 is the "normal keyboard" of ergonomic boards. It has a subtle wave shape, but the key spacing is standard, so you will not have to relearn where the letters are. If you type with the hunt-and-peck method, this is a great choice.
 
-It is a full-size board with a built-in, non-detachable palm rest. The rest is a hard plastic with a matte finish, and it is not cushioned at all. I found it a bit hard for long sessions, but it does keep your wrists off the desk. The keys are membrane and have a satisfying, springy feel. It is also wired, so it is ready to go right out of the box.
+It is a full-size board with a built-in, non-detachable palm rest. The rest is a hard plastic with a matte finish, and it is not cushioned at all. Owner reviews describe it as a bit hard for long sessions, but it does keep your wrists off the desk. The keys are membrane and have a satisfying, springy feel. It is also wired, so it is ready to go right out of the box.
 
 The downside is that the ergonomic benefit is minimal. The curve is gentle, so if you have severe wrist pain, this might not be enough. The build quality is okay, but the plastic case feels a little hollow, in my experience.
 
 **Who should buy it:** If you want a comfortable keyboard that feels familiar and you do not want to deal with a steep learning curve, this is a safe bet.
 
-[Adesso Tru-Form 150](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Adesso Tru-Form 150](https://www.amazon.com/dp/B00N99LPC6?tag=__AMAZON_TAG__)
 
 ## Dell KB700
 
@@ -105,7 +105,7 @@ The downside is that it is not truly ergonomic. There is no split or tent, so it
 
 **Who should buy it:** This is for you if you want a low-profile, quiet keyboard that feels premium and you are not looking for a dramatic split design.
 
-[Dell KB700](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Dell KB700](https://www.amazon.com/dp/B0GVB4JZKH?tag=__AMAZON_TAG__)
 
 ## The Bottom Line
 

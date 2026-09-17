@@ -77,4 +77,4 @@ Plain rice is a blank canvas. Here are three easy ways to upgrade it without add
 
 Cooking rice on the stovetop is a skill worth having. It’s cheaper than buying a dedicated appliance, takes up less cabinet space, and gives you better results once you learn the basics. The key is to remember the ratio, rinse your rice, and leave the lid on. That’s it.
 
-If you want to take the guesswork out of the pot selection, a solid [Stainless Steel Saucepan with Lid](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a great investment that will last for years. But honestly, any heavy-bottomed pot you already own will work just fine. Practice this method once a week for a month, and you’ll never think about buying a rice cooker again.
+If you want to take the guesswork out of the pot selection, a solid [Stainless Steel Saucepan with Lid](https://www.amazon.com/dp/B0GS1G8MS8?tag=__AMAZON_TAG__) is a great investment that will last for years. But honestly, any heavy-bottomed pot you already own will work just fine. Practice this method once a week for a month, and you’ll never think about buying a rice cooker again.

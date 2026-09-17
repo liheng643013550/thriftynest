@@ -11,7 +11,7 @@ description: A stand mixer is one of those kitchen tools that feels essential un
 ---
 A stand mixer is one of those kitchen tools that feels essential until you see the price tag. A new KitchenAid Artisan runs about $450, and even the entry-level Classic Plus hovers around $250. If you bake occasionally and don't want to drop that kind of money, you have options.
 
-In practice, I've tested a lot of budget workarounds in my own kitchen, and the honest truth is that no single tool does everything a stand mixer does. But depending on what you actually bake, one of these alternatives can get you 80% of the way there for a fraction of the price.
+In practice, published guides cover a lot of budget workarounds, and the honest truth is that no single tool does everything a stand mixer does. But depending on what you actually bake, one of these alternatives can get you 80% of the way there for a fraction of the price.
 
 ## First, Decide What You Actually Need a Mixer For
 
@@ -42,11 +42,11 @@ Where it falls short:
 - Large batches. A double batch of cookie dough can overwhelm the motor.
 - Hands-free operation. You're holding it the whole time, which gets old after 10 minutes.
 
-If you go this route, look for at least 250 watts and a set of beaters plus dough hooks. The [Hamilton Beach 6-Speed Electric Hand Mixer](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a solid, widely available pick that handles everyday baking without complaint.
+If you go this route, look for at least 250 watts and a set of beaters plus dough hooks. The [Hamilton Beach 6-Speed Electric Hand Mixer](https://www.amazon.com/dp/B0CYQDPP4R?tag=__AMAZON_TAG__) is a solid, widely available pick that handles everyday baking without complaint.
 
 ## A Bread Machine for Dough, a Hand Mixer for Everything Else
 
-This is the combo I recommend to most people who bake bread but don't want a stand mixer. Bread machines have a bad reputation because of the weird rectangular loaves, but you don't have to bake in them. You can use the dough cycle only, then shape and bake in your own oven, believe it or not.
+This is the combo widely recommended for most people who bake bread but don't want a stand mixer. Bread machines have a bad reputation because of the weird rectangular loaves, but baking in them isn't required. The dough cycle only can be used, then shaped and baked in a standard oven, believe it or not.
 
 A basic bread machine costs $70 to $120 and kneads better than any hand mixer. It handles a 2-pound batch of dough without strain. The dough cycle on most models runs about 90 minutes including rise time, and cleanup is one nonstick pan and a paddle.
 
@@ -56,7 +56,7 @@ One caveat: bread machines are bulky. Mine takes up about as much cabinet space 
 
 ## Food Processors: Better Than You'd Expect for Dough
 
-A food processor with a dough blade can knead bread dough in about 60 seconds. I was skeptical until I tried it. It works, especially for pizza dough and lean bread doughs.
+A food processor with a dough blade can knead bread dough in about 60 seconds. Owner reviews describe skepticism until the method is tried. It works, especially for pizza dough and lean bread doughs.
 
 What food processors handle well:
 - Pizza and flatbread dough
@@ -79,7 +79,7 @@ This sounds like a joke, but it isn't. For small jobs, a balloon whisk beats dra
 - Whipping 3 egg whites to soft peaks takes about 3 minutes.
 - Mixing a single batch of pancake batter takes 30 seconds.
 
-A [stainless steel balloon whisk](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) costs under $15 and never needs a outlet. For anyone who bakes once a month, this may be all you need.
+A [stainless steel balloon whisk](https://www.amazon.com/dp/B07D79B8ZC?tag=__AMAZON_TAG__) costs under $15 and never needs a outlet. For anyone who bakes once a month, this may be all you need.
 
 The catch is volume. Double the batch and you double the time. Past a certain point, your arm gives out before the recipe does, in practice.
 

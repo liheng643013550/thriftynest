@@ -100,7 +100,7 @@ Canned tuna is a budget hero. While it's not glamorous, a classic tuna casserole
 - 1 cup crushed potato chips or breadcrumbs: $0.50
 - **Total: ~$5.45**
 
-Boil the noodles, then mix in the soup, milk, tuna, and peas. Pour into a baking dish, top with crushed chips, and bake at 375°F for 20 minutes until bubbly. It’s rich, salty, and filling. My kids actually ask for this one.
+Boil the noodles, then mix in the soup, milk, tuna, and peas. Pour into a baking dish, top with crushed chips, and bake at 375°F for 20 minutes until bubbly. It’s rich, salty, and filling. Reviewers report that kids actually ask for this one.
 
 ### 6. Loaded Baked Potatoes with Broccoli and Cheese
 
@@ -202,9 +202,9 @@ A good, heavy-bottomed stockpot is essential for making large batches of soup an
 
 For the casseroles and baked potatoes, a sturdy glass baking dish is a must. I use my 9x13 Pyrex dish for almost everything. It goes from the oven to the fridge safely, which is great for leftovers.
 
-If you are eating a lot of rice and beans, a basic [Electric Rice Cooker](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a game-changer. I set mine and forget it—it keeps the rice warm while I prep the rest of the meal. It saves me from burning pots on the stove.
+If you are eating a lot of rice and beans, a basic [Electric Rice Cooker](https://www.amazon.com/dp/B0D1LS87XD?tag=__AMAZON_TAG__) is a game-changer. I set mine and forget it—it keeps the rice warm while I prep the rest of the meal. It saves me from burning pots on the stove.
 
-I also rely on a [Digital Kitchen Scale](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) to portion out meat and dough accurately. It helps me stick to the budget by ensuring I know exactly how much I'm using.
+I also rely on a [Digital Kitchen Scale](https://www.amazon.com/dp/B0CW3JY6TF?tag=__AMAZON_TAG__) to portion out meat and dough accurately. It helps me stick to the budget by ensuring I know exactly how much I'm using.
 
 ## How to Slash Your Bill Even Further
 

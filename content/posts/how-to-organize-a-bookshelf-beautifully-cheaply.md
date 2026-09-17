@@ -60,7 +60,7 @@ Start by grouping books into general color families: reds and oranges, yellows a
 
 The final step is to add a few functional pieces that double as decor. A small wooden tray can hold your reading glasses, a bookmark, and a pen. A stylish box or a woven basket can hide loose items like earbuds, charging cables, or notebooks that would otherwise clutter the space. I use a small metal box from a craft store to hold my reading glasses and a lip balm; it costs about $4 and looks great, believe it or not.
 
-Consider the lighting as well. A small clip-on reading light or a string of fairy lights draped along the top edge can add warmth and highlight your work. I bought a pack of battery-operated LED puck lights for about $10 and stuck them on the underside of the top shelf. They illuminate the books below and make the whole unit feel like a cozy reading nook, even in a dark corner of the room.
+Consider the lighting as well. A small clip-on reading light or a string of fairy lights draped along the top edge can add warmth and highlight your work. Battery-operated LED puck lights are widely sold in packs for about $10, and owner reviews describe sticking them on the underside of the top shelf. They illuminate the books below and make the whole unit feel like a cozy reading nook, even in a dark corner of the room.
 
 ## Frequently Asked Questions
 
@@ -74,4 +74,4 @@ You have three options: store the overflow out of sight, invest in a second shel
 
 ### Is organizing by color a good idea if I need to find books easily?
 
-It’s a trade-off. Color coding is beautiful, but it makes finding a specific title harder unless you have a great memory. If you need to access your books frequently for work or study, I recommend sorting by genre or author instead. You can still create visual interest by mixing in stacks and decor. If you love the look of color coding, just remember where your most-used books are and keep them in a separate, easily accessible spot.
+It’s a trade-off. Color coding is beautiful, but it makes finding a specific title harder unless you have a great memory. If you need to access your books frequently for work or study, sorting by genre or author is often suggested instead. You can still create visual interest by mixing in stacks and decor. If you love the look of color coding, just remember where your most-used books are and keep them in a separate, easily accessible spot.

@@ -25,7 +25,7 @@ Pay special attention to the orientation of cam locks and dowels. The little arr
 
 ## Use the Right Tools—and Skip the Allen Wrench
 
-The little L-shaped Allen wrench included in the box works, but it is painfully slow and hard on your hands. Swap it for a ratcheting screwdriver with hex bits or a simple hex key set with a T-handle. A T-handle gives you better grip and more torque, which means faster turning and fewer stripped heads. I keep a [DEWALT 27-Piece Hex Key Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) around for this exact purpose—it costs about $12 and has every size you will ever need.
+The little L-shaped Allen wrench included in the box works, but it is painfully slow and hard on your hands. Swap it for a ratcheting screwdriver with hex bits or a simple hex key set with a T-handle. A T-handle gives you better grip and more torque, which means faster turning and fewer stripped heads. I keep a [DEWALT 27-Piece Hex Key Set](https://www.amazon.com/dp/B005O1RGY8?tag=__AMAZON_TAG__) around for this exact purpose—it costs about $12 and has every size you will ever need.
 
 You also want a Phillips-head screwdriver or bit for the occasional cross-head screw, plus a rubber mallet. The mallet is for tapping dowels and cam locks into place gently. A regular hammer works, but it can dent the particleboard, so rubber is safer. If you do not have a mallet, use a block of wood as a buffer between the hammer and the panel, honestly.
 
@@ -53,7 +53,7 @@ If you are assembling alone, use a couple of heavy books or a stack of paint can
 
 ## Keep the Hardware Organized and Use a Magnet Tray
 
-Losing a screw mid-project is a guaranteed 10-minute delay. I use a magnetic parts tray, like the [Neodymium Magnetic Wristband](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) for small screws, and a simple metal baking tray for the rest. The baking tray is a cheap trick—just place all the hardware on it, and the raised edges keep everything from rolling off the table.
+Losing a screw mid-project is a guaranteed 10-minute delay. I use a magnetic parts tray, like the [Neodymium Magnetic Wristband](https://www.amazon.com/dp/B0GMCF6T1X?tag=__AMAZON_TAG__) for small screws, and a simple metal baking tray for the rest. The baking tray is a cheap trick—just place all the hardware on it, and the raised edges keep everything from rolling off the table.
 
 If you are assembling multiple pieces of furniture in one day, label the trays by item. A strip of painter’s tape and a marker does the job. This is especially useful when you are building a full bedroom set, where the screws for the nightstand look identical to the ones for the dresser but are actually different lengths.
 

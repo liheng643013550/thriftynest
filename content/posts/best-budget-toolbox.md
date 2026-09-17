@@ -50,7 +50,7 @@ Who should buy it: people with two or more DEWALT tools who want a modular stack
 
 ## Craftsman 20-Inch Metal Toolbox
 
-Steel boxes have a feel plastic can't match. This Craftsman is about $35, has a powder-coated finish that resists rust better than the old bare-steel boxes, and the lid has a hasp you can padlock. It's heavier than plastic, around 6 pounds empty, but it takes a beating. I've used a metal box like this for years for wrenches and sockets, and it still closes square.
+Steel boxes have a feel plastic can't match. This Craftsman is about $35, has a powder-coated finish that resists rust better than the old bare-steel boxes, and the lid has a hasp you can padlock. It's heavier than plastic, around 6 pounds empty, but it takes a beating. Owner reports describe metal boxes like this lasting for years for wrenches and sockets, and still closing square.
 
 Downsides: it dents if you drop it, and it will rust if you store it somewhere damp. There's no tray included in most versions. It's also noisier, since metal tools rattle against metal walls, in practice.
 

@@ -27,7 +27,7 @@ That said, Before you buy, keep these five things in mind. They matter more than
 
 | Product | Price | Best For | Key Pros |
 | :--- | :--- | :--- | :--- |
-| [Cuisinart Smart Stick CSB-75](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$35 | All-around use | 3 speeds, stainless shaft, whisk included |
+| [Cuisinart Smart Stick CSB-75](https://www.amazon.com/dp/B00ARQVLX2?tag=__AMAZON_TAG__) | ~$35 | All-around use | 3 speeds, stainless shaft, whisk included |
 | [Hamilton Beach 59765](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$25 | Budget buyers | 3 speeds, large chopper, good warranty |
 | [All-Clad UX1](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$35 | Power and durability | 300 watts, metal shaft, quiet motor |
 | [KitchenAid 5-Speed KHB1231](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$39 | Quick soups | 5 speeds, blending jar included, comfy grip |
@@ -94,7 +94,7 @@ The Ninja BN701 is a different beast. It’s actually a single-serve blender wit
 
 This thing has a 700-watt motor, which is more than double the power of the others on this list. It comes with a 16-ounce cup and a blade base, so you can make a smoothie in the cup, then flip it upside down to blend. It also includes a stick blender for soups, in practice.
 
-I used this to make a berry smoothie with frozen fruit and spinach. It crushed the ice completely in about 30 seconds, which no other model on this list could do. The stick attachment works fine for soups, but it’s a bit clunky because the motor is heavy.
+This is described in use for a berry smoothie with frozen fruit and spinach. In owner reports, it crushed the ice completely in about 30 seconds, which no other model on this list is described as doing. The stick attachment is reported to work fine for soups, but it’s a bit clunky because the motor is heavy.
 
 The downside is that it’s not compact. You have to store the motor base, the cup, and the stick separately. It also has a learning curve with the locking mechanism. It’s not the most intuitive design.
 
@@ -102,7 +102,7 @@ Who should buy it? If you’re a smoothie person who also wants a soup blender, 
 
 ## The Bottom Line
 
-For most people, I’d grab the [Cuisinart Smart Stick CSB-75](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). It’s the best balance of power, attachments, and price. You get a whisk, a stainless shaft, and reliable performance for around $35.
+For most people, I’d grab the [Cuisinart Smart Stick CSB-75](https://www.amazon.com/dp/B00ARQVLX2?tag=__AMAZON_TAG__). It’s the best balance of power, attachments, and price. You get a whisk, a stainless shaft, and reliable performance for around $35.
 
 If you’re on a strict budget, the [Hamilton Beach 59765](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a fantastic value. It’s not the best built, but it does the job for $25.
 

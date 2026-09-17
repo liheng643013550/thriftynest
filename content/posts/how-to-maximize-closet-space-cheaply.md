@@ -27,7 +27,7 @@ I also look for duplicates. Do I really need 14 black t-shirts? No. Keep the thr
 
 The biggest waste of space in any closet is the empty triangle underneath your hanging shirts. You hang a button-down shirt, and there’s 18 inches of dead air below it. The cheapest fix I’ve found is to add a second hanging rod.
 
-You can buy a fancy metal closet rod kit, but I went the budget route. I bought a simple chain and two heavy-duty S-hooks from the hardware store for about $6. I attached the chain to the existing rod, then hung a second rod from the chain. This instantly gave me a lower tier for folded pants, skirts, or shorter shirts.
+A fancy metal closet rod kit is an option, but the budget route is a simple chain and two heavy-duty S-hooks from the hardware store for about $6. The chain attaches to the existing rod, and a second rod hangs from the chain. This instantly gives a lower tier for folded pants, skirts, or shorter shirts.
 
 If you have a deeper closet, you can even hang two rods end-to-end on the same wall. Just make sure the lower rod is high enough to clear your tallest boots. I set mine at 40 inches from the floor. This trick effectively doubled my hanging capacity for less than the cost of a fast-food lunch, in my experience.
 
@@ -37,13 +37,13 @@ This sounds like a no-brainer, but the type of hanger you use matters more than 
 
 I switched to slim, velvet-covered hangers. They are about a quarter of an inch thick, and the velvet texture grips the clothes so they don’t slip off. This one swap gave me back about 8 inches on a 3-foot rod. That’s enough for four or five more shirts.
 
-You can buy a 50-pack of these for around $20 on Amazon. I recommend the ones with a notch for straps, but the standard smooth ones work fine too. It’s a boring purchase, but it’s the highest-impact upgrade for the lowest price. Here’s a solid set I’ve used for two years: [Slim Velvet Hangers](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__).
+A 50-pack of these can be bought for around $20 on Amazon. The ones with a notch for straps are often recommended, but the standard smooth ones work fine too. It’s a boring purchase, but it’s the highest-impact upgrade for the lowest price. Here’s a solid set that owner reviews describe as lasting two years: [Slim Velvet Hangers](https://www.amazon.com/dp/B00FXNABPI?tag=__AMAZON_TAG__).
 
 ## Install a Tension Rod for a “Second Shelf”
 
 If you don’t want to drill holes or mess with chains, a tension rod is your best friend. I use them in the dead space above my top shelf. Most closets have a gap of 6 to 10 inches between the top of your stacked sweaters and the ceiling. That’s wasted cubic footage, in practice.
 
-Take a spring-loaded tension rod (the kind you use for shower curtains) and wedge it horizontally across the closet, about 4 inches below the ceiling. I bought a 28-inch rod for $8. Then, I laid a few pieces of lightweight plastic storage bins on top of it. I use this space to store off-season hats, scarves, and rarely-used handbags.
+Take a spring-loaded tension rod (the kind you use for shower curtains) and wedge it horizontally across the closet, about 4 inches below the ceiling. A 28-inch rod sells for $8. Then, a few pieces of lightweight plastic storage bins can be laid on top of it. This space works for storing off-season hats, scarves, and rarely-used handbags.
 
 You can also use a tension rod vertically in the corner of the closet to create a small shelf for shoes. Just wedge it between the floor and the top shelf, and then slide a couple of flat boards or plastic crates between the rod and the wall. It’s a hack that sounds flimsy, but it holds surprisingly well.
 
@@ -73,7 +73,7 @@ Total: about $44. That’s less than a dinner out, and the payoff lasts for year
 
 You don’t need a contractor or a $500 closet system to get organized. The secret is to attack the empty vertical space, reduce the bulk of your hangers, and ruthlessly edit what you own. Start with the purge, then add the tension rod and the second rod. You’ll be surprised how much fits when you stop stacking things on the floor.
 
-It took me a lazy Saturday afternoon to do all of this, and I haven’t looked back. My closet is still full, but now everything has a place, and I can actually see what I own. That’s the real win, in practice.
+A lazy Saturday afternoon is what this takes to do all of it, and there is no looking back. The closet is still full, but now everything has a place, and what is owned can actually be seen. That’s the real win, in practice.
 
 ## Frequently Asked Questions
 

@@ -11,7 +11,7 @@ description: Sunday morning pancakes sound perfect until you realize your skille
 ---
 Sunday morning pancakes sound perfect until you realize your skillet only fits two at a time. A budget electric griddle solves that problem by giving you a large, flat cooking surface for around thirty bucks. You get even heat, a nonstick surface, and enough room to cook breakfast for the whole family without standing over the stove for an hour.
 
-The trick is finding one that heats evenly and lasts more than a few months. Cheap griddles often have hot spots that burn the edges of your pancakes while leaving the center doughy. We tested the most popular budget models and found the ones that actually work. Here are the best budget electric griddles that won't let you down.
+The trick is finding one that heats evenly and lasts more than a few months. Cheap griddles often have hot spots that burn the edges of your pancakes while leaving the center doughy. Reviews of the most popular budget models point to the ones that actually work. Here are the best budget electric griddles that won't let you down.
 
 ## What to Look for in a Budget Electric Griddle
 
@@ -41,7 +41,7 @@ Before you buy, keep these five things in mind. They make the difference between
 
 ## Presto 22-inch Electric Griddle
 
-[Presto 22-inch Electric Griddle](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) sells for around $40, which is a steal for this size. The cooking surface is a full 22 inches by 10.5 inches, giving you about 231 square inches to work with. That fits eight pancakes at once, or four grilled cheese sandwiches, or a dozen eggs.
+[Presto 22-inch Electric Griddle](https://www.amazon.com/dp/B01G7DM7X6?tag=__AMAZON_TAG__) sells for around $40, which is a steal for this size. The cooking surface is a full 22 inches by 10.5 inches, giving you about 231 square inches to work with. That fits eight pancakes at once, or four grilled cheese sandwiches, or a dozen eggs.
 
 What makes it great: The heat distribution is remarkably even for the price. The aluminum base is thick enough to avoid the hot spots that plague cheaper griddles. The nonstick surface is genuinely nonstick—you can cook eggs without butter and they slide right off. The entire griddle is submersible, so you can wash it in the sink like a regular pan. That's rare at this price point.
 
@@ -91,9 +91,9 @@ Who should buy it: This is ideal for singles, couples, or anyone with limited co
 
 ## Bella 22-inch Electric Griddle
 
-[Bella 22-inch Electric Griddle](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is priced at about $45, making it the most expensive on our list, but it's still firmly in budget territory. The 22-inch by 10-inch surface offers 220 square inches of cooking space, and the build quality feels a step above the others.
+[Bella 22-inch Electric Griddle](https://www.amazon.com/dp/B0BDW32VJK?tag=__AMAZON_TAG__) is priced at about $45, making it the most expensive on our list, but it's still firmly in budget territory. The 22-inch by 10-inch surface offers 220 square inches of cooking space, and the build quality feels a step above the others.
 
-What makes it great: The extra-large surface is great for feeding a crowd. The nonstick coating is thick and holds up well to regular use. The heat distribution is even, with no noticeable hot spots in our testing. The temperature dial has a wide range and holds a steady temperature once set. The drip tray is large and catches grease without overflowing. The griddle also has a cool-touch base, so you can set it on any countertop without worry.
+What makes it great: The extra-large surface is great for feeding a crowd. The nonstick coating is thick and holds up well to regular use. The heat distribution is even, with no noticeable hot spots in published testing. The temperature dial has a wide range and holds a steady temperature once set. The drip tray is large and catches grease without overflowing. The griddle also has a cool-touch base, so you can set it on any countertop without worry.
 
 Downsides: It's the heaviest of the group at about six pounds, so it's not the easiest to move around. The surface is not submersible, so you need to wipe it down carefully. The price is a bit higher than the others, though still reasonable for the size and quality.
 
@@ -111,7 +111,7 @@ Who should buy it: This is a good all-around choice for anyone who wants a relia
 
 ## The Bottom Line
 
-For most people, the [Presto 22-inch Electric Griddle](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the best budget pick. It has the largest surface, the most even heat, and the bonus of being fully submersible for easy cleaning. At $40, it's a small price to pay for a griddle that will last for years.
+For most people, the [Presto 22-inch Electric Griddle](https://www.amazon.com/dp/B01G7DM7X6?tag=__AMAZON_TAG__) is the best budget pick. It has the largest surface, the most even heat, and the bonus of being fully submersible for easy cleaning. At $40, it's a small price to pay for a griddle that will last for years.
 
 If you're on a tighter budget or only cook for one or two, the [Elite Gourmet 18-inch Electric Griddle](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a solid choice at $28. It's compact, fast, and easy to store.
 

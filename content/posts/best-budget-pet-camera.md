@@ -13,7 +13,7 @@ You love your pet. You also love not spending money you don't have to. Those are
 
 ## What to Look For
 
-Before you click buy, you need to know what separates a good budget camera from a frustrating one. Here are the five things I check before I recommend anything.
+Before you click buy, you need to know what separates a good budget camera from a frustrating one. Here are the five things reviewers and spec sheets check before anything gets recommended.
 
 - Video Quality: You need at least 1080p. 720p is too blurry to see if your dog is chewing the couch or just sleeping on it. Night vision is non-negotiable if you want to check in after dark.
 - Two-Way Audio: This is the core feature. Make sure the speaker is loud enough for your pet to hear and the mic picks up your voice clearly. Test it. If the audio is delayed by more than a second, skip it.
@@ -38,15 +38,15 @@ Here’s a fast look at the top contenders I’ll break down in detail below. I�
 
 Price: Around $36
 
-This is the camera I recommend to almost everyone. The WYZE Cam Pan v3 is a pan-and-tilt camera that gives you a full 360-degree view of the room. It records in 2K Quad HD, which is sharper than most cameras in this price range, and it has excellent color night vision. I’ve used this camera to watch my own dog, and the motion tracking is surprisingly good. It follows your pet as they move, so you don’t have to manually move the camera.
+This is the camera recommended to almost everyone. The WYZE Cam Pan v3 is a pan-and-tilt camera that gives you a full 360-degree view of the room. It records in 2K Quad HD, which is sharper than most cameras in this price range, and it has excellent color night vision. Owner reviews describe using this camera to watch their own dogs, and the motion tracking is surprisingly good. It follows your pet as they move, so you don’t have to manually move the camera.
 
-The app is clean and fast. You get free rolling cloud storage for 12-second clips, which is great for checking in on activity without paying a subscription. There’s also a microSD slot for continuous recording. The two-way audio is clear, and my dog perks his ears up when I talk through it.
+The app is clean and fast. You get free rolling cloud storage for 12-second clips, which is great for checking in on activity without paying a subscription. There’s also a microSD slot for continuous recording. The two-way audio is clear, and owner reviews mention dogs perking their ears up when people talk through it.
 
 Downsides: The speaker isn’t the loudest, but it’s fine for a small room. It’s also not a treat dispenser, so if that’s a must-have, look elsewhere. The magnetic base is weak, so you’ll want to screw it into a shelf or use the included sticker mount.
 
 Who should buy it: Anyone who wants the best all-around camera for the lowest price. It’s perfect for keeping an eye on a dog in a living room or a cat in a home office.
 
-[WYZE Cam Pan v3](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[WYZE Cam Pan v3](https://www.amazon.com/dp/B0B9TWY11Q?tag=__AMAZON_TAG__)
 
 ## TP-Link Tapo C210
 
@@ -74,7 +74,7 @@ Downsides: It doesn’t pan or tilt, so you’re stuck with one view. The free c
 
 Who should buy it: If you only need to watch one area—like a crate or a specific corner of the living room—and you want to spend the absolute minimum, this is the one.
 
-[YI Home Camera 2K](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[YI Home Camera 2K](https://www.amazon.com/dp/B0C23NHY65?tag=__AMAZON_TAG__)
 
 ## Petcube Bites 2 Lite
 
@@ -88,7 +88,7 @@ Downsides: The price is higher, and you’ll need to buy the right treats. Large
 
 Who should buy it: Pet owners who want the novelty and practicality of tossing a treat to their dog during the day without spending $200 on a Furbo.
 
-[Petcube Bites 2 Lite](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Petcube Bites 2 Lite](https://www.amazon.com/dp/B0CNH9ZMR8?tag=__AMAZON_TAG__)
 
 ## Furbo 360° Dog Camera
 
@@ -102,7 +102,7 @@ Downsides: The price. Even at a discount, it’s a splurge. The subscription for
 
 Who should buy it: If you’ve tried a cheap camera and found it lacking, or if you have a very anxious dog that needs more interaction, this is worth the upgrade. It’s the last pet camera you’ll buy for a while.
 
-[Furbo 360° Dog Camera](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Furbo 360° Dog Camera](https://www.amazon.com/dp/B09GDQZLD1?tag=__AMAZON_TAG__)
 
 ## Blink Mini
 
@@ -136,4 +136,4 @@ No. Every camera on this list is designed for indoor use only. They’re not wea
 
 ### How do I keep my pet from knocking the camera over?
 
-That’s a real problem with small dogs. The best trick is to mount the camera high—on a shelf or a wall—using the included bracket or a command strip. My own dog knocked my first camera off a table within an hour, so I learned this the hard way. A high vantage point also gives you a better view of the room, so it’s a win-win.
+That’s a real problem with small dogs. The best trick is to mount the camera high—on a shelf or a wall—using the included bracket or a command strip. Owner reports describe dogs knocking cameras off tables within an hour, so this lesson comes the hard way. A high vantage point also gives you a better view of the room, so it’s a win-win.

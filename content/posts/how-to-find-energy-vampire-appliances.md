@@ -42,7 +42,7 @@ Here’s the simple math: A device that uses 10 watts of standby power, running 
 
 Once you have a suspect list, it’s time to get accurate numbers. The best tool for this job is a plug-in power monitor. You plug the monitor into the wall, then plug your appliance into the monitor. It gives you a real-time readout of exactly how much power the device is pulling.
 
-The [P3 P4460 Kill A Watt EZ](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the gold standard for this. It’s been around for years, it’s cheap, and it’s dead simple to use. It will tell you the voltage, current, and wattage of whatever you plug into it.
+The [P3 P4460 Kill A Watt EZ](https://www.amazon.com/dp/B07W8WTQYT?tag=__AMAZON_TAG__) is the gold standard for this. It’s been around for years, it’s cheap, and it’s dead simple to use. It will tell you the voltage, current, and wattage of whatever you plug into it.
 
 To test a device properly, follow this process:
 

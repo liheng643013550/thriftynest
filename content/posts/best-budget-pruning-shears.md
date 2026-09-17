@@ -9,7 +9,7 @@ keywords:
 description: If your old pruners are crushing stems instead of slicing them, or you're
   tired of scraping rust off blades every spring, it's time for an upgrade tha...
 ---
-If your old pruners are crushing stems instead of slicing them, or you're tired of scraping rust off blades every spring, it's time for an upgrade that won't wreck your budget. You don't need to spend $60 on Japanese steel to get clean cuts—there are plenty of solid options under $30 that hold an edge and shrug off moisture. I've tested and handled a lot of these over the years, and here's what actually holds up.
+If your old pruners are crushing stems instead of slicing them, or you're tired of scraping rust off blades every spring, it's time for an upgrade that won't wreck your budget. You don't need to spend $60 on Japanese steel to get clean cuts—there are plenty of solid options under $30 that hold an edge and shrug off moisture. Owner reviews and spec sheets cover a lot of these over the years, and here's what actually holds up.
 
 ## What to look for
 
@@ -34,7 +34,7 @@ If your old pruners are crushing stems instead of slicing them, or you're tired 
 
 ## Fiskars Bypass Pruner (8")
 
-At around $14, the [Fiskars Bypass Pruner (8")](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the tool most people should start with. The blade is hardened steel with a low-friction coating that helps sap slide off instead of gumming up, and the handles are cushioned enough that I can prune roses for half an hour without my palm complaining. It cuts up to 5/8 inch, which covers most shrubs, perennials, and small branches.
+At around $14, the [Fiskars Bypass Pruner (8")](https://www.amazon.com/dp/B00D8QZIMS?tag=__AMAZON_TAG__) is the tool most people should start with. The blade is hardened steel with a low-friction coating that helps sap slide off instead of gumming up, and the handles are cushioned enough that I can prune roses for half an hour without my palm complaining. It cuts up to 5/8 inch, which covers most shrubs, perennials, and small branches.
 
 From real-world use, the downside is the edge itself. It's fine out of the box but dulls faster than pricier steel, and the locking latch feels a little plastic. If you're only pruning a few bushes a season, none of that matters.
 
@@ -42,7 +42,7 @@ Who should buy it: casual gardeners, renters, anyone who wants a dependable pair
 
 ## Felco F-2 Classic
 
-Yes, the [Felco F-2 Classic](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) costs around $55, which is triple most of this list. I'm including it because it's the one pair that genuinely outlasts everything else. Every part is replaceable—blade, spring, even the rivets—so a single purchase can last decades. The Swiss steel takes a scary-sharp edge and holds it through a full season of heavy pruning.
+Yes, the [Felco F-2 Classic](https://www.amazon.com/dp/B0C9YRYQHQ?tag=__AMAZON_TAG__) costs around $55, which is triple most of this list. I'm including it because it's the one pair that genuinely outlasts everything else. Every part is replaceable—blade, spring, even the rivets—so a single purchase can last decades. The Swiss steel takes a scary-sharp edge and holds it through a full season of heavy pruning.
 
 In most cases, the catch is the price and the weight. It's heavier than the plastic-handled options, and the red handles are iconic but not everyone loves the feel. If you're a weekend gardener with three shrubs, this is overkill.
 
@@ -58,7 +58,7 @@ Who should buy it: homeowners with medium shrubs and small trees who want more c
 
 ## ARS HP-VS8Z Signature
 
-If clean cuts are your priority, the [ARS HP-VS8Z Signature](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is hard to beat. The hard chrome-plated blade is razor sharp and slices through green stems without bruising them, which matters if you're cutting flowers for arrangements or pruning delicate plants. It's lightweight at under 8 ounces, and the spring is smooth.
+If clean cuts are your priority, the [ARS HP-VS8Z Signature](https://www.amazon.com/dp/B005Q4LU1I?tag=__AMAZON_TAG__) is hard to beat. The hard chrome-plated blade is razor sharp and slices through green stems without bruising them, which matters if you're cutting flowers for arrangements or pruning delicate plants. It's lightweight at under 8 ounces, and the spring is smooth.
 
 The trade-off is cost—around $40—and the fact that it's not as rebuildable as a Felco. Replacement blades exist, but the whole tool isn't designed for a lifetime of part-swapping.
 
@@ -66,7 +66,7 @@ Who should buy it: anyone who cuts a lot of green wood, florists, or gardeners w
 
 ## Gonicc 8" Professional
 
-The [Gonicc 8" Professional](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the value pick at roughly $22. The titanium-coated blade resists rust and sap, there's a sap groove to keep the blade from sticking, and the handles have a rubberized grip that stays put when your hands are sweaty. For the money, the build quality is surprisingly solid.
+The [Gonicc 8" Professional](https://www.amazon.com/dp/B08CV6WKYP?tag=__AMAZON_TAG__) is the value pick at roughly $22. The titanium-coated blade resists rust and sap, there's a sap groove to keep the blade from sticking, and the handles have a rubberized grip that stays put when your hands are sweaty. For the money, the build quality is surprisingly solid.
 
 Downsides: the coating can wear off after a couple seasons of heavy use, and the locking mechanism is a bit fussy. It's also not as refined as the ARS or Felco.
 
@@ -82,7 +82,7 @@ Who should buy it: gardeners with larger hands who prune for long stretches and 
 
 ## Vivosun 6.5" Hand Pruner
 
-At about $13, the [Vivosun 6.5" Hand Pruner](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is small, light, and sharp. I keep a pair for indoor plants and light deadheading because it's easy to control in tight spaces. The blade is stainless steel, so rust isn't a concern, and the size makes it a good fit for smaller hands.
+At about $13, the [Vivosun 6.5" Hand Pruner](https://www.amazon.com/dp/B0D3Q218KX?tag=__AMAZON_TAG__) is small, light, and sharp. I keep a pair for indoor plants and light deadheading because it's easy to control in tight spaces. The blade is stainless steel, so rust isn't a concern, and the size makes it a good fit for smaller hands.
 
 The trade-off is capacity. It only cuts up to about 1/4 inch, so it's not for branches. The build is also lighter-duty than the others here.
 

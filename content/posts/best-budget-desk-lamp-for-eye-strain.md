@@ -9,7 +9,7 @@ keywords:
 description: Staring at a screen after the sun goes down is hard on your eyes, especially
   if your only light source is a harsh overhead fixture. A good desk lamp r...
 ---
-Staring at a screen after the sun goes down is hard on your eyes, especially if your only light source is a harsh overhead fixture. A good desk lamp reduces glare and provides even, comfortable light, but you should not have to spend a fortune to get one. We found seven solid options that cost less than $40 and are actually worth your money.
+Staring at a screen after the sun goes down is hard on your eyes, especially if your only light source is a harsh overhead fixture. A good desk lamp reduces glare and provides even, comfortable light, but you should not have to spend a fortune to get one. Seven solid options that cost less than $40 and are actually worth your money are covered in published reviews and spec sheets.
 
 ## What to Look For
 

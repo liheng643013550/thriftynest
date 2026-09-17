@@ -22,7 +22,7 @@ Here’s what I use:
 - A dry microfiber cloth (for polishing and picking up dust the duster misses)
 - A vacuum with a crevice tool and brush attachment (for floors and fabric at the end)
 
-I know it’s tempting to use a feather duster, but they just push dust into the air. A microfiber duster actually traps the dust using static electricity. I bought a basic [Microfiber Extendable Duster](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) for around $12 a few years ago, and it’s still going strong. The extension pole is key because it lets me reach ceiling fans and high shelves without dragging a step stool around.
+It’s tempting to use a feather duster, but they just push dust into the air. A microfiber duster actually traps the dust using static electricity. A basic [Microfiber Extendable Duster](https://www.amazon.com/dp/B07XGJQPLJ?tag=__AMAZON_TAG__) runs around $12, and owner reviews describe them still going strong after a few years. The extension pole is key because it lets you reach ceiling fans and high shelves without dragging a step stool around.
 
 ## Start High: Ceiling Fans, Light Fixtures, and Door Tops
 
@@ -56,7 +56,7 @@ I walk along the wall, running the vacuum brush along the top edge and the face 
 
 ## The Floor Finish: Vacuum or Swiffer for the Final Pass
 
-After all that dust has fallen, it’s time to get it off the floor. If I have hardwood or tile, I use a [Swiffer Sweeper](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) with the dry cloths. It’s quick and I can grab the dust and pet hair without dragging out a big vacuum.
+After all that dust has fallen, it’s time to get it off the floor. If I have hardwood or tile, I use a [Swiffer Sweeper](https://www.amazon.com/dp/B07DBC5DYP?tag=__AMAZON_TAG__) with the dry cloths. It’s quick and I can grab the dust and pet hair without dragging out a big vacuum.
 
 If I have carpet, I use my upright vacuum. I don’t do a perfect job here; I just do a quick pass over the main traffic areas and the perimeter of the room where the dust has drifted. The goal is to pick up the visible dust bunnies and the stuff that settled from the higher surfaces. This final step takes about two to three minutes for a standard living room.
 

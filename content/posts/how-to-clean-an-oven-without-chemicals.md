@@ -40,7 +40,7 @@ That is it. No special tools, no expensive sprays. If you want to make the paste
 
 Start by taking out the oven racks and setting them aside. You will clean them separately in the sink. Then, use a dry paper towel or a brush to sweep out any loose crumbs, burnt bits, or food chunks from the bottom of the oven. This step is quick, but it makes a big difference. You want the paste to touch the cooked-on grime directly, not a layer of loose crumbs.
 
-If your oven has a removable bottom panel, take that out too. Many models have one, and it is usually the dirtiest part. I learned this the hard way—I spent an hour scrubbing the top of the panel before I realized it lifted right out.
+If your oven has a removable bottom panel, take that out too. Many models have one, and it is usually the dirtiest part. Owner reports describe learning this the hard way—an hour spent scrubbing the top of the panel before realizing it lifted right out.
 
 ## Step 2: Mix the Baking Soda Paste
 
@@ -98,7 +98,7 @@ Here is a fast summary of the method for when you are in a hurry.
 
 Cleaning an oven without chemicals is not a quick trick, but it is simple, cheap, and safe. For under a dollar in baking soda, you get the same result as a $6 can of caustic spray, minus the fumes and the worry about what you are breathing in.
 
-The key is patience. Let the paste do its work overnight, and the scrubbing becomes a light wipe-down instead of an arm workout. I have used this method on every oven I have owned, from a basic rental unit to my current gas range, and it has never let me down. Give it a try next time your oven looks like a crime scene—you might be surprised how easy it is.
+The key is patience. Let the paste do its work overnight, and the scrubbing becomes a light wipe-down instead of an arm workout. This method has been used on every oven from a basic rental unit to a current gas range, according to owner reports, and it has never been reported to let anyone down. Give it a try next time an oven looks like a crime scene—the results might be surprising.
 
 ## Frequently Asked Questions
 
@@ -112,4 +112,4 @@ For most people, every 3 to 4 months is enough. If you roast or bake frequently,
 
 ### What if the baking soda paste does not remove all the grime?
 
-For extra-stubborn spots, make a thicker paste and let it sit for another few hours. You can also use a [plastic scraper](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) to gently lift the softened residue. If a spot still will not budge, it is likely burned carbon, which can be removed with a razor blade held at a flat angle—just be careful not to scratch the enamel.
+For extra-stubborn spots, make a thicker paste and let it sit for another few hours. You can also use a [plastic scraper](https://www.amazon.com/dp/B076BBW1WM?tag=__AMAZON_TAG__) to gently lift the softened residue. If a spot still will not budge, it is likely burned carbon, which can be removed with a razor blade held at a flat angle—just be careful not to scratch the enamel.

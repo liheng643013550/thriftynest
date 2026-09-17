@@ -46,13 +46,13 @@ That said, the downside is that the shoe shelf is small. It will not fit bulky b
 
 Buy this if you live in an apartment or a small house and need a single point for daily essentials. It keeps the floor clear without demanding much room.
 
-[Songmics Coat Rack](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Songmics Coat Rack](https://www.amazon.com/dp/B0GWLDN15Q?tag=__AMAZON_TAG__)
 
 ### IKEA Trones Shoe Cabinet
 
 **Price:** Around $30 per unit
 
-I have used these in two different apartments, and they are the best cheap entryway storage ideas for a reason. The Trones is a slim, wall-mounted cabinet that sticks out only about seven inches from the wall. Each unit holds three or four pairs of shoes flat on the bottom or stacked on the side. You can mount them at different heights to create a custom look, in my experience.
+These are widely cited as the best cheap entryway storage ideas for a reason, with owner reports covering use in two different apartments. The Trones is a slim, wall-mounted cabinet that sticks out only about seven inches from the wall. Each unit holds three or four pairs of shoes flat on the bottom or stacked on the side. Mounting them at different heights is a common approach for a custom look.
 
 Installation requires drilling into the wall, which is a pain if you rent. They also do not hold boots well, and the plastic hinge can be a bit flimsy if you slam the door. But for the price, the space savings are unmatched.
 
@@ -82,7 +82,7 @@ The downside is the assembly. It takes about 45 minutes, and the instructions ar
 
 Buy this if you have the floor space and you want a dedicated drop zone that hides the clutter completely.
 
-[SONGMICS Entryway Bench](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[SONGMICS Entryway Bench](https://www.amazon.com/dp/B07SR2S95R?tag=__AMAZON_TAG__)
 
 ### Honey-Can-Do Collapsible Storage Basket
 
@@ -94,7 +94,7 @@ They are not rigid, so they will not stand up to heavy items like books or tools
 
 Buy this if you want a flexible, cheap solution that you can move around the house. They are also great for nursery storage or bathroom linens.
 
-[Honey-Can-Do Basket](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Honey-Can-Do Basket](https://www.amazon.com/dp/B0CK3MTRPV?tag=__AMAZON_TAG__)
 
 ### Umbra Sticks Wall Rack
 

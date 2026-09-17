@@ -15,7 +15,7 @@ To be fair, here is my step-by-step guide to getting your washer sparkling clean
 
 ## Why Your Washer Gets Gross (And Why You Should Care)
 
-As a rule of thumb, i used to think the machine cleaned itself with every cycle. I was wrong. The reality is that a typical wash cycle leaves behind about a cup of stagnant water and a thin film of residue. When you close the door, you’re creating a dark, damp, warm environment—a perfect petri dish for mold and mildew, in practice.
+As a rule of thumb, a common assumption is that the machine cleans itself with every cycle. That assumption is wrong. The reality is that a typical wash cycle leaves behind about a cup of stagnant water and a thin film of residue. When the door is closed, a dark, damp, warm environment is created—a perfect petri dish for mold and mildew, in practice.
 
 Honestly, that funky smell isn't just annoying. It can cause skin irritation for sensitive folks and make your towels smell sour no matter how much detergent you use. The good news? You can fix it with two household staples: white vinegar and baking soda. A 64-ounce jug of distilled white vinegar costs about $1.50 at my local grocery store, and a box of baking soda is under a buck. That's your entire cleaning budget.
 

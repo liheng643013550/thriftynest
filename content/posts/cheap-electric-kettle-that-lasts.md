@@ -37,7 +37,7 @@ In most cases, I've bought, returned, and worn out more sub-$30 kettles than I c
 
 Price: about $22
 
-To be fair, this is the kettle I recommend to anyone who just wants hot water without thinking about it. It pulls 1,500 watts, so a full liter boils in roughly three minutes. The interior is stainless steel, the base is cordless and rotates 360 degrees, and there's a cord wrap underneath for storage. Hamilton Beach backs it with a two-year limited warranty, which is rare at this price, in my experience.
+To be fair, this is the kettle widely recommended for anyone who just wants hot water without thinking about it. It pulls 1,500 watts, so a full liter boils in roughly three minutes. The interior is stainless steel, the base is cordless and rotates 360 degrees, and there's a cord wrap underneath for storage. Hamilton Beach backs it with a two-year limited warranty, which is rare at this price, according to owner reports.
 
 In practice, the downsides are minor. The exterior gets hot during boiling, so keep it away from kids. The water-level window is on the inside, which means you have to lift the lid to check the fill line, and the lid opens a little stiffly at first.
 
@@ -97,7 +97,7 @@ Who should buy it: someone who wants a kettle that looks good on the counter and
 
 Price: about $19
 
-Proctor Silex has been making budget kitchen appliances forever, and this kettle is about as simple as it gets. One switch, one light, auto shut-off, and a cordless base. It's light enough that my kid can lift it, and the 1,000-watt element means it's gentle on older wiring in dorms and offices, believe it or not.
+Proctor Silex has been making budget kitchen appliances forever, and this kettle is about as simple as it gets. One switch, one light, auto shut-off, and a cordless base. It's light enough that owner reviews describe kids being able to lift it, and the 1,000-watt element means it's gentle on older wiring in dorms and offices, believe it or not.
 
 The trade-offs are real: 1,000 watts means about four minutes for a liter, the plastic exterior feels cheap in the hand, and the lid opening is small. But it's $19, it has a one-year warranty, and it does the job.
 

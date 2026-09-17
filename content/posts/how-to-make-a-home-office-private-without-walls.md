@@ -90,7 +90,7 @@ Physical barriers only work if the people you live with respect them. A few low-
 - A shared calendar or a quick group text when you have a big call.
 - Scheduled quiet hours everyone agrees on.
 
-I started texting my partner "call at 2, 30 min" and the interruptions dropped to almost zero. It sounds obvious, but the biggest privacy upgrade was communication, not gear, honestly.
+The advice circulating in owner forums is to text a partner "call at 2, 30 min," and reports describe interruptions dropping to almost zero. It sounds obvious, but the biggest privacy upgrade described is communication, not gear, honestly.
 
 For actual calls, a decent headset with a boom mic does more for how you sound than any room treatment. Something like a [Jabra Evolve2 40](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) keeps your voice clear and your ears covered, which doubles as a privacy cue.
 

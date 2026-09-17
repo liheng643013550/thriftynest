@@ -51,7 +51,7 @@ You don’t need a cordless drill immediately, but it is the one power tool that
 
 ### 6. Cordless Drill/Driver (12V or 18V)
 
-This is your biggest single expense, but it’s non-negotiable. A cordless drill/driver is used for assembling furniture, drilling pilot holes, and driving screws. You don’t need a heavy 20V model for basic home use; a 12V model is lighter and easier to handle for hanging curtains and shelves. Brands like DeWalt, Ryobi, and Bosch all make excellent options. You can often find a kit with a battery and charger for around $40 on sale. I recommend getting a kit that comes with a set of drill bits and screwdriver bits to save money.
+This is your biggest single expense, but it’s non-negotiable. A cordless drill/driver is used for assembling furniture, drilling pilot holes, and driving screws. You don’t need a heavy 20V model for basic home use; a 12V model is lighter and easier to handle for hanging curtains and shelves. Brands like DeWalt, Ryobi, and Bosch all make excellent options. You can often find a kit with a battery and charger for around $40 on sale. A kit that comes with a set of drill bits and screwdriver bits is often recommended to save money.
 
 ### 7. Drill Bit Set (Cobalt or Titanium)
 

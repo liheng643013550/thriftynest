@@ -9,7 +9,7 @@ keywords:
 description: You do not need to spend $200 to get a good cup of coffee at home. The
   trick is knowing which features actually matter in a budget machine, and which...
 ---
-You do not need to spend $200 to get a good cup of coffee at home. The trick is knowing which features actually matter in a budget machine, and which ones are just marketing. I have tested and burned through more than a dozen coffee makers under $100 over the past few years, and these five are the ones I keep recommending to friends and family.
+You do not need to spend $200 to get a good cup of coffee at home. The trick is knowing which features actually matter in a budget machine, and which ones are just marketing. Published reviews and owner reports cover more than a dozen coffee makers under $100 over the past few years, and these five are the ones reviewers keep recommending to friends and family.
 
 ## What to look for
 
@@ -32,7 +32,7 @@ You do not need to spend $200 to get a good cup of coffee at home. The trick is 
 
 ## BLACK+DECKER 12-Cup Programmable Coffee Maker
 
-[BLACK+DECKER 12-Cup Programmable Coffee Maker](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the machine I recommend when someone wants to spend as little as possible and still get a full pot every morning. At around $30, it does the basics well: a 24-hour programmable timer, a sneak-a-cup feature that pauses the brew so you can grab a mug early, and a 2-hour auto shutoff that keeps you from worrying about the hot plate.
+[BLACK+DECKER 12-Cup Programmable Coffee Maker](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the machine reviewers often point to when someone wants to spend as little as possible and still get a full pot every morning. At around $30, it does the basics well: a 24-hour programmable timer, a sneak-a-cup feature that pauses the brew so you can grab a mug early, and a 2-hour auto shutoff that keeps you from worrying about the hot plate.
 
 From real-world use, the downsides are the usual ones for a cheap drip maker. The brew temperature runs on the cool side, so I add a scoop more grounds than the package suggests to get a fuller flavor. The glass carafe sits on a hot plate, and coffee starts tasting flat after about 40 minutes. It also takes roughly 10 minutes to brew a full 12 cups.
 

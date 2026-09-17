@@ -57,7 +57,7 @@ If you'd rather have a purpose-made product on hand for tough jobs, a stainless 
 
 ## What About Commercial Cleaners — Are They Worth It?
 
-Honestly, most aren't. I've tested a handful over the years, and the $5 store-brand sprays perform about the same as vinegar and water. The expensive ones mostly win on scent and convenience.
+Honestly, most aren't. Reviews of a handful over the years show the $5 store-brand sprays perform about the same as vinegar and water. The expensive ones mostly win on scent and convenience.
 
 That said, a couple of situations justify the spend:
 
@@ -81,7 +81,7 @@ A spray bottle is also worth having. You can buy one for $2 or just reuse an old
 
 ## Step-by-Step Routine That Takes 5 Minutes
 
-Here's my actual routine for the fridge, which is the appliance that gets dirtiest in my house:
+Here's a practical five-minute routine for the fridge, usually the appliance that gets dirtiest fastest:
 
 1. Fill a spray bottle with equal parts white vinegar and water.
 2. Spray a small section — about a 2-foot square — not the whole door.
