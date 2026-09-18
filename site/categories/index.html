@@ -45,7 +45,7 @@
   </div>
 </header>
 <main class="wrap">
-<header class="cat-head"><h1>Browse all guides</h1><p class="hero-sub">Every category on ThriftyNest, in one place.</p></header><section class="grid"><article class="card cat-kitchen"><h2 class="card-title"><a href="https://liheng643013550.github.io/thriftynest/category/kitchen/">Kitchen &amp; Cooking</a></h2><p class="card-meta">45 guides</p></article><article class="card cat-organization"><h2 class="card-title"><a href="https://liheng643013550.github.io/thriftynest/category/organization/">Organization &amp; Storage</a></h2><p class="card-meta">25 guides</p></article><article class="card cat-cleaning"><h2 class="card-title"><a href="https://liheng643013550.github.io/thriftynest/category/cleaning/">Cleaning</a></h2><p class="card-meta">26 guides</p></article><article class="card cat-home-office"><h2 class="card-title"><a href="https://liheng643013550.github.io/thriftynest/category/home-office/">Home Office</a></h2><p class="card-meta">20 guides</p></article><article class="card cat-pet"><h2 class="card-title"><a href="https://liheng643013550.github.io/thriftynest/category/pet/">Pets</a></h2><p class="card-meta">17 guides</p></article><article class="card cat-garden"><h2 class="card-title"><a href="https://liheng643013550.github.io/thriftynest/category/garden/">Garden &amp; Outdoors</a></h2><p class="card-meta">23 guides</p></article><article class="card cat-energy"><h2 class="card-title"><a href="https://liheng643013550.github.io/thriftynest/category/energy/">Energy &amp; Savings</a></h2><p class="card-meta">20 guides</p></article><article class="card cat-tools"><h2 class="card-title"><a href="https://liheng643013550.github.io/thriftynest/category/tools/">Tools &amp; DIY</a></h2><p class="card-meta">17 guides</p></article></section>
+<header class="cat-head"><h1>Browse all guides</h1><p class="hero-sub">Every category on ThriftyNest, in one place.</p></header><section class="grid"><article class="card cat-kitchen"><h2 class="card-title"><a href="https://liheng643013550.github.io/thriftynest/category/kitchen/">Kitchen &amp; Cooking</a></h2><p class="card-meta">45 guides</p></article><article class="card cat-organization"><h2 class="card-title"><a href="https://liheng643013550.github.io/thriftynest/category/organization/">Organization &amp; Storage</a></h2><p class="card-meta">25 guides</p></article><article class="card cat-cleaning"><h2 class="card-title"><a href="https://liheng643013550.github.io/thriftynest/category/cleaning/">Cleaning</a></h2><p class="card-meta">27 guides</p></article><article class="card cat-home-office"><h2 class="card-title"><a href="https://liheng643013550.github.io/thriftynest/category/home-office/">Home Office</a></h2><p class="card-meta">20 guides</p></article><article class="card cat-pet"><h2 class="card-title"><a href="https://liheng643013550.github.io/thriftynest/category/pet/">Pets</a></h2><p class="card-meta">17 guides</p></article><article class="card cat-garden"><h2 class="card-title"><a href="https://liheng643013550.github.io/thriftynest/category/garden/">Garden &amp; Outdoors</a></h2><p class="card-meta">23 guides</p></article><article class="card cat-energy"><h2 class="card-title"><a href="https://liheng643013550.github.io/thriftynest/category/energy/">Energy &amp; Savings</a></h2><p class="card-meta">22 guides</p></article><article class="card cat-tools"><h2 class="card-title"><a href="https://liheng643013550.github.io/thriftynest/category/tools/">Tools &amp; DIY</a></h2><p class="card-meta">17 guides</p></article></section>
 </main>
 <footer class="site-foot">
   <div class="wrap foot-grid">
@@ -77,5 +77,17 @@
   </div>
 </footer>
 <img src="https://hits.sh/liheng643013550.github.io/thriftynest/categories.svg" width="1" height="1" alt="" aria-hidden="true" style="position:absolute;left:-9999px;top:0;border:0">
+<script>
+// 出站点击追踪（无 cookie、不阻塞跳转、只上报「这一页发出了点击」）
+document.addEventListener('click', function (e) {
+  var a = e.target && e.target.closest ? e.target.closest('a[href*="amazon.com"]') : null;
+  if (!a) return;
+  try {
+    var k = "liheng643013550.github.io/thriftynest/categories" + '/outbound';
+    var i = new Image(1, 1);
+    i.src = 'https://hits.sh/' + k + '.svg';
+  } catch (err) {}
+}, true);
+</script>
 </body>
 </html>
