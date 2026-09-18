@@ -82,6 +82,14 @@ jobs:
         # 这一步原先缺失，导致 pin 图从未生成过 —— 见 PINTEREST.md。
         run: python scripts/make_pins.py
 
+      - name: Strip unverified (placeholder) product links
+        # 构建前最后一道兜底。为什么必须生在流水线里：
+        # 线上真实出现过 9 篇 / 48 条 amazon.com/dp/PLACEHOLDER-ASIN 死链，
+        # 而且是在本地闸门全绿的情况下 —— 因为它们由 CI 直接提交到远端，
+        # 从未进入本地那棵被校验的树。生成时的闸门管不到历史稿和人工编辑。
+        # 这里把占位符链接降级成纯文字（可见文字不变），死链就不可能上线。
+        run: python scripts/strip_placeholders.py --apply
+
       - name: Build static site
         run: python scripts/build_site.py
 
