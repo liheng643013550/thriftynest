@@ -111,3 +111,17 @@ You don’t need to spend $50 or $100 to get a great French press. For under $25
 If you want the best all-around press, go with the Secura. It’s the perfect balance of price, build quality, and brew performance. If you’re worried about breaking glass or want your coffee to stay hot, spend a few extra dollars on the Coffee Gator. And if you want the classic look and feel, the Bodum Chambord is a timeless choice that won’t let you down.
 
 Pick one that fits your style and your counter space, and enjoy better coffee for less money.
+
+## Frequently Asked Questions
+
+### How much coffee does a 34-ounce French press make?
+
+A 34-ounce (1-liter) press yields roughly four cups, which suits a couple of coffee drinkers. If you only brew for one or two people, a smaller 12-ounce or 17-ounce model is a better fit.
+
+### Which cheap French presses use stainless steel instead of glass?
+
+The Coffee Gator and the Frieling both use stainless steel carafes. The Coffee Gator is double-wall, which keeps coffee hot for about an hour, while the Frieling is mirror-polished and doesn't stain or hold onto odors.
+
+### What kind of filter does the Mueller French Press have?
+
+The Mueller uses a 4-level filter system that layers a fine mesh screen with a microfiber filter to catch small particles. That design is aimed at producing a very clean cup with almost no sediment, though the microfiber element needs extra care when cleaning and may need replacing over time.

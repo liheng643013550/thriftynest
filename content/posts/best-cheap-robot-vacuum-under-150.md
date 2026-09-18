@@ -115,3 +115,17 @@ However, they are perfect for daily maintenance. Running one of these every day 
 If you have a small apartment with hard floors, grab the Lefant M210 or the eufy RoboVac 11S MAX. If you want smart navigation, the Wyze Robot Vacuum is the clear winner. And if you have pets and a tight budget, the ILIFE V3s Pro is a no-brainer.
 
 For most people, we recommend the Anker Eufy RoboVac G30. It offers the best balance of price, features, and performance for a typical home. Skip the expensive models, grab one of these, and enjoy having slightly cleaner floors without lifting a finger.
+
+## Frequently Asked Questions
+
+### Which budget robot vacuum is best for a home with mostly hard floors and low furniture?
+
+The eufy RoboVac 11S MAX is a strong fit because it measures just 2.85 inches tall, so it can slide under sofas, bed frames, and low cabinets. Its 2000Pa suction rating handles hard floors and low-pile rugs well. The Lefant M210 is another slim option with the same 2000Pa rating if you want something for a smaller space.
+
+### Do any robot vacuums under $150 offer mapping and no-go zones?
+
+Yes. The Wyze Robot Vacuum uses LiDAR navigation to build a real-time map and clean in efficient rows, and its app supports virtual walls and room selection. That kind of mapping is usually reserved for vacuums costing $400 or more. Its suction is rated at 1100Pa, so it is better suited to hard floors than high-pile carpet.
+
+### What should I check before buying a budget robot vacuum for pet hair?
+
+Look at the brushroll first. The ILIFE V3s Pro has a tangle-free brushroll designed to resist hair wrap, and it includes a 600ml dustbin so you empty it less often. The iRobot Roomba 692 uses dual multi-surface rubber brushes that pick up debris without tangling. Keep in mind that models with random navigation, including both of these, may take longer to cover a room.

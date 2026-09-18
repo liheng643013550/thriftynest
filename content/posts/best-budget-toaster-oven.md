@@ -107,14 +107,15 @@ Don’t overthink it. Look at your counter space, think about what you cook most
 
 ## Frequently Asked Questions
 
-### Can I use a toaster oven to bake a cake?
+### Which budget toaster oven is best for someone who mainly toasts bread and reheats leftovers?
 
-Yes, you can bake a small cake or brownies in a toaster oven. Use a pan that fits inside with at least an inch of clearance around it. Lower the temperature by 25°F from your recipe’s instructions, and check for doneness a few minutes early since convection models cook faster.
+The Black+Decker TO3250XSB is the most affordable pick at around $45, and its simple knob controls and roomy interior handle basic toasting and reheating without fuss. If toast quality is the top priority and budget is less of a concern, the Panasonic FlashXpress NB-G110P heats up in seconds and produces especially even browning, though it costs around $130 and is too small for baking or roasting.
 
-### Are toaster ovens cheaper to run than regular ovens?
+### How much counter space do these budget toaster ovens take up?
 
-Yes, toaster ovens are much more energy-efficient. A standard oven uses around 2,400 watts to heat up, while a toaster oven uses about 1,500 watts for a smaller space. For small meals, you’ll use less electricity and keep your kitchen cooler, honestly.
+Sizes vary quite a bit across this list. The Panasonic FlashXpress is the most compact and can fit in a cramped dorm room, while the Cuisinart TOB-60N and Ninja SP101 are both bulky and heavy. The Hamilton Beach 31150D uses a roll-top door that slides upward, so it does not need clearance in front of it, which helps in kitchens with shallow counters.
 
-### How do I clean the glass door on my toaster oven?
+### Do any of these models work as an air fryer too?
 
-Mix a paste of baking soda and water, apply it to the glass, and let it sit for 15 minutes. Then scrub gently with a non-abrasive sponge and wipe clean. Never use glass cleaner on a hot oven, and always unplug it before cleaning.
+Only the Ninja SP101 combines toaster oven and air fryer functions, with a temperature range from 145°F for dehydrating up to 450°F for roasting. It costs around $130, the highest price on this list, but it can replace two separate appliances. Its air fryer basket takes up a good amount of interior room, so it is not suited to cooking a full meal at once.
+

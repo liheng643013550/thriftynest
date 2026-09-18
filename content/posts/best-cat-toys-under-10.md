@@ -107,3 +107,17 @@ Buy this if you want to actively play with your cat and burn off their excess en
 ## The Bottom Line
 
 You don’t need to spend a fortune to have a happy cat. The best cat toys under $10 are the ones that match your cat’s personality. If you have a lazy cat, try the [Petstages Cat Tracks](https://www.amazon.com/dp/B0CW35BFN7?tag=__AMAZON_TAG__). If you have an energetic hunter, the [Catstages Cat Dancer](https://www.amazon.com/dp/B0CJ4Y5R2R?tag=__AMAZON_TAG__) is a guaranteed win. For a little bit of everything, the KONG Naturals Multipack is the safest bet. Just remember to rotate the toys you leave out every few days. That will make any of these picks feel brand new, and it will save you even more money in the long run.
+
+## Frequently Asked Questions
+
+### Which of these toys works best for a cat that spends most of the day alone?
+
+The SmartyKat Hot Pursuit is the strongest fit for solo play, since it keeps the ball moving on its own without batteries and doesn't need a person to operate it. Petstages Cat Tracks is another self-play option, letting a cat bat at the balls from one spot. Both are priced around $8 to $9.
+
+### Do any of these toys need replacement parts rather than a full repurchase?
+
+Yes. The Catstages Cat Dancer's wires can bend if a cat pounces hard, and replacement wire packs cost a couple of dollars. The Ethical Pet Play-N-Squeak has a replaceable squeaker, so the plush body can stay in use after the sound stops. The Beright Cat Wand's attachments may need replacing over time, though the rod itself should hold up.
+
+### What should I check before buying a toy for a cat that chews aggressively?
+
+Look for non-toxic materials and tightly stitched seams, and steer clear of small parts like plastic eyes or bells that could be chewed off and swallowed. Reinforced stitching, thick rubber, or sturdy cardboard hold up better for rough players. Even so, the KONG Naturals plush toys may only last a few weeks with a power chewer, and the Play-N-Squeak's seams can be ripped open to reach the squeaker.

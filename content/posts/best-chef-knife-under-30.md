@@ -141,14 +141,15 @@ Any of these knives will handle 95% of your kitchen tasks. Pair it with a simple
 
 ## Frequently Asked Questions
 
-### How often do I need to sharpen a budget chef knife?
+### Which of these chef knives is the best all-around choice?
 
-You should hone the blade with a honing steel before each use to keep the edge aligned. A full sharpening with a whetstone is needed every 2-3 months, depending on how often you cook. If you notice the knife struggling to slice a tomato cleanly, it is time to sharpen.
+The Victorinox Fibrox Pro, at around $27, is the top overall recommendation thanks to its sharpness, comfort, and durability. The Mercer Culinary Millennia, at around $22, is a strong alternative if a slightly lighter knife is preferred.
 
-### Is a stamped blade worse than a forged blade?
+### What should a budget chef knife be made of?
 
-Not necessarily. Forged blades are heavier and often have a better balance, but stamped blades are lighter and just as sharp. For a home cook, a high-quality stamped blade like the Victorinox is often a better choice because it is easier to handle and less tiring to use.
+High-carbon stainless steel is the material to look for, since it resists rust and holds an edge better than plain stainless. X50CrMoV15 and AUS-8 are two examples of this steel type that appear on spec sheets.
 
-### Can I put these knives in the dishwasher?
+### Are these knives good for someone with smaller hands?
 
-You can, but you should not. The harsh detergent and high heat can dull the blade and damage the handle material. Hand-washing takes about 30 seconds and will extend the life of your knife significantly. Always dry it immediately to prevent any water spots or rust, in my experience.
+The KomKom Classic, at around $25, is a good fit for beginners and cooks with smaller hands because it feels lighter than its 8-inch blade suggests. The Victorinox Fibrox Pro also has an ergonomic handle that suits both large and small hands.
+

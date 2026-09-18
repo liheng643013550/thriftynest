@@ -78,14 +78,15 @@ For most people, the BLACK+DECKER 12-Cup at $30 is the best value under $100. It
 
 ## Frequently Asked Questions
 
-### How often should I clean a coffee maker under $100?
+### Which machine is the best value if I just want a full pot every morning?
 
-Descale every 1 to 3 months, depending on how hard your water is. If you see white buildup in the reservoir or the brew slows down, it is past time. A vinegar-and-water cycle takes about 30 minutes and costs almost nothing.
+The BLACK+DECKER 12-Cup Programmable is the usual answer at around $30. It includes a 24-hour timer, a sneak-a-cup pause, and a 2-hour auto shutoff, though its brew temperature runs on the cool side and a full pot takes roughly 10 minutes.
 
-### Is a $100 coffee maker as good as a $300 one?
+### How much does a single-serve pod machine cost to run compared to a drip maker?
 
-For drip coffee, the gap is smaller than you would think. Expensive machines add thermal carafes, precise temperature control, and better build quality. Under $100, the Ninja CE251 gets close on flavor, but you give up the thermal carafe and some durability, in my experience.
+K-Cups run about $0.50 to $0.80 each, so two cups a day works out to $30 to $48 a month. Ground coffee in a drip maker comes in closer to $0.15 per cup, which is why a drip machine saves money for anyone drinking several cups daily.
 
-### Do pod machines or drip makers cost less to run?
+### Which of these makers brews the hottest coffee?
 
-Drip makers win by a wide margin. Ground coffee runs about $0.15 per cup, while pods cost $0.50 to $0.80 each. If you drink two cups a day, a drip maker can save you $250 or more per year.
+The Ninja CE251 brews closer to the 200°F range, hotter than the other machines listed, and it also offers a 24-hour delay brew, a small-batch setting, and a fold-away frother. It costs about $90, still under the $100 mark, but it uses a glass carafe on a warming plate, so flavor drops off after roughly 40 minutes.
+

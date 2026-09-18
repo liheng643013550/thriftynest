@@ -138,3 +138,17 @@ If you need one vacuum that does everything well, get the Wyze Cordless Vacuum. 
 Skip the Eureka unless you're on an absolute tight budget. And if you're willing to take a chance on a refurbished unit, the Tineco Pure One S12 gives you premium suction and features for the same price as a budget model.
 
 No vacuum under $100 will match a $500 Dyson, but these five will keep your floors clean without making you feel like you wasted your money.
+
+## Frequently Asked Questions
+
+### Which cordless vacuum under $100 works best on carpets?
+
+The Hoover ONEPWR Evolve is the strongest carpet performer among these models, thanks to a stiffer brush roll and a wider cleaning path. The Tineco Pure One S12 is another good option for carpeted homes, since its suction adjusts automatically up to 25,000 Pa. For thick or shag rugs, the Tineco is the pick to beat.
+
+### How long do the batteries last on these budget vacuums?
+
+Runtime varies by model and mode. The Black+Decker Powerseries Extreme runs about 25 minutes and has a removable battery, while the Hoover ONEPWR Evolve lasts around 30 minutes. The Wyze Cordless Vacuum and the Levoit Vortex Mini both offer roughly 20 minutes on standard mode, and the Eureka Flash comes in around 22 minutes.
+
+### Which of these vacuums is best for a small apartment?
+
+The Levoit Vortex Mini is a natural fit for small spaces, since it is the quietest and slimmest option here and stores easily in a closet. The Wyze Cordless Vacuum is also a solid choice for a one-bedroom apartment, though its 20-minute runtime is tight for a full house. If storage and noise are the priority, the Levoit wins.

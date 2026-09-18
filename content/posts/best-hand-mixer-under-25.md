@@ -105,14 +105,15 @@ Skip the Black+Decker unless you are truly desperate for the lowest price. It wo
 
 ## Frequently Asked Questions
 
-### Can a hand mixer under $25 handle thick cookie dough?
+### Which mixer in this price range has metal gears?
 
-Yes, but with limits. A mixer like the KitchenAid with metal gears can handle a standard batch of chocolate chip cookie dough, but you should still use a wooden spoon to incorporate the last cup of flour. The motor can overheat if you push it too hard for too long. For very stiff dough, let the mixer rest for a minute between batches.
+The KitchenAid 5-Speed Ultra Power is the only model covered here that is described as having metal gears. Its 250-watt motor is paired with that metal gearing, which is why it is called out as the most durable option under $25. The other mixers in this guide use plastic gears, which are more prone to slipping under stiff dough.
 
-### How do I know if the gears are metal or plastic?
+### How much power do I need in a budget hand mixer?
 
-The product listing will often say "metal gears" or "all-metal gears" in the description. If it does not say, it is almost certainly plastic. Another clue is the price; mixers with metal gears rarely sell for under $20. You can also check the customer reviews, as people often complain about "stripped gears" if the model uses plastic, in practice.
+Look for at least 250 watts, since anything lower struggles with thick cookie dough and can overheat. The sweet spot for this price range is 250 to 300 watts. For reference, the KitchenAid is rated at 250 watts and the Cuisinart Power Advantage at 220 watts.
 
-### How long should a budget hand mixer last?
+### Which of these mixers is best for someone who only bakes occasionally?
 
-With proper care, a good budget mixer like the KitchenAid can last 3 to 5 years with weekly use. Cheaper models with plastic gears might only last 12 to 18 months. To extend the life of any mixer, never submerge the body in water, wipe it clean with a damp cloth, and always start on a low speed to avoid splashing and straining the motor.
+The Hamilton Beach 6-Speed is a strong pick for casual bakers, since it handles cake batter and whipped cream easily and comes with a snap-in storage case that keeps the beaters and dough hooks organized. The Black+Decker 5-Speed is the cheapest route at around $15 for very occasional use, though its weaker motor and plastic gears are not built for heavy dough. The Oster 5-Speed is another option for small kitchens and light tasks.
+

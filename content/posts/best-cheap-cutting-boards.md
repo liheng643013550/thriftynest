@@ -95,3 +95,17 @@ Who should buy it: Serious home cooks who care about their knife edges and want 
 ## The Bottom Line
 
 For most people, the [Farberware Medium Cutting Board](https://www.amazon.com/dp/B005FU50ZU?tag=__AMAZON_TAG__) is the best all-around pick. It is cheap, dishwasher-safe, and stable. If you cut a lot of meat, spend a few more bucks on the [Oxo Good Grips Carving Board](https://www.amazon.com/dp/B08CF8FQYV?tag=__AMAZON_TAG__). If you want a single board that looks great and lasts, go with the [Teakhaus Teak Board](https://www.amazon.com/dp/B0F85N8KJG?tag=__AMAZON_TAG__). Skip the fancy sets and buy one good board that fits how you cook. Your wallet and your knives will thank you.
+
+## Frequently Asked Questions
+
+### What thickness should a budget cutting board be?
+
+The article recommends looking for boards at least 0.75 inches thick. Boards thinner than half an inch tend to warp and slide around during use, so heft equals stability.
+
+### Which cutting board material is easiest to maintain?
+
+Plastic is the easiest to maintain because it is dishwasher-safe and non-porous, so it does not absorb juices or odors. Wood and bamboo require hand-washing with mild soap, immediate drying, and occasional oiling.
+
+### Which budget board is best for cutting meat?
+
+The Oxo Good Grips Carving Board is the best budget option for messy jobs, thanks to its deep juice groove that circles the entire board and holds liquid without spilling. The Farberware Medium Cutting Board is also a solid choice for raw meat since its non-porous surface does not absorb juices.

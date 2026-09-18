@@ -131,14 +131,15 @@ Whichever you pick, budget 5 to 15 minutes a week for watering and a quick check
 
 ## Frequently Asked Questions
 
-### How much does it cost to fill a raised bed with soil?
+### How deep does a raised bed need to be for different plants?
 
-A 4x4 foot bed at 10 inches deep needs roughly 13 cubic feet of soil. Bagged mix usually runs $3 to $6 per cubic foot, so expect $40 to $80, or less if you blend in compost and topsoil.
+For herbs, lettuce, and peppers, 8 to 10 inches of soil depth is usually enough, while root crops like carrots want 10 to 12 inches. Keep in mind that depth also affects weight, since a 4x4 foot bed at 10 inches deep can top 800 pounds once filled.
 
-### How much time per week does a small raised bed take?
+### Which cheap raised bed kits are easiest to clean between seasons?
 
-For herbs and greens, typically 5 to 10 minutes a week for watering and a quick look for pests. Add 10 to 20 minutes once or twice a season to refresh soil and clean the frame.
+Fabric and lined wood beds are the easiest to empty and rinse, and the VegTrug Herb Garden Raised Bed is noted for a removable liner that makes cleanup possible in under 10 minutes. Galvanized metal options such as the Vego Garden and FOYUEE beds wipe down quickly, while bare wood absorbs salts and stains and takes more scrubbing.
 
-### Can I keep a raised bed on an apartment balcony?
+### How much time should a beginner expect to spend on a raised bed each week?
 
-Often yes, but check your lease and load limit first. A filled 4x4 bed can weigh several hundred pounds or more, so lighter fabric or plastic kits are usually the safer bet for balconies.
+Plan on roughly 5 to 15 minutes a week for watering and a quick check, plus one longer cleanup each season. Assembly varies by kit, with most models claiming 10 to 30 minutes depending on whether a screwdriver or rubber mallet is needed.
+

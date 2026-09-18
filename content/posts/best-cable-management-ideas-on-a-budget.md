@@ -70,3 +70,17 @@ For the cables that must go from the desk to the floor (like the PC tower and mo
 ## The Bottom Line
 
 You do not need a professional installer or a wall full of custom panels to fix a cable mess. A roll of Velcro, a pack of adhesive clips, and a cord cover kit will solve 90% of the problem for less than the cost of a pizza. Start with the power strip, then tackle the long runs, and finish with labels. Your floors will be easier to clean, your electronics will run cooler, and your space will look instantly tidier.
+
+## Frequently Asked Questions
+
+### How much should a basic cable management setup cost?
+
+The article puts the whole project under $30 when you shop at a dollar store or place a quick Amazon order. A roll of hook-and-loop tape, a pack of adhesive clips, and a cord cover kit cover most of the work. That total comes in below the price of a pizza.
+
+### What is the best way to hide the wires running down from a wall-mounted TV?
+
+A plastic cord cover kit is the budget alternative to cutting into drywall, which is a problem for renters. These paintable channels stick to the wall and snap shut over the cables, and painting the cover to match your wall before sticking it up makes it nearly invisible. Look for a kit with a flexible corner piece, since that is where cables tend to get pinched.
+
+### Why avoid plastic zip ties for bundling cables?
+
+Zip ties are permanent, they can cut into cable insulation, and they have to be cut off whenever you unplug something. Reusable Velcro ties wrap around a bundle, hold it tight, and release right away. Buying a roll of hook-and-loop tape and cutting it to length costs less than pre-cut ties.

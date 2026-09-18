@@ -92,3 +92,17 @@ Buy this if you have a modern laptop with USB-C and you want the best automatic 
 ## The Bottom Line
 
 You do not need to overthink this purchase. If you want the safest, most proven option that will last for years, grab the Logitech C920x when it dips below $50. If you want the best modern features and a clean image in low light, the Anker PowerConf C200 is the smarter pick. For everyone else on a strict budget, the Logitech C310 will get you through the workday without looking like a potato. Just make sure you have decent lighting in your room, because no budget camera can fix a pitch-black office.
+
+## Frequently Asked Questions
+
+### Do I really need 4K resolution for video calls?
+
+No. The article notes that 1080p at 30fps is the sweet spot for Zoom, Teams, and Google Meet, while anything lower looks soft and 4K is overkill for a budget pick. A 1080p camera is plenty for typical work calls.
+
+### Which budget webcams include a privacy shutter?
+
+The Papalook PA930 has a built-in cover that slides over the lens, and the Logitech Brio 300 has a privacy shutter integrated into its body. The Anker PowerConf C200 also offers a privacy mode that physically tilts the lens down. The Logitech C920x, by contrast, lacks a privacy shutter.
+
+### What field of view should I look for in a webcam?
+
+Aim for a lens between 65 and 80 degrees, which frames your face and shoulders without making you look like a tiny speck in a huge room. The Logitech C920x sits at 78 degrees, while the AverMedia PW310P goes wider at 95 degrees and relies on auto-framing to crop in for a normal-looking frame.

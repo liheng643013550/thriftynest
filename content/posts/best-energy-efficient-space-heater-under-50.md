@@ -126,3 +126,17 @@ You do not need to spend hundreds of dollars to stay warm. For under $50, you ca
 For a tiny budget and a specific spot, get the Lasko MyHeat. For the best all-around value in a small room, grab the Amazon Basics or the Honeywell. If you need to heat a bigger living area, the oscillating Lasko 754200 is your best friend. And if you want the quietest, most precise heating for a bedroom, the Dreo is worth the extra few dollars.
 
 Just remember: size the heater to the room. A $20 heater will not heat a 400-square-foot basement. Use these as zone heaters to supplement your central heating, and you will stay comfortable all season long.
+
+## Frequently Asked Questions
+
+### Which of these heaters costs the least to run?
+
+The Lasko 100 MyHeat draws only 200 watts, so it uses a fraction of the electricity of a standard 1,500-watt unit. That low draw is what makes it the cheapest to operate, though it only warms the area right in front of it.
+
+### Do these heaters shut off automatically if they tip over?
+
+The Amazon Basics, Honeywell HCE200W UberHeat, and the other models here include tip-over and overheat protection as standard safety features. The Honeywell also has a cool-touch housing, which helps if kids or pets are nearby.
+
+### Can a heater under $50 warm a whole large room?
+
+No. These are zone heaters meant to supplement central heating in the room you are actually using. A 1,500-watt unit is the standard sweet spot for a small room, and a $20 heater will not heat a 400-square-foot basement.

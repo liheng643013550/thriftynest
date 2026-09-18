@@ -83,14 +83,15 @@ Start small. Pick one recipe from this list, buy the ingredients this weekend, a
 
 ## Frequently Asked Questions
 
-### How long will these lunches stay fresh in the fridge?
+### How much can you realistically save by packing lunch a few days a week?
 
-Most of these lunches will stay fresh for 3 to 4 days in an airtight container. Pasta salads and grain bowls actually taste better on day two or three because the flavors have time to meld. I always make my lunches on Sunday and eat them through Thursday. If you’re making a full five days’ worth, save the wraps and any leafy greens for the last two days, as they can get soggy.
+Packing lunch three days a week instead of five still adds up to roughly $15 to $20 in weekly savings, which comes to about $60 to $80 a month. Doing a Sunday prep session of around 45 minutes can save closer to $40 a week, or $160 a month.
 
-### Do I need a special lunch box for these ideas?
+### Which of these lunches costs the least per serving?
 
-No, but a good insulated bag helps. If you’re carrying anything with mayonnaise or dairy, you want it to stay cold for at least 4 hours. A regular brown paper bag won’t cut it. A freezable lunch bag or a simple insulated one with a small ice pack is the common recommendation. It’s a one-time cost of about $15 to $20, and it saves you from buying $10 lunches.
+The lentil soup comes in under $1 per lunch, since a bag of lentils, a can of diced tomatoes, an onion, and a few carrots run about $5 total and make six servings. The black bean mason jar salad is close behind at roughly $1.40 per lunch, and the pinwheel wraps land around $1.75.
 
-### Can I make these lunches for less than $2 per serving?
+### What containers and gear does the article recommend for cold lunches?
 
-Yes, absolutely. The lentil soup and the pasta salad both come in at under $1.50 per serving. The grain bowls are around $2.50 if you use feta cheese, but you can skip the cheese to cut the cost in half. The key is buying store-brand staples like rice, beans, and pasta, and only buying produce that’s on sale that week. You don’t need organic or specialty ingredients to make these taste great, honestly.
+A wide-mouth 32-ounce jar works well for layered mason jar salads, and a divided bento box such as the Bentgo Fresh keeps an adult lunchable from turning into a pile. For hot food, a 16-ounce Stanley Classic Vacuum Bottle holds soup at temperature for about 6 hours, and an insulated bag with a built-in gel lining, like the PackIt Freezable Lunch Bag, removes the need for a separate ice pack.
+

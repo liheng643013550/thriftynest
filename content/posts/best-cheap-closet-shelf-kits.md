@@ -139,3 +139,17 @@ Who should buy it: Families with kids who need dedicated zones for different clo
 If you want the simplest, safest bet for a bedroom closet, get the ClosetMaid 4-Cube. It looks good, holds a lot, and works anywhere. If you need to maximize vertical space on a tight budget, go with the SimpleHouseware 6-Tier. If you have an awkward width, the Seville Classics Expandable is the only one that will fit without cutting.
 
 Skip any adhesive or tension rod kits for heavy clothes. Spend a little more on steel and solid shelves. Your future self will thank you when the winter coats do not crash down at 6 AM.
+
+## Frequently Asked Questions
+
+### How much weight should a closet shelf kit be rated to hold?
+
+For everyday clothing, the article suggests looking for a rating of at least 15 to 20 pounds per linear foot. Heavier items like coats and boots call for more capacity than that. Checking the rated load per bracket or per shelf before buying helps avoid a shelf that fails under weight.
+
+### Which mounting type is best for a closet shelf?
+
+Screw-in mounting is described as the best and most secure option. Tension styles need no tools but are limited in how much weight they can bear, and adhesive versions are only suitable for very light items such as scarves. Adhesive kits are not recommended for heavy sweaters.
+
+### What is the difference between a 12-inch and a 16-inch deep shelf?
+
+A shelf that is 12 inches deep is enough for most folded clothes, according to the article. A 16-inch deep shelf gives you room for bins and baskets. Shallower shelves may look tidier but hold less overall.

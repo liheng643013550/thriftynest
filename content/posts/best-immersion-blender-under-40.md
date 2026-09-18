@@ -112,14 +112,15 @@ Whichever you pick, you’ll be saving money and counter space. That’s a win i
 
 ## Frequently Asked Questions
 
-### Is it safe to blend hot soup with an immersion blender?
+### Which immersion blender is the best all-around pick under $40?
 
-Yes, but be careful. Make sure the blender is fully submerged before turning it on, and keep the blade below the surface. Lifting it out while running will splatter hot liquid. Also, always unplug it before attaching or removing the shaft.
+The Cuisinart Smart Stick CSB-75 is the safest all-around choice at roughly $35. It offers three speeds, a stainless steel shaft, and an included whisk, which makes it the best balance of power, attachments, and price in this range.
 
-### Can I use an immersion blender to make smoothies?
+### Do any of these blenders come with a whisk or chopper attachment?
 
-Yes, you can, but it requires more liquid than a regular blender. You’ll need to move the blender up and down to pull the fruit into the blades. For a thick smoothie with frozen fruit, a single-serve blender like the Ninja BN701 will work much better, honestly.
+Yes. The Cuisinart Smart Stick CSB-75 includes a whisk, and the Hamilton Beach 59765 comes with a 3-cup chopper attachment. The All-Clad UX1 and Breville BSB510 are stick-only, and the KitchenAid KHB1231's whisk is sold separately.
 
-### How do I clean an immersion blender?
+### Which model is the better choice for smoothies with frozen fruit?
 
-The easiest way is to fill a tall cup with warm water and a drop of dish soap, then run the blender for 10 seconds. Rinse the shaft under the tap. For the motor body, just wipe it with a damp cloth. Never submerge the motor housing.
+The Ninja BN701 is the strongest option for smoothies, thanks to its 700-watt motor and included 16-ounce cup. Owner reports describe it crushing ice completely in about 30 seconds, something no other model on this list is described as doing.
+

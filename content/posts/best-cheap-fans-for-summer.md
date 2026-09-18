@@ -113,3 +113,17 @@ The best cheap fan for summer depends on your space, but the clear winner for mo
 If you need serious airflow for a large room and don't mind a little noise, grab the Amazon Basics Pedestal. And if you just need a personal breeze at your desk, the [Honeywell TurboForce](https://www.amazon.com/dp/B07XG1HSKP?tag=__AMAZON_TAG__) is the best value in this entire list.
 
 Whichever you pick, you'll stay cool without wrecking your electric bill. Now go enjoy the summer.
+
+## Frequently Asked Questions
+
+### How much airflow should a fan have for a large room?
+
+The article's buying guide suggests aiming for at least 1,500 CFM for a large room, while anything under 1,000 CFM suits a desk or bedside table. Matching the airflow rating to the size of the space is the simplest way to avoid disappointment.
+
+### Which of these fans is quiet enough to sleep next to?
+
+A decibel rating below 50 dB is considered quiet enough for sleeping, and anything over 60 dB will be noticeable during a movie or conversation. Among the picks, the Comfort Zone Oscillating is described as whisper-quiet on low, and the Vornado 630 is noted as very quiet on its lower settings.
+
+### Do I need a remote control on a budget fan?
+
+A remote is worth a few extra dollars so you don't have to get up to change settings, according to the article's buying guide. The Lasko Wind Curve includes one along with a timer, while the Amazon Basics Pedestal and Comfort Zone Oscillating rely on simple dials and manual controls instead.

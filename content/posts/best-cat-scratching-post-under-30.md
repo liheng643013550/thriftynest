@@ -135,3 +135,17 @@ If you want the most durable and reliable vertical post, buy the SmartCat Pionee
 If your cat is a "carpet serial killer" who ignores vertical posts, get the [PetFusion Ultimate Cat Scratcher](https://www.amazon.com/dp/B01NC0A463?tag=__AMAZON_TAG__). It is the most effective tool for redirecting that horizontal scratching behavior, and it doubles as a bed.
 
 If you are just trying to survive on the tightest budget possible, the [Amazon Basics Cat Scratching Post](https://www.amazon.com/dp/B07G3GVBV7?tag=__AMAZON_TAG__) is a functional choice. It won't win any awards for durability, but it will stop the immediate damage to your furniture. Remember, the best scratching post is the one your cat actually uses. Watch their behavior, pick the matching style, and save your sofa.
+
+## Frequently Asked Questions
+
+### Which scratching post is the best choice for a large, heavy cat?
+
+The SmartCat Pioneer Pet Scratching Post is the strongest pick for big cats and heavy scratchers. Its wide, heavy particle board base and 32-inch height let a cat get a full-body stretch, and it holds steady even for cats over 15 lbs. The base also has a lip that can be filled with sand or weights if your cat is especially aggressive.
+
+### How much do these scratching posts cost?
+
+Every option in this guide comes in under $30. The Frisco 20.5" Cardboard Cat Scratcher is the cheapest at about $15, followed by the Amazon Basics Cat Scratching Post at roughly $18 and the Pawz Road Cat Scratcher with Catnip at about $20. The M-Pets Multi-Level Cat Scratching Post runs around $22, the PetFusion Ultimate Cat Scratcher about $25, and the SmartCat Pioneer Pet Scratching Post about $28.
+
+### Should I choose a cardboard scratcher or a sisal post?
+
+It depends on how your cat already scratches. Cardboard scratchers are inexpensive and work well for horizontal scratching, but they wear out quickly and leave crumbs behind. Sisal posts cost more and last longer, but they require your cat to scratch vertically. If you are unsure which your cat prefers, the M-Pets Multi-Level Cat Scratching Post combines a cardboard base, a sisal column, and a fleece lounger so you can find out.

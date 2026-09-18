@@ -93,11 +93,15 @@ You do not need a fancy filing cabinet to get organized. Spend ten bucks, sort y
 
 ## Frequently Asked Questions
 
-### How long will a cardboard file box last?
-With normal indoor use, a good cardboard box like the Fellowes will last 5 to 10 years. The key is keeping it off the floor and away from moisture. Once the corrugation gets wet, it loses all its strength.
+### What size interior width do letter-size folders need?
 
-### Can I use hanging files in these cheap boxes?
-Only if the box specifically says it fits hanging files. The Sterilite and IRIS boxes have a lip that can support hanging rails, but the basic Bankers Box does not. Check the product dimensions before you buy rails.
+Letter-size folders require roughly 12 inches of interior width. If hanging files are part of the plan, the box needs a bit of extra lip along the rails to hold them. Checking the width before buying is more useful than comparing price tags.
 
-### What is the best way to label these boxes?
-Use a thick permanent marker on a piece of masking tape. Do not write directly on the plastic or cardboard. When you need to change the contents, you just peel off the tape and re-label. It is the cheapest and most flexible labeling system there is.
+### Which option works best for a damp basement or garage?
+
+The Fellowes Bankers Box is the stronger choice for humid or rough conditions, since its double-wall ends and plastic top frame resist crushing better than thinner cardboard. Owner reports describe it holding its shape through two summers of 90-degree heat and high humidity in a garage. Standard cardboard boxes are not water-proof, so a leaky pipe or damp basement will ruin them quickly.
+
+### How much do these organizers cost per unit?
+
+Prices range from about $8 to $20 depending on the type. The Sterilite ClearView File Box runs around $9 for the 12-gallon size, the Bankers Box Stor/File is about $11 for a pack of two, and the SimpleHouseware Magazine File Holder is roughly $18 for a set of six. The Officemate Accordion File comes in near $9, making it the most convenient pick under $10.
+

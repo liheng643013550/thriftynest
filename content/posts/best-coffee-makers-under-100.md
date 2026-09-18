@@ -71,3 +71,17 @@ The AeroPress isn't a drip machine, but it's the best cup of coffee per dollar a
 ## The bottom line
 
 If you want a simple family machine: **Mr. Coffee**. If taste matters most: **Cuisinart DCC-3200**. If you brew single cups and carafes: **Ninja CE251**. And if you want the best possible cup for $35: the **AeroPress** beats every machine on this list in pure flavor — it just needs you to be part of the process.
+
+## Frequently Asked Questions
+
+### Which of these coffee makers brews at the proper temperature?
+
+The Cuisinart DCC-3200 is the one that hits the 195-205°F range, which is why it tends to taste smoother and less bitter. The Mr. Coffee 12-Cup Programmable, by contrast, runs a touch cool, and cool brewing is what leaves coffee tasting flat and sour.
+
+### How long does the Mr. Coffee take to brew a full pot?
+
+It brews a full 12-cup pot in roughly 10 minutes. That's generally fine for most households, and the machine also includes a programmable timer, pause-and-serve, and a removable reservoir.
+
+### Can any of these machines brew both ground coffee and pods?
+
+Yes, the Hamilton Beach FlexBrew is the hybrid option, handling both ground coffee and K-Cup pods. The trade-off is that neither side is the best at its job, and pod brewing costs more per cup.

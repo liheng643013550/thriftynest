@@ -107,3 +107,17 @@ Who should buy it? This is for the dog that needs a serious, stationary gnawing 
 ## The bottom line
 
 You do not have to spend a fortune to keep a power chewer happy. The best strategy is to match the toy to your dog's specific chewing style. For a gnawer, the Benebone Wishbone or the Nylabone Dura Chew offers the best value. For a fetcher, the Chuckit! Ultra Ball is a no-brainer. For a do-everything toy that is stuffable and durable, the KONG Classic is the safest bet. If your dog has proven they can destroy all of the above, the Goughnuts Indestructible Stick is your final, guaranteed solution. Start with one or two of these, see what your dog gravitates to, and you will save money in the long run by not buying toys that end up in the trash.
+
+## Frequently Asked Questions
+
+### Which toy is the best starting point if a dog's chewing style is unknown?
+
+The KONG Classic is the usual first pick because it suits moderate chewers and slows down most aggressive ones. Its hollow center can be stuffed with peanut butter, kibble, or canned food and frozen for a longer challenge. It is also dishwasher safe, so cleanup is simple.
+
+### How does the Goughnuts Chew Stick guarantee work?
+
+A red layer is printed inside the rubber, and if a dog chews deep enough to expose it, the toy can be sent back for a free replacement. That offer is what offsets the highest price on the list, which runs $18 to $25. The stick is heavy and best suited to medium to giant breeds.
+
+### Are the nylon chews safe for every dog?
+
+Both the Nylabone Dura Chew and the Benebone Wishbone are hard nylon, so they are not a good fit for senior dogs with sensitive teeth. Aggressive chewers can break off chunks, which means the toys need regular inspection. The Benebone is the firmer of the two and carries a strong bacon smell.

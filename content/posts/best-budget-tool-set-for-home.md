@@ -152,3 +152,17 @@ Hyper Tough 109-Piece Home Tool Set
 ## The bottom line
 
 If you want the best balance of quality, warranty, and price, buy the **DEWALT 108-Piece** set. It is the most reliable for actual repairs and will last you a decade. If you need to save money and want an all-in-one kit, the **Crescent 170-Piece** is the best value for the variety it offers. And if you are on an absolute shoestring budget, the **Stanley 65-Piece** is the best cheap set that will not embarrass you. Skip the Hyper Tough unless you need a disposable kit for the car.
+
+## Frequently Asked Questions
+
+### Which set is the best choice for general home repair?
+
+The DEWALT 108-Piece Mechanics Tool Set is the recommended pick for reliability over the long run, thanks to its full 1/4" and 3/8" socket range and lifetime warranty. If you would rather have one kit that covers everything at once, the Crescent 170-Piece Mixed Tool Set bundles sockets, wrenches, screwdrivers, a hammer, pliers, and a tape measure together. For the tightest budget, the Stanley 65-Piece Homeowners Kit handles basic furniture assembly and small fixes.
+
+### Why do cheap tool sets sometimes leave out the 10mm and 12mm sockets?
+
+Those two sizes are among the most frequently used, so some low-cost sets omit them as a way to cut costs. Before buying, check the socket list, because a set missing the 10mm and 12mm sizes is not worth the money. The same logic applies to the screwdrivers and hammer you will reach for constantly.
+
+### What does the warranty look like across these sets?
+
+Coverage varies by brand. DEWALT, Craftsman, and Kobalt all carry a lifetime warranty, and Kobalt can be exchanged in person at a Lowe's store with no receipt required. Craftsman replacements can be mailed in or handled at a Sears or Ace Hardware if one is nearby.

@@ -142,3 +142,17 @@ It is lightweight and easy to store, making it great for travel or temporary use
 ## The Bottom Line
 
 If you are on a strict budget and need a gate for a standard indoor doorway, buy the Regalo Easy Step. It is the best combination of price, durability, and convenience. If you have a wide opening, the Carlson is your best bet. If you need to block the stairs, do not use a pressure gate. Spend the extra money on the Cardinal Gates or the Summer Infant and mount it properly. The few extra dollars are worth it to prevent a serious fall.
+
+## Frequently Asked Questions
+
+### Are pressure-mounted gates safe at the top of the stairs?
+
+No. Pressure gates rely on tension against the walls, so they are not safe for the top of the stairs. For stair use, the article recommends a hardware-mounted gate that screws into the wall or banister, such as the Summer Infant Multi-Use or the Cardinal Gates Stairway Specialist.
+
+### What size opening will a cheap pet gate fit?
+
+Most budget gates fit openings between 29 and 34 inches. The Carlson Extra Wide Walk-Thru expands to cover openings up to 37 inches, while the North States Supergate adjusts from 26 to 40 inches. Anything wider than 38 inches generally calls for a specific wide model.
+
+### Which budget gate is best for a large dog?
+
+A gate rated for the dog's weight is the key requirement, and metal latches with reinforced corners hold up better than flimsy plastic ones. The Cardinal Gates Stairway Specialist is extra tall at 36 inches and made of heavy-duty steel, which suits a large dog that could clear a standard 30-inch gate. The Carlson Extra Wide Walk-Thru uses heavy-gauge steel and holds up against a 50-pound dog pushing on it.
