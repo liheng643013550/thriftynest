@@ -54,7 +54,7 @@ The basket is huge. I can fit a full pound of chicken wings in a single layer, w
 
 Downsides? It is heavy and takes up a lot of counter space. It also runs hot; I have to lower the temperature by 25 degrees compared to my regular oven. Cleanup is a bit tedious because the interior walls have a non-stick coating that scratches easily. Use only silicone or wooden tools inside. This is for the family cook who prioritizes volume over precise temperature control.
 
-[Hamilton Beach Sure-Crisp](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Hamilton Beach Sure-Crisp
 
 ## Gourmia 6-Slice Digital Air Fryer Toaster Oven
 
@@ -78,7 +78,7 @@ Inside, it has a quartz heating element that warms up fast. It reaches 400°F in
 
 The downside is the capacity. It only fits two slices of bread or about 1.5 pounds of food at a time. If you are cooking for a family, skip this one. Also, the dial controls are a bit ambiguous. The temperature dial has numbers, but the timer dial just has "Min" and "Max" with no increments in between. It takes some guessing to set the exact time. This is for a single person or a couple who cares about aesthetics as much as function.
 
-[Dash Deluxe AirFryer Toaster](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Dash Deluxe AirFryer Toaster
 
 ## Ultrean 12.6 Quart Air Fryer Toaster Oven
 
@@ -90,7 +90,7 @@ The controls are simple knobs for temperature, function, and timer. It has a con
 
 The build quality is not great. The door hinge feels weak, and the paint on the exterior scratches easily. The interior is also a pain to clean because the crumb tray does not catch all the grease from the rotisserie. It drips down to the bottom elements. If you are on a very tight budget and want the most features for the least money, this is the one. Just be ready to handle some quirks.
 
-[Ultrean 12.6 Quart](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Ultrean 12.6 Quart
 
 ## NuWave Bravo Air Fryer Toaster Oven
 

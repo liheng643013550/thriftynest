@@ -26,13 +26,13 @@ Before you buy, here is what actually matters at this price point.
 
 | Product | Price | Best For | Key Pros |
 | :--- | :--- | :--- | :--- |
-| [Cosori Pro LE](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$50 | Overall best performance | Even cooking, app connectivity, quiet operation |
-| [Instant Pot Vortex 4QT](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$45 | Ease of use | Simple one-touch presets, huge brand trust |
-| [Ninja AF080](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$50 | Small kitchens | Compact footprint, dual crisp baskets, max crispness |
+| Cosori Pro LE | ~$50 | Overall best performance | Even cooking, app connectivity, quiet operation |
+| Instant Pot Vortex 4QT | ~$45 | Ease of use | Simple one-touch presets, huge brand trust |
+| Ninja AF080 | ~$50 | Small kitchens | Compact footprint, dual crisp baskets, max crispness |
 | [Gourmia 6-Quart](https://www.amazon.com/dp/B0FBZP4Q2S?tag=__AMAZON_TAG__) | ~$35 | Large families on a budget | Massive capacity, 10 presets, very low price |
-| [Chefman 3.7 Quart](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$40 | Beginners | Simple analog dials, easy to understand, see-through window |
+| Chefman 3.7 Quart | ~$40 | Beginners | Simple analog dials, easy to understand, see-through window |
 | [Philips TurboStar](https://www.amazon.com/dp/B01N6NYF0B?tag=__AMAZON_TAG__) | ~$50 | Crispiest food | Patented Rapid Air technology, excellent results |
-| [Bella Pro Series 4.5QT](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$30 | Tightest budgets | Surprisingly sturdy, simple controls, great price |
+| Bella Pro Series 4.5QT | ~$30 | Tightest budgets | Surprisingly sturdy, simple controls, great price |
 
 ## Cosori Pro LE
 
@@ -106,6 +106,6 @@ The main drawback is the lack of a "max crisp" or "air crisp" mode. It is a stan
 
 ## The Bottom Line
 
-The air fryer market under $50 is crowded, but the choices are clear. If you want the best all-around performance and don't mind spending the full budget, the [Cosori Pro LE](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the winner. It offers the best mix of power, even cooking, and smart features.
+The air fryer market under $50 is crowded, but the choices are clear. If you want the best all-around performance and don't mind spending the full budget, the Cosori Pro LE is the winner. It offers the best mix of power, even cooking, and smart features.
 
 If you need to feed a crowd, grab the [Gourmia 6-Quart](https://www.amazon.com/dp/B0FBZP4Q2S?tag=__AMAZON_TAG__) for its unbeatable capacity and price. And if you are cooking for one and want the crispiest results possible, the [Philips TurboStar](https://www.amazon.com/dp/B01N6NYF0B?tag=__AMAZON_TAG__) is the one to get. Pick the one that fits your kitchen size and your family size, and you will be on your way to perfectly crispy food without spending a fortune.
