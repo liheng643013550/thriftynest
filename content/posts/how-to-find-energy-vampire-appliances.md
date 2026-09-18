@@ -87,7 +87,7 @@ This is the best investment you can make. A smart power strip looks like a regul
 
 When you turn off the TV, the strip senses the drop in power and cuts electricity to the other outlets. When you turn the TV on, it restores power. It’s completely automatic, and you’ll never notice it working.
 
-A solid option is the [Belkin Conserve Socket](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) or a similar model from a reputable brand. Look for one with enough outlets for your entertainment center. This single purchase can eliminate 80% of the phantom load in your living room overnight.
+A solid option is the Belkin Conserve Socket or a similar model from a reputable brand. Look for one with enough outlets for your entertainment center. This single purchase can eliminate 80% of the phantom load in your living room overnight.
 
 **The Timer Switch**
 

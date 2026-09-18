@@ -67,7 +67,7 @@ The best budget upgrades I have found are:
 
 If you need a heavy-duty hook for adult coats, look for a stainless steel hook strip. A 6-hook strip costs around $20 and can hold a surprising amount of weight. I have one installed in my own mudroom that holds four heavy winter coats and two canvas tote bags without sagging.
 
-For a solid, upgradeable catch-all basket, a heavy-duty galvanized metal bucket is a frequent recommendation. It looks nice, is nearly indestructible, and costs less than $12. [Honey-Can-Do Heavy Duty Storage Basket](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a solid choice that owner reviews describe using for years.
+For a solid, upgradeable catch-all basket, a heavy-duty galvanized metal bucket is a frequent recommendation. It looks nice, is nearly indestructible, and costs less than $12. Honey-Can-Do Heavy Duty Storage Basket is a solid choice that owner reviews describe using for years.
 
 ## Step 5: Build a Simple DIY Bench and Shelf
 

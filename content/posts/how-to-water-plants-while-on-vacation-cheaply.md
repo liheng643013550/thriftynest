@@ -95,7 +95,7 @@ Look for a kit with a timer that you can set to water every day or every other d
 
 You don’t need a smart home system to keep your plants alive while you are on vacation. A plastic bottle with a hole in the cap costs about five cents and works for a week. A cotton t-shirt cut into strips costs nothing and works for a few days in a pinch.
 
-The real secret is to test your method before you leave. Water your plants thoroughly, set up your chosen device, and check it the next day. Once you know it works, you can relax, sip your margarita, and not worry about the fiddle leaf fig you left at home. If you have a plant that is extra thirsty, try the [Blumat Classic Watering Stake](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) set; it is a small investment that pays off in plant life.
+The real secret is to test your method before you leave. Water your plants thoroughly, set up your chosen device, and check it the next day. Once you know it works, you can relax, sip your margarita, and not worry about the fiddle leaf fig you left at home. If you have a plant that is extra thirsty, try the Blumat Classic Watering Stake set; it is a small investment that pays off in plant life.
 
 ## Frequently Asked Questions
 

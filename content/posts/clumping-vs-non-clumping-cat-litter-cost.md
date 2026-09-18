@@ -16,11 +16,11 @@ If you have one cat, one small bathroom, and no place to store a 40-pound backup
 
 ## Quick verdict
 
-**One cat, small apartment, daily scooping:** Clumping wins. You use less litter per month because you only remove the soiled portion. A 20-pound jug of [Arm & Hammer Clump & Seal Multi-Cat](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) typically lasts a single cat four to six weeks, per owner reports.
+**One cat, small apartment, daily scooping:** Clumping wins. You use less litter per month because you only remove the soiled portion. A 20-pound jug of Arm & Hammer Clump & Seal Multi-Cat typically lasts a single cat four to six weeks, per owner reports.
 
 **Two cats, one box, tight budget:** Clumping still wins, but buy the larger sizes. Two cats can burn through a 20-pound jug in about three weeks, so the per-pound price on a 40-pound box matters more than the sticker on the small bag.
 
-**Kitten under four months, or a cat with a healing incision:** Non-clumping wins. Kittens and post-surgical cats sometimes eat clumping litter, and clumping litter can clump inside them. Vets commonly advise non-clumping until the kitten is older. [Dr. Elsey's Precious Cat Ultra](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a widely used non-clumping option, though it is on the pricier end.
+**Kitten under four months, or a cat with a healing incision:** Non-clumping wins. Kittens and post-surgical cats sometimes eat clumping litter, and clumping litter can clump inside them. Vets commonly advise non-clumping until the kitten is older. Dr. Elsey's Precious Cat Ultra is a widely used non-clumping option, though it is on the pricier end.
 
 ## Head-to-head comparison
 
@@ -40,7 +40,7 @@ If you have one cat, one small bathroom, and no place to store a 40-pound backup
 
 The bag price is a trap. What matters is cost per pound of litter actually consumed, and clumping litter is consumed far more slowly.
 
-Here is the honest math. A single adult cat produces roughly two to three clumps of urine per day plus solid waste. With clumping litter, you remove perhaps 3 to 4 ounces of litter per day along with the waste — call it 6 to 8 pounds a month, plus topping off. A 20-pound container of a mid-range clumping litter therefore lasts about six to eight weeks for one cat. Owner reviews on [Fresh Step Simply Unscented](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) frequently mention a 25-pound box lasting well over a month with a single cat.
+Here is the honest math. A single adult cat produces roughly two to three clumps of urine per day plus solid waste. With clumping litter, you remove perhaps 3 to 4 ounces of litter per day along with the waste — call it 6 to 8 pounds a month, plus topping off. A 20-pound container of a mid-range clumping litter therefore lasts about six to eight weeks for one cat. Owner reviews on Fresh Step Simply Unscented frequently mention a 25-pound box lasting well over a month with a single cat.
 
 Non-clumping litter works differently. Urine soaks down into the bed of litter and stays there. You scoop solids daily, but the liquid has nowhere to go, so the whole box starts to smell within days and gets fully dumped every three to seven days depending on the brand. That means 20 to 30 pounds per cat per month — two to four times the volume.
 
@@ -72,7 +72,7 @@ There is a smell factor too. Because urine stays in the litter bed, non-clumping
 
 Scooping speed favors clumping slightly, because you are removing a defined object rather than sifting through a deep bed. But the bigger difference is noise and mess at 6 a.m.
 
-Clay-based non-clumping litters, especially the fine-grain varieties, tend to produce more dust when poured and more noise when a cat digs. Pellet-style non-clumping litters — wood and paper pellets — are quieter and far less dusty, which matters if your litter box sits near your bed in a studio. [Yesterday's News](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) paper pellets are a common pick for exactly this reason, and they track less than fine clay.
+Clay-based non-clumping litters, especially the fine-grain varieties, tend to produce more dust when poured and more noise when a cat digs. Pellet-style non-clumping litters — wood and paper pellets — are quieter and far less dusty, which matters if your litter box sits near your bed in a studio. Yesterday's News paper pellets are a common pick for exactly this reason, and they track less than fine clay.
 
 Clumping litters vary widely here. Lightweight formulas track more because the granules are less dense and cling to paws. Heavier clumping litters track less but are harder to carry up three flights of stairs. If noise and dust are your main concern in a small space, a non-clumping pellet litter is genuinely the quieter, cleaner option — you are just paying for it in volume and weekly dumps.
 
@@ -90,9 +90,9 @@ Multi-cat homes push toward clumping for cost reasons, but they need more freque
 
 ## When to choose each one
 
-Choose clumping litter if you have one or two adult cats, you scoop daily, you want the lowest monthly running cost, and you are short on storage. A 20- to 40-pound container of [Arm & Hammer Clump & Seal Multi-Cat](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) or [Fresh Step Simply Unscented](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) covers most small-apartment renters well.
+Choose clumping litter if you have one or two adult cats, you scoop daily, you want the lowest monthly running cost, and you are short on storage. A 20- to 40-pound container of Arm & Hammer Clump & Seal Multi-Cat or Fresh Step Simply Unscented covers most small-apartment renters well.
 
-Choose non-clumping litter if you have a kitten under four months, a cat recovering from surgery, or a genuine sensitivity to dust and tracking. [Dr. Elsey's Precious Cat Ultra](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) and [Yesterday's News](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) are the two most commonly recommended non-clumping picks, one clay-based and one paper-based.
+Choose non-clumping litter if you have a kitten under four months, a cat recovering from surgery, or a genuine sensitivity to dust and tracking. Dr. Elsey's Precious Cat Ultra and Yesterday's News are the two most commonly recommended non-clumping picks, one clay-based and one paper-based.
 
 ## The bottom line
 

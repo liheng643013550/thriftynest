@@ -34,7 +34,7 @@ This plan isn’t set in stone. Life happens. But having a general roadmap means
 
 One of the biggest culprits of food waste is a misunderstanding of expiration dates. I can't tell you how many times I threw away perfectly good yogurt because the date on the lid was a day past. Here is the truth: Those labels are mostly about quality, not safety. The "Best By" date is simply the manufacturer's suggestion for when the food will taste its peak. It is not a poison alert.
 
-The only label that truly matters for safety is "Use By" on infant formula. For everything else, use your senses. Does the milk smell sour? Is the bread moldy? Does the chicken have a sticky film? If not, it's probably fine. A little common sense goes a long way. I have eaten yogurt two weeks past its date with zero issues. To help keep things fresh longer, I use a set of [Onyx Bamboo Fridge Storage Bags](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) for things like berries and leafy greens, which seem to go bad the fastest. They regulate humidity and have genuinely doubled the life of my strawberries.
+The only label that truly matters for safety is "Use By" on infant formula. For everything else, use your senses. Does the milk smell sour? Is the bread moldy? Does the chicken have a sticky film? If not, it's probably fine. A little common sense goes a long way. I have eaten yogurt two weeks past its date with zero issues. To help keep things fresh longer, I use a set of Onyx Bamboo Fridge Storage Bags for things like berries and leafy greens, which seem to go bad the fastest. They regulate humidity and have genuinely doubled the life of my strawberries.
 
 ## Store Produce Like a Pro
 

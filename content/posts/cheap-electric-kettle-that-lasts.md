@@ -43,7 +43,7 @@ In practice, the downsides are minor. The exterior gets hot during boiling, so k
 
 Buy it if you want a workhorse for coffee, tea, instant oatmeal, and ramen, and you don't care about matching your kitchen decor.
 
-[Hamilton Beach 40880](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Hamilton Beach 40880
 
 ## Aroma Housewares AWK-115S
 
@@ -55,7 +55,7 @@ The trade-offs: the smaller capacity means you're refilling it more often if you
 
 Who should buy it: someone with limited counter space or a small household. It also makes a solid gift for a college student in a dorm with a strict no-hot-plate rule, since kettles usually slide by.
 
-[Aroma Housewares AWK-115S](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Aroma Housewares AWK-115S
 
 ## Amazon Basics Stainless Steel Electric Kettle
 
@@ -67,7 +67,7 @@ What you give up: the design is plain, the base is lightweight and slides if you
 
 This is the one to buy if you're furnishing a first apartment on a tight budget, or you need a second kettle for the office and don't want to risk a nicer one walking off.
 
-[Amazon Basics Stainless Steel Electric Kettle](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Amazon Basics Stainless Steel Electric Kettle
 
 ## COSORI Speed-Boil Electric Kettle
 
@@ -79,7 +79,7 @@ Downsides: it's the most expensive pick here, the LED is bright enough to be ann
 
 Buy this if you make pour-over coffee or loose-leaf tea daily and want the easiest kettle to clean. The $8 premium over the Hamilton Beach buys you a noticeably nicer lid and finish.
 
-[COSORI Speed-Boil Electric Kettle](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+COSORI Speed-Boil Electric Kettle
 
 ## Ovente KG83
 
@@ -91,7 +91,7 @@ The catch: the interior on some color variants includes plastic components near 
 
 Who should buy it: someone who wants a kettle that looks good on the counter and doesn't mind a slightly longer boil time. It's also a popular pick for dorms and small offices because of the color options.
 
-[Ovente KG83](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Ovente KG83
 
 ## Proctor Silex 41002
 
@@ -103,7 +103,7 @@ The trade-offs are real: 1,000 watts means about four minutes for a liter, the p
 
 Buy it if you need a no-frills kettle for a dorm room, a break room, or a rental where you don't want to invest much. It's also a reasonable choice if you have a small solar setup or limited circuit capacity, since it draws less power than the 1,500-watt options.
 
-[Proctor Silex 41002](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Proctor Silex 41002
 
 ## The bottom line
 

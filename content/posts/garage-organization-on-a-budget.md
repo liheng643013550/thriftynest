@@ -94,6 +94,6 @@ These solutions cost nothing and keep useful items out of the landfill.
 
 Organizing your garage on a budget isn't about buying the cheapest plastic crap. It’s about being strategic. Start by getting rid of what you don't need, use the walls and ceiling to your advantage, and repurpose what you already own.
 
-For the few things you do need to buy, focus on value. A set of heavy-duty hooks, a roll of tape for labels, and a few stackable bins are worth the investment. If you need a solid, multi-purpose shelf, a metal unit like the [Seville Classics Heavy Duty Shelving Unit](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a durable option that will last for years.
+For the few things you do need to buy, focus on value. A set of heavy-duty hooks, a roll of tape for labels, and a few stackable bins are worth the investment. If you need a solid, multi-purpose shelf, a metal unit like the Seville Classics Heavy Duty Shelving Unit is a durable option that will last for years.
 
 The goal is a garage that works for you, not a showroom. Take it one weekend at a time. Start with one corner, or just the floor. Every small win will give you the momentum to keep going. You will be amazed at how much space you actually have once the clutter is gone.

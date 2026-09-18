@@ -57,7 +57,7 @@ The purchase price matters, too. You are not just paying per boil—you are payi
 
 Electric kettles range from $20 to $60 for a reliable model. A basic [Hamilton Beach Electric Kettle](https://www.amazon.com/dp/B07FS7SJYP?tag=__AMAZON_TAG__) costs around $25 and lasts 3 to 5 years with daily use. A premium model like the [Cuisinart Perfectemp](https://www.amazon.com/dp/B0C8Y8KNH8?tag=__AMAZON_TAG__) costs $80 but has temperature presets that save time, not energy.
 
-Stovetop kettles are cheaper upfront. A basic [OXO Good Grips Stovetop Kettle](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) costs about $35. A simple stainless steel one from Farberware can be found for $15 to $20. These last a long time—often 10 years or more—because they have no electronics to fail.
+Stovetop kettles are cheaper upfront. A basic OXO Good Grips Stovetop Kettle costs about $35. A simple stainless steel one from Farberware can be found for $15 to $20. These last a long time—often 10 years or more—because they have no electronics to fail.
 
 But here is the catch: stovetop kettles are slower. Time is a hidden cost. If you value your time at even a minimum wage level, waiting an extra 2 to 3 minutes per boil adds up to several hours a year. An electric kettle boils faster because it uses concentrated power directly in the water.
 

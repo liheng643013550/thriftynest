@@ -53,7 +53,7 @@ For greasy buildup, make a paste with baking soda and a little water. Apply it t
 
 For sticky residue, plain rubbing alcohol on a cloth works fast and evaporates without streaks. Test it on a hidden spot first, believe it or not.
 
-If you'd rather have a purpose-made product on hand for tough jobs, a stainless steel cleaner like [Weiman Stainless Steel Cleaner and Polish](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) runs about $8 and comes with a microfiber cloth. It's not necessary, but it does save time on heavily soiled appliances, and one can lasts a long time.
+If you'd rather have a purpose-made product on hand for tough jobs, a stainless steel cleaner like Weiman Stainless Steel Cleaner and Polish runs about $8 and comes with a microfiber cloth. It's not necessary, but it does save time on heavily soiled appliances, and one can lasts a long time.
 
 ## What About Commercial Cleaners — Are They Worth It?
 

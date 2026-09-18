@@ -23,7 +23,7 @@ If you are going to spend money, you want the **top** to be solid and the **legs
 
 The absolute cheapest way to get a standing desk is to use what you already have. You need a sturdy desktop (or a solid-core door slab) and two strong, identical storage bins or wooden crates. You place the crates on your existing desk or table and set the board on top. It costs about $20.
 
-- **The Build:** Place two [IKEA KALLAX](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) cube units (or similar) on your current desk. Lay a 60-inch solid wood board across them.
+- **The Build:** Place two IKEA KALLAX cube units (or similar) on your current desk. Lay a 60-inch solid wood board across them.
 - **The Pros:** It is rock solid. Zero wobble. It looks intentional if you keep the wood color consistent.
 - **The Cons:** It is not adjustable. You are stuck at one height. If you are 5'4" and your partner is 6'0", this will not work for both of you.
 

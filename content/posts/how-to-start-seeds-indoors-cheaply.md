@@ -43,7 +43,7 @@ A few things to know:
 
 Whatever you use, punch drainage holes. Soggy roots kill more seedlings than cold does.
 
-If you want a middle ground between free junk and a full kit, a basic [seed starting tray with humidity dome](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) runs about $10 and lasts several seasons. I use one for peppers, which germinate slowly and benefit from the dome.
+If you want a middle ground between free junk and a full kit, a basic seed starting tray with humidity dome runs about $10 and lasts several seasons. I use one for peppers, which germinate slowly and benefit from the dome.
 
 ## Mix Your Own Seed Starting Medium
 

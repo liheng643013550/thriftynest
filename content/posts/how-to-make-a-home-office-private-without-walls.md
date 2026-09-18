@@ -92,7 +92,7 @@ Physical barriers only work if the people you live with respect them. A few low-
 
 The advice circulating in owner forums is to text a partner "call at 2, 30 min," and reports describe interruptions dropping to almost zero. It sounds obvious, but the biggest privacy upgrade described is communication, not gear, honestly.
 
-For actual calls, a decent headset with a boom mic does more for how you sound than any room treatment. Something like a [Jabra Evolve2 40](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) keeps your voice clear and your ears covered, which doubles as a privacy cue.
+For actual calls, a decent headset with a boom mic does more for how you sound than any room treatment. Something like a Jabra Evolve2 40 keeps your voice clear and your ears covered, which doubles as a privacy cue.
 
 ## Pick the Right Gear for Your Space and Budget
 
@@ -103,7 +103,7 @@ If you're not sure where to start, match the tool to your situation.
 - Open-plan living room: bookshelf partition or a tall acoustic divider, plus headphones.
 - Shared space with kids: a curtained corner, a sign, and scheduled quiet hours.
 
-A solid fabric room divider like a [Room divider with shelves](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) can pull double duty as storage and a visual wall. Just check the height and base width before you buy. Reviews about wobbling are usually about flimsy feet, not the panel design.
+A solid fabric room divider like a Room divider with shelves can pull double duty as storage and a visual wall. Just check the height and base width before you buy. Reviews about wobbling are usually about flimsy feet, not the panel design.
 
 Budget honestly: you can get decent privacy for $50 to $100, good privacy for $150 to $300, and near-room-like separation for $400 or more if you add acoustic panels and a real partition.
 

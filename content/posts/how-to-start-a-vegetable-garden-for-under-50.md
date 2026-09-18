@@ -74,7 +74,7 @@ Once the seedlings have their second set of true leaves, thin them out. This mea
 
 Seeds have enough energy to get the plant started, but to produce food, plants need nutrients. Your potting mix might have some slow-release fertilizer in it, which is usually enough for the first month. After that, you can make your own compost tea by steeping a handful of compost in a bucket of water overnight. Use that water to feed your plants every two weeks.
 
-If you want a simple, cheap fertilizer, look for a water-soluble, all-purpose plant food. A small box of [Miracle-Gro Water Soluble Plant Food](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) costs about $5 and lasts a long time for a container garden.
+If you want a simple, cheap fertilizer, look for a water-soluble, all-purpose plant food. A small box of Miracle-Gro Water Soluble Plant Food costs about $5 and lasts a long time for a container garden.
 
 You also need to protect your investment from pests. The biggest threat is usually slugs and snails. A cheap trick is to scatter crushed eggshells around the base of the plants. The sharp edges deter them. If you have a serious bug problem, a simple spray of water with a drop of dish soap can handle aphids.
 

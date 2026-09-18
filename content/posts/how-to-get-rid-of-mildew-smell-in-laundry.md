@@ -42,7 +42,7 @@ Next, run a cleaning cycle. You have two solid options:
 - **Affresh Washing Machine Cleaner** tablets. Drop one in an empty drum and run the hottest, longest cycle. They're cheap, around $10 for a 6-pack, and designed for this exact job.
 - **White vinegar.** Pour 2 cups into the detergent dispenser and run a hot cycle. It's the budget option and works well for maintenance.
 
-For a deep clean, I like [Affresh Washing Machine Cleaner](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) because it targets the biofilm that vinegar sometimes leaves behind. If you'd rather not use tablets, plain vinegar is fine.
+For a deep clean, I like Affresh Washing Machine Cleaner because it targets the biofilm that vinegar sometimes leaves behind. If you'd rather not use tablets, plain vinegar is fine.
 
 Also clean the detergent drawer by hand, and check the drain pump filter. Rinse it under warm water until the water runs clear.
 
@@ -60,7 +60,7 @@ Use one of these methods.
 
 **Oxygen bleach.** For whites and colorfast items, add 1 scoop of OxiClean to a warm wash. It breaks down organic residue that holds the smell.
 
-**Enzyme cleaner.** For really stubborn cases—like gym clothes or towels that smell sour the second they get wet—an enzyme-based sports wash like [Defunkify Active Wash](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) eats the oils and bacteria directly. It costs more than vinegar, but it works when nothing else does.
+**Enzyme cleaner.** For really stubborn cases—like gym clothes or towels that smell sour the second they get wet—an enzyme-based sports wash like Defunkify Active Wash eats the oils and bacteria directly. It costs more than vinegar, but it works when nothing else does.
 
 One warning: never mix vinegar and bleach. It creates toxic chlorine gas.
 

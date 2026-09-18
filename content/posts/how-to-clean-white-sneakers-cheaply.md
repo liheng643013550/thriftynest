@@ -84,7 +84,7 @@ For yellowed soles, mix equal parts baking soda and hydrogen peroxide into a pas
 
 Cleaning sneakers is a chore. Make it less frequent with a few simple habits.
 
-Apply a water and stain repellent spray to clean, dry shoes. A basic [Kiwi Sneaker Protector](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) costs about $8 and lasts for months. It creates a barrier so dirt doesn’t soak into the fabric. You’ll only need to wipe them down instead of doing a full deep clean.
+Apply a water and stain repellent spray to clean, dry shoes. A basic Kiwi Sneaker Protector costs about $8 and lasts for months. It creates a barrier so dirt doesn’t soak into the fabric. You’ll only need to wipe them down instead of doing a full deep clean.
 
 Don’t wear white sneakers in the rain or on muddy trails. That seems obvious, but it’s the number one way to ruin them fast. Keep a pair of beaters for bad weather.
 

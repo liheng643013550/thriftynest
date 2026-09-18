@@ -81,7 +81,7 @@ Here is a summary of the tools that deliver the highest return on investment for
 | Magnetic strip | $10 - $15 | Clears up drawer space for metal tools |
 | Plastic caddy | $5 - $10 | Keeps cleaning supplies portable and hidden |
 
-If you need a solid, affordable organizer, the [HoneyCan Do Over-the-Door Organizer](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a reliable choice that fits most doors and won't fall off. For a tiered shelf, the [mDesign Plastic Storage Rack](https://www.amazon.com/dp/B07S7FKHKM?tag=__AMAZON_TAG__) is durable and easy to wipe down, making it perfect for a damp bathroom environment.
+If you need a solid, affordable organizer, the HoneyCan Do Over-the-Door Organizer is a reliable choice that fits most doors and won't fall off. For a tiered shelf, the [mDesign Plastic Storage Rack](https://www.amazon.com/dp/B07S7FKHKM?tag=__AMAZON_TAG__) is durable and easy to wipe down, making it perfect for a damp bathroom environment.
 
 ## The Bottom Line
 

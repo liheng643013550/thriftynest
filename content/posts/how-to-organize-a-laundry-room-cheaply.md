@@ -97,7 +97,7 @@ A laundry room does not need to be pretty, but it should not be depressing. Smal
 
 None of this is essential. But I have noticed that when a space looks cared for, I stop treating it like a dumping ground. My laundry room has stayed organized for eight months now, which is a personal record, in practice.
 
-If you want one small splurge that actually earns its keep, a [Simple Houseware 3-Tier Rolling Cart](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) rolls between the machines and the shelf and holds all your everyday supplies. It is around $30 and it replaced two separate baskets in my room.
+If you want one small splurge that actually earns its keep, a Simple Houseware 3-Tier Rolling Cart rolls between the machines and the shelf and holds all your everyday supplies. It is around $30 and it replaced two separate baskets in my room.
 
 ## A 90-Minute Plan You Can Actually Follow
 

@@ -29,7 +29,7 @@ Here is the basic kit you need:
 - **Pet-safe scissors with rounded tips:** For trimming around paws and sanitary areas.
 - **Cotton balls:** To protect ears during the bath.
 
-You can find most of these at a big-box store or online. If you are starting from scratch, a kit like the [Andis Pet Grooming Kit](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a solid, budget-friendly way to get clippers, guards, and scissors in one box.
+You can find most of these at a big-box store or online. If you are starting from scratch, a kit like the Andis Pet Grooming Kit is a solid, budget-friendly way to get clippers, guards, and scissors in one box.
 
 ## Brush Out the Mats Before the Bath
 
@@ -57,7 +57,7 @@ If your dog has clear or white nails, you can see the quick easily. For black na
 
 Hold the paw firmly but gently. Cut at a 45-degree angle, snipping only the tip. If you do cut the quick, don't panic. Apply styptic powder to the tip and apply pressure for a few seconds. If you don't have styptic powder, cornstarch or flour works in a pinch.
 
-If your dog absolutely hates the clippers, switch to a grinder. Many dogs tolerate the grinding sensation better than the squeeze of the clippers. A tool like the [Furminator Nail Grinder](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is quieter and gives you more control, which reduces the risk of cutting the quick.
+If your dog absolutely hates the clippers, switch to a grinder. Many dogs tolerate the grinding sensation better than the squeeze of the clippers. A tool like the Furminator Nail Grinder is quieter and gives you more control, which reduces the risk of cutting the quick.
 
 ## Trimming the Fur and Sanitary Areas
 

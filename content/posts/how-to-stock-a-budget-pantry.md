@@ -118,7 +118,7 @@ You don’t need a fancy kitchen, but a few tools help you cook from scratch wit
 - **Measuring cups and spoons:** You don't need a full set, just a standard set for dry and liquid.
 - **Storage containers:** Airtight containers keep grains and beans fresh and pest-free. Old mason jars work perfectly.
 
-If you need a reliable pot to start, a basic set like [Cuisinart MultiClad Pro Stainless Steel Saucepan](https://www.amazon.com/dp/B08L8F9262?tag=__AMAZON_TAG__) is a solid, budget-friendly choice that will last for years. For a knife, a [Victorinox Swiss Army Fibrox Pro Chef's Knife](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is often recommended by professional cooks and costs far less than you’d expect.
+If you need a reliable pot to start, a basic set like [Cuisinart MultiClad Pro Stainless Steel Saucepan](https://www.amazon.com/dp/B08L8F9262?tag=__AMAZON_TAG__) is a solid, budget-friendly choice that will last for years. For a knife, a Victorinox Swiss Army Fibrox Pro Chef's Knife is often recommended by professional cooks and costs far less than you’d expect.
 
 ## Keeping Your Pantry Organized on a Budget
 

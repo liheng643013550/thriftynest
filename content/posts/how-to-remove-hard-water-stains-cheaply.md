@@ -70,7 +70,7 @@ The cheapest way to deal with hard water stains is to not get them in the first 
 - After your shower, spray down the glass, wait 30 seconds, and squeegee it dry.
 - This stops the minerals from ever baking onto the surface.
 
-If you want to upgrade your routine, consider a water-softening showerhead. These are relatively inexpensive and replace your standard fixture in minutes. They filter out the minerals before they hit the glass. A [Water Softening Showerhead](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a smart investment if you are constantly fighting scale.
+If you want to upgrade your routine, consider a water-softening showerhead. These are relatively inexpensive and replace your standard fixture in minutes. They filter out the minerals before they hit the glass. A Water Softening Showerhead is a smart investment if you are constantly fighting scale.
 
 ## The Bottom Line
 

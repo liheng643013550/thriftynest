@@ -45,7 +45,7 @@ For the parts, do not buy a generic "one-size-fits-all" kit. Instead, look for a
 
 For a compression faucet, you need a new rubber washer and possibly a new seat. Washers cost about a dollar. For a cartridge faucet, you need a new cartridge. They cost anywhere from five to fifteen dollars depending on the brand.
 
-If you have a Delta faucet, a universal replacement like the [Danco Universal Cartridge](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a solid choice for many models. For Moen, the [Moen 1222 Cartridge](https://www.amazon.com/dp/B00083EC6C?tag=__AMAZON_TAG__) is the standard replacement for most two-handle models.
+If you have a Delta faucet, a universal replacement like the Danco Universal Cartridge is a solid choice for many models. For Moen, the [Moen 1222 Cartridge](https://www.amazon.com/dp/B00083EC6C?tag=__AMAZON_TAG__) is the standard replacement for most two-handle models.
 
 ## Step 1: Shut Off the Water Supply
 

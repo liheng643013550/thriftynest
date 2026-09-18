@@ -40,7 +40,7 @@ Two things to know before you wrap it:
 
 Pipe insulation matters too, especially on the first 6 feet of hot and cold pipes coming out of the tank. Foam pipe sleeves run about $2 to $4 for a 6-foot section. On an electric heater, insulate the first 6 feet of the hot pipe. On a gas unit, keep insulation at least 6 inches away from the flue.
 
-For a tank blanket, a kit like this one works fine: [Water Heater Insulation Blanket](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+For a tank blanket, a kit like this one works fine: Water Heater Insulation Blanket
 
 ## Fix Leaks and Drips Immediately
 

@@ -80,7 +80,7 @@ Do not buy a cheap folding chair. You will back pain, and you will hate your job
 
 You need a chair that supports your lower back and allows your feet to sit flat on the floor. A task chair with adjustable height and armrests is the minimum.
 
-If you are on a strict budget, look for a used Herman Miller or Steelcase on Facebook Marketplace or Craigslist. They are built to last decades and are often sold for a fraction of the retail price. If you buy new, a solid budget pick is the [Hbada Ergonomic Office Chair](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). It has lumbar support and a breathable mesh back, which is good for warmer climates.
+If you are on a strict budget, look for a used Herman Miller or Steelcase on Facebook Marketplace or Craigslist. They are built to last decades and are often sold for a fraction of the retail price. If you buy new, a solid budget pick is the Hbada Ergonomic Office Chair. It has lumbar support and a breathable mesh back, which is good for warmer climates.
 
 **Quick chair checklist:**
 

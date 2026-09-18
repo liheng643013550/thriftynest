@@ -25,7 +25,7 @@ You don’t need a fancy professional kit, but you do need the right gear. Using
 
 If you have a small or medium dog, scissors-style clippers are usually easier to control. For large breeds with thick nails, plier-style clippers give you more leverage. Avoid using human nail clippers, as they crush the nail and can cause splintering.
 
-The [Millers Forge Nail Clipper](https://www.amazon.com/dp/B0111SLMUQ?tag=__AMAZON_TAG__) is a solid, affordable choice that has been around for decades. If your dog has dark nails and you want extra safety, consider a grinder like the [Dremel 7300-PT](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). It takes practice, but it eliminates the risk of cutting the quick entirely.
+The [Millers Forge Nail Clipper](https://www.amazon.com/dp/B0111SLMUQ?tag=__AMAZON_TAG__) is a solid, affordable choice that has been around for decades. If your dog has dark nails and you want extra safety, consider a grinder like the Dremel 7300-PT. It takes practice, but it eliminates the risk of cutting the quick entirely.
 
 ## Know the Anatomy: Find the Quick
 
