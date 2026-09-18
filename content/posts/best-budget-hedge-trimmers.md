@@ -97,14 +97,15 @@ If I had to pick just one for most people, it would be the **Greenworks 22-Inch 
 
 ## Frequently Asked Questions
 
-### How often should I sharpen my budget hedge trimmers?
+### Which budget hedge trimmer works best for medium-to-large hedges?
 
-You should sharpen them at least once a year, preferably before the growing season starts. For manual shears, a sharpening stone takes about 10 minutes. For electric trimmers, you can use a flat file to gently pass over the blade edges. Dull blades tear leaves, leaving brown edges that look ugly.
+The Greenworks 22-Inch Corded Hedge Trimmer is the strongest value pick for bigger jobs, thanks to a 4.5-amp motor and dual-action blades that cut down vibration. It does require an outlet and an extension cord, so cord management is something to watch around the base of the hedge.
 
-### Is it worth buying a corded electric trimmer over a battery one?
+### How much cutting capacity should a cheap electric trimmer have?
 
-If you have an outlet within reach, yes. Corded trimmers are usually cheaper, lighter, and provide unlimited run time. Battery trimmers add convenience but cost more and lose power as the charge depletes. For a budget buyer, a corded model gives you the most cutting power for your money.
+For budget electrics, the article recommends at least 5/8 inch of cutting capacity. Real-world limits vary by model: the Black+Decker 20V Cordless tends to stall on anything thicker than 1/2 inch, while the Greenworks 22-Inch Corded is described in owner reviews as handling branches thicker than a thumb.
 
-### Can I cut thick branches with a hedge trimmer?
+### Are manual hedge shears a good choice for small yards?
 
-No, you should not try to cut anything thicker than the manufacturer's stated capacity, usually around 5/8 inch. Attempting to cut larger branches will stall the motor or damage the gears. For those thicker branches, use a pair of loppers or a pruning saw first, then use the trimmer to clean up the new growth.
+Yes, if the hedges are small or the work is precise. The Fiskars 23-Inch Power-Lever uses a gear mechanism that multiplies cutting force and handles branches up to 3/4 inch, while the Worth Garden Bypass Shears are very light and cheap but flex on anything over 1/2 inch. Manuals are quiet and free to run, but they take more muscle than an electric model.
+

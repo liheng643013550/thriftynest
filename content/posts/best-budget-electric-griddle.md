@@ -118,3 +118,17 @@ If you're on a tighter budget or only cook for one or two, the Elite Gourmet 18-
 If you want the best value for a mid-size family, the Hamilton Beach 20-inch Electric Griddle at $35 hits the sweet spot. It's reliable, easy to use, and doesn't cost much more than the cheapest options.
 
 Skip the Black+Decker if you cook often—the hot spots get annoying. Spring for the Presto or Bella instead. Your pancakes will thank you.
+
+## Frequently Asked Questions
+
+### How many square inches do you need for a family of four?
+
+Aim for at least 200 square inches of cooking surface. The 20-inch griddles on this list generally land around 200 to 210 square inches, while the 22-inch models reach roughly 220 to 231 square inches. That extra room is what lets you cook a full batch instead of working in rounds.
+
+### Which budget griddles can actually be washed in the sink?
+
+The Presto 22-inch Electric Griddle is the one model here described as fully submersible, so it can be washed like a regular pan. Most others, including the Hamilton Beach, Black+Decker, Oster, Elite Gourmet, Bella, and Proctor Silex, are not submersible and need a damp cloth or a removable plate washed separately. Several of those do have dishwasher-safe drip trays and removable parts.
+
+### Why do cheap griddles burn food around the edges?
+
+It comes down to heat distribution. Thinner surfaces and weaker heating elements create hot spots, so the center or the edges run hotter than the rest of the griddle. Models with a thick aluminum base or a cast-in heating element, like the Presto and Bella, are noted for more even browning, while the Black+Decker is the one most likely to need you to rotate food as it cooks.

@@ -147,3 +147,17 @@ You do not need to spend a fortune to get rid of the damp. For most people, the 
 If you have a big basement, go for the hOmeLabs 1,500 Sq. Ft Energy Star Dehumidifier for the best capacity-to-price ratio. And if you just need to fix a musty closet, the [Pro Breeze Electric Mini Dehumidifier](https://www.amazon.com/dp/B01DC5PPWM?tag=__AMAZON_TAG__) is a no-brainer at fifty bucks.
 
 The key is to match the machine to the room size. Buy a slightly bigger unit than you think you need, set it to 50% humidity, and let it do its job. Your sinuses, your walls, and your wallet will all be better off.
+
+## Frequently Asked Questions
+
+### What pint capacity do I need for my room?
+
+Match the rating to the space. A 20-pint unit suits a small bedroom or office, a 30-pint unit fits a standard living room or damp basement, and a 50-pint unit is meant for large, open basements. Buying oversized for a closet wastes money.
+
+### Do I have to empty the water tank by hand?
+
+Not always. Several models in this list support a drain hose, including the Frigidaire FFAD2233W1 and the hOmeLabs unit, which lets you run a line to a floor drain. The GE 22-Pint goes further with a built-in pump that pushes water uphill to a window or sink, so the tank never needs emptying.
+
+### How much can I expect to spend on a budget dehumidifier?
+
+Prices in this roundup run from about $50 for the Pro Breeze Electric Mini up to roughly $230 for the GE pump model. Most full-size compressor units land between $150 and $200, and the Frigidaire FFAD2233W1 at around $180 is the pick for most households.

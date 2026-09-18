@@ -110,3 +110,17 @@ Who should buy it: Campers, preppers, or anyone who wants a no-nonsense pot that
 For most people, the Lodge 6-Quart Enameled Cast Iron Dutch Oven is the best budget pick. It’s cheap, tough, and does everything you need. If you want more style and can stretch your budget, the Tramontina 6.5-Quart is worth the extra money for its premium feel. And if you’re just dipping your toes in, the [Amazon Basics 6-Quart](https://www.amazon.com/dp/B073Q9WV8S?tag=__AMAZON_TAG__) will get the job done without breaking the bank.
 
 Whichever you choose, you’ll get 90% of the performance of a $300 pot for a fraction of the price. That’s a deal we can get behind.
+
+## Frequently Asked Questions
+
+### What size Dutch oven is best for most households?
+
+A 5-to-7-quart pot covers the widest range of cooking tasks, which is why the article recommends shopping in that window for versatility. The 5-quart models here suit a family of four but can feel tight for a whole chicken or a big batch of soup, while the 6-quart and 6.5-quart options handle larger loaves of bread and bigger braises. If you want one pot that does nearly everything, aim for the middle of that range.
+
+### How much should a budget Dutch oven cost?
+
+As a general rule, the article suggests staying under $50 for a 6-quart pot, or under $70 if it comes from a known housewares brand. The picks here run from about $35 for the bare cast iron Lodge up to roughly $80 for the Tramontina 6.5-quart. Anything in that spread gets you most of the performance of a much pricier pot.
+
+### Can a budget Dutch oven go in the oven and on an induction cooktop?
+
+Yes. Most budget brands handle all heat sources, including induction, and the article notes that you can go up to 450°F for most recipes. One detail to watch is the lid knob: a stainless steel or metal knob is a plus for high-heat bread baking, while the plastic knob on the Crock-Pot Artisan needs to be swapped out before baking above 400°F.

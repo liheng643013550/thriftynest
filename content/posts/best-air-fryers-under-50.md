@@ -89,3 +89,17 @@ The NuWave Brio stands out for its basket design — a wide, flat basket that cr
 ## The bottom line
 
 For most people, the **Chefman TurboFry 3.6QT** is the best all-around air fryer under $50. If you cook for one, get the **Cosori Mini**. If you want the most capacity, the **Gourmia 4QT** is the value king. Whichever you choose, skip the fancy presets and focus on capacity, wattage, and a dishwasher-safe basket — those three things decide whether you'll actually use it.
+
+## Frequently Asked Questions
+
+### What size air fryer is right for one or two people?
+
+For one to three people, a basket in the 2 to 3.5 quart range is the practical choice. Going larger means longer preheating and more counter space taken up, so a small unit like the Cosori Mini 2.1QT or the Instant Vortex Mini 2QT suits singles, while the Crux 3.2QT handles two servings comfortably.
+
+### How much wattage does a budget air fryer need?
+
+Look for at least 1400W. Models that draw less power cook more slowly and tend to produce soggy fries rather than crisp ones, so wattage is one of the few specs worth checking before buying at this price.
+
+### Which budget air fryer has the largest basket?
+
+The Gourmia 4QT has the biggest capacity of any model here at a full 4 quarts, which is enough for a whole chicken or a large batch of wings. It also includes a digital display and presets, though the trade-off is a larger footprint on the counter.

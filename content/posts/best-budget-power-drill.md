@@ -122,14 +122,15 @@ If you want the best value for a first drill, get the Ryobi P215K1. It costs aro
 
 ## Frequently Asked Questions
 
-### Do I need a corded or cordless drill as a beginner?
+### Which budget drill is the best choice for a first-time buyer?
 
-Cordless is easier for most beginners because you can use it anywhere without an outlet. Corded drills give you more power for the money, but the cord limits where you can work. If you only drill near a garage outlet, corded is the better deal, in my experience.
+The Ryobi P215K1 18V One+ is the strongest pick for a first drill. At around $59 it has enough power for typical home projects, and its battery works with the rest of the One+ lineup, which covers more than 260 tools. If the budget is tighter, the BLACK+DECKER BDEDRT at $35 can still handle shelves and furniture assembly.
 
-### What voltage do I need for home projects?
+### Do I need a corded or a cordless drill?
 
-18V or 20V covers almost everything a beginner does, from furniture assembly to drilling into wood. 12V works fine for light tasks like hanging pictures and tightening screws. You only need more power if you drill concrete regularly.
+It depends on where the work happens. Corded models such as the CRAFTSMAN CMED741 at $39 and the Skil 6445-04 at $34 deliver constant power and never need a battery, but they require an outlet and an extension cord. Cordless drills cost a bit more and go anywhere, which matters if the work is on a ladder or out in the yard.
 
-### How much should I spend on a first drill?
+### How much power and what chuck size should a beginner look for?
 
-Plan on $35 to $80. That range gets you a reliable drill from a known brand with enough power for home repairs. Spending more than $100 only makes sense if you plan to use the drill weekly or need it for heavy construction work.
+For cordless, 12V suits light tasks like furniture assembly, while 18V or 20V is the sweet spot for drilling into wood and light metal. Corded drills should be at least 6 amps. A 3/8-inch chuck fits most bits, and a 1/2-inch chuck accepts larger bits and is more versatile but usually costs more.
+

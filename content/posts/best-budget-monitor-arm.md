@@ -107,3 +107,17 @@ Who should buy it: If you want the most adjustable and best-looking budget arm, 
 ## The bottom line
 
 You do not need to spend $150 on a monitor arm to fix your posture. For under $50, the [HUANUO Single Monitor Mount](https://www.amazon.com/dp/B07CHKWNKC?tag=__AMAZON_TAG__) is the best all-around pick for most people—it is cheap, reliable, and easy to install. If you have a heavy monitor, go with the [VIVO Single Monitor Arm](https://www.amazon.com/dp/B07TWYHCZH?tag=__AMAZON_TAG__). If you have an ultrawide, grab the [MOUNTUP Single Monitor Mount](https://www.amazon.com/dp/B07Z7ZGHD5?tag=__AMAZON_TAG__). And if you are truly broke, the NB North Bayou F80 will hold your screen off the desk without complaint. Measure your desk, check your VESA pattern, and pick one. Your neck will thank you.
+
+## Frequently Asked Questions
+
+### What weight can a budget monitor arm hold?
+
+Most budget arms top out around 17.6 lbs (8 kg), which covers a standard 24-inch office monitor. If your screen is heavier than that, look for a model rated at 20 lbs or more, such as the VIVO Single Monitor Arm at 22 lbs or the MOUNTUP at 19.8 lbs.
+
+### Do I need a gas spring or a tension spring?
+
+Gas springs move more smoothly, while mechanical tension springs are cheaper and rarely break. The MOUNTUP and ErGear use gas springs, and the WALI uses a tension spring that holds its position through friction with no cylinder to leak.
+
+### Will a budget monitor arm fit my desk?
+
+Check two things before buying: your monitor's VESA pattern and your desk thickness. The arm needs a 75x75mm or 100x100mm mounting pattern on the back of the monitor, and the clamp usually fits desks from 0.4 to 2 inches thick, though the WALI's wider clamp handles edges up to 3.3 inches.

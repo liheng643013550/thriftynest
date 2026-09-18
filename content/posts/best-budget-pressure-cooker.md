@@ -103,14 +103,15 @@ However, if you are truly pinching pennies and need to feed a large family, the 
 
 ## Frequently Asked Questions
 
-### How long do budget pressure cookers last?
+### What size pressure cooker fits a family of four?
 
-A good budget model should last you at least 4 to 5 years with regular use. The main parts that wear out are the sealing ring and the anti-block shield. Both are cheap to replace. The heating element is the most likely point of failure, but with brands like Instant Pot and Ninja on this list, you are covered by a 1-year warranty.
+A 6-quart model is the usual pick for a family of four and can hold a standard 3-pound roast. If you batch cook or feed a larger group, an 8-quart gives you more room at the cost of extra counter space.
 
-### Can I use my regular recipes in a budget pressure cooker?
+### How much should a good budget pressure cooker cost?
 
-Yes, but you need to adjust the liquid. Pressure cookers need at least 1 cup of liquid to build steam. If your favorite slow-cooker recipe calls for a cup of broth, that will work. Just cut the cooking time down by about 70%. A 3-pound chuck roast that takes 8 hours in a slow cooker will take about 45 minutes under high pressure.
+Expect to pay somewhere between $50 and $80 for a solid, no-frills cooker. Anything priced under $40 is worth a second look at the wattage, since a 6-quart model needs at least 1000 watts to come up to pressure quickly.
 
-### Is it safe to leave a budget pressure cooker unattended?
+### Do I need a pressure cooker with lots of preset programs?
 
-I never leave the house while it is running, but I do walk away and sit in the living room. The lid locks automatically, and the pressure release valve prevents the pot from exploding. The only thing you need to watch is the steam vent to ensure it isn't clogged with food particles. As long as you don't fill the pot past the "Max Fill" line, you are safe, honestly.
+Not really. Most cooking happens on the manual or pressure cook setting with a time you choose yourself, so a long list of presets isn't worth paying extra for. A few presets can be a helpful safety net when you're just starting out, but you don't need fifteen of them.
+

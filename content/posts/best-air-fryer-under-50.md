@@ -109,3 +109,17 @@ The main drawback is the lack of a "max crisp" or "air crisp" mode. It is a stan
 The air fryer market under $50 is crowded, but the choices are clear. If you want the best all-around performance and don't mind spending the full budget, the Cosori Pro LE is the winner. It offers the best mix of power, even cooking, and smart features.
 
 If you need to feed a crowd, grab the [Gourmia 6-Quart](https://www.amazon.com/dp/B0FBZP4Q2S?tag=__AMAZON_TAG__) for its unbeatable capacity and price. And if you are cooking for one and want the crispiest results possible, the [Philips TurboStar](https://www.amazon.com/dp/B01N6NYF0B?tag=__AMAZON_TAG__) is the one to get. Pick the one that fits your kitchen size and your family size, and you will be on your way to perfectly crispy food without spending a fortune.
+
+## Frequently Asked Questions
+
+### How many watts should a budget air fryer have?
+
+Aim for at least 1400 watts. Models below that figure tend to need longer cook times and produce less crispy results, particularly with frozen foods. The Cosori Pro LE, for example, uses a 1500-watt element.
+
+### Which size air fryer fits a household of one or two people?
+
+Three to four quarts is described as the sweet spot for one or two people, since it holds a small chicken or a reasonable batch of fries without dominating the counter. The Instant Pot Vortex and Cosori Pro LE both fall in that range at 4 quarts, while the Philips TurboStar is far smaller at 1.8 quarts and suits a single cook.
+
+### Are the baskets on these air fryers dishwasher safe?
+
+It varies by model. The Instant Pot Vortex basket is described as genuinely dishwasher safe, with owner reports of it holding up through several cycles without warping, but some baskets that claim dishwasher safety warp easily. Hand washing is recommended for the Cosori Pro LE basket to extend the life of its non-stick coating.

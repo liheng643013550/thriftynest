@@ -122,14 +122,15 @@ If you want the best balance of price and performance, the Bissell PowerFresh 19
 
 ## Frequently Asked Questions
 
-### Can a budget steam mop clean sealed hardwood?
+### How long does a budget steam mop take to heat up?
 
-Yes, if you use it sparingly. Keep the mop moving, use a low steam setting if available, and don't let it sit in one spot. Too much moisture can dull the finish over time.
+Most of the models covered here reach steam in roughly 20 to 30 seconds. The PurSteam 10-in-1 is listed at about 20 seconds, the OApier at around 25 seconds, and the Bissell Steam Mop Select, Bissell PowerFresh 1940, Shark Steam Pocket S1000, and Bissell PowerFresh Slim all sit near the 30-second mark. Anything past a minute is the point where daily mopping starts to feel like a chore.
 
-### How often do you need to replace steam mop pads?
+### How much floor time does a small water tank actually give you?
 
-Washable microfiber pads usually last 50 to 100 washes, or roughly 6 to 12 months with regular use. Buy a two-pack so one can be in the wash while you mop.
+It depends on the tank. A 10-ounce tank, like the one on the Bissell Steam Mop Select, works out to roughly 10 to 15 minutes of steam, and owner reports put it near 12 minutes. The Shark Steam Pocket S1000 holds about 12 ounces, while the Bissell PowerFresh 1940 holds around 19 ounces and gets closer to 20 minutes. If you have 800 square feet of tile, expect to refill at least once no matter which one you pick.
 
-### Is a steam mop safe for vinyl and laminate floors?
+### Which budget steam mop works on more than just floors?
 
-Most manufacturers say yes for sealed vinyl and laminate, but check your flooring warranty first. Some laminate glues and finishes don't like repeated heat and moisture, in practice.
+The Shark Lift-Away Pro, at around $150, has a steam head that detaches into a handheld steamer for grout, stove tops, bathroom fixtures, and upholstery with the right attachment. The Bissell PowerFresh Slim, around $100, is a 3-in-1 that also converts to a handheld and a stair and crevice tool, and owner reviews mention it on grout lines and around a toilet base. The PurSteam 10-in-1 is the cheapest way to get above-floor tools, since it includes a carpet glider and several brush heads for about $50.
+

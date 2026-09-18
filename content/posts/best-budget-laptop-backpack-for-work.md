@@ -111,14 +111,15 @@ If you are on a strict budget, the Amazon Basics Classic is the best $25 you wil
 
 ## Frequently Asked Questions
 
-### How do I know if a laptop backpack is padded enough?
+### Which backpack works best for a 17-inch laptop?
 
-Press your finger into the bottom of the laptop sleeve. If you can feel the table through it, it is too thin. Look for at least 0.5 inches of foam in the base and back panel. For heavy laptops, you want a suspended sleeve that does not touch the bottom of the bag.
+The SwissGear 1900 Scansmart is listed to fit a 17-inch laptop, and the Lenovo Legion Armored Backpack handles a 17.3-inch machine. Most budget bags stop at 15.6 inches, so those two are the realistic options for a larger workstation or gaming laptop.
 
-### Can I use a budget backpack for a 17-inch laptop?
+### Do any of these bags have a USB charging port?
 
-Most budget backpacks max out at 15.6 inches. For a 17-inch laptop, look at the SwissGear 1900 Scansmart or the Lenovo Legion Armored. They are larger and heavier, but they are the only ones on this list that will fit a big machine without forcing the zipper.
+The Matein Travel Laptop Backpack has a built-in USB port on the side that connects to a power bank stored inside the bag. It is not a fast-charge port, so it will trickle charge a phone rather than top it up quickly.
 
-### Is a USB port in a backpack worth it?
+### Which bag is easiest to get through airport security?
 
-It is a nice convenience, but the port is just a cable. The charging speed depends on the power bank you put inside. It will not fast-charge, but it is enough to top up your phone on a long commute. Just remember to take the power bank out before washing the bag, or you will ruin it, honestly.
+The SwissGear 1900 Scansmart has a laptop compartment that unzips flat, so the bag can be laid open on the conveyor belt without removing the laptop. The Targus CityGear Pro also includes a luggage pass-through, which is uncommon at its price.
+

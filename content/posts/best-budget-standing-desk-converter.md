@@ -121,14 +121,15 @@ For most people, the [VIVO Black Desk Converter](https://www.amazon.com/dp/B07K8
 
 ## Frequently Asked Questions
 
-### Will a standing desk converter fit on any desk?
+### How much weight can a budget standing desk converter hold?
 
-Most converters work on desks that are 24 to 30 inches deep and at least 40 inches wide. They don’t require any drilling, so they’re safe for rental furniture. Just make sure your desk surface is flat and not glass—the rubber feet need a solid grip, in practice.
+It varies by model. The VIVO Black Desk Converter and the FlexiSpot M2B are both rated for 35 pounds, the Mount-It! and Loctek D7 handle 33 pounds, the HUANUO holds 26.5 pounds, the MOUNTUP tops out at 22 pounds, and the Ergotron WorkFit-S supports a maximum of 20 pounds. For a single monitor and a laptop, most of these are fine, but dual 27-inch displays plus a keyboard will push the lighter units past their limits.
 
-### How much weight can a budget converter hold?
+### Which budget converter works best for taller users?
 
-Expect 20 to 35 pounds in the under-$100 range. A single monitor with a laptop is fine on any model. For dual monitors, check the weight of each screen and add them together before buying.
+The Mount-It! Adjustable Converter rises to 19.5 inches, roughly 2 to 3 inches higher than most converters in this price range, which is why owner reports from people around 6'1" describe it as the only model under $100 that allows standing fully upright. The Loctek D7 reaches 16.9 inches and the MOUNTUP reaches about 16.5 inches, which suits most people under 5'8". If your desk sits unusually low or you are over 5'10", check the top height before buying.
 
-### Do I need to assemble the converter myself?
+### Do any of these converters include USB ports or a clamp mount instead of a tray?
 
-It depends on the brand. The VIVO and MOUNTUP models arrive mostly pre-assembled and take under five minutes to set up. The Ergotron and Mount-It! require 15 to 20 minutes with a screwdriver or hex key. None of them need power tools.
+Yes, two models stand apart. The Loctek D7 has built-in USB 3.0 ports and a cable management tray underneath, so a keyboard and mouse can plug directly into the unit. The Ergotron WorkFit-S takes a different approach entirely, clamping to the back edge of the desk and holding the monitor on an articulated arm, which leaves the whole desk surface free but requires a monitor with VESA mounting holes (75x75 or 100x100).
+

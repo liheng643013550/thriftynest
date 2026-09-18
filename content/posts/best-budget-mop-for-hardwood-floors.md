@@ -125,3 +125,17 @@ If you want the best all-around deep clean for your hardwood floors, the O-Cedar
 If you want speed and convenience for everyday messes, the Bona Hardwood Floor Spray Mop is the best choice. It is safe, easy, and ready to go when you are.
 
 If you just want the cheapest way to keep dust away, get the Swiffer Sweeper. Just remember to use the dry cloths more often than the wet ones. No matter which one you pick, you can keep your hardwood floors looking beautiful without spending a fortune.
+
+## Frequently Asked Questions
+
+### Which mop is best for deep cleaning hardwood floors on a budget?
+
+The O-Cedar EasyWring Spin Mop, at around $40, is the top pick for a thorough clean. Its foot-pedal spinner lets you control exactly how much water stays in the microfiber head, so you can get it nearly dry before it touches the floor. It also comes with a second mop head.
+
+### How do spray mops help prevent water damage on hardwood?
+
+Spray mops like the Bona Hardwood Floor Spray Mop and the Rubbermaid Reveal release a fine, even mist rather than a soaking wet pad. That gives you control over moisture, which matters because too much water is the main enemy of hardwood. The Bona model also includes a solution made specifically for hardwood.
+
+### What is the cheapest option for everyday dust on hardwood?
+
+The Swiffer Sweeper, at around $20, is the least expensive way to handle daily dust and pet hair. Its dry cloths work well for picking up debris, and the thin head reaches under furniture easily. Keep in mind that the disposable cloths add up over time, so it works best as a dust mop with only occasional wet cleaning.

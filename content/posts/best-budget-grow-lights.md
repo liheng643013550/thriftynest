@@ -124,14 +124,15 @@ Skip anything that advertises "1000W" for $25. It's not 1000 watts, and the sell
 
 ## Frequently Asked Questions
 
-### How many hours a day should I run a budget grow light?
+### How much actual wattage do I need for a small shelf of seedlings?
 
-Most houseplants and seedlings do well with 12 to 16 hours of light per day. Seedlings generally want closer to 14 to 16 hours, while low-light houseplants like pothos are fine with 10 to 12. An outlet timer costs about $10 and removes all the guesswork.
+Around 20 to 30 actual watts per light is a reasonable starting point for a small shelf of seedlings. The Barrina T5 strips draw about 20 watts each, and the Lordem panel puts out around 30 actual watts. Ignore "equivalent" wattage claims and look for the actual power draw in the specs.
 
-### Can a cheap grow light actually work, or am I wasting money?
+### Which budget grow light works in a regular lamp I already own?
 
-A $20 to $40 LED will absolutely grow seedlings, herbs, and low-to-medium light houseplants. What it won't do is fruit tomatoes or flowering plants that need very high intensity. Match the light to the plant, and budget options work fine.
+The Sansi 24W Full Spectrum Bulb is a standard E26 bulb, so it screws into any ordinary lamp fixture. At around $25 and 24 actual watts, it is a simple upgrade if you already have a floor lamp with an adjustable arm. The GE BR30 Grow Light Bulb is another option that fits standard fixtures and costs around $20.
 
-### Do I need a purple light or a white one?
+### Do any of these lights include a built-in timer?
 
-You don't need purple. Older blurple LEDs worked, but modern white full-spectrum LEDs perform just as well and are far more pleasant to have in your home. Unless you're growing in a closet where nobody sees it, buy white, honestly.
+The GooingTop clip-on has a timer with 3, 9, and 12 hour settings, and the Lordem panel also has a built-in timer with preset intervals. The Barrina T5 strips and the Monios-L T8 bars do not include timers, so you would need a separate outlet timer, which adds roughly $10 to the cost.
+

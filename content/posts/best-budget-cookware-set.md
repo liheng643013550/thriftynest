@@ -115,14 +115,15 @@ Whatever you choose, remember to hand-wash your pans and use wooden or silicone 
 
 ## Frequently Asked Questions
 
-### Is a $100 cookware set good enough for everyday cooking?
+### Which budget cookware set is the best overall pick?
 
-Yes, a $100 set is more than adequate for most home cooks. The key is to choose a set with a thick aluminum base or hard-anodized body. That gives you even heating, which is the most important factor for cooking. Avoid the cheapest sets with thin, stamped steel, believe it or not.
+The T-fal Ultimate Hard Anodized 12-Piece set, at around $140, offers the best balance of durability, nonstick performance, and price for most households. It includes two fry pans, a sauté pan, and three saucepans with lids, and it is oven-safe to 400°F.
 
-### How long should a budget nonstick cookware set last?
+### Is stainless steel or nonstick the better choice for a budget set?
 
-With proper care—hand washing, low to medium heat, and non-metal utensils—a good budget nonstick set will last 2 to 4 years. The coating will degrade eventually, which is normal. When you see scratches or peeling, it’s time to replace the pan to avoid eating coating flakes.
+Stainless steel sets like the Cuisinart Chef's Classic, around $130, have no coating to wear off and are reported by owners to outlast every nonstick set on this list, though they require preheating to prevent sticking. Nonstick sets are easier for eggs and cleanup but typically need replacing every few years.
 
-### Can I use metal utensils on any budget cookware?
+### How long should a cheap cookware set last?
 
-No. Metal utensils will scratch nonstick coatings almost immediately. Use wood, silicone, or plastic utensils on nonstick pans. You can use metal on stainless steel pans without worry, which is one reason stainless sets last longer.
+It depends on the coating and how you care for it. The Amazon Basics set, around $70, is described in owner reviews as lasting about 18 months before the fry pan coating peeled, while ceramic nonstick like the GreenPan Valencia Pro typically lasts 2-3 years of daily use. Hand-washing and using wooden or silicone utensils can double the life of any set.
+

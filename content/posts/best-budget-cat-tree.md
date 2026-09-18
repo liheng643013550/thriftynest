@@ -139,3 +139,17 @@ You don't need to spend a fortune to make your cat happy. The best budget cat tr
 If you want the best overall balance of price, stability, and features, go with the **Feandrea Cat Tree**. It looks nice and holds up well. If you have a heavy cat that likes to jump, the **Pawz Road** is your safest bet. And if you just need something cheap and quick, the **Amazon Basics** is a reliable fallback.
 
 Skip the $100+ towers. Any of these picks will give your cat a happy place to scratch, sleep, and survey their kingdom without breaking the bank.
+
+## Frequently Asked Questions
+
+### How tall should a cat tree be for my home?
+
+Most cat trees in this price range run about 40 to 60 inches tall. The article suggests measuring your ceiling height first, since you want the top perch high enough to please your cat but not so tall that it collides with a ceiling fan. Individual picks vary: the Amazon Basics model is 30 inches, the YUNITY tower is 45 inches, and the Pawz Road is around 40 inches.
+
+### Which budget cat tree is best for a heavy cat?
+
+The Pawz Road Cat Tree is the safest bet for a heavy cat that likes to jump, thanks to its wide, heavy base and thick sisal posts. The Feandrea Cat Tree is sturdy enough for two smaller cats, while the Amazon Basics and VANVENE models are better suited to cats under 10 pounds, kittens, and small breeds.
+
+### What should I check before buying a cheap cat tree?
+
+Look at base width, post thickness, materials, and hardware. A base at least as wide as the tallest post is long helps prevent tipping, and posts measuring 3 to 4 inches in diameter hold up better than thinner 2-inch ones. Also confirm the platforms are at least 0.5 inches thick and that the tree uses metal brackets and bolts rather than plastic.

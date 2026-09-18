@@ -120,3 +120,17 @@ Buy the Fellow Stagg XF
 ## The Bottom Line
 
 You don’t need to spend a lot to get a great cup of pour over coffee. If you want the classic experience and don’t mind a little practice, the Hario V60 is the best all-around choice. If you just want something that works with zero fuss, grab the Melitta. For sharing a pot with a friend, the Chemex is hard to beat. And if you want consistency without the skill, the Kalita Wave is your friend. Pick the one that fits your routine, grab some fresh beans, and enjoy the process.
+
+## Frequently Asked Questions
+
+### Which of these pour over makers is the cheapest way to get started?
+
+The Melitta Pour-Over is the lowest-priced option here, typically running between $8 and $12. It uses standard #2 cone filters sold in most grocery stores, and its flat bottom with three small holes makes it forgiving for beginners. It brews about 12 oz at a time, so it suits a single cup.
+
+### Can any of these brew more than one cup at once?
+
+Yes. The Chemex Classic, in its 6-cup model, is the largest capacity option on the list and is suited to serving several people or brewing for two. The Hario V60 Ceramic is an 02 size that makes between 1 and 4 cups. The AeroPress, by contrast, is limited to roughly 8 oz per brew.
+
+### Do I need a gooseneck kettle to use these brewers?
+
+Not for all of them. The Kalita Wave is designed so a regular kettle works fine, since the flat bottom and three holes handle water distribution. The Bee House Ceramic Dripper is also described as not needing a gooseneck kettle. The Hario V60, however, rewards careful pouring, so an uneven pour can lead to a bitter or weak cup.

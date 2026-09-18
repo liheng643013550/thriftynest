@@ -138,14 +138,15 @@ If you have a standard HVAC system and want the best balance of features and pri
 
 ## Frequently Asked Questions
 
-### Will a programmable thermostat really save me money?
+### Which budget thermostat works with electric baseboard heaters?
 
-Yes, if you use it correctly. The U.S. Department of Energy says you can save about 10% a year on heating and cooling by setting your thermostat back 7-10 degrees Fahrenheit for 8 hours a day. A programmable thermostat automates this so you do not forget.
+The Mysa Smart Thermostat is the one model here built for 120V and 240V systems, including electric baseboard, electric floor heating, and some fan-forced heaters. Every other thermostat in this comparison is limited to 24V forced-air setups. Because electric heat is costly to run, the Mysa is priced around $110.
 
-### Do I need a C-wire for a smart thermostat?
+### Do I need a C-wire to install a budget smart thermostat?
 
-Most smart thermostats need a C-wire for power. However, some models like the Emerson Sensi Touch and the Honeywell T3 can run on batteries or come with a power adapter kit. Check your existing thermostat wires first. If you see a blue or black wire connected to a terminal labeled "C", you are good to go, believe it or not.
+Not always. The Emerson Sensi Touch can run on batteries or a C-wire, which suits older homes with outdated wiring, and the Honeywell Home T3 runs on two AA batteries with no C-wire at all. The Honeywell Home T5+ includes a power adapter kit for homes without a common wire, while the Google Nest Thermostat does require a C-wire. Checking your wiring before ordering is the safest approach.
 
-### What is the difference between a smart thermostat and a programmable thermostat?
+### What is the cheapest way to start saving on heating?
 
-A programmable thermostat lets you set a fixed schedule, like 68°F at 7 AM and 62°F at 10 PM. A smart thermostat connects to Wi-Fi, so you can adjust it from your phone, and it often has features like geofencing or motion detection that adjust the temperature automatically based on your presence.
+The Honeywell Home T3, at around $40, is the lowest-cost option that still lets you set a 7-day schedule, and it needs no Wi-Fi or app. If your schedule is unpredictable, the Lux GEO at around $35 uses a motion sensor to drop to an energy-saving setpoint when the room is empty. Either way, a set schedule or occupancy-based setback is what produces the savings.
+

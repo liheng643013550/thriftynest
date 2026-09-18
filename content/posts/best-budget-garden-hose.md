@@ -122,3 +122,17 @@ It’s a simple, no-nonsense hose. It’s not as flexible as the Flexzilla, but 
 You don't need to spend a hundred bucks to get a great hose. The Flexzilla is the best overall pick for its perfect balance of flexibility, durability, and price. It feels like a premium product without the premium cost.
 
 If you deal with freezing winters or want the absolute toughest option, save up for the Craftsman rubber hose. But for 90% of people, the Flexzilla will be the last hose you buy. If you're on a truly tight budget and only water a few pots, the Swan Element will do the job just fine. Just remember to drain it and store it out of the sun to make it last longer.
+
+## Frequently Asked Questions
+
+### Which budget garden hose is the best all-around choice?
+
+The Flexzilla Garden Hose is the top overall pick, priced around $40 for a 50-foot model. It combines a hybrid polymer build that stays flexible in cold weather with leak-free fittings and a swivel connection. For most yards, it offers the best mix of handling, durability, and cost.
+
+### What is the cheapest hose worth buying?
+
+The Swan Element is the lowest-priced option here at around $25 for 50 feet, and it comes with a 5-year warranty and solid brass fittings. It is a simple vinyl hose, so it can kink if twisted and stiffens in cold weather, but it handles basic lawn watering on a tight budget.
+
+### How do I choose between a rubber hose and a lightweight expanding hose?
+
+A true rubber hose like the Craftsman Premium Rubber stays flexible down to freezing temperatures and is the most durable, though it is heavy and costs around $55 for 50 feet. An expanding hose like the Zero-G 4001 is far lighter and stores in a fraction of the space, but its plastic fittings can crack and its inner tube can burst if kinked while the water is off. Pick rubber for rough, cold-weather use and an expanding hose for small patios or limited storage.

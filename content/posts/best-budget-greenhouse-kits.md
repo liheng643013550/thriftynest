@@ -102,11 +102,15 @@ Remember that no budget greenhouse will last forever, but with proper anchoring 
 
 ## Frequently Asked Questions
 
-### How do I anchor a budget greenhouse kit?
-Most kits include ground stakes, but these are often too short for real soil. I recommend buying 12-inch steel stakes and hammering them at an angle through the base frame holes. For extra stability, place sandbags or cinder blocks on the bottom skirt of the cover.
+### How much growing space do I get from a 6x8-foot greenhouse?
 
-### What is the best way to heat a small greenhouse in winter?
-A small electric space heater with a thermostat works well for keeping temperatures above freezing, but it costs money to run. I prefer using a passive method: fill black plastic jugs with water and place them inside. The water absorbs heat during the day and releases it at night, which can raise the temperature by 5 to 10 degrees.
+A kit in that size class provides roughly 48 square feet of usable floor area. That is the same figure the VIVOSUN 6x8 offers, and it is enough room to raise a substantial batch of seedlings before they go into the ground.
 
-### How long will a budget greenhouse cover last?
-It depends on the material and sun exposure. Clear PVC covers typically last one to two seasons, while woven polyethylene covers can last three to five years. To extend the life, I clean the cover with mild soap and water before storing it for the summer, and I always remove heavy snow promptly.
+### Which budget greenhouse is the cheapest option for a balcony or small patio?
+
+The Easelshine pop-up runs about $50 and needs no tools, folding open in roughly five minutes. It measures 27 inches wide by 27 inches deep by 63 inches tall and ships with five shelves, so it suits tight spaces where a walk-in kit will not fit.
+
+### How long should I expect a budget greenhouse cover to last?
+
+It varies by material. Woven polyethylene covers are reported to hold up for two to three seasons, while single-layer polyethylene and clear PVC tend to break down faster, sometimes developing pinholes or turning brittle after a single summer of direct sun. Using a UV-protectant spray and anchoring the frame properly can help stretch that lifespan.
+

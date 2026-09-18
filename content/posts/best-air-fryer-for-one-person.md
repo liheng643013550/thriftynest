@@ -115,3 +115,17 @@ Who should buy it: Anyone who is not sure if they will use an air fryer regularl
 For most single people, the Instant Pot Vortex Mini is the best buy. It balances size, price, and versatility perfectly. It does not take over your counter and it does more than just fry. If you are on a strict budget, the [Dash Compact Air Fryer](https://www.amazon.com/dp/B075BCVSJZ?tag=__AMAZON_TAG__) gets the job done for less than the cost of a few takeout meals. And if you care more about crispy texture than counter space, the [Ninja Air Fryer Max XL](https://www.amazon.com/dp/B0D1GW9GMJ?tag=__AMAZON_TAG__) is worth the extra money and footprint.
 
 Whichever you choose, remember that a small air fryer will save you money on your electric bill and help you avoid the temptation of ordering takeout. It is one of the few kitchen gadgets that actually earns its place on the counter.
+
+## Frequently Asked Questions
+
+### What capacity should a single person look for in an air fryer?
+
+A basket between 2 and 3.5 quarts is the sweet spot for one person. That range holds a single chicken breast, a frozen burrito, or a handful of wings without crowding. Anything at 1 quart is too limiting, and anything larger defeats the purpose of a compact machine.
+
+### Which compact air fryer is the cheapest option?
+
+The Gourmia 2-Quart Compact is the least expensive pick, priced around $30 and often found at discount stores. The Dash Compact Air Fryer is close behind at around $35 and frequently drops under $30 on sale. Both are basic machines aimed at tight budgets and dorm rooms.
+
+### Do any of these air fryers have dishwasher-safe baskets?
+
+Yes. The Instant Pot Vortex Mini, the Ninja Air Fryer Max XL, and the Philips Essential Airfryer all list dishwasher-safe baskets or parts. The Cosori Pro LE is the exception, since its non-stick basket has to be hand washed.
