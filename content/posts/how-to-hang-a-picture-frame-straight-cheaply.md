@@ -73,13 +73,17 @@ The bottom line
 
 Hanging a picture straight does not require a laser level, a stud finder, or an expensive hardware kit. You need a tape measure, a pencil, painter's tape, and a little patience. Measure once, mark the spot with tape, and use the visual alignment trick with your furniture. For under five dollars, you can get a proper picture hook set that will hold your frame securely for years. Save your money for the frame itself, not the tools to hang it, believe it or not.
 
-Frequently Asked Questions
+## Frequently Asked Questions
 
-### How do I hang a frame without a level?
-Use the string and weight plumb line method. Tie a washer or nut to a string and let it hang against the wall to create a vertical reference. Align the side edge of the frame parallel to that string and it will be perfectly straight.
+### How high should a picture frame hang on the wall?
 
-### What is the correct height to hang a picture?
-The center of the frame should be 57 to 60 inches from the floor. This is the standard gallery height that matches average eye level. For frames above furniture, the bottom edge should sit 6 to 8 inches above the back of the sofa or table.
+The common gallery standard puts the center of the frame 57 to 60 inches above the floor, which lines up with average eye level. Hanging higher than that tends to make ceilings feel lower and the room feel awkward. If the frame sits above a sofa, the bottom edge should land roughly 6 to 8 inches above the backrest.
 
-### How much weight can a single picture hook hold?
-A standard plastic picture hook with a steel nail can hold between 10 and 20 pounds depending on the brand. For anything heavier, use two hooks spaced apart or use wall anchors rated for the specific weight. Always check the packaging for the weight rating before hanging heavy mirrors.
+### Do you need a level to hang a frame straight?
+
+Not necessarily. A bubble level can read true while the frame still looks crooked, because slanted ceilings and uneven floors throw off your eye. Aligning the frame with nearby furniture or architectural lines, such as matching the bottom edge to a tabletop, often looks better than what a tool reports. A small torpedo level is still handy as a quick check on a blank wall with no other lines to reference.
+
+### How do you hang a heavy frame so it stays put?
+
+Anything over five pounds should go up on two nails or two wall anchors spaced a few inches apart, since a single hook lets the frame pivot and drift. Drywall does not need a stud for loads under 20 pounds, so a standard picture hook with a hardened steel nail is enough. A picture hanging kit with angled hooks costs less than five dollars and can hold a heavy mirror securely.
+
