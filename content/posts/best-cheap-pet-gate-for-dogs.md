@@ -95,7 +95,7 @@ It is made of solid steel with a thick, chew-resistant plastic coating. The door
 
 **Who should buy it:** This is for you if you have stairs and a dog that is small enough to slip through a standard gate. This is your safest budget option for stair safety.
 
-[Summer Infant Multi-Use](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Summer Infant Multi-Use](https://www.amazon.com/dp/B0GVN6QC91?tag=__AMAZON_TAG__)
 
 ## Richell Wood Pet Gate
 
@@ -137,7 +137,7 @@ It is lightweight and easy to store, making it great for travel or temporary use
 
 **Who should buy it:** This is for you if you need a cheap, temporary solution for a rental or a vacation home. It is also a great spare gate to keep in the car.
 
-[North States Supergate](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[North States Supergate](https://www.amazon.com/dp/B0CYCBSM61?tag=__AMAZON_TAG__)
 
 ## The Bottom Line
 

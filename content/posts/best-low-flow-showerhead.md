@@ -59,7 +59,7 @@ This is the premium pick, and it feels like it the second you pick it up—it’
 
 The downside is the price, and the fact that the brass body gets very cold in the winter until the water warms up. Also, the hard jet setting is almost too strong—it can sting if you hold it close. This is a "buy it once, buy it right" kind of product. I’d recommend it to anyone who values a specific, customizable spray pattern and wants a fixture that looks expensive in a remodel.
 
-[Speakman S-2252](https://www.amazon.com/dp/B004XA284E?tag=__AMAZON_TAG__)
+[Speakman S-2252](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
 
 ## Delta H2Okinetic
 
@@ -79,7 +79,7 @@ This is the no-frills, maximum-savings option. It uses just 1.25 GPM, which is l
 
 The build is entirely plastic, and it looks it. The threads are also a bit delicate, so you have to be careful not to cross-thread it when installing. But at $20, you can buy two and keep a spare in the closet. I’d buy this for a rental property or a kid’s bathroom where durability is less important than keeping the water bill low.
 
-[Niagra Earth Massage](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Niagra Earth Massage](https://www.amazon.com/dp/B07WHTJRY6?tag=__AMAZON_TAG__)
 
 ## Kohler Moxie
 

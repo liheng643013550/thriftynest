@@ -54,7 +54,7 @@ The main downside is that they can feel a little stiff out of the package. A qui
 
 Who should buy it: Homeowners who want a recognizable brand name and a slightly thicker cloth for general daily cleaning.
 
-[Scotch-Brite Large Microfiber Cloths](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Scotch-Brite Large Microfiber Cloths](https://www.amazon.com/dp/B0000E3QK1?tag=__AMAZON_TAG__)
 
 ## Mr. Siga Microfiber Cleaning Cloths
 

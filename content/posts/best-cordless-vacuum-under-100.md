@@ -101,7 +101,7 @@ The build quality is the trade-off. The plastic feels hollow, and the charging p
 
 Who should buy it: College students, first apartments, or anyone who needs a basic vacuum for a rental and doesn't want to spend more than $70.
 
-[Eureka Flash](https://www.amazon.com/dp/B0GJS1CLTB?tag=__AMAZON_TAG__)
+[Eureka Flash](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
 
 ## Hoover ONEPWR Evolve
 

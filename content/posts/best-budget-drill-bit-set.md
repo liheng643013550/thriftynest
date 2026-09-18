@@ -33,7 +33,7 @@ Before you click "buy," check for these features. They separate the tools from t
 | [IRWIN Cobalt Set](https://www.amazon.com/dp/B000BO9JMK?tag=__AMAZON_TAG__) | ~$25 | Stainless steel work | Cobalt edge, high heat resistance |
 | [Spyder Spiral Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$18 | Clean holes in metal | Self-centering tip, fast chip removal |
 | [HART Titanium Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$12 | Impact driver users | Hex shank, great value for casual use |
-| [Milwaukee Shockwave Set](https://www.amazon.com/dp/B0CH7Y49HM?tag=__AMAZON_TAG__) | ~$28 | Impact driving | Vibration-absorbing shank, tough build |
+| [Milwaukee Shockwave Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$28 | Impact driving | Vibration-absorbing shank, tough build |
 | [Neiko HSS Set](https://www.amazon.com/dp/B0195V5ICO?tag=__AMAZON_TAG__) | ~$10 | Rare sizes & backup | 115-piece count, absurdly cheap |
 
 ## DEWALT Black Oxide Metal Set
@@ -124,7 +124,7 @@ Who should buy it? If you are building a tool collection from scratch or need a 
 
 You do not need to spend $80 on a professional set to hang curtains or fix a chair. For the majority of home tasks, the [DEWALT Black Oxide Set](https://www.amazon.com/dp/B001EYU5N8?tag=__AMAZON_TAG__) is the best all-around value. It is cheap, durable, and covers all the bases.
 
-If you are drilling into metal regularly, spend a few extra dollars on the [IRWIN Cobalt Set](https://www.amazon.com/dp/B000BO9JMK?tag=__AMAZON_TAG__). If you are driving screws with an impact driver, get the [Milwaukee Shockwave Set](https://www.amazon.com/dp/B0CH7Y49HM?tag=__AMAZON_TAG__). Match the tool to the task, and your bits will last months instead of minutes.
+If you are drilling into metal regularly, spend a few extra dollars on the [IRWIN Cobalt Set](https://www.amazon.com/dp/B000BO9JMK?tag=__AMAZON_TAG__). If you are driving screws with an impact driver, get the [Milwaukee Shockwave Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). Match the tool to the task, and your bits will last months instead of minutes.
 
 ## Frequently Asked Questions
 

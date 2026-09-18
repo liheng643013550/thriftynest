@@ -40,7 +40,7 @@ The downsides are that it contains corn, wheat, and soy, which some owners try t
 
 Who should buy it: Anyone on a tight budget who wants a safe, proven, no-fuss option from a massive, reputable company. It’s also great for feeding a large pack of dogs where cost is the primary factor.
 
-[Purina Dog Chow](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Purina Dog Chow](https://www.amazon.com/dp/B07D1HRQNJ?tag=__AMAZON_TAG__)
 
 ## Pedigree Complete Nutrition
 

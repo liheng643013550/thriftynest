@@ -30,7 +30,7 @@ Before you buy, here is what actually matters at this price point.
 | [Instant Pot Vortex 4QT](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$45 | Ease of use | Simple one-touch presets, huge brand trust |
 | [Ninja AF080](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$50 | Small kitchens | Compact footprint, dual crisp baskets, max crispness |
 | [Gourmia 6-Quart](https://www.amazon.com/dp/B0FBZP4Q2S?tag=__AMAZON_TAG__) | ~$35 | Large families on a budget | Massive capacity, 10 presets, very low price |
-| [Chefman 3.7 Quart](https://www.amazon.com/dp/B0C1FWXH9R?tag=__AMAZON_TAG__) | ~$40 | Beginners | Simple analog dials, easy to understand, see-through window |
+| [Chefman 3.7 Quart](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$40 | Beginners | Simple analog dials, easy to understand, see-through window |
 | [Philips TurboStar](https://www.amazon.com/dp/B01N6NYF0B?tag=__AMAZON_TAG__) | ~$50 | Crispiest food | Patented Rapid Air technology, excellent results |
 | [Bella Pro Series 4.5QT](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$30 | Tightest budgets | Surprisingly sturdy, simple controls, great price |
 

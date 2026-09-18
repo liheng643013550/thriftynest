@@ -25,10 +25,10 @@ Before you add anything to your cart, keep these five things in mind. They separ
 
 | Product | Price | Best For | Key Pros |
 | :--- | :--- | :--- | :--- |
-| [Catstages Cat Dancer](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$7 | High-energy cats | Simple, irresistible, replaceable parts |
+| [Catstages Cat Dancer](https://www.amazon.com/dp/B0CJ4Y5R2R?tag=__AMAZON_TAG__) | ~$7 | High-energy cats | Simple, irresistible, replaceable parts |
 | [SmartyKat Hot Pursuit](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$9 | Self-play and solo cats | Hidden motion, battery-free, durable |
 | [Ethical Pet Play-N-Squeak](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$8 | Stalking and pouncing | Squeaker mimics prey, refillable |
-| [Petstages Cat Tracks](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$8 | Lazy cats who like to bat | Sturdy base, no loose parts, endless swatting |
+| [Petstages Cat Tracks](https://www.amazon.com/dp/B0CW35BFN7?tag=__AMAZON_TAG__) | ~$8 | Lazy cats who like to bat | Sturdy base, no loose parts, endless swatting |
 | [KONG Naturals Cat Toy Multipack](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$9 | Cats who love catnip | Variety, durable fabric, refillable |
 | [Beright Cat Wand](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$8 | Interactive play with your cat | Multiple attachments, flexible rod, sturdy |
 
@@ -106,4 +106,4 @@ Buy this if you want to actively play with your cat and burn off their excess en
 
 ## The Bottom Line
 
-You don’t need to spend a fortune to have a happy cat. The best cat toys under $10 are the ones that match your cat’s personality. If you have a lazy cat, try the [Petstages Cat Tracks](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). If you have an energetic hunter, the [Catstages Cat Dancer](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a guaranteed win. For a little bit of everything, the [KONG Naturals Multipack](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the safest bet. Just remember to rotate the toys you leave out every few days. That will make any of these picks feel brand new, and it will save you even more money in the long run.
+You don’t need to spend a fortune to have a happy cat. The best cat toys under $10 are the ones that match your cat’s personality. If you have a lazy cat, try the [Petstages Cat Tracks](https://www.amazon.com/dp/B0CW35BFN7?tag=__AMAZON_TAG__). If you have an energetic hunter, the [Catstages Cat Dancer](https://www.amazon.com/dp/B0CJ4Y5R2R?tag=__AMAZON_TAG__) is a guaranteed win. For a little bit of everything, the [KONG Naturals Multipack](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the safest bet. Just remember to rotate the toys you leave out every few days. That will make any of these picks feel brand new, and it will save you even more money in the long run.

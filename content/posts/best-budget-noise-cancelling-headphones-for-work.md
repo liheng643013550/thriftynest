@@ -129,7 +129,7 @@ The downside is the microphone. It is not great. Callers said the sound was like
 
 Who should buy it: If you need headphones for deep work and long listening sessions, and you don't make many calls, this is the most comfortable pick, in practice.
 
-[Tribit QuietPlus 78](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+[Tribit QuietPlus 78](https://www.amazon.com/dp/B0FT89SFV5?tag=__AMAZON_TAG__)
 
 ## The bottom line
 
