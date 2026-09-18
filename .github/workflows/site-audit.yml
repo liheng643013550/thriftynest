@@ -1,0 +1,73 @@
+# ============================================================
+# 每周站点巡检
+# ============================================================
+# 为什么需要它：内容站的问题是"慢性病" —— 死链、缺图、缺 FAQ、
+# 内链集中、页面变薄……单次看不出来，攒三个月就废了。
+# 人工不可能每周查，所以让流水线自己查，并把待办开成 issue。
+#
+# 它【只体检、只报告】，不改内容也不部署 —— 因此不会把站点搞坏。
+# 也正因如此它跑在独立的 workflow 里，和 daily-publish 互不影响。
+#
+# 手动触发：Actions 页面 -> Weekly Site Audit -> Run workflow
+name: Weekly Site Audit
+
+on:
+  schedule:
+    # 每周一 06:00 UTC（比日更晚 3 小时，避免撞车）
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # 巡检要看着【构建后的产物】才能查出结构化数据、内链、图这些问题，
+      # 所以先本地构建一遍（不部署）。图/ pin 图没提交进仓库，这里补生成。
+      - name: Generate article illustrations
+        run: python scripts/make_illustrations.py
+
+      - name: Generate Pinterest pin images
+        run: python scripts/make_pins.py
+
+      - name: Build static site
+        run: python scripts/build_site.py
+
+      - name: Run audit
+        id: audit
+        continue-on-error: true
+        run: python scripts/audit_site.py
+
+      - name: Open or update the audit issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          TITLE="站点巡检报告（自动）"
+          if [ ! -f audit-report.md ]; then
+            echo "没有生成报告，跳过"
+            exit 0
+          fi
+          NUM=$(gh issue list --state open --limit 50 --json number,title \
+                --jq ".[] | select(.title==\"$TITLE\") | .number" | head -n1)
+          if [ -n "$NUM" ]; then
+            echo "更新已有 issue #$NUM"
+            gh issue comment "$NUM" --body-file audit-report.md
+          else
+            echo "新建 issue"
+            gh issue create --title "$TITLE" --body-file audit-report.md
+          fi

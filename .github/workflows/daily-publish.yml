@@ -62,6 +62,16 @@ jobs:
             python scripts/generate_articles.py
           fi
 
+      - name: Clean fabricated first-person claims
+        # 兜底：提示词已经禁止编造亲历体验，闸门也会拒稿，但模型偶尔还是会
+        # 溜出一句 "I've tested…"，而闸门旧版本只查 "we" 漏了 "I" ——
+        # 结果日更连续产了 20 篇带编造体验的文章，很久没人发现。
+        # 这一步把清理器接进流水线：宁可多花几秒，也不让编造内容上线。
+        # （脚本会逐段改写并强校验：链接/结构/行数不变，事实不丢。）
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: python scripts/fix_fake_experience.py --apply
+
       - name: Generate article illustrations
         run: python scripts/make_illustrations.py
 
