@@ -28,11 +28,11 @@ That said, Before you buy, keep these five things in mind. They matter more than
 | Product | Price | Best For | Key Pros |
 | :--- | :--- | :--- | :--- |
 | [Cuisinart Smart Stick CSB-75](https://www.amazon.com/dp/B00ARQVLX2?tag=__AMAZON_TAG__) | ~$35 | All-around use | 3 speeds, stainless shaft, whisk included |
-| [Hamilton Beach 59765](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$25 | Budget buyers | 3 speeds, large chopper, good warranty |
-| [All-Clad UX1](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$35 | Power and durability | 300 watts, metal shaft, quiet motor |
-| [KitchenAid 5-Speed KHB1231](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$39 | Quick soups | 5 speeds, blending jar included, comfy grip |
-| [Breville BSB510](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$39 | Precise control | Variable speed dial, 280 watts, easy to clean |
-| [Ninja BN701](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$30 | Smoothies and shakes | 700 watts, single-serve cup, strong motor |
+| Hamilton Beach 59765 | ~$25 | Budget buyers | 3 speeds, large chopper, good warranty |
+| All-Clad UX1 | ~$35 | Power and durability | 300 watts, metal shaft, quiet motor |
+| KitchenAid 5-Speed KHB1231 | ~$39 | Quick soups | 5 speeds, blending jar included, comfy grip |
+| Breville BSB510 | ~$39 | Precise control | Variable speed dial, 280 watts, easy to clean |
+| Ninja BN701 | ~$30 | Smoothies and shakes | 700 watts, single-serve cup, strong motor |
 
 ## Cuisinart Smart Stick CSB-75
 
@@ -104,9 +104,9 @@ Who should buy it? If you’re a smoothie person who also wants a soup blender, 
 
 For most people, I’d grab the [Cuisinart Smart Stick CSB-75](https://www.amazon.com/dp/B00ARQVLX2?tag=__AMAZON_TAG__). It’s the best balance of power, attachments, and price. You get a whisk, a stainless shaft, and reliable performance for around $35.
 
-If you’re on a strict budget, the [Hamilton Beach 59765](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a fantastic value. It’s not the best built, but it does the job for $25.
+If you’re on a strict budget, the Hamilton Beach 59765 is a fantastic value. It’s not the best built, but it does the job for $25.
 
-And if you’re all about smoothies, the [Ninja BN701](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the one that will actually replace your big blender. Just be ready for the extra storage space.
+And if you’re all about smoothies, the Ninja BN701 is the one that will actually replace your big blender. Just be ready for the extra storage space.
 
 Whichever you pick, you’ll be saving money and counter space. That’s a win in my book.
 

@@ -38,9 +38,9 @@ The sticker price is the least interesting number here. A basic cast iron skille
 
 Nonstick coatings wear. Owner reviews consistently report that even well-treated pans start losing their release around the two-to-five-year mark, and once the coating scratches or flakes, the pan is done — you can't recoat it at home. Cast iron, by contrast, gets better with use. A skillet that's been cooked in for a decade often performs better than a new one.
 
-On replacement parts specifically: cast iron wins by default. A [Lodge 10.25 Inch Cast Iron Skillet](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a single piece of metal with no fasteners, no coating, and no filter. There is nothing to source later. Some cast iron brands sell replacement lids and assist handles, but the pan itself has no consumable components.
+On replacement parts specifically: cast iron wins by default. A Lodge 10.25 Inch Cast Iron Skillet is a single piece of metal with no fasteners, no coating, and no filter. There is nothing to source later. Some cast iron brands sell replacement lids and assist handles, but the pan itself has no consumable components.
 
-Nonstick is the opposite. A [T-fal Ultimate Hard Anodized 10 Inch Fry Pan](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) has a riveted handle and a coated interior that cannot be replaced. If the handle loosens or the coating goes, you replace the whole pan. That's the honest math: roughly $30 every few years versus roughly $30 once.
+Nonstick is the opposite. A T-fal Ultimate Hard Anodized 10 Inch Fry Pan has a riveted handle and a coated interior that cannot be replaced. If the handle loosens or the coating goes, you replace the whole pan. That's the honest math: roughly $30 every few years versus roughly $30 once.
 
 **Verdict:** Cast iron wins on lifetime cost and on parts availability, mostly because it has no parts to fail.
 
@@ -70,17 +70,17 @@ Cast iron's whole point is thermal mass. It holds heat, so when you drop a cold 
 
 Nonstick pans are typically aluminum, which heats fast and responds quickly but loses heat the moment food hits it. They're also limited on temperature: most manufacturers advise staying under roughly 450–500°F, and overheating a nonstick coating can release fumes that are harmful to birds and irritating to people. Never preheat an empty nonstick pan on high.
 
-For eggs, crepes, and fish, nonstick's release is genuinely better and requires far less fat. For searing, roasting, and anything that goes in the oven, cast iron is the clear pick. A [Lodge 12 Inch Cast Iron Skillet](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) gives you more surface for larger batches, at the cost of more weight.
+For eggs, crepes, and fish, nonstick's release is genuinely better and requires far less fat. For searing, roasting, and anything that goes in the oven, cast iron is the clear pick. A Lodge 12 Inch Cast Iron Skillet gives you more surface for larger batches, at the cost of more weight.
 
 **Verdict:** Cast iron for searing and oven work, nonstick for delicate food and low-fat cooking.
 
 ## Versatility and replacement parts
 
-Here's the angle most buyers miss. Nonstick pans aren't designed to be repaired. Handles are riveted, coatings are bonded, and manufacturers rarely sell either as a standalone part. When a [OXO Good Grips Non-Stick 10 Inch Frying Pan](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) reaches the end of its coating life, it becomes landfill.
+Here's the angle most buyers miss. Nonstick pans aren't designed to be repaired. Handles are riveted, coatings are bonded, and manufacturers rarely sell either as a standalone part. When a OXO Good Grips Non-Stick 10 Inch Frying Pan reaches the end of its coating life, it becomes landfill.
 
 Cast iron is the opposite by design. There's no filter, no gasket, no coating, and no sealed assembly. The only accessory worth buying is a lid, and those are widely available. If you're downsizing and trying to own fewer, longer-lasting objects, that structural simplicity is the whole argument.
 
-One more real product worth naming on the nonstick side: the [Ninja Foodi NeverStick 10.25 Inch Fry Pan](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) markets a more durable coating, and owner reviews often describe it lasting longer than budget alternatives — but it still isn't a pan you can repair, and the coating is still the wear item.
+One more real product worth naming on the nonstick side: the Ninja Foodi NeverStick 10.25 Inch Fry Pan markets a more durable coating, and owner reviews often describe it lasting longer than budget alternatives — but it still isn't a pan you can repair, and the coating is still the wear item.
 
 **Verdict:** Cast iron, decisively, on both versatility and long-term parts availability.
 

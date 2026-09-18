@@ -32,7 +32,7 @@ You do not need to spend $200 to get a good cup of coffee at home. The trick is 
 
 ## BLACK+DECKER 12-Cup Programmable Coffee Maker
 
-[BLACK+DECKER 12-Cup Programmable Coffee Maker](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the machine reviewers often point to when someone wants to spend as little as possible and still get a full pot every morning. At around $30, it does the basics well: a 24-hour programmable timer, a sneak-a-cup feature that pauses the brew so you can grab a mug early, and a 2-hour auto shutoff that keeps you from worrying about the hot plate.
+BLACK+DECKER 12-Cup Programmable Coffee Maker is the machine reviewers often point to when someone wants to spend as little as possible and still get a full pot every morning. At around $30, it does the basics well: a 24-hour programmable timer, a sneak-a-cup feature that pauses the brew so you can grab a mug early, and a 2-hour auto shutoff that keeps you from worrying about the hot plate.
 
 From real-world use, the downsides are the usual ones for a cheap drip maker. The brew temperature runs on the cool side, so I add a scoop more grounds than the package suggests to get a fuller flavor. The glass carafe sits on a hot plate, and coffee starts tasting flat after about 40 minutes. It also takes roughly 10 minutes to brew a full 12 cups.
 
@@ -40,7 +40,7 @@ Buy it if you want a no-stress pot for a family or an office kitchen and you dri
 
 ## Mr. Coffee 5-Cup Mini Brew
 
-For one person in a small apartment, the [Mr. Coffee 5-Cup Mini Brew](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is hard to beat at about $25. It is roughly the size of a toaster, fits under low cabinets, and brews 5 cups in about 5 minutes. There is a simple on/off switch, a pause-and-serve feature, and a reusable basket filter, so you are not buying paper filters every month.
+For one person in a small apartment, the Mr. Coffee 5-Cup Mini Brew is hard to beat at about $25. It is roughly the size of a toaster, fits under low cabinets, and brews 5 cups in about 5 minutes. There is a simple on/off switch, a pause-and-serve feature, and a reusable basket filter, so you are not buying paper filters every month.
 
 In most cases, What I do not love: no programmable timer, no auto shutoff, and the warming plate is small. The carafe holds heat for maybe 20 minutes before the coffee cools. The plastic parts also need a rinse every few days or they pick up a stale smell.
 
@@ -48,7 +48,7 @@ This is the right pick for a dorm room, a tiny kitchen, or someone who makes one
 
 ## Hamilton Beach FlexBrew
 
-The [Hamilton Beach FlexBrew](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) solves a common household argument: one person wants a quick single cup, the other wants a full pot. At around $70, it brews a 12-cup carafe on one side and a single serve on the other, and the single-serve side works with both K-Cups and your own ground coffee.
+The Hamilton Beach FlexBrew solves a common household argument: one person wants a quick single cup, the other wants a full pot. At around $70, it brews a 12-cup carafe on one side and a single serve on the other, and the single-serve side works with both K-Cups and your own ground coffee.
 
 Honestly, In my testing, the single-serve side brewed a cup in about 90 seconds. The full-pot side takes around 10 minutes. It has a programmable timer and a 2-hour auto shutoff, which is more than most dual machines in this price range offer, believe it or not.
 
@@ -58,7 +58,7 @@ Buy it if your household has mixed coffee habits and you want one machine instea
 
 ## Keurig K-Compact
 
-The [Keurig K-Compact](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the pod machine I suggest when speed matters most. It heats up in under a minute and brews in about 90 seconds, so you can go from stumbling out of bed to holding a mug in under 3 minutes. It offers three cup sizes, has a 36-ounce removable reservoir, and auto shutoff after 2 hours.
+The Keurig K-Compact is the pod machine I suggest when speed matters most. It heats up in under a minute and brews in about 90 seconds, so you can go from stumbling out of bed to holding a mug in under 3 minutes. It offers three cup sizes, has a 36-ounce removable reservoir, and auto shutoff after 2 hours.
 
 The obvious downside is cost per cup. K-Cups run $0.50 to $0.80 each, and if you drink two a day, that is $30 to $48 a month. You can cut that with a reusable pod and your own grounds, but it takes some trial and error to get the grind right. The reservoir is also small, so you refill it every 3 or 4 cups, honestly.
 
@@ -66,7 +66,7 @@ This one is for the person who wants one fast cup with zero cleanup and does not
 
 ## Ninja CE251 Programmable Coffee Maker
 
-If you want the best-tasting drip coffee under $100, the [Ninja CE251 Programmable Coffee Maker](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is my pick. It brews hotter than the budget machines above, closer to the 200°F range, and you can taste the difference: fuller body, less sourness. It has a 24-hour delay brew, a small-batch setting that adjusts the brew cycle for fewer cups, and a fold-away frother for milk.
+If you want the best-tasting drip coffee under $100, the Ninja CE251 Programmable Coffee Maker is my pick. It brews hotter than the budget machines above, closer to the 200°F range, and you can taste the difference: fuller body, less sourness. It has a 24-hour delay brew, a small-batch setting that adjusts the brew cycle for fewer cups, and a fold-away frother for milk.
 
 At about $90, it is the priciest option here, but it still comes in under the $100 line. The 12-cup glass carafe has a warming plate, so the usual 40-minute flavor drop applies. It is also a taller machine, so measure your cabinet clearance before buying.
 

@@ -61,7 +61,7 @@ Downsides: stock and sizing vary by store and season, so what you see online may
 
 Who should buy it: someone organizing a bathroom vanity or a desk and who wants to buy incrementally rather than in a big set.
 
-[Brightroom Stackable Drawer Organizer](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Brightroom Stackable Drawer Organizer
 
 ## IKEA VARIERA Box
 
@@ -85,7 +85,7 @@ Downsides: it uses depth rather than width, so it's not a fit for shallow drawer
 
 Who should buy it: someone with a deep cabinet or a corner base unit who's tired of losing items at the back.
 
-[Copco Non-Skid Pantry Cabinet Lazy Susan Turntable](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Copco Non-Skid Pantry Cabinet Lazy Susan Turntable
 
 ## YouCopia DrawerBin
 
@@ -97,7 +97,7 @@ Downsides: the interlocking tabs are the weak point — reviews sometimes report
 
 Who should buy it: anyone who wants a tidy, matched look in a drawer without spending much, and who reorganizes occasionally rather than constantly.
 
-[YouCopia DrawerBin](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+YouCopia DrawerBin
 
 ## OXO Good Grips Drawer Organizer
 

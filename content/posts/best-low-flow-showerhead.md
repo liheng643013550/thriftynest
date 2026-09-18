@@ -39,7 +39,7 @@ That said, this is the showerhead often recommended to anyone who has ever fough
 
 As a rule of thumb, the downside is that the spray pattern is a bit narrow, so you have to move around to get fully wet, and it doesn’t have a massage setting. It’s just one, very consistent, powerful spray. If you like to linger under a wide rain shower, this isn’t it. But if you want a showerhead that will outlive your water heater, this is the one. Buy it if you have hard water, or you’re just tired of replacing cheap plastic heads every year, in my experience.
 
-[High Sierra High Efficiency](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+High Sierra High Efficiency
 
 ## Waterpik PowerPulse
 
@@ -49,7 +49,7 @@ From real-world use, Waterpik is known for dental stuff, but they make a surpris
 
 It’s made mostly of plastic, and the chrome finish looks a bit cheap up close. I also found the "Mist" setting almost useless—it’s just a weak spritz. But for the price, it’s hard to beat the pressure-to-cost ratio. Buy it for a guest bathroom or for someone who wants a deep-tissue massage without paying for a fancy spa head.
 
-[Waterpik PowerPulse](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Waterpik PowerPulse
 
 ## Speakman S-2252
 
@@ -59,7 +59,7 @@ This is the premium pick, and it feels like it the second you pick it up—it’
 
 The downside is the price, and the fact that the brass body gets very cold in the winter until the water warms up. Also, the hard jet setting is almost too strong—it can sting if you hold it close. This is a "buy it once, buy it right" kind of product. I’d recommend it to anyone who values a specific, customizable spray pattern and wants a fixture that looks expensive in a remodel.
 
-[Speakman S-2252](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Speakman S-2252
 
 ## Delta H2Okinetic
 

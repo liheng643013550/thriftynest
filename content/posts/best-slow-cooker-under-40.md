@@ -48,7 +48,7 @@ The downsides? The "Warm" setting runs a little hot on some units, so if you lea
 
 **Who should buy it:** Anyone who wants a dependable workhorse for Sunday pot roasts, chili, and shredded chicken. If you want zero fuss and a big capacity, this is the one.
 
-[Buy the Hamilton Beach 33061 here](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the Hamilton Beach 33061 here
 
 ---
 
@@ -62,7 +62,7 @@ The downside is size. You cannot fit a whole chicken or a large roast in there. 
 
 **Who should buy it:** Singles, couples, or empty nesters who want to make a small batch of soup or a few servings of pulled pork without leftovers. It is also a great first slow cooker for a college student.
 
-[Buy the BLACK+DECKER SC-3020 here](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the BLACK+DECKER SC-3020 here
 
 ---
 
@@ -76,7 +76,7 @@ The build quality is solid. It feels more premium than the Hamilton Beach, with 
 
 **Who should buy it:** People who trust the Crock-Pot name and want a basic, large-capacity cooker that will last for years. It is the safest bet if you are nervous about buying a cheap appliance.
 
-[Buy the Crock-Pot SCCPVL600-S here](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the Crock-Pot SCCPVL600-S here
 
 ---
 
@@ -90,7 +90,7 @@ The size is the limitation. At 3 quarts, it is only useful for small recipes. It
 
 **Who should buy it:** Party hosts who want to keep queso, meatballs, or little smokies warm on the counter. The clear lid makes it a crowd-pleaser for serving.
 
-[Buy the Instant Pot 3-Quart Sling here](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the Instant Pot 3-Quart Sling here
 
 ---
 
@@ -104,7 +104,7 @@ There are real compromises at this price point. The "Low" setting is actually pr
 
 **Who should buy it:** Anyone on a strict budget or someone who is not sure if they will actually use a slow cooker. At $20, it is a low-risk way to test the waters.
 
-[Buy the Proctor Silex 33080 here](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the Proctor Silex 33080 here
 
 ---
 
@@ -120,7 +120,7 @@ The downside is the digital interface. It is not as intuitive as a dial, and if 
 
 **Who should buy it:** Busy families who want to program a meal in the morning and come home to perfectly cooked food that is automatically kept warm. This is the best value if you want "smart" features without the high-end price.
 
-[Buy the Hamilton Beach 33226 here](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the Hamilton Beach 33226 here
 
 ---
 

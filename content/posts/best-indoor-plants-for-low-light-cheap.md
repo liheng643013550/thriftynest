@@ -29,7 +29,7 @@ Honestly, Before you grab the first leafy thing you see, keep these criteria in 
 | [Golden Pothos](https://www.amazon.com/dp/B0H3PN93JJ?tag=__AMAZON_TAG__) | $15 - $20 | Hanging baskets and shelves | Vining, forgiving, fast grower |
 | [Snake Plant Laurentii](https://www.amazon.com/dp/B0GGLS9KWR?tag=__AMAZON_TAG__) | $18 - $25 | Bedrooms and offices | Drought-proof, air purifying, upright |
 | [ZZ Plant](https://www.amazon.com/dp/B0H29M27XQ?tag=__AMAZON_TAG__) | $20 - $30 | Dark corners | Tolerates extreme neglect, glossy leaves |
-| [Aglaonema Silver Bay](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $15 - $20 | Adding color to dim rooms | Variegated, pest resistant |
+| Aglaonema Silver Bay | $15 - $20 | Adding color to dim rooms | Variegated, pest resistant |
 | [Spathiphyllum (Peace Lily)](https://www.amazon.com/dp/B0FPG8QQ5Z?tag=__AMAZON_TAG__) | $12 - $18 | Telling you when to water | Dramatic droop, white blooms |
 | [Cast Iron Plant](https://www.amazon.com/dp/B0F5N5DBL2?tag=__AMAZON_TAG__) | $20 - $25 | Deep shade and temperature swings | Nearly indestructible, slow grower |
 

@@ -27,12 +27,12 @@ To be fair, Before you start shopping, keep these five points in mind. They will
 
 | Product | Price | Best For | Key Pros |
 | :--- | :--- | :--- | :--- |
-| [SHW 55-Inch Corner Desk](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $80–$100 | Tight spaces and light laptops | Compact footprint, easy assembly, cheap |
-| [Mr. IRONSTONE L-Shaped Desk](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $110–$140 | Dual monitors and small PCs | Reversible layout, sturdy steel legs, large surface |
-| [Coleshome 55" L-Shaped Desk](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $95–$125 | Students and basic office work | Sleek look, built-in headphone hook, easy cleanup |
+| SHW 55-Inch Corner Desk | $80–$100 | Tight spaces and light laptops | Compact footprint, easy assembly, cheap |
+| Mr. IRONSTONE L-Shaped Desk | $110–$140 | Dual monitors and small PCs | Reversible layout, sturdy steel legs, large surface |
+| Coleshome 55" L-Shaped Desk | $95–$125 | Students and basic office work | Sleek look, built-in headphone hook, easy cleanup |
 | [Furinno Turn-N-Tube Corner Desk](https://www.amazon.com/dp/B083FQ1MTC?tag=__AMAZON_TAG__) | $50–$70 | Absolute budget buyers | Super cheap, lightweight, simple assembly |
-| [Walker Edison Soreno Corner Desk](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $130–$160 | Home offices needing a shelf | Three tiers of storage, tempered glass shelf, solid feel |
-| [Greenforest L-Shaped Desk](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $120–$150 | Gamers and heavy setups | Carbon fiber texture, cup holder, cable holes |
+| Walker Edison Soreno Corner Desk | $130–$160 | Home offices needing a shelf | Three tiers of storage, tempered glass shelf, solid feel |
+| Greenforest L-Shaped Desk | $120–$150 | Gamers and heavy setups | Carbon fiber texture, cup holder, cable holes |
 
 ## SHW 55-Inch Corner Desk
 

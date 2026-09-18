@@ -33,7 +33,7 @@ Here is a quick look at the top contenders. I have listed them in order of overa
 | [Hamilton Beach 6-Speed Hand Mixer](https://www.amazon.com/dp/B0CYQDPP4R?tag=__AMAZON_TAG__) | ~$20 | Quick tasks and beginners | Snap-in storage case, quiet motor, 6 speeds |
 | [Black+Decker 5-Speed Hand Mixer](https://www.amazon.com/dp/B09DGDX8XK?tag=__AMAZON_TAG__) | ~$15 | Basic mixing on a tight budget | Very cheap, decent power, simple design |
 | [Cuisinart Power Advantage 5-Speed](https://www.amazon.com/dp/B0CKLV7TZ3?tag=__AMAZON_TAG__) | ~$25 | Whipping and lighter batters | 220W motor, comfortable grip, auto-feed button |
-| [Oster 5-Speed Hand Mixer](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$19 | Infrequent use and small kitchens | Compact size, easy to store, low price |
+| Oster 5-Speed Hand Mixer | ~$19 | Infrequent use and small kitchens | Compact size, easy to store, low price |
 
 ## KitchenAid 5-Speed Ultra Power Hand Mixer
 

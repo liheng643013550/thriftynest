@@ -37,7 +37,7 @@ In most cases, Before you click “buy,” keep these five things in mind. They 
 
 ## Mercer Culinary Millennia
 
-[Get the Mercer Culinary Millennia here](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Get the Mercer Culinary Millennia here
 
 Price: Around $22
 
@@ -51,7 +51,7 @@ Who should buy it: Anyone who wants a reliable, no-nonsense workhorse for daily 
 
 ## Victorinox Fibrox Pro
 
-[Get the Victorinox Fibrox Pro here](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Get the Victorinox Fibrox Pro here
 
 Price: Around $27
 
@@ -65,7 +65,7 @@ Who should buy it: This is the safe choice. If you are unsure which knife to get
 
 ## KomKom Classic Chef Knife
 
-[Get the KomKom Classic Chef Knife here](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Get the KomKom Classic Chef Knife here
 
 Price: Around $25
 
@@ -79,7 +79,7 @@ Who should buy it: Beginners and home cooks with smaller hands. If you find most
 
 ## Cuisinart C77WTR 8-Inch Chef Knife
 
-[Get the Cuisinart C77WTR here](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Get the Cuisinart C77WTR here
 
 Price: Around $14
 
@@ -93,7 +93,7 @@ Who should buy it: Budget shoppers who need a functional knife without any frill
 
 ## Imarku Chef Knife
 
-[Get the Imarku Chef Knife here](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Get the Imarku Chef Knife here
 
 Price: Around $25
 
@@ -107,7 +107,7 @@ Who should buy it: Cooks who prefer a heavier, more traditional knife feel. If y
 
 ## Mundial 5100 Professional Chef Knife
 
-[Get the Mundial 5100 Professional here](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Get the Mundial 5100 Professional here
 
 Price: Around $28
 
@@ -121,7 +121,7 @@ Who should buy it: Home cooks who prioritize precision and sharpness over brute 
 
 ## Dalstrong Shadow Black Series
 
-[Get the Dalstrong Shadow Black here](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Get the Dalstrong Shadow Black here
 
 Price: Around $29
 

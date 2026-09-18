@@ -45,7 +45,7 @@ Before you buy anything, measure your space. The pipe configuration matters more
 
 **Who should buy it:** Anyone with a basic, narrow cabinet who wants a quick fix without spending much. It is also a solid choice for rental kitchens where you do not want to install anything permanent.
 
-[SimpleHouseware Under Sink Organizer](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+SimpleHouseware Under Sink Organizer
 
 ## mDesign Plastic Under Sink Shelf
 
@@ -69,7 +69,7 @@ Before you buy anything, measure your space. The pipe configuration matters more
 
 **Who should buy it:** People with newer homes or plumbing that runs close to the back wall. If you have a garbage disposal, measure the clearance carefully before ordering.
 
-[DecoBreeze Slide Out Organizer](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+DecoBreeze Slide Out Organizer
 
 ## iPrimio Under Sink Organizer
 
@@ -81,7 +81,7 @@ Before you buy anything, measure your space. The pipe configuration matters more
 
 **Who should buy it:** Anyone with a corner sink or a cabinet where the pipes run right down the middle. It is also great for storing tall bottles because you can adjust the height to fit them standing up.
 
-[iPrimio Under Sink Organizer](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+iPrimio Under Sink Organizer
 
 ## YouCopia StowAway
 
@@ -93,7 +93,7 @@ Before you buy anything, measure your space. The pipe configuration matters more
 
 **Who should buy it:** People who want a clean, organized look with visible contents. It is perfect for sorting smaller items like dishwasher pods, scrub brushes, and rubber gloves.
 
-[YouCopia StowAway](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+YouCopia StowAway
 
 ## Simplehuman Under-Sink Organizer
 
@@ -105,7 +105,7 @@ Before you buy anything, measure your space. The pipe configuration matters more
 
 **Who should buy it:** Anyone who uses their under-sink cabinet daily and wants a durable, smooth-operating system that will last a decade. It is a worthy investment if you have the budget.
 
-[Simplehuman Under-Sink Organizer](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Simplehuman Under-Sink Organizer
 
 ## The Bottom Line
 

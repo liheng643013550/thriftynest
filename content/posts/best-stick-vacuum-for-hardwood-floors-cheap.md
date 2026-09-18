@@ -101,6 +101,6 @@ The Hoover ONEPWR Evolve is a smart buy if you already own other Hoover ONEPWR t
 
 ## The Bottom Line
 
-You do not need to spend a fortune to keep hardwood floors clean. The best budget pick is the [Tineco A10 Hero](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) because it offers the best combination of lightweight design, strong suction, and a soft roller that protects your floors.
+You do not need to spend a fortune to keep hardwood floors clean. The best budget pick is the Tineco A10 Hero because it offers the best combination of lightweight design, strong suction, and a soft roller that protects your floors.
 
 If you want to spend as little as possible and don't mind a cord, the [Bissell Featherweight](https://www.amazon.com/dp/B06ZY7BTWM?tag=__AMAZON_TAG__) is a fine starter tool. For pet owners, the [Bissell Pet Hair Eraser Slim](https://www.amazon.com/dp/B0DP5JNLQR?tag=__AMAZON_TAG__) is a lifesaver. Take a look at your biggest messes, pick the vacuum that matches them, and enjoy cleaner floors without the hefty price tag.

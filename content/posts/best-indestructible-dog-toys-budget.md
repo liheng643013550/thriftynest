@@ -31,7 +31,7 @@ Before you buy, ignore the marketing buzzwords. Focus on these five things.
 | :--- | :--- | :--- | :--- |
 | [Kong Extreme](https://www.amazon.com/dp/B0002AR0II?tag=__AMAZON_TAG__) | $$ | Heavy chewers who like to gnaw | Solid rubber, fills with treats, durable |
 | [Goughnuts Indestructible Stick](https://www.amazon.com/dp/B0997V74LL?tag=__AMAZON_TAG__) | $$$ | Aggressive power chewers | Lifetime replacement warranty, natural rubber |
-| [West Paw Zogoflex Tux](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $$ | Fetch and tug-of-war | Tough yet flexible, floats, recyclable |
+| West Paw Zogoflex Tux | $$ | Fetch and tug-of-war | Tough yet flexible, floats, recyclable |
 | [Nylabone Dura Chew](https://www.amazon.com/dp/B01LVU0SND?tag=__AMAZON_TAG__) | $ | Aggressive chewers who like to gnaw | Very cheap, long-lasting nylon |
 | [Outward Hound Fire Biterz](https://www.amazon.com/dp/B01MXWJ6TB?tag=__AMAZON_TAG__) | $ | Fetch fanatics | Durable rubber, squeaks, affordable |
 | [Benebone Wishbone](https://www.amazon.com/dp/B00CPDWT2M?tag=__AMAZON_TAG__) | $ | Flavor-driven chewers | Real bacon flavor, ergonomic grip |
@@ -76,7 +76,7 @@ The downside is that it is not a heavy-duty gnawing toy. If your dog just wants 
 
 Who should buy it: This is for the dog that loves to play fetch and tug but also chews. It is a fantastic middle ground that is safer for teeth than harder plastics.
 
-[West Paw Zogoflex Tux](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+West Paw Zogoflex Tux
 
 ## Nylabone Dura Chew
 

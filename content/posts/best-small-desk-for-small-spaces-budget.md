@@ -75,7 +75,7 @@ Downsides: The corner design means you are sitting at a diagonal, which takes so
 
 Who should buy it: If you have a dead corner that is too small for a traditional rectangular desk but want more surface area than a narrow writing table, this is your pick, believe it or not.
 
-[GreenForest Corner Desk](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+GreenForest Corner Desk
 
 HOMCOM 32" Writing Desk
 
@@ -89,7 +89,7 @@ Downsides: At 32 inches wide, you only have room for a laptop and a mouse. There
 
 Who should buy it: Minimalists who only need a laptop stand and a place to write. It is also a great bedside table alternative if you like to work in bed.
 
-[HOMCOM 32" Writing Desk](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+HOMCOM 32" Writing Desk
 
 Techni Mobili RTA-6193
 
@@ -103,7 +103,7 @@ Downsides: The assembly is a bit more involved because you have to attach the dr
 
 Who should buy it: Anyone who wants a secure place to store a laptop or paperwork without buying a separate filing cabinet. It is a great fit for a home office nook in a living room.
 
-[Techni Mobili RTA-6193](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Techni Mobili RTA-6193
 
 Sauder Harbor View
 
@@ -117,7 +117,7 @@ Downsides: It is wider than my other picks, so it requires more wall space. The 
 
 Who should buy it: If you have a bit more horizontal space and want a desk that looks like a piece of real furniture, not a utility table, this is the one. It is perfect for a dedicated home office corner, in practice.
 
-[Sauder Harbor View](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Sauder Harbor View
 
 The bottom line
 

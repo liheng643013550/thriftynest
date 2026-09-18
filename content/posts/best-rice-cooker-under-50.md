@@ -28,9 +28,9 @@ Before you click "buy," keep these five things in mind. They make the difference
 | Product | Price | Best For | Key Pros |
 | :--- | :--- | :--- | :--- |
 | [Aroma Housewares 6-Cup](https://www.amazon.com/dp/B08KFPZ1MF?tag=__AMAZON_TAG__) | ~$30 | First-time buyers & families | Simple switch, steamer basket, easy to clean |
-| [Black+Decker 3-Cup](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$15 | Singles & couples | Ultra-cheap, compact, very lightweight |
-| [Hamilton Beach Digital 8-Cup](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$35 | Small households | Digital timer, easy-read display, auto keep-warm |
-| [Zojirushi NHS-06 3-Cup](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$40 | Rice perfectionists | Legendary brand, excellent texture, durable |
+| Black+Decker 3-Cup | ~$15 | Singles & couples | Ultra-cheap, compact, very lightweight |
+| Hamilton Beach Digital 8-Cup | ~$35 | Small households | Digital timer, easy-read display, auto keep-warm |
+| Zojirushi NHS-06 3-Cup | ~$40 | Rice perfectionists | Legendary brand, excellent texture, durable |
 | [Dash Mini Rice Cooker](https://www.amazon.com/dp/B0FT46M9XR?tag=__AMAZON_TAG__) | ~$20 | Portion control & dorm rooms | Cute design, non-stick, makes perfect single servings |
 | [Aroma Digital 8-Cup](https://www.amazon.com/dp/B007WQ9YNO?tag=__AMAZON_TAG__) | ~$40 | Set-and-forget cooking | Delay timer, multiple settings, steams well |
 

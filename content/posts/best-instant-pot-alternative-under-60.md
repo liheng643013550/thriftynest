@@ -42,7 +42,7 @@ Honestly, the downsides? The included rice paddle is flimsy, and the non-stick p
 
 Who should buy it: Anyone who wants a reliable daily driver without paying the Instant Pot markup. It is the best all-rounder here, and the extra wattage makes a real difference. I genuinely believe this is the best instant pot alternative under $60, in my experience.
 
-[Get the COSORI 6 Qt here](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Get the COSORI 6 Qt here
 
 ## Gourmia 6 Qt 8-in-1
 
@@ -54,7 +54,7 @@ The biggest downside is the build quality. The plastic lid handle feels a little
 
 Who should buy it: Single people or couples who just want to cook beans, rice, and stews without spending a lot of money. It is a simple appliance that does the basics well.
 
-[Get the Gourmia 6 Qt here](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Get the Gourmia 6 Qt here
 
 ## Ninja Foodi 6-in-1 6.5 Qt
 
@@ -66,7 +66,7 @@ The downsides are clear. It is bulky and tall, so it might not fit under standar
 
 Who should buy it: Cooks who want to save space and want the ability to crisp food without pulling out a separate air fryer. It is heavier and more complex, but the results are worth it.
 
-[Get the Ninja Foodi here](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Get the Ninja Foodi here
 
 ## Beautiful 6 Qt Programmable
 
@@ -78,7 +78,7 @@ The downside is the wattage. It is only 850 watts, so it is a bit slower to pres
 
 Who should buy it: Home cooks who want a multicooker that looks good sitting on the counter. The ceramic pot is a huge plus if you hate scrubbing stuck-on food, honestly.
 
-[Get the Beautiful 6 Qt here](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Get the Beautiful 6 Qt here
 
 ## Elite Gourmet 8 Qt
 
@@ -90,7 +90,7 @@ The downsides? It is massive. It takes up a lot of cabinet space. Also, the lack
 
 Who should buy it: Large families or anyone who loves meal prepping big batches of soup or stock. It is the best budget option for volume cooking.
 
-[Get the Elite Gourmet 8 Qt here](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Get the Elite Gourmet 8 Qt here
 
 ## Aobosi 6 Qt
 
@@ -102,7 +102,7 @@ The main downside is the lack of a true "Yogurt" function. It has a "Ferment" mo
 
 Who should buy it: Beginners who want a simple, forgiving machine. The one-knob interface is perfect if you do not want to fiddle with 12 buttons.
 
-[Get the Aobosi 6 Qt here](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Get the Aobosi 6 Qt here
 
 ## The bottom line
 

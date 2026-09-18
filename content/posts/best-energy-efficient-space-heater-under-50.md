@@ -47,7 +47,7 @@ The downsides are obvious: it only warms the area directly in front of it. If yo
 
 **Who should buy it:** If you work from home and have cold feet, or if you just need a tiny, cheap boost of warmth in one specific spot, this is the one. It is the ultimate "personal" heater for a tight budget.
 
-[Lasko 100 MyHeat](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Lasko 100 MyHeat
 
 ## Amazon Basics Ceramic Space Heater
 
@@ -75,7 +75,7 @@ The downside is that it is a spot heater. It won't circulate warm air around a l
 
 **Who should buy it:** Anyone looking for a safe, portable heater to keep next to the couch or in the bedroom. The cool-touch housing makes it one of the safest choices in this price range.
 
-[Honeywell HCE200W UberHeat](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Honeywell HCE200W UberHeat
 
 ## GiveBest Portable Electric Heater
 
@@ -89,7 +89,7 @@ The downsides? The build quality is decent, but it feels a little plasticky. The
 
 **Who should buy it:** If you want a "smart" feel without the smart price tag. The remote and digital thermostat make it the most convenient option on this list.
 
-[GiveBest Portable Electric Heater](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+GiveBest Portable Electric Heater
 
 ## Lasko 754200 Ceramic Heater
 

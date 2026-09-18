@@ -119,7 +119,7 @@ The nonstick coating is a 5-layer coating that feels very durable and looks prem
 
 ## The Bottom Line
 
-If you want the best all-around pan that will last a good while without breaking the bank, go with the [T-fal E93808](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). It's the perfect balance of price, durability, and everyday performance.
+If you want the best all-around pan that will last a good while without breaking the bank, go with the T-fal E93808. It's the perfect balance of price, durability, and everyday performance.
 
 If you're willing to spend a few more dollars for a more professional, heavy-duty feel, get the [Oxo Good Grips Pro](https://www.amazon.com/dp/B0GS3RS3ZR?tag=__AMAZON_TAG__). It's a pan you'll reach for every single day.
 

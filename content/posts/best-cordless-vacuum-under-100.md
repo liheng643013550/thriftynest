@@ -59,7 +59,7 @@ Downsides: The plastic feels a bit creaky, and the floor nozzle is narrow. You'l
 
 Who should buy it: Busy people who want a grab-and-go vacuum for daily messes in the kitchen and entryway. It's also great for seniors because it's light and easy to handle.
 
-[Black+Decker Powerseries Extreme](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Black+Decker Powerseries Extreme
 
 ## Shark WANDVAC
 
@@ -87,7 +87,7 @@ The downside is the price if you can't find a refurb. Also, the app is unnecessa
 
 Who should buy it: Tech-savvy people who want premium features on a budget and are willing to buy refurbished. If you have wall-to-wall carpet, this is the one to get.
 
-[Tineco Pure One S12](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Tineco Pure One S12
 
 ## Eureka Flash
 
@@ -101,7 +101,7 @@ The build quality is the trade-off. The plastic feels hollow, and the charging p
 
 Who should buy it: College students, first apartments, or anyone who needs a basic vacuum for a rental and doesn't want to spend more than $70.
 
-[Eureka Flash](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Eureka Flash
 
 ## Hoover ONEPWR Evolve
 
@@ -115,7 +115,7 @@ The downsides are the battery (30 minutes, but the vacuum is loud) and the filte
 
 Who should buy it: Renters or homeowners with a lot of carpet who don't want to spend $200 on a Dyson. It's a solid primary vacuum for a small house.
 
-[Hoover ONEPWR Evolve](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Hoover ONEPWR Evolve
 
 ## Levoit Vortex Mini
 
@@ -129,7 +129,7 @@ The biggest downside is the lack of a motorized brush roll on the floor head. It
 
 Who should buy it: Apartment dwellers, people in studio units, or anyone who wants a vacuum that's unobtrusive and doesn't wake the baby.
 
-[Levoit Vortex Mini](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Levoit Vortex Mini
 
 ## The Bottom Line
 

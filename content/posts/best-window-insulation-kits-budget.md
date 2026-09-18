@@ -57,7 +57,7 @@ The tape is strong, and the instructions are simple. Owner reports describe appl
 
 **Who should buy it:** Renters and homeowners who need to cover multiple windows without spending a lot. Also great for drafty basements or garages where looks don't matter as much.
 
-[Duck Brand Max Strength Shrink Film](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Duck Brand Max Strength Shrink Film
 
 ## Window Insulation Kit by Frost King
 
@@ -81,7 +81,7 @@ Installation is easier than tape. You peel off the backing on the magnetic strip
 
 **Who should buy it:** Anyone who wants a reusable solution. If you hate dealing with leftover tape residue or need to remove your insulation every spring, this is worth the extra cost.
 
-[Ecoology Magnetic Insulation Kit](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Ecoology Magnetic Insulation Kit
 
 ## Duck Brand Heavy Duty Shrink Film
 
@@ -93,7 +93,7 @@ The thicker film is a bit harder to shrink. It takes more heat and more time to 
 
 **Who should buy it:** People in cold climates who need maximum draft blocking. Also good for windows that get a lot of direct sunlight, as the thicker film doesn't degrade as fast.
 
-[Duck Brand Heavy Duty Shrink Film](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Duck Brand Heavy Duty Shrink Film
 
 ## 3M Indoor Shrink Film Kit (Large)
 
@@ -109,7 +109,7 @@ This is used on a large bay window in a dining room. The film goes up smoothly, 
 
 ## The Bottom Line
 
-For most homes, the [3M Indoor Shrink Film Kit](https://www.amazon.com/dp/B000VSD9DG?tag=__AMAZON_TAG__) is the smartest buy. It has the best tape, clearest film, and a reliable track record. If you're covering a lot of windows on a strict budget, the [Duck Brand Max Strength Shrink Film](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a solid second choice. For those who want a reusable option, the [Ecoology Magnetic Insulation Kit](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is worth the upfront cost.
+For most homes, the [3M Indoor Shrink Film Kit](https://www.amazon.com/dp/B000VSD9DG?tag=__AMAZON_TAG__) is the smartest buy. It has the best tape, clearest film, and a reliable track record. If you're covering a lot of windows on a strict budget, the Duck Brand Max Strength Shrink Film is a solid second choice. For those who want a reusable option, the Ecoology Magnetic Insulation Kit is worth the upfront cost.
 
 A $20 kit won't make your home perfectly airtight, but it will cut the draft, reduce condensation, and save you a few bucks on your heating bill each month. That's a win in my book.
 

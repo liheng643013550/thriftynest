@@ -28,8 +28,8 @@ Before you click "add to cart," here is what separates the useful organizers fro
 | [Simple Houseware Expandable Shelf](https://www.amazon.com/dp/B0G67RYV8B?tag=__AMAZON_TAG__) | Under $25 | Stacking multiple tiers | No-tool assembly, sturdy steel |
 | [Honey-Can-Do 5-Tier Storage Rack](https://www.amazon.com/dp/B0CJX788YC?tag=__AMAZON_TAG__) | Under $35 | Shoes and folded jeans | Heavy-duty, holds 125 lbs |
 | [ClosetMaid 6-Cube Organizer](https://www.amazon.com/dp/B07MP18DVL?tag=__AMAZON_TAG__) | Under $50 | Bins and folded items | Classic look, expandable frame |
-| [STORi Foldable Storage Bins](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | Under $30 | Hiding clutter on shelves | Collapses flat, reinforced handles |
-| [Zober Double Hanging Rod](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | Under $15 | Doubling shirt capacity | No installation, strong grip |
+| STORi Foldable Storage Bins | Under $30 | Hiding clutter on shelves | Collapses flat, reinforced handles |
+| Zober Double Hanging Rod | Under $15 | Doubling shirt capacity | No installation, strong grip |
 | [Simple Houseware Mesh Shelf](https://www.amazon.com/dp/B0BTGJV9Y6?tag=__AMAZON_TAG__) | Under $25 | Hanging storage for bags | Hooks over existing rod, clear view |
 
 ## Simple Houseware Expandable Shelf

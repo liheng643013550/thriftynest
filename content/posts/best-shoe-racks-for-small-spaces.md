@@ -44,7 +44,7 @@ Buy this if you want a no-nonsense rack for a utility closet, garage, or any spo
 
 ## Songmics Bamboo 3-Tier Shoe Rack
 
-[Songmics Bamboo 3-Tier Shoe Rack](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is around $28 and is the best-looking option on this list. It is made of natural bamboo with a smooth finish, and it looks like a piece of furniture rather than a wire shelf. It is compact at about 24 inches wide, which makes it a great fit for tight entryways and apartment hallways.
+Songmics Bamboo 3-Tier Shoe Rack is around $28 and is the best-looking option on this list. It is made of natural bamboo with a smooth finish, and it looks like a piece of furniture rather than a wire shelf. It is compact at about 24 inches wide, which makes it a great fit for tight entryways and apartment hallways.
 
 The three tiers hold about six to nine pairs of shoes, depending on size. The shelves are slightly angled, which keeps shoes from sliding off and makes it easy to see what is on the bottom. The bamboo is sealed, so it resists light moisture, but you should still wipe up wet snow or rain quickly.
 
@@ -64,7 +64,7 @@ Buy this if you have no floor space at all and need a quick, tool-free solution.
 
 ## Seville Classics 3-Tier Shoe Rack
 
-[Seville Classics 3-Tier Shoe Rack](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is around $30 and is the most heavy-duty option on this list. It is made of a powder-coated steel frame with solid plastic shelves that snap into place. Each shelf can hold a surprising amount of weight, so you can pile on hiking boots, steel-toe work shoes, and even small boxes without worry.
+Seville Classics 3-Tier Shoe Rack is around $30 and is the most heavy-duty option on this list. It is made of a powder-coated steel frame with solid plastic shelves that snap into place. Each shelf can hold a surprising amount of weight, so you can pile on hiking boots, steel-toe work shoes, and even small boxes without worry.
 
 The design is simple but effective. The shelves are flat, not angled, so you can slide shoes in and out easily. The unit is about 28 inches wide, which is a bit wider than some competitors but still fits in most closets. Assembly is tool-free, which is a huge plus. The shelves just click into the frame, and the whole thing takes about five minutes to put together.
 
@@ -84,7 +84,7 @@ Buy this if you have a small daily rotation and need room for chunky shoes. It i
 
 ## DecoBREEZE 5-Tier Shoe Rack
 
-[DecoBREEZE 5-Tier Shoe Rack](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is around $25 and is the tallest option on this list. It is a freestanding metal frame with five shelves, and it can hold up to 15 pairs of shoes. The vertical design means it takes up very little floor space, so it is great for narrow hallways and coat closets.
+DecoBREEZE 5-Tier Shoe Rack is around $25 and is the tallest option on this list. It is a freestanding metal frame with five shelves, and it can hold up to 15 pairs of shoes. The vertical design means it takes up very little floor space, so it is great for narrow hallways and coat closets.
 
 The best part is the sheer capacity for the price. You get a lot of storage per square foot. The shelves are open wire, so dirt and dust fall through instead of building up. It is also lightweight and easy to move around when you are cleaning.
 
@@ -94,4 +94,4 @@ Buy this if you have a large shoe collection and limited floor space. It is the 
 
 ## The bottom line
 
-For most people, the [Simple Houseware 4-Tier Shoe Rack](https://www.amazon.com/dp/B088QZPVPW?tag=__AMAZON_TAG__) is the best all-around choice. It is sturdy, affordable, and easy to clean, and it fits in most closets. If you need something that looks nicer for a visible spot, get the [Songmics Bamboo 3-Tier Shoe Rack](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). And if you have zero floor space, the [Whitmor Over-the-Door Shoe Rack](https://www.amazon.com/dp/B01M19ZHJT?tag=__AMAZON_TAG__) is a no-brainer. Measure your space, count your shoes, and pick the one that fits your life. Your floor will thank you.
+For most people, the [Simple Houseware 4-Tier Shoe Rack](https://www.amazon.com/dp/B088QZPVPW?tag=__AMAZON_TAG__) is the best all-around choice. It is sturdy, affordable, and easy to clean, and it fits in most closets. If you need something that looks nicer for a visible spot, get the Songmics Bamboo 3-Tier Shoe Rack. And if you have zero floor space, the [Whitmor Over-the-Door Shoe Rack](https://www.amazon.com/dp/B01M19ZHJT?tag=__AMAZON_TAG__) is a no-brainer. Measure your space, count your shoes, and pick the one that fits your life. Your floor will thank you.

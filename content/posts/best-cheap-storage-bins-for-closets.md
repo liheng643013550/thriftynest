@@ -69,7 +69,7 @@ Downsides: it's not washable in a machine without risking the insert, and it won
 
 Who should buy it: anyone using a closet shelf as visible storage in a bedroom or entryway.
 
-[mDesign Soft Fabric Closet Storage Bin](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+mDesign Soft Fabric Closet Storage Bin
 
 ## Whitmor Clip & Carry Storage Bins
 
@@ -81,7 +81,7 @@ Downsides: the plastic is mid-grade, not heavy-duty, and the clip lids can pop l
 
 Who should buy it: renters who expect to move within a year or two and want bins that travel.
 
-[Whitmor Clip & Carry Storage Bins](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Whitmor Clip & Carry Storage Bins
 
 ## Simple Houseware Foldable Storage Cube Bins
 
@@ -105,7 +105,7 @@ Downsides: at this size, it's heavy when full and awkward on a high shelf. It's 
 
 Who should buy it: anyone doing a twice-a-year seasonal swap rather than daily access.
 
-[Honey-Can-Do Large Storage Bin with Lid](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Honey-Can-Do Large Storage Bin with Lid
 
 ## Comparison table
 

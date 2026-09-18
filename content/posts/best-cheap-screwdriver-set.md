@@ -26,13 +26,13 @@ Honestly, Magnetic tips are at the top of that list. A magnetized tip holds the 
 
 | Product | Price | Best For | Key Pros |
 |---|---|---|---|
-| [Amazon Basics 33-Piece Screwdriver Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | About $12 | General household use | Magnetic tips, 33 pieces, hard case |
-| [Stanley 62-011 6-Piece Screwdriver Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | About $15 | People who prefer fixed drivers | Cushion grip, tough steel, no bits to lose |
-| [HORUSDY 12-Piece Magnetic Screwdriver Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | About $13 | Small repairs and electronics | Strong magnets, compact, includes precision sizes |
-| [Craftsman 17-Piece Screwdriver Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | About $20 | Weekend projects | Lifetime warranty, comfortable handles |
-| [TEKTON Everybit Precision Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | About $18 | Phones, laptops, eyeglasses | 28 bits, fine-tip drivers, magnetic |
-| [DEWALT Maxfit 30-Piece Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | About $19 | Heavy household use | Rugged bits, tough case, good grip |
-| [MulWark 20-Piece Magnetic Screwdriver Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | About $14 | All-around starter kit | Magnetic tips, ratcheting option, low price |
+| Amazon Basics 33-Piece Screwdriver Set | About $12 | General household use | Magnetic tips, 33 pieces, hard case |
+| Stanley 62-011 6-Piece Screwdriver Set | About $15 | People who prefer fixed drivers | Cushion grip, tough steel, no bits to lose |
+| HORUSDY 12-Piece Magnetic Screwdriver Set | About $13 | Small repairs and electronics | Strong magnets, compact, includes precision sizes |
+| Craftsman 17-Piece Screwdriver Set | About $20 | Weekend projects | Lifetime warranty, comfortable handles |
+| TEKTON Everybit Precision Set | About $18 | Phones, laptops, eyeglasses | 28 bits, fine-tip drivers, magnetic |
+| DEWALT Maxfit 30-Piece Set | About $19 | Heavy household use | Rugged bits, tough case, good grip |
+| MulWark 20-Piece Magnetic Screwdriver Set | About $14 | All-around starter kit | Magnetic tips, ratcheting option, low price |
 
 ## Amazon Basics 33-Piece Screwdriver Set
 

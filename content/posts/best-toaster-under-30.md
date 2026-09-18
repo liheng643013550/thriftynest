@@ -47,7 +47,7 @@ It toasts evenly across the board, though the dial can be a bit finicky. You mig
 
 **Who should buy it:** If you want a reliable, no-nonsense toaster for standard bread and don't care about looks, this is your best bet.
 
-[Buy the Hamilton Beach 2-Slice on Amazon](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the Hamilton Beach 2-Slice on Amazon
 
 ## Black+Decker 2-Slice
 
@@ -61,7 +61,7 @@ For basic white or wheat sandwich bread, it does a fine job. The heat distributi
 
 **Who should buy it:** Students, campers, or anyone who needs a toaster for occasional use and wants to spend the absolute minimum.
 
-[Buy the Black+Decker 2-Slice on Amazon](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the Black+Decker 2-Slice on Amazon
 
 ## Mueller UltraToast
 
@@ -75,7 +75,7 @@ The extra-wide slots are generous enough for thick bagels and Texas toast. The "
 
 **Who should buy it:** If you are a bagel lover or prefer heartier breads, this is the best pick for you.
 
-[Buy the Mueller UltraToast on Amazon](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the Mueller UltraToast on Amazon
 
 ## Cuisinart 2-Slice
 
@@ -89,7 +89,7 @@ It has a wider range of browning settings than most others, from a light "1" to 
 
 **Who should buy it:** Anyone who wants a stylish toaster that produces consistent, even toast and occasionally toasts frozen items.
 
-[Buy the Cuisinart 2-Slice on Amazon](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the Cuisinart 2-Slice on Amazon
 
 ## Hamilton Beach 4-Slice
 
@@ -103,7 +103,7 @@ It toasts consistently across all four slots, though it can take a bit longer th
 
 **Who should buy it:** Families, couples who like different levels of toastiness, and anyone who entertains guests frequently.
 
-[Buy the Hamilton Beach 4-Slice on Amazon](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the Hamilton Beach 4-Slice on Amazon
 
 ## Brentwood 2-Slice
 
@@ -117,7 +117,7 @@ For the price, the toasting is surprisingly acceptable. It won't be perfectly ev
 
 **Who should buy it:** If you are on an incredibly tight budget or need a spare toaster for a vacation home, this is the one.
 
-[Buy the Brentwood 2-Slice on Amazon](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the Brentwood 2-Slice on Amazon
 
 ## The bottom line
 
