@@ -62,7 +62,7 @@ The downsides: The shelves are wire, so small items like socks can slip through 
 
 Who should buy it: Someone who wants a simple, sturdy setup and likes the idea of rearranging later. It is perfect for a kid's closet where storage needs change every year.
 
-[Rubbermaid Configurations Deluxe](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Rubbermaid Configurations Deluxe
 
 ## Amazon Basics Wire Shelving Kit
 
@@ -90,7 +90,7 @@ The downsides: The expansion mechanism is plastic, and if you overtighten the kn
 
 Who should buy it: People with oddly sized closets or alcoves. If your closet is 36 inches wide and every standard kit is 30 or 48, this is your only cheap option.
 
-[Seville Classics Expandable](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Seville Classics Expandable
 
 ## HomeHuff 5-Tier
 
@@ -104,7 +104,7 @@ The downsides: It is not super deep (about 12 inches), so you cannot store large
 
 Who should buy it: Anyone with a narrow, tall closet or a dorm room. It is also a great choice for shoe collectors who want a visible display.
 
-[HomeHuff 5-Tier](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+HomeHuff 5-Tier
 
 ## SimpleHouseware 6-Tier
 

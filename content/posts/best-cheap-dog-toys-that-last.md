@@ -28,10 +28,10 @@ Not all tough toys are created equal. Before you buy, keep these criteria in min
 | :--- | :--- | :--- | :--- |
 | [KONG Classic](https://www.amazon.com/dp/B01IUPTKFM?tag=__AMAZON_TAG__) | $10-$15 | Moderate to aggressive chewers | Nearly indestructible natural rubber, stuffable |
 | [West Paw Zogoflex Hurley](https://www.amazon.com/dp/B0H8X1SX6M?tag=__AMAZON_TAG__) | $12-$16 | Fetch and gnawing | Floats, dishwasher safe, made in USA |
-| [Goughnuts Indestructible Chew Stick](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $18-$25 | Heavy power chewers | Guaranteed replacement if worn to red layer |
+| Goughnuts Indestructible Chew Stick | $18-$25 | Heavy power chewers | Guaranteed replacement if worn to red layer |
 | [Nylabone Dura Chew](https://www.amazon.com/dp/B01LVU0SND?tag=__AMAZON_TAG__) | $7-$12 | Heavy gnawers | Very cheap, long-lasting, flavors infused |
 | [Chuckit! Ultra Ball](https://www.amazon.com/dp/B08D127PPC?tag=__AMAZON_TAG__) | $8-$12 | Fetch fanatics | High bounce, floats, thicker than tennis balls |
-| [Tuffy's Mighty Dog Ring](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $15-$20 | Tug and shredders | Multiple layers of ballistic nylon |
+| Tuffy's Mighty Dog Ring | $15-$20 | Tug and shredders | Multiple layers of ballistic nylon |
 | [Benebone Wishbone](https://www.amazon.com/dp/B00CPDWT2M?tag=__AMAZON_TAG__) | $10-$14 | Aggressive gnawers | Real bacon flavor, durable nylon, easy to grip |
 
 ## KONG Classic

@@ -28,8 +28,8 @@ Before you click "add to cart," keep these points in mind. They matter more than
 | [Farberware Medium Cutting Board](https://www.amazon.com/dp/B005FU50ZU?tag=__AMAZON_TAG__) | Under $15 | Everyday prep | Dishwasher-safe, built-in grips |
 | [Oxo Good Grips Carving Board](https://www.amazon.com/dp/B08CF8FQYV?tag=__AMAZON_TAG__) | Under $25 | Meat and poultry | Deep juice groove, non-slip feet |
 | [Teakhaus Teak Board](https://www.amazon.com/dp/B0F85N8KJG?tag=__AMAZON_TAG__) | Under $40 | Heavy daily use | Durable, knife-friendly, large |
-| [GreenHive Bamboo Board](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | Under $20 | Value and looks | Reversible, built-in handle |
-| [KitchenAid Bamboo Board](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | Under $15 | Tight budgets | Low price, simple design |
+| GreenHive Bamboo Board | Under $20 | Value and looks | Reversible, built-in handle |
+| KitchenAid Bamboo Board | Under $15 | Tight budgets | Low price, simple design |
 | [John Boos End Grain Board](https://www.amazon.com/dp/B00063QBE0?tag=__AMAZON_TAG__) | Under $50 | Knife care | Premium surface, self-healing cuts |
 
 ## [Farberware Medium Cutting Board](https://www.amazon.com/dp/B005FU50ZU?tag=__AMAZON_TAG__)
@@ -62,7 +62,7 @@ The downsides are the maintenance. You cannot put wood in the dishwasher. You ha
 
 Who should buy it: Anyone who wants a durable, attractive board for daily chopping and is willing to spend two extra minutes on hand-washing. It is the best cheap wood board that actually lasts.
 
-## [GreenHive Bamboo Board](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+## GreenHive Bamboo Board
 
 Price: Around $18
 
@@ -72,7 +72,7 @@ The downside is that bamboo is hard. It will leave slightly more wear on your kn
 
 Who should buy it: Budget shoppers who want the look of wood without the price tag of teak. It is a great all-purpose board for vegetable prep.
 
-## [KitchenAid Bamboo Board](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+## KitchenAid Bamboo Board
 
 Price: Around $10
 

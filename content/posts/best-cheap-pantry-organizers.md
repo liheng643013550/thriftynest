@@ -71,7 +71,7 @@ Downsides: there are no replacement parts because there are no real parts to rep
 
 Buy it if: you want maximum bins per dollar for shelf organization, not long-term food storage.
 
-[SimpleHouseware Stackable Storage Bins](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+SimpleHouseware Stackable Storage Bins
 
 ### mDesign Plastic Pantry Organizer Bins
 
@@ -95,7 +95,7 @@ Downsides: it's not adjustable in most versions, so it fits a range of cans but 
 
 Buy it if: you have deep shelves and lose items at the back.
 
-[YouCopia ShelfSteps Cabinet Riser](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+YouCopia ShelfSteps Cabinet Riser
 
 ### DYMO LabelManager 160 Label Maker
 

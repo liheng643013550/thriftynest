@@ -27,11 +27,11 @@ Worth noting, Before you buy, keep these five things in mind. They matter more t
 |---------|-------|----------|----------|
 | [VIVO Black Desk Converter](https://www.amazon.com/dp/B07K8WZ19K?tag=__AMAZON_TAG__) | $80 | Dual monitor setups | 35 lb capacity, tool-free assembly |
 | [Mount-It! Adjustable Converter](https://www.amazon.com/dp/B01ETSJ6O4?tag=__AMAZON_TAG__) | $90 | Tall users | 19.5 inch max height, wide platform |
-| [HUANUO Dual Monitor Converter](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $70 | Small spaces | Narrow footprint, gas spring lift |
-| [FlexiSpot M2B](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $95 | Keyboard comfort | Deep 11.8 inch keyboard tray |
+| HUANUO Dual Monitor Converter | $70 | Small spaces | Narrow footprint, gas spring lift |
+| FlexiSpot M2B | $95 | Keyboard comfort | Deep 11.8 inch keyboard tray |
 | [Ergotron WorkFit-S](https://www.amazon.com/dp/B07519QKC7?tag=__AMAZON_TAG__) | $90 | Single monitor minimalists | Clamp mount, no tray clutter |
-| [MOUNTUP Single Monitor Converter](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $65 | Tight budgets and light laptops | Lowest price, simple spring lift |
-| [Loctek D7 Converter](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $85 | Extra desk space | Built-in USB ports, roomy base |
+| MOUNTUP Single Monitor Converter | $65 | Tight budgets and light laptops | Lowest price, simple spring lift |
+| Loctek D7 Converter | $85 | Extra desk space | Built-in USB ports, roomy base |
 
 ## [VIVO Black Desk Converter](https://www.amazon.com/dp/B07K8WZ19K?tag=__AMAZON_TAG__)
 
@@ -55,7 +55,7 @@ Assembly takes about 15 minutes and needs a Phillips screwdriver. The instructio
 
 Who should buy it: Tall users, or anyone with a higher-than-average desk who needs that extra lift range, honestly.
 
-## [HUANUO Dual Monitor Converter](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+## HUANUO Dual Monitor Converter
 
 Price: around $70
 
@@ -67,7 +67,7 @@ Downsides: The base is a bit narrow, so if you bump it hard from the side, it ca
 
 Who should buy it: Students, remote workers in tight spaces, or anyone who moves their converter between home and office.
 
-## [FlexiSpot M2B](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+## FlexiSpot M2B
 
 Price: around $95
 
@@ -91,7 +91,7 @@ The catch is weight capacity. It holds a maximum of 20 pounds, and it only works
 
 Who should buy it: People with limited desk space, or anyone who wants a clean, minimal setup with just a single monitor, believe it or not.
 
-## [MOUNTUP Single Monitor Converter](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+## MOUNTUP Single Monitor Converter
 
 Price: around $65
 
@@ -103,7 +103,7 @@ The downsides are clear: no dual-monitor support, limited weight capacity, and t
 
 Who should buy it: Budget shoppers who only need one monitor raised, or people who want a cheap trial run before committing to a more expensive setup.
 
-## [Loctek D7 Converter](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+## Loctek D7 Converter
 
 Price: around $85
 
@@ -117,7 +117,7 @@ Who should buy it: People who want extra USB ports, or anyone with a large desk 
 
 ## The bottom line
 
-For most people, the [VIVO Black Desk Converter](https://www.amazon.com/dp/B07K8WZ19K?tag=__AMAZON_TAG__) is the best overall pick—it’s affordable, sturdy, and handles the most common setups without fuss. If you’re tall or have wrist pain, spend the extra $15 on the [FlexiSpot M2B](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). And if your desk is tiny or you just want to try standing without a big investment, the [MOUNTUP Single Monitor Converter](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) gets you there for the price of a pizza night. Don’t overthink it; any of these will help you move more during the workday.
+For most people, the [VIVO Black Desk Converter](https://www.amazon.com/dp/B07K8WZ19K?tag=__AMAZON_TAG__) is the best overall pick—it’s affordable, sturdy, and handles the most common setups without fuss. If you’re tall or have wrist pain, spend the extra $15 on the FlexiSpot M2B. And if your desk is tiny or you just want to try standing without a big investment, the MOUNTUP Single Monitor Converter gets you there for the price of a pizza night. Don’t overthink it; any of these will help you move more during the workday.
 
 ## Frequently Asked Questions
 

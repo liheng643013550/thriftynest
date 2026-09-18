@@ -58,7 +58,7 @@ Installation requires drilling into the wall, which is a pain if you rent. They 
 
 Buy this if your entryway is basically a hallway. It gets the shoes off the floor without sacrificing walking space.
 
-[IKEA Trones Shoe Cabinet](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+IKEA Trones Shoe Cabinet
 
 ### Seville Classics 10-Tier Shoe Rack
 
@@ -70,7 +70,7 @@ It is not a pretty piece of furniture. It looks like what it is: a storage rack.
 
 Buy this if you are dealing with a serious shoe pile-up and you need maximum capacity for minimum dollars.
 
-[Seville Classics Shoe Rack](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Seville Classics Shoe Rack
 
 ### SONGMICS Entryway Bench with Storage
 
@@ -106,7 +106,7 @@ The pegs are not the deepest, so bulky winter coats can slip off if you are not 
 
 Buy this if you have a modern or minimalist home and you want to keep the floor completely clear.
 
-[Umbra Sticks Wall Rack](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Umbra Sticks Wall Rack
 
 ### SimpleHouseware Over-Door Hook
 
@@ -118,7 +118,7 @@ The over-the-door fit is not universal; it might not sit flush on a thick solid-
 
 Buy this if you rent and cannot drill holes, or if you need extra hooks in a closet that is already full.
 
-[SimpleHouseware Over-Door Hook](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+SimpleHouseware Over-Door Hook
 
 ## The bottom line
 

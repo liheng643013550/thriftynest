@@ -65,7 +65,7 @@ The quality is honestly better than the price suggests. The hammer is a standard
 
 **Who should buy it:** College students, first-time renters, or anyone who just needs a "just in case" set. If you do not consider yourself handy and just want to stop borrowing tools from the neighbor, this is your set.
 
-[Stanley 65-Piece Homeowners DIY Tool Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Stanley 65-Piece Homeowners DIY Tool Set
 
 ---
 
@@ -81,7 +81,7 @@ The build quality is impressive for the price. The sockets are made of CR-V stee
 
 **Who should buy it:** The person who wants to buy one set and never think about tools again. If you are setting up a new home and have no existing tools, this is the most efficient way to get fully equipped.
 
-[Crescent 170-Piece Mixed Tool Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Crescent 170-Piece Mixed Tool Set
 
 ---
 
@@ -97,7 +97,7 @@ The standout feature here is the tool bag. It has multiple pockets and a sturdy 
 
 **Who should buy it:** The budget-conscious DIYer who wants maximum versatility for a low price. If you are on a tight budget but want a set that covers almost every basic need, this is the best value.
 
-[WORKPRO 204-Piece General Tool Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+WORKPRO 204-Piece General Tool Set
 
 ---
 
@@ -113,7 +113,7 @@ The biggest advantage of Kobalt is the warranty. You can walk into any Lowe's st
 
 **Who should buy it:** Anyone who lives near a Lowe's and values the ability to exchange tools in person. If you are hard on your tools and break things often, this warranty is worth the price of admission.
 
-[Kobalt 108-Piece Mechanics Tool Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Kobalt 108-Piece Mechanics Tool Set
 
 ---
 
@@ -145,7 +145,7 @@ The tools are made of decent steel, and the sockets fit properly on bolts. The s
 
 **Who should buy it:** The person who needs a spare set for the car, or the renter who just wants something to tighten a loose screw and does not care about long-term durability. It is a great "backup" set.
 
-[Hyper Tough 109-Piece Home Tool Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Hyper Tough 109-Piece Home Tool Set
 
 ---
 

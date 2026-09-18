@@ -41,7 +41,7 @@ The power strip is the epicenter of the mess. It sits on the floor, collects dus
 
 You just plug everything into the strip, stuff the strip and the extra wire length into the box, and close the lid. Most boxes have slots on the sides so the cables can exit neatly in different directions. This instantly hides the “spaghetti” and also protects the power strip from accidental kicks and spills.
 
-A common mistake is buying a box that is too small. Measure your power strip first. You need a box that is at least two inches longer and wider than the strip itself, plus a bit of extra room to stuff the cables in. The [Cable Management Box by SimpleCord](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a solid choice because it has a weighted lid that won’t slide off easily.
+A common mistake is buying a box that is too small. Measure your power strip first. You need a box that is at least two inches longer and wider than the strip itself, plus a bit of extra room to stuff the cables in. The Cable Management Box by SimpleCord is a solid choice because it has a weighted lid that won’t slide off easily.
 
 ## Bundle Wires With Reusable Velcro Ties
 

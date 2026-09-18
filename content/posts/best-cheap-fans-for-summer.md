@@ -27,11 +27,11 @@ Before you add a fan to your cart, keep these five things in mind:
 
 | Product | Price | Best For | Key Pros |
 | --- | --- | --- | --- |
-| [Lasko Wind Curve](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $50-$60 | Living rooms and bedrooms | Slim, quiet, remote control, good airflow for a tower |
-| [Amazon Basics Pedestal](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $30-$35 | Large rooms and whole-room cooling | Tall, powerful 18-inch blades, 3 speeds, super cheap |
+| Lasko Wind Curve | $50-$60 | Living rooms and bedrooms | Slim, quiet, remote control, good airflow for a tower |
+| Amazon Basics Pedestal | $30-$35 | Large rooms and whole-room cooling | Tall, powerful 18-inch blades, 3 speeds, super cheap |
 | [Honeywell TurboForce](https://www.amazon.com/dp/B07XG1HSKP?tag=__AMAZON_TAG__) | $25-$30 | Desks, nightstands, small rooms | Compact, powerful jet-stream airflow, very affordable |
 | [Genesis Clip Fan](https://www.amazon.com/dp/B08DHJ1WLB?tag=__AMAZON_TAG__) | $15-$20 | Strollers, desks, gyms | Flexible clip, 360-degree rotation, USB power option |
-| [Vornado 630](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $55-$65 | Whole-room air circulation | Vortex airflow moves air across the entire room, quiet |
+| Vornado 630 | $55-$65 | Whole-room air circulation | Vortex airflow moves air across the entire room, quiet |
 | [Comfort Zone Oscillating](https://www.amazon.com/dp/B0GJTKN26Z?tag=__AMAZON_TAG__) | $25-$35 | Bedrooms and offices | 16-inch metal blades, sturdy base, whisper-quiet on low |
 
 ## Lasko Wind Curve Tower Fan
@@ -108,8 +108,8 @@ Buy it if you want an affordable, no-nonsense fan that's built to last. It's the
 
 ## The Bottom Line
 
-The best cheap fan for summer depends on your space, but the clear winner for most people is the [Lasko Wind Curve](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). It balances space-saving design, quiet operation, and a remote control at a price that won't make you cringe.
+The best cheap fan for summer depends on your space, but the clear winner for most people is the Lasko Wind Curve. It balances space-saving design, quiet operation, and a remote control at a price that won't make you cringe.
 
-If you need serious airflow for a large room and don't mind a little noise, grab the [Amazon Basics Pedestal](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). And if you just need a personal breeze at your desk, the [Honeywell TurboForce](https://www.amazon.com/dp/B07XG1HSKP?tag=__AMAZON_TAG__) is the best value in this entire list.
+If you need serious airflow for a large room and don't mind a little noise, grab the Amazon Basics Pedestal. And if you just need a personal breeze at your desk, the [Honeywell TurboForce](https://www.amazon.com/dp/B07XG1HSKP?tag=__AMAZON_TAG__) is the best value in this entire list.
 
 Whichever you pick, you'll stay cool without wrecking your electric bill. Now go enjoy the summer.

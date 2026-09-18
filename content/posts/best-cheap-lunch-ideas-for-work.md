@@ -31,7 +31,7 @@ A cheap version I make weekly uses a can of black beans (drained and rinsed), a 
 
 This is my go-to when I don’t have time to cook anything. It’s not a recipe; it’s an assembly job. The goal is to hit four food groups with zero cooking.
 
-I use a bento box with dividers, like the [Bentgo Fresh](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__), because it keeps everything separate. In one section, I put sliced salami or turkey from the deli counter. In another, I add cubed cheddar or pepper jack. The third section gets crackers, and the fourth gets fruits and veggies.
+I use a bento box with dividers, like the Bentgo Fresh, because it keeps everything separate. In one section, I put sliced salami or turkey from the deli counter. In another, I add cubed cheddar or pepper jack. The third section gets crackers, and the fourth gets fruits and veggies.
 
 The secret to making this cheap is buying block cheese instead of pre-sliced. A block of cheddar costs $2.50 and gives me about five servings, whereas pre-sliced cheese costs double for the same amount. I also buy baby carrots and grapes in bulk. A full week of these boards costs me about $14, or $2.80 per day.
 

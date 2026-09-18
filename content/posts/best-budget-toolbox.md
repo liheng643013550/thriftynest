@@ -24,13 +24,13 @@ A good toolbox does two jobs: it keeps your tools from rolling around in a junk 
 
 | Product | Price | Best For | Key Pros |
 |---|---|---|---|
-| [Stanley 19-Inch Toolbox](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | About $20 | All-around home use | Removable tray, metal latches, proven design |
-| [DEWALT TSTAK Toolbox](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | About $30 | Stacking and organizing | Stacks with other TSTAK boxes, tough lid |
-| [Craftsman 20-Inch Metal Toolbox](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | About $35 | Heavy hand tools | Steel body, rust-resistant finish, roomy |
-| [Husky 22-Inch Tool Bag](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | About $25 | Carrying tools to jobs | Many pockets, wide mouth, shoulder strap |
-| [Stanley FatMax Tool Bag](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | About $40 | Big loads and odd shapes | Huge capacity, reinforced base, strong zipper |
-| [Akro-Mils 12-Inch Toolbox](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | About $15 | Small kits and kids' tools | Cheap, light, good for a starter set |
-| [Milwaukee 10-Inch Compact Toolbox](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | About $25 | Tight spaces and small jobs | Compact, sturdy latch, fits under a sink |
+| Stanley 19-Inch Toolbox | About $20 | All-around home use | Removable tray, metal latches, proven design |
+| DEWALT TSTAK Toolbox | About $30 | Stacking and organizing | Stacks with other TSTAK boxes, tough lid |
+| Craftsman 20-Inch Metal Toolbox | About $35 | Heavy hand tools | Steel body, rust-resistant finish, roomy |
+| Husky 22-Inch Tool Bag | About $25 | Carrying tools to jobs | Many pockets, wide mouth, shoulder strap |
+| Stanley FatMax Tool Bag | About $40 | Big loads and odd shapes | Huge capacity, reinforced base, strong zipper |
+| Akro-Mils 12-Inch Toolbox | About $15 | Small kits and kids' tools | Cheap, light, good for a starter set |
+| Milwaukee 10-Inch Compact Toolbox | About $25 | Tight spaces and small jobs | Compact, sturdy latch, fits under a sink |
 
 ## Stanley 19-Inch Toolbox
 

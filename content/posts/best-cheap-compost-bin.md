@@ -52,7 +52,7 @@ At 2.4 gallons, it’s a bit larger than the average countertop bin, which means
 
 The downsides are that ceramic is breakable, so you don’t want to drop it on a tile floor. It’s also not dishwasher safe, so you'll be washing it by hand. Who should buy it? Someone who cares about aesthetics and wants a durable, odor-proof bin that looks like a nice piece of kitchen decor.
 
-[Exaco 2.4 Gallon](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Exaco 2.4 Gallon
 
 ## Epica 1.3 Gallon Stainless Steel Compost Bin
 
@@ -62,7 +62,7 @@ It’s small enough to fit under a sink or on a crowded countertop. The 1.3-gall
 
 The downside is that steel dents if you bang it around, and you cannot put it in the dishwasher. Also, the handle is a bit small for gloved hands in the winter. Who should buy it? City dwellers with limited counter space who want a reliable, non-porous bin that won't hold onto last week's garlic smell.
 
-[Epica 1.3 Gallon](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Epica 1.3 Gallon
 
 ## Algreen 110 Gallon Compost Bin
 
@@ -72,7 +72,7 @@ The top opens up wide, making it easy to turn the pile with a pitchfork. It’s 
 
 The downsides are obvious: it’s huge, and it’s not pretty. You will see it in your yard. Also, because it’s open-bottomed, you need to make sure the ground is level or you’ll have gaps where rodents can get in. Who should buy it? Homeowners with a big garden and lots of yard waste who want maximum capacity for the lowest price per gallon.
 
-[Algreen 110 Gallon](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Algreen 110 Gallon
 
 ## OXO Good Grips 1.75 Gallon Compost Bin
 
@@ -92,7 +92,7 @@ Assembly is simple—it snaps together in about five minutes without any tools. 
 
 The downsides are that it’s a bit small for a big family, and the door can be tough to open if the compost is packed tightly against it. You’ll also want to water the pile occasionally, as the open top lets it dry out. Who should buy it? Casual gardeners who want a simple, affordable bin that doesn't require a lot of physical effort to turn.
 
-[Miracle-Gro 27 Gallon](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Miracle-Gro 27 Gallon
 
 ## Utopia Home 1.3 Gallon Compost Bin
 
@@ -102,7 +102,7 @@ It’s lightweight and easy to clean, and it’s dishwasher safe, which is a hug
 
 The downsides are that the plastic is a bit flimsy, and the filter doesn't do as good a job as the pricier models. If you keep citrus or fish scraps in there for more than a few days, you’ll definitely smell it. Who should buy it? Students, renters, or anyone who wants to try composting without spending more than the cost of a pizza.
 
-[Utopia Home 1.3 Gallon](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Utopia Home 1.3 Gallon
 
 ## The Bottom Line
 

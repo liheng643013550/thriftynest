@@ -33,7 +33,7 @@ The real downsides: the nonstick coating on the trays scratches if you use metal
 
 Who should buy it: a student who eats eggs regularly and has counter space the size of a notebook. If they don't eat eggs, skip it.
 
-[Dash Rapid Egg Cooker](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Dash Rapid Egg Cooker
 
 ## BLACK+DECKER 0.7 Cu. Ft. Compact Microwave
 
@@ -45,7 +45,7 @@ Downsides are real: 700 watts means frozen meals take noticeably longer than the
 
 Who should buy it: nearly every dorm student, unless the room already includes a microwave.
 
-[BLACK+DECKER 0.7 Cu. Ft. Compact Microwave](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+BLACK+DECKER 0.7 Cu. Ft. Compact Microwave
 
 ## Hamilton Beach Electric Kettle (1 Liter)
 
@@ -69,7 +69,7 @@ Downsides: it's the most expensive item here, it takes up real space, and pressu
 
 Who should buy it: a student who genuinely wants to cook, not just reheat, and has confirmed it's allowed.
 
-[Instant Pot Duo 3 Qt](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Instant Pot Duo 3 Qt
 
 ## OXO Good Grips 3-Piece Mixing Bowl Set
 
@@ -81,7 +81,7 @@ What fails on cheap bowls is the plastic itself — cracking when frozen food go
 
 Who should buy it: everyone. This is the lowest-risk purchase on the list.
 
-[OXO Good Grips 3-Piece Mixing Bowl Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+OXO Good Grips 3-Piece Mixing Bowl Set
 
 ## Lodge 10.25 Inch Cast Iron Skillet
 
@@ -93,7 +93,7 @@ The honest downsides: it weighs about 5 pounds, it needs seasoning and hand-wash
 
 Who should buy it: students in dorm suites or apartments with a real cooktop, and anyone who wants a pan that will still be around after graduation.
 
-[Lodge 10.25 Inch Cast Iron Skillet](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Lodge 10.25 Inch Cast Iron Skillet
 
 ## Contigo West Loop Travel Mug, 16 oz
 
@@ -105,7 +105,7 @@ What fails first: the lid. The seal and the locking mechanism are the parts revi
 
 Who should buy it: commuters and anyone who carries coffee across campus.
 
-[Contigo West Loop Travel Mug](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Contigo West Loop Travel Mug
 
 ## Comparison table
 

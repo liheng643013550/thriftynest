@@ -48,7 +48,7 @@ The downside is that they are not reusable. Once you peel them off, the adhesive
 
 Who should buy this: Anyone with a desk, a TV stand, or a bedside table who needs a permanent, clean setup. If you never plan to move your cables, these are the best value for the price.
 
-[Buy Joto Cable Clips](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy Joto Cable Clips
 
 ## Velcro Brand Cable Ties
 
@@ -62,7 +62,7 @@ The downside is that they do not hide anything. They just bundle. A bunch of Vel
 
 Who should buy this: Anyone who travels, anyone with a junk drawer, or anyone who just wants to stop tangles without a permanent solution. This is the best starter pack for cable chaos.
 
-[Buy Velcro Brand Cable Ties](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy Velcro Brand Cable Ties
 
 ## Quirky Gear PowerClip
 
@@ -76,7 +76,7 @@ The downside is that it only works on edges. You cannot use it on a flat wall or
 
 Who should buy this: Anyone with a desk that has a lip, a kitchen island, or a workbench. If you are tired of your power strip sliding around, this clip solves that specific problem cheaply.
 
-[Buy Quirky Gear PowerClip](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy Quirky Gear PowerClip
 
 ## Anker Magnetic Cable Holder
 
@@ -90,7 +90,7 @@ The downside is that it needs metal to stick to. If your desk is wood, you will 
 
 Who should buy this: Anyone with a metal desk or a fridge in the kitchen. It is also great for a home office where you plug and unplug things constantly and want immediate access.
 
-[Buy Anker Magnetic Cable Holder](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy Anker Magnetic Cable Holder
 
 ## BlueLounge CableBox
 
@@ -104,7 +104,7 @@ The downside is size. It is not huge, so it will not hold a giant UPS battery ba
 
 Who should buy this: Anyone who is tired of looking at a tangle of wires under their desk or behind their TV. This is the best option if you want a finished look without hiring an electrician.
 
-[Buy BlueLounge CableBox](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy BlueLounge CableBox
 
 ## KableCinch Reusable Ties
 
@@ -118,7 +118,7 @@ The downside is that they are a bit more fiddly than Velcro. You need to line up
 
 Who should buy this: Anyone with a permanent setup where cables are bundled together and rarely moved. If you want a one-time fix for the rats nest behind your desk, these are the toughest option here.
 
-[Buy KableCinch Reusable Ties](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy KableCinch Reusable Ties
 
 ## Command Cord Clips
 
@@ -132,7 +132,7 @@ The downside is that the adhesive is not as aggressive as the Joto clips. They h
 
 Who should buy this: Renters, students in dorms, or anyone who changes their setup often. If you are worried about damaging your walls, this is the only choice you should consider.
 
-[Buy Command Cord Clips](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy Command Cord Clips
 
 ## The bottom line
 

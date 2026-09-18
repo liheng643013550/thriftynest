@@ -37,7 +37,7 @@ The weekly time cost is low. Cedar needs no sealing, and cleaning between season
 
 **Who should buy it:** Couples with a fixed patio spot who want a bed that lasts several seasons and looks tidy.
 
-[Greenes Fence Cedar Raised Garden Bed 4 ft x 4 ft](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Greenes Fence Cedar Raised Garden Bed 4 ft x 4 ft
 
 ### VegTrug Herb Garden Raised Bed
 
@@ -49,7 +49,7 @@ Owner reviews often mention that the liner makes cleanup simple: pull the liner,
 
 **Who should buy it:** Anyone who wants a waist-height bed and minimal weekly fuss.
 
-[VegTrug Herb Garden Raised Bed](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+VegTrug Herb Garden Raised Bed
 
 ### Best Choice Products 48 in. Raised Garden Bed Kit
 
@@ -61,7 +61,7 @@ Be honest about the trade-offs. Fir is softer than cedar and holds up less well 
 
 **Who should buy it:** Beginners who want the lowest upfront cost and are fine replacing the frame in a few years.
 
-[Best Choice Products 48 in. Raised Garden Bed Kit](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Best Choice Products 48 in. Raised Garden Bed Kit
 
 ### Amazon Basics Raised Garden Bed, 4 ft x 4 ft
 
@@ -73,7 +73,7 @@ The downsides are typical of budget wood kits: less rot resistance than cedar, a
 
 **Who should buy it:** Couples who want a basic square bed and do not need extras.
 
-[Amazon Basics Raised Garden Bed, 4 ft x 4 ft](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Amazon Basics Raised Garden Bed, 4 ft x 4 ft
 
 ### Vego Garden 17 in. Tall 8-in-1 Metal Raised Bed
 
@@ -85,7 +85,7 @@ Owner reviews often praise how little maintenance it needs, though some mention 
 
 **Who should buy it:** Couples who can spend more upfront to avoid replacing a wooden bed in three years.
 
-[Vego Garden 17 in. Tall 8-in-1 Metal Raised Bed](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Vego Garden 17 in. Tall 8-in-1 Metal Raised Bed
 
 ### Juwel Aerarium Raised Bed
 
@@ -97,7 +97,7 @@ The honest downsides are looks and stability. It is lighter than wood or metal, 
 
 **Who should buy it:** Renters who want something light, movable, and easy to rinse.
 
-[Juwel Aerarium Raised Bed](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Juwel Aerarium Raised Bed
 
 ### FOYUEE Galvanized Raised Garden Bed
 
@@ -109,7 +109,7 @@ The trade-offs are familiar for metal: the edges can be sharp during assembly, a
 
 **Who should buy it:** Beginners who want metal durability without the Vego price.
 
-[FOYUEE Galvanized Raised Garden Bed](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+FOYUEE Galvanized Raised Garden Bed
 
 ## Comparison table
 

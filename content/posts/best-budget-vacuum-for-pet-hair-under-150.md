@@ -29,9 +29,9 @@ Worth noting, Before you click "buy," keep these criteria in mind. Not every vac
 | [Shark Navigator Lift-Away](https://www.amazon.com/dp/B08TT4YHG1?tag=__AMAZON_TAG__) | ~$149 | Deep cleaning carpets and above-floor tasks | Lift-away pod, HEPA filter, powerful suction |
 | [Hoover WindTunnel 3](https://www.amazon.com/dp/B0C7RKH5X9?tag=__AMAZON_TAG__) | ~$129 | High-traffic areas with heavy pet hair | WindTunnel technology, large capacity, durable |
 | [Bissell Pet Hair Eraser](https://www.amazon.com/dp/B0DP5JNLQR?tag=__AMAZON_TAG__) | ~$129 | Stubborn hair on carpets and upholstery | Specialized pet tools, tangle-free brush roll |
-| [Dirt Devil Endura Max](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$79 | Lightweight quick cleanups | Great price, lightweight, surprisingly strong |
-| [Kenmore Intuition Bagged](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$139 | Allergy sufferers and long hair | True HEPA bagged filtration, no messy emptying |
-| [Eureka Airspeed One](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$89 | Cost-conscious buyers on mixed flooring | Budget-friendly, powerful lift, easy to maneuver |
+| Dirt Devil Endura Max | ~$79 | Lightweight quick cleanups | Great price, lightweight, surprisingly strong |
+| Kenmore Intuition Bagged | ~$139 | Allergy sufferers and long hair | True HEPA bagged filtration, no messy emptying |
+| Eureka Airspeed One | ~$89 | Cost-conscious buyers on mixed flooring | Budget-friendly, powerful lift, easy to maneuver |
 
 ## Bissell CleanView Swivel Pet
 

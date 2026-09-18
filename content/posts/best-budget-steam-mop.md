@@ -42,7 +42,7 @@ To be fair, Downsides: no scrub brush for stuck-on food, and the cord is on the 
 
 Who should buy it: renters and small-home owners with tile or vinyl who want a no-fuss mop under $75.
 
-[Bissell Steam Mop Select](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Bissell Steam Mop Select
 
 ## Bissell PowerFresh 1940
 
@@ -54,7 +54,7 @@ Downsides: it's heavier than the Select, and the scent discs are an ongoing cost
 
 Who should buy it: anyone with kids, pets, or a lot of hard flooring who wants scrubbing power without a mop and bucket, believe it or not.
 
-[Bissell PowerFresh 1940](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Bissell PowerFresh 1940
 
 ## Shark Steam Pocket S1000
 
@@ -66,7 +66,7 @@ Downsides: the pocket pads cost more than flat microfiber pads, and the tank is 
 
 Who should buy it: people who mop often and want quick touch-ups without dragging out equipment.
 
-[Shark Steam Pocket S1000](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Shark Steam Pocket S1000
 
 ## PurSteam 10-in-1
 
@@ -78,7 +78,7 @@ Downsides: build quality is noticeably lighter than Bissell or Shark, and the ta
 
 Who should buy it: bargain hunters and anyone cleaning a small space who doesn't want to spend $100 on a mop.
 
-[PurSteam 10-in-1](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+PurSteam 10-in-1
 
 ## Shark Lift-Away Pro
 
@@ -90,7 +90,7 @@ Downsides: it's the priciest option here, and it's heavier. If you only have one
 
 Who should buy it: homeowners who want a single steam tool for floors and above-floor cleaning and don't mind spending a bit more, in my experience.
 
-[Shark Lift-Away Pro](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Shark Lift-Away Pro
 
 ## Bissell PowerFresh Slim
 
@@ -102,7 +102,7 @@ Downsides: the handheld mode is a little awkward for long jobs, and the tank is 
 
 Who should buy it: anyone who wants floor mopping plus a handheld steamer for bathrooms and counters without buying two machines.
 
-[Bissell PowerFresh Slim](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Bissell PowerFresh Slim
 
 ## OApier Steam Mop
 
@@ -114,7 +114,7 @@ Downsides: the tank is small, the plastic feels thin, and steam pressure drops o
 
 Who should buy it: apartment dwellers and anyone who wants the lowest upfront cost.
 
-[OApier Steam Mop](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+OApier Steam Mop
 
 ## The bottom line
 

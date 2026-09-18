@@ -53,7 +53,7 @@ The frame is all steel, so it feels solid. The lock is a simple sliding latch th
 
 **Who should buy it:** This is for you if you need to block a standard bedroom door or a hallway inside a single-story home. It is the best value for the money and a great first gate.
 
-[Regalo Easy Step Walk-Thru](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Regalo Easy Step Walk-Thru
 
 ## Carlson Extra Wide Walk-Thru Pet Gate
 
@@ -67,7 +67,7 @@ The standout feature is the one-hand release latch. You can open the door with o
 
 **Who should buy it:** This is for you if your doorway is not a standard size or if you need to block a wide opening between a kitchen and a living room.
 
-[Carlson Extra Wide Walk-Thru](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Carlson Extra Wide Walk-Thru
 
 ## Evenflo Position & Lock Gate
 
@@ -81,7 +81,7 @@ The lock is a two-step mechanism that is secure and quiet. It fits openings from
 
 **Who should buy it:** This is for you if you have kids or forgetful adults in the house who leave doors open. The auto-close feature is a genuine convenience.
 
-[Evenflo Position & Lock](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Evenflo Position & Lock
 
 ## Summer Infant Multi-Use Gate
 
@@ -123,7 +123,7 @@ The frame is heavy-duty steel with a white powder-coated finish. The door swings
 
 **Who should buy it:** This is for you if you have a large dog that could clear a standard 30-inch gate. This is the gate to buy if you want the safest option for the stairs and you are willing to spend a little more for peace of mind.
 
-[Cardinal Gates Stairway Specialist](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Cardinal Gates Stairway Specialist
 
 ## North States Supergate
 
