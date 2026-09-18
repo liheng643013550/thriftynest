@@ -507,11 +507,17 @@ def quality_gate(body, topic):
     cat = topic.get("cat", "")
     pool_n = len(pool_for(cat))
     if not named:
-        if pool_n >= 12:
+        # 只有"导购类"主题（对比/vs/清单）才强求链接。
+        # 纯怎么做/排障类文章本来就未必需要商品，硬要会把好文章拒掉。
+        # （而且提示词里明确允许"没有合适商品就不放链接"—— 闸门不能和提示词打架，
+        #   之前就是这么自相矛盾，实测拒稿率高达 56%，日更从 3 篇掉到 1 篇。）
+        buying_guide = intent in ("comparison", "vs", "list")
+        if buying_guide and pool_n >= 12:
             problems.append("0 product links, but the verified pool for '%s' has "
-                            "%d items - it should have used some" % (cat, pool_n))
+                            "%d items - a %s article should have used some"
+                            % (cat, pool_n, intent))
         else:
-            print("[generate] note: no product links (pool for '%s' has only %d)"
+            print("[generate] note: no product links (pool for '%s' has %d)"
                   % (cat, pool_n))
     # FAQ 段不许自作主张引入新数字 —— 旧生成器就是这么在 FAQ 里编出
     # "2,400W"、"1,500 sq ft" 这种看似专业的统计的。正文可以有数字，
@@ -529,22 +535,45 @@ def quality_gate(body, topic):
 
 
 def write_article(topic, config, year):
-    prompt = build_prompt(topic, year)
     llm_cfg = config.get("llm", {})
-    body = complete(
-        prompt,
-        provider=llm_cfg.get("provider", "deepseek"),
-        model=llm_cfg.get("model"),
-        temperature=llm_cfg.get("temperature", 0.8),
-        max_tokens=llm_cfg.get("max_tokens", 4096),
-        system=WRITER_SYSTEM,
-    )
-    body = normalize_body(body)
+    base_prompt = build_prompt(topic, year)
+
+    # 拒稿就带着【具体理由】重试一次。
+    # 为什么必须重试：闸门拒稿 = 这次 API 调用白花 + 当天少一篇文章。
+    # 实测（9 篇连跑）首次拒稿率 56% —— 日更会从 3 篇掉到 1 篇。
+    # 而绝大多数拒稿都是"差一点点"（漏了 FAQ、FAQ 里多写了个数字、
+    # 忘了用商品池里的东西），把理由明确回灌给模型，它基本一次就能改对。
+    # 注意：仍然保留闸门 —— 重试两次都不合格就放弃，绝不降标准放行。
+    problems = None
+    for attempt in (1, 2):
+        prompt = base_prompt
+        if problems:
+            prompt += (
+                "\n\nYOUR PREVIOUS ATTEMPT WAS REJECTED. Fix ALL of these problems:\n"
+                + "\n".join("  - %s" % p for p in problems)
+                + "\n\nThe article must still follow every rule above. "
+                  "Do not drop the FAQ section, do not invent numbers in the FAQ, "
+                  "and if this is a buying guide, use products from the "
+                  "APPROVED PRODUCT LIST with their exact ASINs.\n"
+            )
+        body = normalize_body(complete(
+            prompt,
+            provider=llm_cfg.get("provider", "deepseek"),
+            model=llm_cfg.get("model"),
+            temperature=llm_cfg.get("temperature", 0.8) if attempt == 1 else 0.6,
+            max_tokens=llm_cfg.get("max_tokens", 4096),
+            system=WRITER_SYSTEM,
+        ))
+        words, problems = quality_gate(body, topic)
+        if not problems:
+            break
+        if attempt == 1:
+            print("[generate]   retry: %s" % "; ".join(problems)[:120])
+    if problems:
+        raise LLMError("quality gate rejected article after retry: %s"
+                       % "; ".join(problems))
 
     slug = slugify(topic["kw"])
-    words, problems = quality_gate(body, topic)
-    if problems:
-        raise LLMError("quality gate rejected article: %s" % "; ".join(problems))
 
     date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     plain = re.sub(r"[#*`>\[\]()!|]", " ", body)
