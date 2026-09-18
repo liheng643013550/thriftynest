@@ -112,3 +112,17 @@ Simplehuman Under-Sink Organizer
 You do not need to buy the most expensive organizer to fix a messy cabinet. Start by measuring the pipe clearance. If your plumbing is centered, go with the YouCopia StowAway or the iPrimio. If you have a simple, straight pipe against the back wall, the SimpleHouseware or DecoBreeze will save you money. For the best combination of durability and access, the mDesign plastic shelf wins on ease of cleaning, while the Simplehuman wins on long-term quality.
 
 The best under-sink organizer is the one that lets you grab the dish soap without knocking over the trash bags. Any of these will do that. Pick the one that fits your budget and your pipe layout, and you will never dread opening that cabinet door again.
+
+## Frequently Asked Questions
+
+### Which under-sink organizer works best when the drainpipe runs down the middle of the cabinet?
+
+The YouCopia StowAway and the iPrimio are the two options built for centered plumbing. YouCopia includes a removable center section that creates a U-shaped opening for the P-trap, while the iPrimio has a C-shaped cutout in the back that hugs the pipe and a swivel base for reaching items from any angle. The DecoBreeze, by contrast, has no pipe cutout and works best when the plumbing sits close to the back wall.
+
+### How do I figure out which size organizer will fit my cabinet?
+
+Measure the pipe clearance first, since the configuration of the plumbing matters more than the overall cabinet width. Most cabinets are 12 to 15 inches deep, but the pipe can occupy the middle 6 to 8 inches. From there, compare those numbers against the listed dimensions, such as the mDesign shelf at roughly 15 inches wide and 17 inches deep, the DecoBreeze at 15 inches wide and 19 inches deep, and the Simplehuman unit, which fits cabinets up to 16 inches wide.
+
+### Are the plastic organizers strong enough for heavy jugs of cleaner?
+
+It depends on the unit. The mDesign shelf is all plastic, so it resists rust and catches drips, but it does not handle very heavy items like gallon jugs of bleach well. For heavier loads, the steel options are the better match, such as the iPrimio frame rated to hold up to 30 pounds or the Simplehuman with its thick coated steel construction.

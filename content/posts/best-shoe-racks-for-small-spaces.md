@@ -95,3 +95,17 @@ Buy this if you have a large shoe collection and limited floor space. It is the 
 ## The bottom line
 
 For most people, the [Simple Houseware 4-Tier Shoe Rack](https://www.amazon.com/dp/B088QZPVPW?tag=__AMAZON_TAG__) is the best all-around choice. It is sturdy, affordable, and easy to clean, and it fits in most closets. If you need something that looks nicer for a visible spot, get the Songmics Bamboo 3-Tier Shoe Rack. And if you have zero floor space, the [Whitmor Over-the-Door Shoe Rack](https://www.amazon.com/dp/B01M19ZHJT?tag=__AMAZON_TAG__) is a no-brainer. Measure your space, count your shoes, and pick the one that fits your life. Your floor will thank you.
+
+## Frequently Asked Questions
+
+### How many pairs of shoes does each rack hold?
+
+Capacity varies by model. The Simple Houseware 4-Tier holds roughly three to four pairs per tier, the Songmics Bamboo 3-Tier holds about six to nine pairs, the Whitmor Over-the-Door holds up to 12 pairs, the Seville Classics 3-Tier holds about nine pairs, the Honey-Can-Do 2-Tier holds about four to six pairs, and the DecoBREEZE 5-Tier holds up to 15 pairs.
+
+### Which shoe rack is the cheapest?
+
+The Whitmor Over-the-Door Shoe Rack is the lowest-priced option at around $15. The Honey-Can-Do 2-Tier is next at around $18, while the Simple Houseware 4-Tier and DecoBREEZE 5-Tier both come in around $25.
+
+### Which shoe racks need a screwdriver to assemble?
+
+The Simple Houseware 4-Tier, Songmics Bamboo 3-Tier, Honey-Can-Do 2-Tier, and DecoBREEZE 5-Tier all require a screwdriver. The Seville Classics 3-Tier and the Whitmor Over-the-Door rack are the tool-free options, with the Whitmor needing no assembly at all.

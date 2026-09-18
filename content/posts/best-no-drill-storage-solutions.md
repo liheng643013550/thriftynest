@@ -106,3 +106,17 @@ The downside is the weight limit. This is not for heavy bags or multiple coats. 
 ## The bottom line
 
 No-drill storage is not a compromise anymore. For most renters, a mix of over-door racks, tension rods, and high-quality adhesive hooks will cover 90 percent of your storage needs. Start with the Simplehuman Over-the-Door Hook for heavy coats, add a Honey-Can-Do Over-Door Rack for pantry overflow, and use Command hooks for everyday items. If you need a shelf, the mDesign Freestanding Shelf is the safest bet for any wall type. Avoid the cheap plastic hooks that claim to hold 20 pounds—they fail. Stick with steel, check your wall texture, and always read the removal instructions before you install. Your security deposit will thank you.
+
+## Frequently Asked Questions
+
+### Which option works best on textured or wallpaper-covered walls?
+
+Adhesive products are the wrong choice for orange peel, popcorn texture, or wallpaper, since most of them need a smooth surface to bond. Low-tack versions are the exception if you want to try adhesive anyway, but freestanding units avoid the problem entirely because they never touch the wall. The mDesign Freestanding Shelf is the safest pick when your walls are not smooth.
+
+### How much weight can these no-drill products actually hold?
+
+Capacities vary widely, so match the product to the job. The Simplehuman Over-the-Door Hook is rated for 30 pounds, the Rubbermaid Configurations FastTrack Rail holds up to 75 pounds across its 24-inch length, and the Rēflex Series Tension Rod supports 25 pounds when mounted horizontally. At the lighter end, Command Large Wire Hooks take 7.5 pounds each, the Umbra Cubist Wall Hook holds 5 pounds, and each Honey-Can-Do shelf handles about 5 pounds.
+
+### What should I check before ordering a tension rod or over-door rack?
+
+Measure your space first, because these products only fit within specific ranges. The Rēflex Series Tension Rod adjusts from 28 to 59 inches, the Simplehuman hook fits doors up to 1.75 inches thick, and the Honey-Can-Do rack is about 20 inches wide. Also confirm the ends of a tension rod rest against a sturdy frame, since a flimsy wall that flexes will not hold one in place.

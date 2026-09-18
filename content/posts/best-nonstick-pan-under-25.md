@@ -124,3 +124,17 @@ If you want the best all-around pan that will last a good while without breaking
 If you're willing to spend a few more dollars for a more professional, heavy-duty feel, get the [Oxo Good Grips Pro](https://www.amazon.com/dp/B0GS3RS3ZR?tag=__AMAZON_TAG__). It's a pan you'll reach for every single day.
 
 And if you're just looking for the absolute cheapest pan that can fry an egg, the [Farberware Nonstick](https://www.amazon.com/dp/B07HHVXTZ7?tag=__AMAZON_TAG__) will do the trick. No matter which you choose, you can cook great food without spending a fortune.
+
+## Frequently Asked Questions
+
+### Which pan is the best choice for oven use?
+
+The Oxo Good Grips Pro is rated oven-safe to 430°F, which is higher than most pans in this price range. The Misen pan goes up to 450°F, but only when it can be found on sale within budget. The T-fal E93808 tops out at 350°F, and the GreenPan Lima is not oven-safe at all.
+
+### How long should a budget nonstick pan last?
+
+A pan in the $15 to $20 range is not a forever pan, but with proper care it can last a year or two. That means avoiding metal utensils, keeping the heat low, and washing it by hand. Ceramic coatings like the one on the GreenPan Lima tend to lose their slickness sooner than traditional nonstick, so that pan may need replacing more often.
+
+### Is cast iron a good alternative to nonstick on a budget?
+
+A Lodge Cast Iron Skillet costs about the same as a cheap nonstick pan, roughly $20, and it can last for decades rather than months. Once seasoned, it develops natural nonstick properties and can handle a 500°F oven. The trade-offs are weight, required maintenance, and a longer heat-up time.

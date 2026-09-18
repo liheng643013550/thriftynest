@@ -126,3 +126,17 @@ You don't need to spend $100 to get a decent toaster. The key is to pick the one
 For most people, the **Hamilton Beach 2-Slice** is the smartest choice. It balances price, performance, and slot width better than anything else under $30. If you need more power and love bagels, get the **Mueller UltraToast**. If you are toasting for a crowd, the **Hamilton Beach 4-Slice** is a steal at the same price.
 
 Avoid the cheapest models unless your budget is absolutely strict. The extra $5 to $10 for the Hamilton Beach or Cuisinart makes a huge difference in how long the toaster will last and how even your toast will be.
+
+## Frequently Asked Questions
+
+### Which budget toaster is best for bagels and thick bread?
+
+The Mueller UltraToast is the strongest pick for bagels and hearty slices, since it has extra-wide slots and a Bagel setting that toasts the cut side while only warming the crust. The Hamilton Beach 2-Slice also fits a bagel or a thick slice of sourdough thanks to its extra-wide slot. The Cuisinart 2-Slice has standard-width slots, so extra-thick bagels will not fit.
+
+### How much power should a cheap toaster have?
+
+Look for at least 900 watts, because lower wattage tends to toast more slowly and less evenly, leaving a pale middle and burnt edges. The Mueller UltraToast is the only model in this roundup with a stated figure, at 1000 watts, which is why it is described as faster and more efficient than the cheaper options. The Cuisinart 2-Slice is noted for consistent coverage rather than a wattage number.
+
+### Is it worth spending more than the absolute cheapest toaster?
+
+Yes, in most cases. The Brentwood at around $15 and the Black+Decker at around $18 are the lowest-priced options, and both come with trade-offs such as thin plastic, short cords, and no cancel button on the Black+Decker. Spending the extra $5 to $10 for the Hamilton Beach 2-Slice at around $25 or the Cuisinart 2-Slice at around $30 makes a noticeable difference in evenness and how long the toaster lasts.

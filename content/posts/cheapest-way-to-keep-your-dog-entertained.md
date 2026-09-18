@@ -61,14 +61,15 @@ Forget about the distance you cover. Instead, give your dog the entire leash len
 
 ## Frequently Asked Questions
 
-### Is it okay to give my dog ice cubes to play with?
+### How long does it take to make a braided tug toy from an old t-shirt?
 
-Yes, for most dogs, ice cubes are a great, free toy. They are just water, so they are hydrating, and many dogs love chasing them around the kitchen floor as they slide. Just be sure to supervise them so they don't try to swallow a large cube whole. If your dog has dental issues, you might want to skip them in favor of softer options.
+Cutting the shirt into three strips about 3 inches wide, tying one end, braiding tightly, and knotting the other end takes roughly five minutes. The finished toy is washable, so it can go straight into the washing machine when it gets dirty.
 
-### How much entertainment does my dog actually need per day?
+### How many pieces of kibble should be hidden for a game of "Find It"?
 
-Most adult dogs need about 30 to 60 minutes of physical activity and at least 15 to 30 minutes of mental stimulation daily. However, this varies a lot by breed and age. High-energy working breeds like Border Collies or Huskies will need more, while older or brachycephalic breeds like Pugs are happy with less. The key is to look for signs of boredom, like excessive barking or chewing, and adjust accordingly, in practice.
+Around 20 pieces scattered through a living room is a common amount, and that can keep a dog busy for about 15 minutes. Regular kibble or a low-calorie treat both work, and the hiding spots can get harder as the dog learns the game.
 
-### What is the safest homemade toy material to use?
+### Do commercial lick mats cost more than a homemade alternative?
 
-Cotton is generally the safest and most durable material for homemade toys. Old t-shirts, denim, and fleece are excellent choices because they are soft on the gums but strong enough to withstand pulling. Avoid using materials like rubber bands, plastic bags, or anything with small buttons or parts that could be easily chewed off and swallowed. Always supervise your dog with any new DIY toy until you are confident they won't destroy and ingest it.
+Yes. Store-bought lick mats typically run about $10 to $15, while a silicone spatula or a small unbreakable plate from the kitchen produces the same licking effect for far less. A thin layer of plain unsweetened peanut butter or plain Greek yogurt, frozen for about 30 minutes, is a common filling.
+

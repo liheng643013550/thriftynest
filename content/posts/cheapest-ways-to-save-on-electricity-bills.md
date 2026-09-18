@@ -51,3 +51,17 @@ Most "save money on electricity" advice is either obvious (turn off the lights) 
 ## The bottom line
 
 Start with the five free things — they cost nothing and shave 10-20% off most bills. Then buy LED bulbs and a low-flow showerhead for under $30 combined. That's the entire "cheap" playbook: free habits first, $30 of hardware second, and everything else is optimization you can do later. Your bill will drop noticeably by the end of the first billing cycle.
+
+## Frequently Asked Questions
+
+### How much can I really save by switching to LED bulbs?
+
+A 9W LED that replaces a 60W incandescent typically pays for itself in about two months and saves roughly $5-7 per bulb per year. In a home with 30 bulbs, that adds up to $150-200 annually, which is why the article calls this the single best energy purchase available.
+
+### Do I need to spend a lot of money to start lowering my electricity bill?
+
+No. The five free habits — killing standby loads, using cold water, air-drying some laundry, adjusting the thermostat by 3°F, and managing curtains — cost nothing and can trim 10-20% off most bills. Adding LED bulbs and a low-flow showerhead brings the hardware total to under $30 combined.
+
+### Is it worth replacing a working refrigerator with a newer, more efficient one?
+
+Not according to the article. A new fridge only saves about $50-80 per year, while a functioning 10-year-old fridge costs nothing extra to keep running. The advice is to replace appliances only when the old one dies.

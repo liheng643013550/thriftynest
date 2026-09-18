@@ -109,3 +109,17 @@ Think of this as the upgraded version of the ARC-363N. It shares the same reliab
 ## The bottom line
 
 You don't need a $200 smart rice cooker to make a great pot of rice. For most people, the **Aroma Housewares 6-Cup** is the best overall choice because it is reliable, affordable, and big enough for a family. If you are cooking for one, the **Dash Mini** or the **Black+Decker 3-Cup** will save you space and money. And if you care deeply about the texture of your grains, spend the extra few dollars on the **Zojirushi NHS-06**; it is built to last a decade. Pick the one that fits your household size, and you will never go back to the stovetop method again.
+
+## Frequently Asked Questions
+
+### How many people does a 3-cup rice cooker serve?
+
+A 3-cup cooker holds 3 cups of uncooked rice, which yields roughly 6 cups of cooked rice and suits 2-3 people. The smaller Black+Decker 3-Cup makes only about 1.5 cups of cooked rice, so it fits singles and couples better than families.
+
+### Do these budget rice cookers come with a steamer basket?
+
+Several do. The Aroma Housewares 6-Cup and the Aroma Digital 8-Cup both include a steaming tray, and the digital model has a dedicated steam button for cooking vegetables or fish while the rice cooks below. The Black+Decker 3-Cup and the Zojirushi NHS-06 do not include a basket.
+
+### Which budget rice cooker is best for brown rice?
+
+The Hamilton Beach Digital 8-Cup and the Aroma Digital 8-Cup both offer a specific brown rice setting. Mechanical models like the Aroma Housewares 6-Cup and the Zojirushi NHS-06 have no brown rice setting, so brown rice needs a little extra water but still cooks fine.

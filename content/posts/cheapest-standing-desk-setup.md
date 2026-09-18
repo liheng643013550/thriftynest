@@ -87,3 +87,17 @@ It takes five minutes and costs about $5. It makes your $100 setup look like a $
 You do not need a motorized, app-controlled standing desk to fix your posture. The cheapest standing desk setup that actually works is a **manual sit-stand riser** placed on the desk you already own. Pair it with a **monitor arm** to get the screen to the right height, and use Velcro ties to keep the wires tidy.
 
 For about **$100 total**, you get a setup that adjusts in seconds, holds your gear securely, and saves you hundreds of dollars compared to a full frame. Skip the fancy electric stuff, buy the riser, and stand up for your health without sitting down on your wallet.
+
+## Frequently Asked Questions
+
+### How much does the cheapest standing desk setup cost?
+
+The recommended build comes to roughly $100. That breaks down to about $70 for a manual sit-stand riser, $30 for a VIVO single monitor arm, and nothing for the desktop since you keep the desk you already own. The crate-and-board method is even cheaper at around $20, but it locks you into a single height.
+
+### Why should I avoid the $99 manual crank standing desks?
+
+Those desks look like the obvious budget pick, but the thin metal, the crank mechanism that strips after a few months, and the heavy wobble at standing height make them a false economy. Buying the top and the legs separately is the better value. A sit-stand riser placed on an existing desk gets you variable height for less money and without the wobble.
+
+### What weight capacity should I look for in a sit-stand riser?
+
+Look for a riser with a solid steel frame rated for at least 30 pounds. That is enough to hold a monitor on the top platform and a keyboard on the lower tray. If the keyboard tray turns out to be too shallow, an under-desk keyboard tray mounted to your existing desk costs under $25 and keeps your elbows at the correct 90-degree angle.

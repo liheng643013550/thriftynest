@@ -114,3 +114,17 @@ The electric kettle wins over 5 years against gas, and it wins big against elect
 An electric kettle is the cheaper option for daily boiling. It uses less energy, wastes less heat, and saves you time. The upfront cost is slightly higher, but you recoup that within the first year of regular use.
 
 If you already own a stovetop kettle and it works fine, do not run out and buy an electric one. You will not save enough money to justify the purchase unless you boil water multiple times a day. But if you are buying fresh, or your old kettle is failing, go electric. Your wallet and your schedule will thank you.
+
+## Frequently Asked Questions
+
+### How much does one boil actually cost with each method?
+
+Using the average US electricity rate of 16 cents per kWh and 4 cups of water, an electric kettle runs about 1.3 to 1.6 cents per boil. A stovetop kettle on gas costs roughly 2.0 to 2.5 cents, and on an electric coil stove about 3.2 to 3.7 cents. The gap is small for a single boil but grows with daily use.
+
+### Is a gas stove cheaper than an electric kettle?
+
+Usually not. Gas rates per BTU can be lower than electricity in some regions, but a gas burner loses a large share of its flame heat around the sides of the kettle, so much of what you pay for warms the room instead of the water. The exception is an area with electricity above 30 cents per kWh combined with very cheap natural gas, and even then the difference is only pennies per month.
+
+### What does a five-year cost comparison look like?
+
+For one daily boil of 4 cups, an electric kettle at $30 plus $27.38 in energy comes to about $57.38. A $20 stovetop kettle on gas totals roughly $61.06, and the same kettle on an electric coil stove reaches about $83.88. The electric kettle comes out ahead against gas and by a wide margin against electric coil.

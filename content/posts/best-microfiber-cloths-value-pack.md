@@ -109,3 +109,17 @@ Who should buy it: Budget-conscious buyers who are willing to pay a little more 
 Cheap microfiber cloths are fine for 90 percent of cleaning tasks. For most people, the Amazon Basics or Mr. Siga packs offer the best balance of price, thickness, and durability. If you need maximum quantity for a workshop or rental property, go with Zwipes. If you want a softer cloth for glass and electronics, HOMEXCEL is the smart pick.
 
 Do not overthink this purchase. Buy a bulk pack, wash them before first use, and replace them when they start to smell or lose their grip. You will save money and keep your home clean without ever needing a $10 single cloth.
+
+## Frequently Asked Questions
+
+### What GSM range should a budget microfiber cloth fall into?
+
+Aim for a weight between 200 and 300 GSM. Anything under 200 tends to feel flimsy, while cloths above 300 are heavier than most everyday cleaning jobs require. The Amazon Basics cloths sit at roughly 220 GSM, which fits comfortably in that window.
+
+### Which pack is the cheapest per cloth?
+
+The Amazon Basics set runs about $11 for 24 cloths, which works out to the lowest cost per cloth of any option listed. Zwipes is the next closest on volume, offering 24 cloths for around $20. If quantity matters more than a plush feel, either of these stretches a dollar furthest.
+
+### Which cloths work best on glass and electronics?
+
+The HOMEXCEL 12-pack is the pick for streak-free glass, screens, eyeglasses, and polished metal, since its softer, fluffier pile resists lint. The E-Cloth General Purpose Pack is another strong choice for glass and for homes with pets or allergy concerns, thanks to a finer fiber that holds onto particles. Just keep fabric softener away from the E-Cloth, as it damages the cleaning performance.

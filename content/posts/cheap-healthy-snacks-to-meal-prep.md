@@ -113,3 +113,17 @@ They keep for up to 4 days in the fridge. If you use a wide-mouth mason jar, you
 ## The Bottom Line
 
 Meal prepping snacks is not about being perfect. It is about having a cheap, healthy option ready when hunger hits. Start with just two or three of these recipes this weekend. You will save money, cut down on food waste, and likely eat better without even trying. The prep time is short, and the payoff is a week of stress-free snacking.
+
+## Frequently Asked Questions
+
+### How long do the no-bake oatmeal energy bites stay good?
+
+The article notes that these bites keep for about a week when stored in the refrigerator, or up to a month if you freeze them. Wrapping them individually in plastic wrap makes them easier to grab on the way out the door.
+
+### What temperature and bake time do the savory egg muffins need?
+
+The recipe calls for baking the egg mixture at 350°F for 18-20 minutes in a greased 12-cup muffin tin, with each cup filled about 3/4 full. Once cooled, they last roughly 4 days in the fridge and reheat in about 30 seconds in the microwave.
+
+### Why do roasted chickpeas need a container that isn't sealed tight?
+
+According to the article, roasted chickpeas soften if they are stored in an airtight container, so a paper bag or a loosely covered container is the better choice. Stored that way at room temperature, they hold their crunch for up to 3 days.

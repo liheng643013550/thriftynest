@@ -71,3 +71,17 @@ A good mattress protector is worth the money. Look for one that is waterproof bu
 Sticking to a strict schedule is less important than building a habit. The easiest way to remember is to pick a day of the week—like Sunday—and make it your "linen day." Strip the bed, wash the sheets, and put them back on before you go to sleep. That routine takes less than 10 minutes of active work.
 
 For the rest of the bedding, set a reminder on your phone for the bigger items. Wash the duvet cover every other week, the mattress pad every season, and the pillows twice a year. If you do that, your bed will smell fresh, your allergies will be calmer, and your sheets will last longer. A clean bed is one of the simplest, cheapest ways to upgrade your sleep quality.
+
+## Frequently Asked Questions
+
+### How often should sheets be washed if a pet sleeps in the bed?
+
+The article notes that pets in the bed, along with eating snacks there, are reasons to shorten the interval from the standard weekly wash to every 3 to 4 days. Showering before bed, sleeping alone, and not sweating much at night are the conditions that allow stretching it to two weeks.
+
+### Does a duvet cover change how often a comforter needs washing?
+
+Yes. A duvet cover takes on the dirt and skin cells that would otherwise reach the comforter, and it should be washed every two weeks. When no cover is used and sleep happens directly under a comforter or quilt, the whole item needs washing every 2 to 3 months, and a top sheet can act as a barrier so the comforter does not touch the skin directly.
+
+### What water temperature and dryer setting are recommended for bedding?
+
+Warm water rather than hot is suggested for sheets and pillowcases, with drying on low or medium heat. Heat is described as damaging to elastic and cotton fibers, and for zippered mattress protectors air drying is preferred because dryer heat can break down the waterproof membrane.

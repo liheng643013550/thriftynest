@@ -117,14 +117,15 @@ Skip anything under $15 from a brand you've never heard of. That's where the pla
 
 ## Frequently Asked Questions
 
-### How long should a cheap electric kettle last?
+### Which of these kettles boils water the fastest?
 
-With normal use, two to four years is realistic for the models above. The most common failure point is the base connection, not the heating element. Keeping the base dry and the contacts clean will stretch the life.
+The 1,500-watt models are the quickest, since a liter reaches boiling in roughly three minutes on a standard 120V US outlet. That group includes the Hamilton Beach 40880, the Amazon Basics kettle, and the COSORI Speed-Boil. The Aroma AWK-115S and Ovente KG83 run at 1,100 watts, and the Proctor Silex 41002 at 1,000 watts, so all three take closer to three and a half to four minutes.
 
-### Do I need to descale a budget kettle?
+### Why does a stainless steel interior matter on a budget kettle?
 
-Yes, and more often than you'd think. In hard-water areas, scale builds up in three to six weeks. A 50/50 mix of white vinegar and water, boiled and left to sit for 20 minutes, takes care of it. Do this monthly and your kettle will last noticeably longer.
+Some inexpensive kettles hide plastic or unidentified metal beneath the lid, and a plastic liner can transfer taste into the water and crack over time. Checking the product photos for a fully exposed steel interior is the simplest way to avoid that. The COSORI Speed-Boil is listed with a food-grade stainless steel interior, and the Hamilton Beach 40880 and Amazon Basics models also use stainless steel inside.
 
-### Is a plastic or stainless steel interior better?
+### Which cheap kettle is easiest to clean and descale?
 
-Stainless steel, every time. It doesn't hold flavors, it doesn't crack, and it's easier to clean. Plastic interiors are cheaper to make, which is why they show up in the lowest-priced listings. Check the product photos carefully before buying, believe it or not.
+A wide lid opening is the feature that matters most, because it lets you reach in with a hand or sponge instead of a bottle brush. The COSORI Speed-Boil has the widest opening of the group, which shortens descaling considerably. By contrast, the Aroma AWK-115S, Ovente KG83, and Proctor Silex 41002 all have narrower openings that make the job slower.
+

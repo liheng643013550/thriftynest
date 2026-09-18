@@ -97,14 +97,15 @@ If you want the absolute best combination of pressure, durability, and low flow,
 
 ## Frequently Asked Questions
 
-### Will a low-flow showerhead actually save me money?
+### What flow rate should I look for in a low-flow showerhead?
 
-Yes, but the exact amount depends on how long you shower. If you take a 10-minute shower daily, dropping from 2.5 GPM to 1.5 GPM saves about 10 gallons per shower. That’s roughly 3,650 gallons a year, which can cut $50 to $100 off your annual water bill, plus whatever you save on water heating, in practice.
+The federal maximum is 2.5 GPM, but the article suggests aiming for 1.5 to 1.8 GPM as the sweet spot between savings and comfort. Several picks sit right at 1.5 GPM, while the Niagra Earth Massage goes lower at 1.25 GPM for maximum savings.
 
-### Do low-flow heads work with tankless water heaters?
+### Which low-flow showerhead is best for hard water?
 
-They work great. In fact, tankless heaters often struggle with high-flow heads because they can’t heat the water fast enough. A low-flow head gives the heater more time to bring the water up to temperature, which means you get a steadier, hotter shower.
+The High Sierra High Efficiency is the standout here, since its solid brass body has no moving parts and no rubber nozzles to clog. Its precision-drilled holes resist limescale, and owner reports describe it holding up for three years on well water. It runs at a fixed 1.5 GPM.
 
-### Why does my low-flow showerhead spray sideways or leak?
+### How much can a low-flow showerhead cut my water usage?
 
-That’s almost always a bad seal. Take the head off, clean the threads on the pipe, and wrap them with fresh Teflon tape (about three wraps, clockwise). Also, check that the rubber washer inside the head is seated properly. If the spray is erratic, the nozzles are probably clogged with debris—soak the head in vinegar for an hour and rinse it out.
+According to the article, any of the recommended models can reduce water usage by roughly 30% without ruining the shower experience. The savings come from the lower GPM ratings, which range from 1.25 to 1.6 across the picks listed.
+

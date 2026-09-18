@@ -97,3 +97,17 @@ Organizing your garage on a budget isn't about buying the cheapest plastic crap.
 For the few things you do need to buy, focus on value. A set of heavy-duty hooks, a roll of tape for labels, and a few stackable bins are worth the investment. If you need a solid, multi-purpose shelf, a metal unit like the Seville Classics Heavy Duty Shelving Unit is a durable option that will last for years.
 
 The goal is a garage that works for you, not a showroom. Take it one weekend at a time. Start with one corner, or just the floor. Every small win will give you the momentum to keep going. You will be amazed at how much space you actually have once the clutter is gone.
+
+## Frequently Asked Questions
+
+### How much does it cost to organize a garage this way?
+
+The whole approach can come in under a hundred bucks if you lean on free and cheap options. A 2x4-foot sheet of pegboard runs a few dollars, and a cinder block and plank shelf costs roughly a third of what a metal shelving unit does. The purge, the wall hooks, the ceiling storage, and the repurposed household items add nothing to the total.
+
+### What should I do with things I haven't used in a long time?
+
+The article's rule of thumb is that anything untouched for two years is probably not needed. Sort everything into Keep, Donate/Sell, and Toss piles, with the Keep pile limited to items used in the past year or certain to be used in the next one. Gently used tools, sports gear, and furniture can go to a yard sale or Facebook Marketplace, while broken items, empty paint cans, old cardboard boxes, and mystery cords get tossed.
+
+### Are cardboard boxes okay for garage storage?
+
+No, cardboard is described as a trap because it gets crushed, absorbs damp, and hides the contents. Clear, stackable plastic bins in a uniform size are the better choice, since they stack more easily and make efficient use of shelf space. Buying a few at a time or waiting for a sale at stores like Home Depot or Walmart keeps the cost down.

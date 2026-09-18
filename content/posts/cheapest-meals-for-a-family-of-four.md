@@ -218,17 +218,17 @@ Third, don't shop hungry. This sounds silly, but I have wasted more money on imp
 
 ## Frequently Asked Questions
 
-### What is the absolute cheapest meal I can make?
+### How much does the lentil marinara spaghetti cost for four people?
 
-The absolute cheapest meal is usually a simple rice and beans dish. A pound of dry rice costs about $1.00, and a pound of dry beans costs about $1.50. When cooked, that combination yields roughly 10-12 cups of food. With a little onion, garlic, and spices, you can feed a family of four for less than $3.00 total, honestly.
+The article lists the total at roughly $4.15 for the whole pot, built from a pound of spaghetti, a cup of dry brown lentils, two cans of crushed tomatoes, an onion, garlic, and dried herbs. That makes it the least expensive of the pasta-style dinners on the list.
 
-### Can I freeze these meals for later?
+### Can a whole chicken really cover more than one dinner?
 
-Yes, most of these freeze exceptionally well. I regularly double the chili, the lentil marinara, and the chicken and rice casserole. I let them cool completely, then portion them into freezer-safe containers or zip-top bags. They will keep for up to three months. Just thaw them in the fridge overnight and reheat gently.
+According to the article, yes. A 5-pound bird can be roasted on Monday, the leftover meat picked for the chicken and rice casserole later in the week, and the carcass boiled with onion and celery to make broth for soup. A $4.99 rotisserie chicken from Costco is offered as a shortcut, with half of it going into the casserole.
 
-### How do I make these meals more filling for teenagers?
+### Which meals on the list skip meat entirely?
 
-Teenagers are bottomless pits. To make these meals more filling, focus on adding bulk without adding cost. I always add an extra can of beans to ground meat dishes. I also serve a big green salad or a plate of steamed veggies on the side to fill the tummy. The fiber and water in vegetables help create that feeling of fullness quicker than just eating carbs alone.
+Several do. The lentil marinara spaghetti, the black bean quesadillas, the loaded baked potatoes with broccoli and cheese, the vegetable fried rice, and the pancakes-and-eggs dinner are all meatless, and the article notes the fried rice comes in cheapest at about $2.30 for the whole batch.
 
 ## The Bottom Line
 

@@ -127,3 +127,17 @@ No toy is truly indestructible. If a dog is determined enough, they will break a
 If you want the best all-rounder for a heavy chewer, get the Kong Extreme. It is tough, affordable, and keeps them busy. If you have a dog that shreds everything you buy, skip the cheap stuff and go straight for the Goughnuts. The warranty means you only pay for it once. For a simple, cheap gnawing toy, the Nylabone is hard to beat.
 
 Skip the cheap stuffed animals. Spend a few extra dollars on one of these, and you will actually save money in the long run.
+
+## Frequently Asked Questions
+
+### Which of these toys is the cheapest option for a strong chewer?
+
+The Nylabone Dura Chew runs about $8 to $10, making it the lowest-priced pick covered here. It is a dense nylon bone rather than a rubber toy, so it suits dogs that want to gnaw rather than play. The Benebone Wishbone and Outward Hound Fire Biterz sit in a similar range at roughly $10 to $12.
+
+### How does the Goughnuts warranty work?
+
+The Goughnuts Indestructible Stick has a red inner core that acts as a safety indicator. Once a dog chews deep enough to expose that red layer, the toy can be sent back and replaced with a new one at no cost beyond shipping. That replacement policy is what makes the higher upfront price easier to justify over time.
+
+### Is the Kong Extreme safe to leave with a dog that chews constantly?
+
+Published specs describe the Kong Extreme as dense black rubber built for power chewers, and the hollow center can be packed with peanut butter, kibble, or frozen yogurt to extend the time a dog stays occupied. It is dishwasher safe for cleaning. Even so, the article notes it is not truly indestructible, since a determined chewer can eventually crack the rim.

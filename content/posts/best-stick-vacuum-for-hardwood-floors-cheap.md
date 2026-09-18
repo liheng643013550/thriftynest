@@ -104,3 +104,17 @@ The Hoover ONEPWR Evolve is a smart buy if you already own other Hoover ONEPWR t
 You do not need to spend a fortune to keep hardwood floors clean. The best budget pick is the Tineco A10 Hero because it offers the best combination of lightweight design, strong suction, and a soft roller that protects your floors.
 
 If you want to spend as little as possible and don't mind a cord, the [Bissell Featherweight](https://www.amazon.com/dp/B06ZY7BTWM?tag=__AMAZON_TAG__) is a fine starter tool. For pet owners, the [Bissell Pet Hair Eraser Slim](https://www.amazon.com/dp/B0DP5JNLQR?tag=__AMAZON_TAG__) is a lifesaver. Take a look at your biggest messes, pick the vacuum that matches them, and enjoy cleaner floors without the hefty price tag.
+
+## Frequently Asked Questions
+
+### Do I need a soft roller for hardwood floors?
+
+A soft roller is the better choice on wood because it will not scratch the finish, and it lifts fine dust instead of pushing it around. If a vacuum uses a standard brush roll, look for a hardwood mode or a way to switch the brush off so debris is not scattered.
+
+### How much runtime should I expect from a budget stick vacuum?
+
+Around 20 to 30 minutes is the sweet spot for a budget model, which is enough for a 1,000-square-foot apartment or a quick pass through a house. A removable battery is a plus, since it lets you add a spare later for more runtime.
+
+### Which budget stick vacuum is best for pet hair?
+
+The Bissell Pet Hair Eraser Slim is built for homes with cats and dogs, and its tangle-free brush roll is designed to keep hair from wrapping around the roller. It also includes a specialized pet tool for upholstery and stairs, though it is corded, so you are limited by the cord's length.

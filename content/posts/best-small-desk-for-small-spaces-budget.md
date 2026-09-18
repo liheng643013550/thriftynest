@@ -135,3 +135,17 @@ Yes, for light to medium use. Brands like Furinno and GreenForest offer decent v
 
 How do I make a small desk feel more spacious?
 Mount your monitor on a wall arm to free up the desktop surface. Use a small under-desk keyboard tray and keep only your mouse and a notebook on the top. Also, use a cable management kit to keep cords off the floor and out of sight.
+
+## Frequently Asked Questions
+
+### Which of these desks is the narrowest front to back?
+
+The HOMCOM 32" Writing Desk has a depth of roughly 20 inches, which is shallower than the standard 24-inch depth most desks use. That makes it the pick for a hallway or a bedroom alcove where a deeper top would block the walkway.
+
+### Can any of these desks be raised for standing?
+
+Yes, the Seville Classics Airlift adjusts from about 26 inches to 36 inches, so it can be set at sitting or standing height. Its steel frame and pneumatic lift hold up under a 27-inch monitor and a laptop, according to owner reviews.
+
+### Which option has a locking drawer for storing documents?
+
+The Techni Mobili RTA-6193 includes a single drawer that locks with a key, along with a grommet hole for routing cables. Its melamine top is scratch-resistant, and the drawer runs on metal slides.

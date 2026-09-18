@@ -80,3 +80,17 @@ The Bentgo is different: it's a single lunchbox-style container with five compar
 ## The bottom line
 
 Buy the **Glasslock set** if you want containers that last for years. Get **Rubbermaid Brilliance** for leak-proof lunch bags. And if budget is everything, the **IKEA 365+** gives you the most containers per dollar. Whatever you pick, remember the two rules: hand-wash the lids, and never microwave with the lid sealed.
+
+## Frequently Asked Questions
+
+### Which meal prep container is best for carrying soup or other thin liquids?
+
+The Rubbermaid Brilliance 3-Pack is the strongest choice for wet, saucy food, since its four locking clips and silicone gasket create a seal tight enough that owners describe flipping it upside down while full. The Sistema Bento 2-Pack is only leak-resistant, so it is not the right pick for thin liquids.
+
+### Is glass or plastic the better material for meal prep containers?
+
+Glass bases, such as those in the Glasslock 18-Piece Set and the Pyrex Simply Store 8-Piece, resist staining and warping and can go from fridge to microwave to oven with the lid off. Plastic costs less and weighs less, but it will eventually stain with tomato-based sauces and the lids can warp in the dishwasher.
+
+### How should the lids be cleaned and used?
+
+Hand-washing the lids is the safest approach, because lids can warp in the dishwasher and never seal correctly again, and the IKEA 365+ lids in particular can warp if they touch the heating element. Never microwave a container with the lid sealed.

@@ -110,14 +110,15 @@ For most people, the [Kasa Smart Plug HS103P2](https://www.amazon.com/dp/B08M1Q3
 
 ## Frequently Asked Questions
 
-### Do smart plugs save enough energy to pay for themselves?
+### Which of these smart plugs can actually track energy use?
 
-Yes, usually within a few months. If you have a device that draws 10 watts in standby mode, that is about 2.4 kWh per month, or roughly $0.35. It does not sound like much, but if you have five or six of those devices, it adds up to $20 a year. A smart plug that cuts power completely will pay for itself in under a year.
+Only the Wyze Plug includes built-in energy monitoring at this price point. The Kasa HS103, Kasa HS103P2, Govee, Leviton Decora, and Amazon Smart Plug are all on/off switches with scheduling but no wattage tracking. If seeing real-time and historical usage matters to you, the Wyze model is the one to pick.
 
-### Can I use a smart plug with a space heater or other high-wattage appliance?
+### Do any of these plugs work with Apple HomeKit?
 
-Be very careful. Most smart plugs are rated for a maximum of 15 amps, but you should check the wattage rating. Space heaters often draw 1500 watts, which is close to the limit. I do not recommend using a smart plug for high-wattage devices like space heaters, air conditioners, or hair dryers. They are best for lamps, fans, coffee makers, and electronics.
+No. The article notes that HomeKit options under $15 are very limited, and none of the picks here support it. The Amazon Smart Plug works only with Alexa, while the Kasa, Govee, Leviton, and Wyze plugs work with Alexa and Google Home.
 
-### Do I need a hub or a special Wi-Fi network for these plugs?
+### Which plug is the best value if I need more than one?
 
-No. All the plugs listed here connect directly to your existing 2.4 GHz Wi-Fi network. You do not need a separate hub. Just make sure your phone is on the same network during setup. Some routers broadcast 2.4 and 5 GHz under the same name, which can cause setup issues. If that happens, temporarily split the bands in your router settings, believe it or not.
+The Kasa Smart Plug HS103P2, at around $13 for a two-pack, is the best value for basic scheduling needs. It delivers the same stable app and reliable scheduling as the single HS103, which costs around $9, so you get two plugs for close to the price of one and a half.
+

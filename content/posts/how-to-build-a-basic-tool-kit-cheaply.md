@@ -107,17 +107,17 @@ It’s tempting to buy that massive case with every socket and hex bit imaginabl
 
 ## Frequently Asked Questions
 
-### Can I really build a useful kit for under $60?
+### What size tool bag or box should I get for a starter kit?
 
-Yes, absolutely. The key is to prioritize. If you buy the drill as a kit with bits, you can get the hammer, screwdrivers, wrench, tape measure, and utility knife for around $15 total by choosing store brands. It’s tight, but it’s doable. If you can stretch to $80, you have a lot more room to breathe and buy better quality, in practice.
+Look for a soft-sided bag at least 15 inches long, which leaves room for a hammer and a standard drill. Soft-sided bags tend to be lighter and easier to carry up a ladder than hard plastic boxes, and they usually have more pockets for small items. Options from Stanley or Husky run around $15.
 
-### What is the most important tool to spend money on?
+### Do I really need a cordless drill right away?
 
-The cordless drill is the most important tool to buy new and from a reputable brand. It’s the workhorse of the kit. A cheap drill will have a weak battery and poor torque, making simple tasks frustrating. Spend your money here, and save on the hand tools.
+It is the one power tool worth prioritizing, since it handles furniture assembly, pilot holes, and driving screws. A 12V model is lighter and easier to manage for hanging curtains and shelves, and a kit with a battery and charger can sometimes be found for about $40 on sale. Buying a kit that includes drill bits and driver bits is often the cheaper route.
 
-### Do I need a socket set right away?
+### How can I spend less than the listed prices?
 
-No, you don't. The adjustable wrench covers most basic fasteners you'll encounter on furniture and appliances. Socket sets become necessary when you start working on cars or plumbing that has tight access. You can always add one later; it’s not a core item for a starter kit.
+Store brands such as Husky, Kobalt, and Craftsman typically cost about 30% less than name-brand equivalents and carry a lifetime warranty on hand tools. Holiday weekends like Memorial Day, Labor Day, and Black Friday are the best times for power tool bundles, and used cordless drills show up on Facebook Marketplace or at garage sales. If you go used, confirm the battery holds a charge and is not from a discontinued line.
 
 ## The Bottom Line
 
