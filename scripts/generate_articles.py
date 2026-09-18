@@ -405,6 +405,11 @@ def build_prompt(topic, year):
         "exactly 3 questions. Format each as an H3 heading for the question "
         "followed by a short (1-3 sentence) answer paragraph. The FAQ section is "
         "REQUIRED — do not skip it.\n"
+        "- Every FAQ answer must use ONLY facts, numbers, sizes, prices and product "
+        "names that ALREADY appear in the article body above. Never introduce a new "
+        "statistic, wattage, capacity, price or product name in the FAQ, and never "
+        "put a link in the FAQ. (An earlier version of this pipeline invented "
+        "figures such as '2,400W' inside FAQs — readers take those as fact.)\n"
         "- Only name products that appear in the APPROVED PRODUCT LIST below. Never "
         "invent a brand, a model number, or a price.\n"
         "- Output ONLY the article body in Markdown. No preamble, no title line, "
@@ -432,6 +437,29 @@ def normalize_body(body):
     # 合并 3 个以上连续空行
     body = re.sub(r"\n{3,}", "\n\n", body)
     return body.strip()
+
+
+# 只挑"像统计事实"的数字：带货币/百分号/计量单位，或 1000 以上。
+# 为什么不像 87-add_faq.py 那样查所有数字：那是离线工具，误杀一篇的代价只是
+# "这篇保留旧 FAQ"；这里是日更闸门，误杀的代价是【当天不发文章】。
+# 所以这里放行裸的小整数（"2 or 3 times"、"in 5 minutes" 是正常英文），
+# 只拦真正会被读者当事实的统计量（$100、2,400W、1,500 sq ft、15%）。
+_UNIT = (r"(?:%|percent|watts?|w\b|sq\.?\s?ft|quarts?|qt\b|oz\b|ounces?|cups?|"
+         r"gallons?|inches?|lbs?\b|pounds?|degrees?|hours?|minutes?|months?|years?)")
+
+
+def _stat_numbers(text):
+    out = set()
+    for m in re.finditer(r"\$\s*(\d[\d,\.]*)|(\d[\d,\.]*)\s*" + _UNIT, text, re.I):
+        s = (m.group(1) or m.group(2) or "").rstrip(",.")
+        if s:
+            out.add(s)
+            out.add(s.replace(",", ""))
+    for m in re.finditer(r"\b(\d{1,3}(?:,\d{3})+|\d{4,})\b", text):
+        s = m.group(1)
+        out.add(s)
+        out.add(s.replace(",", ""))
+    return out
 
 
 def quality_gate(body, topic):
@@ -485,6 +513,18 @@ def quality_gate(body, topic):
         else:
             print("[generate] note: no product links (pool for '%s' has only %d)"
                   % (cat, pool_n))
+    # FAQ 段不许自作主张引入新数字 —— 旧生成器就是这么在 FAQ 里编出
+    # "2,400W"、"1,500 sq ft" 这种看似专业的统计的。正文可以有数字，
+    # 但 FAQ 只能用正文已有的。
+    faq_m = re.search(r"(?m)^##\s+.*(Frequently Asked Questions|\bFAQ\b)", body)
+    if faq_m:
+        faq, body_part = body[faq_m.start():], body[:faq_m.start()]
+        if re.search(r"\]\(|https?://", faq):
+            problems.append("FAQ section contains a link (not allowed)")
+        extra = _stat_numbers(faq) - _stat_numbers(body_part)
+        if extra:
+            problems.append("FAQ introduces numbers not in the article: %s"
+                            % sorted(extra)[:6])
     return words, problems
 
 
