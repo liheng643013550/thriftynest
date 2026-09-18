@@ -121,14 +121,15 @@ You do not need a custom built-in to have a functional drop zone. You just need 
 
 ## Frequently Asked Questions
 
-### How much does it cost to organize a mudroom?
+### How much wall space do hooks need for a family of four?
 
-You can organize a basic mudroom for under $50 if you focus on hooks, a shoe rack, and repurposed baskets. If you need to build a simple bench and buy new storage bins, expect to spend between $75 and $150. The main cost driver is whether you buy furniture or build it yourself.
+The article notes that a family of four generally needs roughly 6 feet of horizontal wall space for hooks to function comfortably. If your entryway has less room than that, over-the-door racks or tall, narrow cabinets are suggested as alternatives.
 
-### What is the best way to organize shoes without a bench?
+### What is the cheapest way to add shoe storage to an entryway?
 
-Use a stackable wire shoe rack that holds multiple pairs vertically, or install a low shelf at floor level. You can also use a hanging shoe bag on the back of the door. The goal is to get them off the floor so they dry out and don't get kicked around, honestly.
+A simple three-tier metal shoe rack runs about $15 and holds 12 pairs, which keeps footwear off the floor and lets it air out. For very narrow spaces, a slim IKEA shoe cabinet priced around $40 can serve as both shoe storage and a landing spot for keys and mail.
 
-### How do I keep my mudroom from getting cluttered again?
+### How much does it cost to build a DIY mudroom bench?
 
-Keep the number of items you store down to what you use weekly. Add a small trash can for junk mail and a basket for items that need to go to other rooms. Most importantly, do a quick five-minute reset every evening so messes never pile up.
+A basic bench made from plywood and 4x4 posts comes to roughly $25 in lumber, using a 48-inch by 18-inch top and legs cut to 16 inches. A 6-foot pine shelf board above it adds about $12, and the article states the total cost of the whole setup can stay under $75.
+

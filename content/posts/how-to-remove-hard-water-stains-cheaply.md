@@ -77,3 +77,17 @@ If you want to upgrade your routine, consider a water-softening showerhead. Thes
 Removing hard water stains does not require a cabinet full of pricey specialty sprays. A gallon of white vinegar and a bit of time will dissolve the mineral buildup and restore your glass to a crystal-clear shine. The key is patience: soak, scrub, and dry.
 
 Keep a spray bottle of diluted vinegar in your shower and use a squeegee after every use. This 30-second habit will save you hours of scrubbing later. It is the most economical, eco-friendly, and effective way to keep your home looking clean, without breaking the bank.
+
+## Frequently Asked Questions
+
+### How long should the vinegar solution stay on the glass?
+
+For light spotting, three to five minutes of contact time is enough. Heavy, chalky buildup that has been sitting for months needs 15 to 20 minutes. The solution should stay wet the whole time, so spray again if it begins to dry.
+
+### What can be used if white spots remain after scrubbing?
+
+A paste made from three parts baking soda and one part water can be applied to the leftover spots with a damp sponge. The baking soda works as a mild abrasive that lifts calcium the vinegar has already softened, and it will not scratch the glass.
+
+### Is there a way to keep hard water stains from returning?
+
+A small spray bottle of the vinegar and water mix kept in the bathroom makes upkeep quick. Spraying the glass after a shower, waiting about 30 seconds, and then squeegeeing it dry keeps minerals from baking onto the surface. A water-softening showerhead is another option, since it filters minerals out before they reach the glass.

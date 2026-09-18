@@ -119,14 +119,15 @@ Organizing a laundry room cheaply is mostly about subtraction, not shopping. Cle
 
 ## Frequently Asked Questions
 
-### How much should I expect to spend organizing a small laundry room?
+### How much does it cost to organize a laundry room this way?
 
-Most people can do it for under $50. If you use containers you already own and stick to adhesive hooks and a tension rod, you can stay under $20. The costs add up when you buy matching bins, custom labels, and new shelving all at once.
+Published guides put a full cleanup of a 6-by-8-foot laundry room at roughly $35 and one afternoon. In that budget, the biggest single line item is usually a wire shelf kit at $20–$30, while smaller fixes like a tension rod run $8–$12 and adhesive hooks cost $6–$10 for a pack. Shopping your own kitchen, garage, and closets first can cover a large share of storage needs at no cost.
 
-### What is the best way to organize laundry supplies in a tiny space?
+### What can I use for storage without buying new containers?
 
-Go vertical and use the wall above your machines. A tension rod with shower curtain rings holds spray bottles, and a single wire shelf holds baskets and detergent. Keep everyday items in one small caddy so you can pull them out as a unit instead of digging through a cabinet.
+Glass jars and mason jars work well for powdered detergent, dryer sheets, and clothespins, and shoe boxes or cut-down shipping boxes can serve as shelf dividers. A plastic dishpan or bucket corrals stray socks and lint, and a small basket or tote makes a simple lost-and-found. Adhesive hooks or leftover nails and screws handle hanging items.
 
-### How do I stop my laundry room from getting messy again?
+### How do I keep a small laundry room from getting messy again?
 
-Set up a sorting system with three labeled hampers and a small lost-and-found basket for single socks. Then do a two-minute reset every time you finish a load. Putting supplies back immediately is what keeps the room from sliding back into chaos, in practice.
+Set up three labeled hampers or baskets for darks, lights, and towels, or hang a three-bag sorter on the door if floor space is tight. Add a small basket for orphan socks and place it where you fold rather than where you wash. A battery-powered LED puck light, a washable rug, and a lidded 2-gallon trash can for lint and dryer sheets help the room feel cared for, which makes it easier to keep tidy.
+

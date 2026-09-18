@@ -84,3 +84,17 @@ If you see a lot of dark wax, debris, or smell a yeasty odor, that is a sign of 
 Grooming your dog at home is a skill that takes a little practice, but the savings are substantial. By investing around $40 to $60 in basic tools, you can skip the $50 to $80 salon bill every month. Plus, you build trust with your dog, and you can catch skin issues, lumps, or parasites early because you are hands-on regularly.
 
 Start slow. Do one paw today, a bath tomorrow, and the ears next week. Break it into sessions so neither you nor your dog gets overwhelmed. With a calm attitude and the right gear, you will have a clean, happy pup and a little extra cash in your pocket.
+
+## Frequently Asked Questions
+
+### How much can I expect to save by grooming my dog at home?
+
+A professional bath and haircut typically costs between $50 and $90 before tip, while a basic set of grooming tools runs about $40 to $60. Since that one-time tool cost is less than a single salon visit, the savings add up quickly for anyone grooming on a regular schedule.
+
+### What happens if I bathe my dog before brushing out the mats?
+
+Washing a matted coat causes the fur to tighten into hard clumps that are very difficult to remove, often leaving shaving as the only option. That is why brushing out tangles first is described as the most important step in the whole process.
+
+### How do I know when to stop trimming a black nail?
+
+With dark nails, the quick is not visible, so the safe approach is to take off tiny slivers until a small dark dot appears in the center of the nail. That dot signals you are getting close to the quick and should stop.

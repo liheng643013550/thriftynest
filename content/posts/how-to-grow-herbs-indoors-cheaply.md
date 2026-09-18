@@ -80,3 +80,17 @@ When a plant gets too woody or leggy after several months, it is time to start o
 ## The Bottom Line
 
 Growing herbs indoors cheaply comes down to three choices: pick easy herbs, use recycled containers, and prioritize light. You can start with a two-dollar seed packet or a four-dollar nursery plant, pair it with free containers and a five-dollar bag of soil, and be harvesting within weeks. Skip the specialized equipment and expensive kits—a sunny window and a bit of patience are all you truly need. The savings add up quickly, and the flavor of homegrown basil beats anything from a plastic clamshell.
+
+## Frequently Asked Questions
+
+### How much can an indoor herb garden actually save?
+
+A windowsill setup can save roughly fifty to a hundred dollars over a year. The reason is simple: a supermarket clamshell of basil runs three to four dollars and often spoils within three days, while a live plant at the same price keeps producing for months.
+
+### Do I need to buy a grow light to keep herbs alive indoors?
+
+Not usually. A south-facing window is best, and west or east windows work for most herbs as long as pots sit within a foot of the glass. If your space is genuinely dark, a full-spectrum LED bulb that screws into a desk lamp, positioned about six inches above the plants and run for 12 hours on an outlet timer, is enough.
+
+### What is the cheapest way to start—seeds or a nursery plant?
+
+Seeds are the least expensive route at about two dollars per packet, which holds fifty or more seeds, but they need four to six weeks before harvest. A four-dollar potted herb from a store or garden center is ready to harvest right away, though it should be repotted promptly since it is often root-bound in peat moss.

@@ -135,3 +135,17 @@ Don't let a slightly wilted cucumber or a half-used onion rot in the back. Chop 
 You don't need a complicated system or a coupon binder to save money on groceries. You need to be a little more deliberate. Start with the pantry audit and the meal framework. Those two alone will cut your waste and your bill. Then, layer on the store-brand swaps and the unit price checks.
 
 Pick two or three of these tricks and stick to them for a month. You won’t feel deprived, but you will notice the extra cash in your account. Over a year, these small habits can easily save you over $500. That’s a nice vacation, a new kitchen gadget, or just a little breathing room in your monthly budget.
+
+## Frequently Asked Questions
+
+### How much can these grocery tricks realistically save each month?
+
+The article puts the monthly savings at $50 to $100 from small, consistent changes to how you shop, and notes that over a year the habits can add up to more than $500. The biggest single lever mentioned is switching staples to store brands, which saves an average of 25% to 30%.
+
+### Which items are worth buying as store brands instead of name brands?
+
+Store brands work well for pantry staples such as flour, sugar, pasta, and canned beans, and the article notes that most people can't tell the difference in blind taste tests of store-brand ketchup, canned tomatoes, frozen vegetables, or shredded cheese. Name-brand loyalty makes more sense for things that genuinely matter to you, like a specific coffee or hot sauce.
+
+### What should I do with meat that's marked down because it's near its sell-by date?
+
+Meat that is one day from its sell-by date can be frozen as soon as you get home and will keep for weeks. The same idea applies to day-old bakery bread, which freezes well for toast or garlic bread, and to marked-down produce, which is best used that night in soup or a stir-fry. Only buy a markdown if it fits your meal framework, since a bargain you don't use becomes waste.

@@ -59,3 +59,17 @@ Working in a dark room with a bright screen causes eye strain and headaches. A *
 ## The bottom line
 
 Spend 40% of your budget on the chair, 30% on the monitor, 20% on the desk, and the last 10% on lighting and small comforts. That ordering — comfort, then screen, then surface — is the difference between a $200 office that works and a $200 pile of desk accessories. Set it up near a window, keep cables tidy, and you've got a home office that competes with setups costing five times more.
+
+## Frequently Asked Questions
+
+### Why is the chair the item worth spending the most on?
+
+The article's budget breakdown puts 40% of the total on seating, more than any other single item, because back problems cost far more to fix than a chair does. A used premium chair from a liquidation site or office-furniture reseller is the recommended route, and a budget ergonomic option with lumbar support in the $60-80 range is the fallback. If lumbar support is missing entirely, a firm cushion or folded towel placed under the lower back is a free workaround.
+
+### Can a 4K monitor fit into this build?
+
+No, and the article advises against it. A used 24-27 inch 1080p screen is described as the highest-value item in the whole setup, with a target of $60-80, and the reasoning given is that a budget laptop cannot drive a 4K display well. Curved screens and RGB-lit "gaming" monitors are also on the skip list. Buyers should check for dead pixels before handing over money.
+
+### What should be left out of a first home office?
+
+Standing desks and sit-stand converters run $200 or more and are not required, and the article suggests waiting on webcams, microphones, ring lights, desk plants, and organizers. The built-in camera and mic on a laptop are considered adequate for the first six months. Noise-cancelling headphones only make sense if the surrounding environment genuinely calls for them.

@@ -61,3 +61,17 @@ Labels cost nothing if you use masking tape and a marker. Label shelves, bins, a
 ## The bottom line
 
 You can organize a small kitchen for under $50 total — or under $10 if you skip the bins. Start with the free steps (empty, sort, group by use), then add tension rods, shelf risers, and a magnetic knife strip. The goal isn't a magazine kitchen; it's a kitchen where you can find the pan, the spice, and the lid without a treasure hunt.
+
+## Frequently Asked Questions
+
+### How much does it cost to organize a small kitchen?
+
+The article puts the total at under $50, or under $10 if you skip the bins. The free steps come first: emptying a drawer or cabinet, sorting it, and grouping items by where you use them. Paid add-ons mentioned include tension rods at a few dollars, shelf risers at a few dollars each, a magnetic knife strip around $10, a lazy Susan around $10, and cabinet-door organizers under $10.
+
+### Where should rarely used appliances go in a small kitchen?
+
+Items used only occasionally, such as a blender, slow cooker, or stand mixer attachments, belong on the top shelf or in a cabinet that requires a step stool. The prime space between waist and shoulder height should be reserved for things used daily. This keeps the easiest-to-reach areas working for you instead of storing appliances you rarely touch.
+
+### How clear should the counter be?
+
+The article recommends keeping the counter about 80% clear. Choose the three appliances you use most and leave those out, then store everything else in a cabinet. A mostly clear counter is said to make the kitchen feel larger, clean up faster, and encourage more cooking.

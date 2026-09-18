@@ -75,14 +75,15 @@ Cutting down on food waste isn't about being a perfect, zero-waste guru. It’s 
 
 ## Frequently Asked Questions
 
-### What is the most effective way to reduce food waste at home?
+### How much money can a household realistically save by cutting food waste?
 
-The single most effective method is to plan your meals around what you already have and create a strict shopping list. Buying less prevents waste before it even starts. A "shop your pantry" session before you head to the store is the quickest win.
+The article notes that the average American family throws away roughly $1,500 worth of food each year, and that trimming household waste can add up to about $100 a month in savings. The suggested starting point is picking just one or two habits rather than overhauling everything at once.
 
-### Are there any foods that should never be stored in the refrigerator?
+### Which expiration dates actually matter for food safety?
 
-Yes. Potatoes, onions, garlic, and tomatoes should be kept in a cool, dark, and dry place. Refrigerating them alters their texture and flavor. Tomatoes specifically become mealy and lose their taste when chilled.
+According to the article, most date labels are about quality rather than safety, and the "Best By" date only reflects when a manufacturer thinks an item tastes its peak. The one label that does matter for safety is "Use By" on infant formula. For other foods, smell, visible mold, and texture are the practical checks.
 
-### Can I really save $100 a month by doing this?
+### What is the best way to store herbs, asparagus, and mushrooms?
 
-Absolutely, if you are an average household. With the average family wasting about $1,500 per year, that works out to roughly $125 a month. Even if you only cut your waste in half, you are looking at over $60 in monthly savings. For larger families or those who buy premium groceries, the savings can be even higher, believe it or not.
+The article recommends treating herbs and asparagus alike: trim the stems and stand them upright in a glass of water, covering herbs loosely with a plastic bag. Mushrooms belong in a paper bag in the fridge, since plastic traps moisture and turns them slimy.
+

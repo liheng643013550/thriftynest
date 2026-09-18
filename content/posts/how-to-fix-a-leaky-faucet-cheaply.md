@@ -100,3 +100,17 @@ Another sign that the $5 fix will not work is if the faucet body itself is crack
 A leaky faucet is rarely a sign of a major plumbing problem. In nine out of ten cases, it is just a worn rubber part. By spending a few dollars on the correct replacement and following these steps, you can fix it yourself in under an hour.
 
 You will save money on your water bill, stop the annoying drip, and avoid a costly service call. Take your time, turn off the water, and do not be afraid to ask a hardware store employee for help matching the part. This is one of the easiest home repairs you can do, and the savings add up with every drop you stop.
+
+## Frequently Asked Questions
+
+### How can I tell whether my faucet is a compression or cartridge type?
+
+Compression faucets have two separate handles for hot and cold and rely on a rubber washer pressed against a valve seat, which is the part that wears out. Cartridge faucets typically have a single handle and use a plastic or brass cartridge inside, where dried or cracked O-rings and seals cause the drip. If you cannot tell which you have, a photo of the faucet is usually enough for a hardware store employee to identify it.
+
+### What parts and tools do I need, and what will they cost?
+
+The job calls for an adjustable wrench, flathead and Phillips-head screwdrivers, silicone-based plumber's grease, and a towel. A new rubber washer runs about a dollar, while a replacement cartridge costs anywhere from five to fifteen dollars depending on the brand. Brand-specific parts are the better choice over a generic one-size-fits-all kit, and common names to look for include Delta, Moen, Pfister, Kohler, and American Standard.
+
+### What if replacing the washer or cartridge does not stop the drip?
+
+The valve seat inside the faucet body may be the culprit, since mineral deposits can corrode it into a rough surface that quickly ruins new washers. A seat wrench costs about eight dollars and a replacement seat a few dollars, or a seat dresser tool can smooth the old seat instead of replacing it. If the faucet body is cracked or badly corroded, the whole fixture needs replacing, and a basic new faucet runs around forty dollars.

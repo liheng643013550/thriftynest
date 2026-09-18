@@ -84,3 +84,17 @@ The best way to keep grout looking bright is to prevent it from getting dirty in
 You do not need to spend a fortune on specialty cleaners to get bright, clean grout. A box of baking soda, a bottle of vinegar, and a little bit of elbow grease can handle the vast majority of grout stains in your home. Start with the simple paste method, and only move on to the hydrogen peroxide mix for the most stubborn spots.
 
 For an extra boost, a dedicated grout brush with a long handle can save your knees and make the job significantly easier. The [Grout Brush Set](https://www.amazon.com/dp/B0D65G1R96?tag=__AMAZON_TAG__) is a solid, budget-friendly option that gets into the lines easily. With a regular, simple cleaning routine, you can keep your tiles looking fresh and clean for pennies, not dollars.
+
+## Frequently Asked Questions
+
+### How thick should the baking soda paste be?
+
+For the basic method, the article describes a ratio of three parts baking soda to one part water. The goal is a consistency like toothpaste or thick frosting, so add more baking soda if the mixture turns out too runny.
+
+### Can baking soda and vinegar damage my tile?
+
+The article notes that the fizzing combination is safe for grout, but the vinegar is an acid and should be rinsed off thoroughly. Leaving it in place can eventually etch the surface of natural stone tiles, so a good rinse with clean water matters.
+
+### What can I use instead of bleach on stained or mildewed grout?
+
+Hydrogen peroxide at a 3% solution is presented as a safe alternative to chlorine bleach. Mixed with baking soda and left on the grout for 30 minutes to an hour, it breaks down organic stains and whitens without toxic fumes.

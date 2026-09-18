@@ -78,3 +78,17 @@ Plain rice is a blank canvas. Here are three easy ways to upgrade it without add
 Cooking rice on the stovetop is a skill worth having. It’s cheaper than buying a dedicated appliance, takes up less cabinet space, and gives you better results once you learn the basics. The key is to remember the ratio, rinse your rice, and leave the lid on. That’s it.
 
 If you want to take the guesswork out of the pot selection, a solid [Stainless Steel Saucepan with Lid](https://www.amazon.com/dp/B0GS1G8MS8?tag=__AMAZON_TAG__) is a great investment that will last for years. But honestly, any heavy-bottomed pot you already own will work just fine. Practice this method once a week for a month, and you’ll never think about buying a rice cooker again.
+
+## Frequently Asked Questions
+
+### What water-to-rice ratio should I use for long-grain white rice?
+
+For long-grain white varieties such as jasmine or basmati, the article recommends a ratio of 1 part rice to 1.5 or 2 parts water. That works out to roughly 1.5 to 2 cups of water for every cup of dry rice. If the finished pot comes out too firm, add two tablespoons of water the next time, and cut back by the same amount if it turns out mushy.
+
+### How long does brown rice need to simmer on the stovetop?
+
+Brown rice takes considerably longer than white rice. The article lists a ratio of 1 part rice to 2.5 parts water and a simmer time of 40 to 45 minutes. Wild rice runs even longer, at 45 to 50 minutes with a 1 to 3 ratio.
+
+### Why does lifting the lid during cooking ruin a pot of rice?
+
+Lifting the lid releases steam and lowers the temperature inside the pot, which can leave the grains crunchy or underdone. The article advises leaving the lid on for the entire simmer and not stirring, since stirring breaks the grains and makes the rice gummy. After the timer goes off, the pot should rest covered off the heat for another 10 minutes so moisture can redistribute evenly.

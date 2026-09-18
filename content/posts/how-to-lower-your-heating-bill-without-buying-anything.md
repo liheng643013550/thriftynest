@@ -75,14 +75,15 @@ You don’t need to buy a single thing to cut your heating bill. The biggest sav
 
 ## Frequently Asked Questions
 
-### Is it better to lower the heat at night or keep it constant?
+### How much can I actually save by turning the thermostat down?
 
-It is always better to lower the heat at night. Turning the thermostat down 7-10 degrees for 8 hours can save you up to 10% on your heating bill. The idea that it takes more energy to reheat a cold house than to keep it warm is a myth—a warmer house loses heat faster, so you lose more energy maintaining a high temperature all night.
+According to the U.S. Department of Energy, each degree you lower the thermostat for an eight-hour stretch saves roughly 1% on your heating bill. Doing that consistently works out to about 10% a year, and combining it with the other free habits in this article can push total winter savings to 10-20%.
 
-### Will closing vents in unused rooms really save money?
+### Which way should my ceiling fan spin in winter?
 
-Yes, it can, but you need to be careful. Closing vents in unused rooms forces the heated air to go to the rooms you are using. However, you should never close off more than 20% of your vents, as this can create too much pressure in your ductwork and damage your HVAC system. It’s best to just shut the door to those rooms and let the vent stay open.
+It should run clockwise at a low speed. Warm air collects near the ceiling, and a clockwise spin pushes it back down along the walls without creating a breeze you can feel. If you stand underneath and notice airflow, the switch is set the wrong way.
 
-### Can I use a space heater instead of turning up the thermostat?
+### Is it safe to close vents in rooms I don't use?
 
-You can, but it’s usually not cheaper. Most space heaters use 1,500 watts, which costs about 15-20 cents per hour to run. If you run it for 8 hours a day, that’s over $1.20 a day just for one room. Unless you’re heating a very small, enclosed space for a short time, it’s almost always more cost-effective to put on a sweater and adjust your thermostat schedule, believe it or not.
+Yes, but only up to a point. Shutting the vent and door in an unused room keeps heat where you need it, but you should leave at least 80% of your home's vents open, since closing off more than 20% can create pressure problems for your HVAC system.
+

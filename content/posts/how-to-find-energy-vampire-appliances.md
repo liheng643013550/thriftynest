@@ -107,3 +107,17 @@ The goal is to eliminate waste, not to make your home inconvenient to live in.
 ## The Bottom Line
 
 Finding energy vampire appliances is a 15-minute project that pays for itself. Use a power monitor to identify the real culprits, group your electronics onto smart power strips, and don’t obsess over the last watt. You don’t need to live like a monk; you just need to stop paying for electricity you aren’t using. Slaying these vampires is one of the few home improvements that puts cash back in your pocket every single month.
+
+## Frequently Asked Questions
+
+### How much can standby power actually add to a monthly electric bill?
+
+Standby draw can account for as much as 10% of a monthly electricity bill. The exact figure depends on how many devices are plugged in and how much power each one pulls while idle. Individually the amounts look small, but they add up across a whole home.
+
+### Which rooms tend to have the worst phantom loads?
+
+The living room is usually the epicenter, since televisions, soundbars, streaming sticks, and cable boxes all draw power while idle. Cable boxes are often the worst of the group because they run a hard drive and stay connected to the cable network. The home office is the next biggest area, mainly because of speakers, powered USB hubs, and monitors that sit in deep standby.
+
+### Is it worth unplugging everything with a standby light?
+
+No. Some devices need constant power to work as intended, including smart home hubs, security cameras, and DVRs that would lose scheduled recordings. Refrigerators and washing machines with control boards can also reset and need reprogramming if they lose power. The practical goal is cutting waste, not making the home inconvenient.

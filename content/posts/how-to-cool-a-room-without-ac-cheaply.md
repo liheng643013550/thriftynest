@@ -82,3 +82,17 @@ It won't cool the whole house, but it will blow a stream of cold air right at yo
 Cooling a room without AC isn't about one magic trick; it's about combining several small strategies. Block the sun during the day, pull in cool air at night, and use your fans strategically. These methods won't make your room feel like a walk-in freezer, but they will make it comfortable enough to live in without breaking your budget.
 
 Start with the free stuff—windows, fans, and swapping your sheets. If you still need more relief, try the ice bucket hack or the DIY cooler project. Every degree you drop makes a difference, and your electric bill will thank you.
+
+## Frequently Asked Questions
+
+### How can windows help cool a room without using electricity?
+
+Windows work best when you match them to the time of day. Keep them shut and covered while the sun is up, since glass traps heat like a greenhouse. Once the outside air is cooler than the air indoors, open windows on opposite sides of the room to set up a cross-breeze, and a box fan facing outward in one window can push hot air out while drawing cooler air in.
+
+### What is the cheapest way to make a fan feel colder?
+
+Placing ice in front of a running fan turns it into a small spot cooler. A bowl of ice set directly before the fan chills the breeze, and the melting water adds a bit more cooling through evaporation. Frozen 2-liter bottles of water work the same way and can be swapped in and out of the freezer, so you always have a cold block ready.
+
+### Do cooling sheets and bedding really make a difference for sleep?
+
+Fabric choice matters because heavy materials like flannel, fleece, and high-thread-count cotton hold heat against your skin. Bamboo, linen, and percale cotton are lighter and let air move more freely, so they feel cooler to the touch than sateen weaves. A pillowcase chilled in the freezer for 15 minutes is a free alternative, while a cooling pad such as the Chilipad costs more.

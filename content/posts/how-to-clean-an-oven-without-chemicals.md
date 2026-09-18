@@ -102,14 +102,15 @@ The key is patience. Let the paste do its work overnight, and the scrubbing beco
 
 ## Frequently Asked Questions
 
-### Can I use this method on a self-cleaning oven?
+### How much does this method cost compared to a store-bought oven cleaner?
 
-Yes. The baking soda paste is safe for self-cleaning ovens. Just avoid getting the paste on the heating elements or the door gasket. Wipe those areas with a damp cloth instead.
+A batch of baking soda paste runs roughly 50 cents per use, while a can of caustic spray typically costs about $6. The whole process stays under a dollar in baking soda, and it avoids the fumes that come with solvent-based cleaners.
 
-### How often should I clean my oven this way?
+### How long does the paste need to stay on the oven walls?
 
-For most people, every 3 to 4 months is enough. If you roast or bake frequently, you might need to do it every other month. The paste method is gentle, so you can use it as often as you like without damaging the oven.
+Plan on 12 to 24 hours for the paste to break down carbonized grease, with overnight being the most common approach. If time is short, warming the oven to no more than 200°F for 15 minutes before applying the paste can help it work faster, but the oven should be off while the paste sits.
 
-### What if the baking soda paste does not remove all the grime?
+### Can oven racks go in the dishwasher instead of being soaked?
 
-For extra-stubborn spots, make a thicker paste and let it sit for another few hours. You can also use a [plastic scraper](https://www.amazon.com/dp/B076BBW1WM?tag=__AMAZON_TAG__) to gently lift the softened residue. If a spot still will not budge, it is likely burned carbon, which can be removed with a razor blade held at a flat angle—just be careful not to scratch the enamel.
+No. The heat and detergent in a dishwasher can strip the racks' coating and lead to rust, and replacing a set can cost around $40. Soaking them in hot water with about 1/2 cup of baking soda for at least 30 minutes, then scrubbing with a non-abrasive pad, is the safer route.
+

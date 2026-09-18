@@ -76,14 +76,15 @@ Set a reminder on your phone for the first of every quarter. Your nose—and you
 
 ## Frequently Asked Questions
 
-### How often should I clean my washing machine with vinegar?
+### How often should a washing machine be cleaned?
 
-I do a deep clean like this every three months. If you live in an area with very hard water, or if you wash a lot of heavily soiled clothes, bump it up to once a month. A quick vinegar rinse cycle in between deep cleans also helps keep the smell at bay.
+The article suggests setting a reminder for the first of every quarter, which works out to roughly every three months. Between those deeper cleanings, an empty cycle with just 1 cup of vinegar once a month can keep odors from coming back. The whole routine takes about an hour, most of which is just waiting on the cycles.
 
-### Is it safe to mix vinegar and baking soda in the washer?
+### Why does a washing machine smell musty even after washing clothes?
 
-Yes, but not in the same cycle. Mixing them in a closed space can cause a fizzy overflow, and they neutralize each other. That's why I run the vinegar cycle first, drain it, and then run the baking soda cycle. They work together sequentially to clean, but they don't need to be mixed in one load, in practice.
+A typical wash cycle leaves behind about a cup of stagnant water plus a thin film of detergent and softener residue. With the door shut, that creates a dark, damp, warm space where mold and mildew thrive. The rubber gasket on a front-loader is a common trap, since water pools in its folds and never dries out.
 
-### Can I use this method on a high-efficiency (HE) washer?
+### Can a clogged filter really slow down a washer's drain?
 
-Absolutely. In fact, HE washers need this more often because they use less water, which means residue is more concentrated. Just make sure you are using the correct amount of product. Two cups of vinegar is fine for a standard size drum, but if you have a huge 5.0 cu. ft. machine, you might want to add an extra half cup to ensure it reaches all the surfaces.
+Yes. Most modern washers, especially front-loaders, have a lint trap or drain pump filter that catches coins, hairpins, and stray socks. When it clogs, the machine takes much longer to drain, and cleaning it only takes about two minutes. The panel is usually at the bottom front of the machine, and the owner's manual can help locate it on brands like Samsung or LG.
+

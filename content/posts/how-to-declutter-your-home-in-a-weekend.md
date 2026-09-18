@@ -96,3 +96,17 @@ Everything else—old bills, receipts, takeout menus—gets recycled immediately
 Decluttering your entire home in a weekend is about making quick, high-impact decisions, not about achieving a magazine-perfect space. You are aiming for a home that feels lighter and works better for you. If you get through the main living areas, kitchen, and bedroom, you have won the weekend.
 
 Take the donation boxes to your car right now. The longer they sit in your hallway, the more likely you are to dig through them and pull things back out. The goal is to create "breathing room" in your home. A less cluttered home is easier to clean, less stressful to live in, and gives you more time to do the things you actually enjoy.
+
+## Frequently Asked Questions
+
+### How long does the whole decluttering plan take?
+
+The weekend is broken into blocks: 30 minutes on Friday night, two hours in the kitchen Saturday morning, one hour for the bathrooms Saturday afternoon, 1.5 hours in the bedroom Saturday evening, 1.5 hours in the living room and entryway Sunday morning, and one hour for paperwork Sunday afternoon. Each individual zone inside those blocks gets a 15-minute timer.
+
+### What supplies do I need before starting?
+
+Four things: trash bags for garbage, boxes or large bags for donations, a basket or bin for items that belong in other rooms, and a marker with sticky notes for labeling. Setting these up takes about 15 minutes and keeps you from wandering off to find supplies later.
+
+### Which papers are worth keeping?
+
+Only tax documents from the last 3 years, legal documents like birth certificates and deeds, and insurance policies. Old bills, receipts, and takeout menus can be recycled right away.

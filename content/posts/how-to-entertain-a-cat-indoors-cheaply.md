@@ -100,3 +100,17 @@ This doesn’t need to look nice. It needs to be fun. Your cat will jump, climb,
 Keeping an indoor cat entertained doesn’t require a big budget. It requires a little creativity and a willingness to rotate what you already have. Cardboard boxes, paper bags, and old socks are just as good as store-bought toys. The most important thing is your time. Ten minutes of active play using a ribbon or a laser is worth more than any expensive gadget.
 
 Try a few of these ideas this week. See which ones your cat actually responds to. Then rotate them regularly to keep things fresh. Your cat will be happier, your furniture will last longer, and your wallet will stay full.
+
+## Frequently Asked Questions
+
+### How can I keep my cat entertained without spending money on toys?
+
+The article points to items already around the house: a medium-sized shipping box with holes cut in the sides, a standard grocery bag with the handles removed, an empty toilet paper roll, an empty egg carton, an old clean sock filled with dried catnip, and a shoelace or ribbon tied to a stick. Rotating toys you already own is also free, since cats lose interest when they see the same five toys daily.
+
+### Why does my cat get frustrated with a laser pointer?
+
+A laser never lets a cat catch anything, so using it too often can be frustrating. The article suggests ending each session by slowly moving the dot under a piece of paper or a towel, turning the laser off, letting the cat pounce on the spot, and then giving a treat right away.
+
+### How do I set up a window perch for my cat?
+
+Use a sturdy side table, a step stool, or a stack of thick hardcover books placed next to a window, with a folded towel or an old pillow on top. Adding a small plastic tray of sunflower seeds outside the window gives the cat something to watch, and leaving the blinds open a crack works if a feeder isn't possible.

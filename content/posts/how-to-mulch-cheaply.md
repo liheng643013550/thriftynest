@@ -83,3 +83,17 @@ You can get free cardboard from local businesses. Ask at grocery stores, liquor 
 Cheap mulching is not about finding a bargain at the garden center. It is about recognizing that you are surrounded by free resources. Your own lawn, your neighbor's trash pile, and your local tree service are all producing high-quality mulch that they are practically paying to get rid of.
 
 Start small. Rake your leaves, make a few phone calls to local arborists, and ask around your neighborhood. You will save hundreds of dollars, keep waste out of the landfill, and improve your garden soil at the same time. All it takes is a little effort and a willingness to look at a pile of wood chips as the treasure it actually is.
+
+## Frequently Asked Questions
+
+### How much does mulch from a landscaping supply company cost?
+
+Landscaping supply companies typically charge between $30 and $50 per cubic yard, and that cost climbs quickly if you have large garden beds to cover. Buying bagged mulch from a big-box store is another paid option the article suggests avoiding in favor of free sources.
+
+### How thick should grass clippings be spread as mulch?
+
+Grass clippings should go down in a thin layer of no more than one to two inches. Piling them on thicker than that creates a slimy, smelly mat that blocks water from reaching the soil. Letting the clippings dry for a day or two before spreading also helps prevent matting.
+
+### How much mulch comes in a free chip drop from a tree service?
+
+A full truckload from a tree service is roughly 10 to 15 cubic yards, which covers a large area but requires significant physical labor to move by wheelbarrow. The chips arrive fresh, so they should be used only as a top dressing rather than dug into garden beds, and the mix of wood types is not something you can control.

@@ -94,3 +94,17 @@ This keeps small items off the floor, out of the bottom of bins, and easy to gra
 Organizing holiday decorations does not require a single specialty product. It requires a ruthless purge, a few cardboard boxes, toilet paper rolls, clear bins, and a marker. The entire project should cost you under $20 if you need to buy a few bins, and it will likely cost nothing if you use what you already have.
 
 The payoff is huge. Next year, you will spend ten minutes pulling out labeled bins and hanging untangled lights instead of two hours fighting with a knot of wire and a box of crushed ornaments. That is a gift you give to your future self, and it is the cheapest holiday gift you will ever buy.
+
+## Frequently Asked Questions
+
+### How much should this whole project cost?
+
+If you already have cardboard boxes, toilet paper rolls, and a marker on hand, the cost can be nothing at all. The main expense is clear plastic bins, which usually run about $8 to $12 for a 27-quart size, and a hanging shoe organizer at roughly $10 from a discount store. The article puts the total at under $20 if a few bins need to be purchased.
+
+### What can be used to keep light strings from tangling?
+
+Empty toilet paper rolls work well for standard strings, while paper towel rolls handle longer 100-light strands. The lights get wound around the roll like thread, with the plug end left free and tucked under the last loop to hold it. Loaded rolls can then be stacked in a shoebox or small tote and labeled.
+
+### Why store decorations by room instead of by type?
+
+Grouping items by where they are used in the house means only one bin needs to come out per room during decorating. Instead of pulling every box to find a single item, bins labeled for the living room, tree, kitchen, and outdoor areas can each go straight to their spot. This is described as turning a three-hour decorating session into a one-hour one.

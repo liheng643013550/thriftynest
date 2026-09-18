@@ -75,14 +75,15 @@ Stick to well-known brands with a history of research and quality control. Purin
 
 ## Frequently Asked Questions
 
-### Is it safe to switch my pet to a cheaper brand of food?
+### How do I figure out whether a pricier bag of food is actually the better deal?
 
-Yes, but you must do it gradually. Sudden changes can cause vomiting or diarrhea. Over a period of 7 to 10 days, slowly mix in the new food with the old, increasing the proportion of the new food each day. This gives your pet’s digestive system time to adjust. If you see any signs of digestive upset after the transition, talk to your vet.
+Work out the cost per day rather than the cost per pound. A 30-pound bag priced at $25 comes to roughly $0.83 per pound, but if the feeding guide calls for 4 cups daily, that bag only stretches about 30 days. A $50 bag of something like Purina One or Hill's Science Diet may call for just 3 cups a day and last around 40 days, which can make it the cheaper option day to day.
 
-### How do I know if a cheaper pet food is actually nutritious?
+### How large a bag should I buy at one time?
 
-Look for a statement on the label that says the food is "complete and balanced" and meets the AAFCO nutrient profiles for your pet’s life stage (growth, adult maintenance, or all life stages). This is a regulatory standard. Also, check the first three ingredients. You want a named animal protein like "chicken" or "beef," not just "meat meal" without a species specified.
+Bigger bags carry a lower price per ounce, but kibble goes stale and its fats turn rancid once the bag is open. A practical guideline is to buy only what will be used within six to eight weeks. For a household with one dog and one cat, a 30-pound dog food bag plus a 15-pound cat food bag fits that window.
 
-### Can I make my own pet food to save money?
+### Are store-brand foods a reasonable choice compared with national brands?
 
-It is possible, but it is risky. Homemade diets often lack the precise balance of calcium, phosphorus, and taurine that commercial foods provide. Unless you are working with a board-certified veterinary nutritionist, you can easily cause nutritional deficiencies. The cost of the supplements and the time involved usually makes it more expensive than buying a decent commercial kibble. I would only recommend this for very specific cases under veterinary supervision, in practice.
+Often yes, provided the label checks out. Kirkland Signature dog food is produced by Diamond Pet Foods, the same manufacturer behind Taste of the Wild and Diamond Naturals, yet the Kirkland bag typically runs about 30% less. Tractor Supply's 4health is another option, and owner reviews describe years of feeding the Kirkland chicken and rice formula with good coats, energy, and stools. Confirm that a named protein leads the ingredient list and that the food meets the AAFCO profile for your pet's life stage.
+

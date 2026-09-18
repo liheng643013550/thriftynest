@@ -97,3 +97,17 @@ Finally, always remove the laces before cleaning. The laces trap dirt and oil. Y
 You don’t need a $15 bottle of sneaker cleaner to make white shoes look new again. A box of baking soda, some vinegar, and a little elbow grease will do the job for pennies. The process takes about 20 minutes of active work, plus drying time.
 
 Make the paste, let it sit, scrub, rinse, and air dry. That’s it. For tough stains, use the overnight peroxide trick. With this routine, you can keep your white sneakers looking fresh for years, not weeks.
+
+## Frequently Asked Questions
+
+### How much does it cost to clean white sneakers with baking soda?
+
+The ingredients are pantry staples, and if you need to pick up anything, a dollar store trip runs under $5 total. That compares to $10 to $15 for a bottle of specialty sneaker cleaner. A Kiwi Sneaker Protector spray, which helps you go longer between deep cleans, costs about $8.
+
+### Can I use hydrogen peroxide instead of vinegar in the paste?
+
+Yes. Peroxide is a natural bleach and is especially effective on stubborn yellow stains, while vinegar is the cheaper option and handles everyday grime well. For yellowed soles specifically, mix equal parts baking soda and hydrogen peroxide, wrap the sole in plastic wrap, and leave it overnight in a dark place before rinsing.
+
+### How long should the paste stay on the shoes before scrubbing?
+
+Leave it on for at least 15 minutes, and for heavily stained shoes let it sit for 30 to 45 minutes. The paste will dry and crack as it works, which is normal. After scrubbing, rinse with cold water only, since hot water can set stains or warp the shoe's glue, then air dry for 12 to 24 hours away from direct sunlight.

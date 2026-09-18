@@ -96,3 +96,17 @@ If you notice a lingering odor even after cleaning, place a bowl with 1 cup of w
 Cleaning a microwave fast is not about scrubbing harder; it is about working smarter. Boiling a cup of water for a few minutes is the cheapest and most effective degreaser you will ever find. It costs pennies, uses ingredients you already have, and eliminates the need for toxic sprays.
 
 Set a timer on your phone for 5 minutes. Heat the water, let it sit, wipe it down. You will be done before your coffee finishes brewing. Skip the specialty cleaners and just use what is in your kitchen cabinet. Your microwave—and your wallet—will thank you.
+
+## Frequently Asked Questions
+
+### How much water and vinegar should go in the bowl?
+
+Use one cup of water, and add two tablespoons of white vinegar if you want help with odors or grease. Vinegar is optional, so plain water works fine when the microwave does not smell. Keep in mind that starting with at least a cup of water matters, since boiling it dry can damage the appliance.
+
+### How long should the bowl stay in the microwave, and how long before wiping?
+
+Heat the bowl on High for 3 to 4 minutes, depending on wattage. A 1200-watt microwave usually needs about 3 minutes, while weaker models may need the full 4 minutes. After the timer beeps, leave the door shut for another 2 to 3 minutes so the trapped steam can loosen the residue.
+
+### What should be used on burnt-on spots that steam does not remove?
+
+For food that looks like charcoal, sprinkle a little baking soda on a damp sponge and scrub the area. Baking soda is a mild abrasive that will not scratch the microwave's paint, and the area should be rinsed with a clean wet cloth afterward. Steel wool and scouring pads should be avoided because they scratch the interior surface.
