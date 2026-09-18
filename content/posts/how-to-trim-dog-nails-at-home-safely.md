@@ -109,3 +109,17 @@ If you let nails get too long, the quick grows with them. That means you can onl
 Trimming your dog’s nails at home is absolutely doable, even if you are nervous. Start with the right clippers, learn to spot the quick, and go slow. If you hit the quick, stay calm and use styptic powder. With regular practice, you will get faster and your dog will get more tolerant.
 
 The money you save is a nice bonus, but the real win is having a comfortable dog who walks without pain. If you are not confident after a few tries, do not feel bad about getting professional help. Sometimes the peace of mind is worth the $20.
+
+## Frequently Asked Questions
+
+### How much does a professional nail trim cost compared to doing it at home?
+
+A groomer or vet visit for nail trimming typically runs between $15 and $40. For dogs that need trims every few weeks, those fees add up quickly. Doing the trim at home with basic tools avoids that recurring cost.
+
+### How can I tell where the quick is on a dog with dark nails?
+
+On dark nails, the quick is not visible as a pink line, so the article suggests taking tiny slivers off the tip and watching the cut surface. A small gray or dark dot appearing in the center means you have reached the quick and should stop. Checking the underside of the nail for a small circle in the center is another way to know you are getting close.
+
+### What should I do if I accidentally cut the quick?
+
+Stay calm, since your dog picks up on your energy, and press a clean cloth or paper towel against the nail for 2-3 minutes. If bleeding continues, dip the tip into styptic powder, or use cornstarch or baking flour if powder is not on hand. Bleeding usually stops within 5 minutes, but if it has not stopped after 10 minutes of pressure, call your vet.

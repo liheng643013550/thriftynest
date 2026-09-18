@@ -103,3 +103,17 @@ If you take video calls, be aware of what is behind you. The unmade bed is a bad
 Setting up a home office in a bedroom is mostly about boundaries. Pick a small desk, get a decent chair, hide your cables, and create a clear "end of day" routine. You don’t need a fancy renovation. You need to make the space feel intentional.
 
 Keep the desk clear, use closed storage, and invest your money in the chair and a good task light. Everything else is secondary. If you can do that, you can work in your bedroom without feeling like you live at the office.
+
+## Frequently Asked Questions
+
+### How deep should a desk be for a bedroom office?
+
+A depth of 24 inches or less is the target, since anything deeper eats up floor and visual space without adding real usefulness. That amount of depth still leaves room for a monitor, keyboard, and mouse.
+
+### What should be kept on the desk surface?
+
+Limit the desktop to three things: a monitor or laptop, a keyboard and mouse, and one personal item such as a small plant or a photo. Notebooks and paperwork belong in a drawer or a magazine file on a shelf above.
+
+### Why does the chair matter more than other purchases?
+
+The chair is the one item worth spending more on because it affects your health, and a cheap folding chair can lead to back pain. Look for lumbar support, adjustable seat height, a seat depth leaving 2-3 inches behind your knees, and a stable five-wheel base.

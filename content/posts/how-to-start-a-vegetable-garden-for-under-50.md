@@ -98,3 +98,17 @@ You will notice there is no line item for a raised bed kit, a garden hose, or fa
 You do not need a lot of money to start growing your own food. You need a sunny spot, decent soil, and a few seed packets. By skipping the expensive infrastructure and focusing on the essentials, you can have a productive garden for less than the cost of a single dinner out.
 
 The first season is about learning. You will make mistakes, and that is okay. The most expensive mistake you can make is buying all the gear before you know if you even enjoy gardening. Start small, use what you have, and spend that $50 on the seeds and soil that actually feed you. Next year, you can decide if you want to invest in a bigger setup. For now, get your hands dirty and watch something grow.
+
+## Frequently Asked Questions
+
+### How much sunlight does a vegetable garden need?
+
+The article recommends a spot that receives at least 6 to 8 hours of direct sunlight each day. A balcony or a sunny driveway can work if a yard is not available. Observing light patterns around the yard before buying anything helps confirm the location.
+
+### What is the difference between potting mix and garden soil for containers?
+
+Regular garden soil compacts in containers and drowns roots, so a potting mix is needed instead. A 1.5-cubic-foot bag of an all-purpose mix generally runs $8 to $12 and fills two to three 5-gallon buckets. For in-ground beds, a bag of compost worked into the top few inches is enough to get a small patch started.
+
+### Which crops are easiest for a first garden?
+
+Leafy greens such as lettuce, spinach, and arugula grow quickly and can be harvested leaf by leaf for weeks. Radishes are ready in about 30 days, bush beans are productive without a trellis, and herbs like basil, cilantro, and parsley are easy and pricey to buy fresh. Difficult crops such as cauliflower, celery, and watermelon are better saved for later.

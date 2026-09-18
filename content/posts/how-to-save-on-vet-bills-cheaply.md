@@ -63,14 +63,15 @@ Saving on vet bills is about being a smart consumer, not a stingy one. You can k
 
 ## Frequently Asked Questions
 
-### Is it safe to buy pet medication from online pharmacies?
+### How much should I set aside each week for pet care?
 
-Yes, as long as you use a pharmacy that is accredited by the National Association of Boards of Pharmacy (NABP). Stick to well-known names like Chewy, 1800-PetMeds, or your local Costco. Always make sure the site requires a prescription; if they do not ask for one, it is a red flag.
+The article suggests $25 a week, which adds up to $1,300 a year and covers most routine issues plus part of an emergency. If that amount is not manageable, starting at $10 is fine. Even a $500 buffer gives you room to ask about doing lab work before X-rays.
 
-### Can I use human medicine for my pet to save money?
+### Is it cheaper to buy flea, tick, and heartworm medication online?
 
-Never give your pet human medication without explicit instructions from your vet. Drugs like ibuprofen and acetaminophen are toxic to dogs and cats. However, your vet can prescribe a human generic for things like antibiotics or thyroid medication that is safe and much cheaper than the pet-branded version.
+Yes. Clinics often mark up these prescriptions by 40 to 60%, and the same brands can be found online for much less. A six-month supply of a dog's heartworm and flea meds runs $89 online versus $145 at a vet's office. You will need a prescription, but most clinics will write one at no charge if you ask.
 
-### What is the cheapest way to get my pet spayed or neutered?
+### At what age does pet insurance make the most sense to buy?
 
-Look for local nonprofit organizations or animal shelters that offer low-cost spay/neuter clinics. These programs often charge between $50 and $100 for a cat and $100 to $200 for a dog. Check websites like SpayUSA or call your local humane society for a list of approved low-cost providers in your area, in practice.
+It makes the most sense to enroll while your pet is young and healthy, since most plans exclude pre-existing conditions. A basic accident-only plan for a dog costs roughly $15 to $25 a month and can cover a $3,000 emergency surgery. For breeds prone to hip dysplasia or cancer, a comprehensive plan with a $500 deductible is often worth the premium.
+

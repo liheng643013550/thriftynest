@@ -77,14 +77,15 @@ Saving money on laundry isn't about buying expensive eco-friendly machines or sa
 
 ## Frequently Asked Questions
 
-### How much does it actually cost to run a washing machine per load?
+### How much can switching from hot to cold water actually save?
 
-The cost varies, but a standard washing machine uses about 15 to 30 gallons of water per load and 0.5 to 1.5 kWh of electricity. Including water, sewer, and energy, the total is usually between $0.25 and $0.50 per load. The dryer adds another $0.30 to $0.50 per load, making a full wash-and-dry cycle roughly $0.60 to $1.00.
+Heating water is responsible for about 90% of the energy a washing machine consumes, so the temperature setting matters more than any other choice. At the rates shown in the article, a hot load runs about $0.68 while a cold load runs about $0.03. Across 300 loads a year, that difference comes to roughly $195.
 
-### Is it cheaper to wash clothes in cold water?
+### Is it worth using less detergent than the cap suggests?
 
-Yes, significantly. Washing in cold water eliminates the cost of heating the water, which is the largest energy component of the wash cycle. You can save around $0.30 to $0.60 per load compared to washing in hot water, depending on your water heater type and local electricity rates.
+Yes. The cap is not a reliable guide, and the article notes that one to two tablespoons is enough for most loads, with one tablespoon sufficient in a front-loader. Using that little stretches a 150-ounce bottle to about four months instead of just over one. Liquid detergent is also the cheaper route per load than pods, since a 60-load bottle of Tide or Persil runs about $12 versus roughly $20 for the same number of pods.
 
-### How often should I clean my dryer vent to save money?
+### How much does hanging heavy items instead of drying them save?
 
-You should clean the lint filter after every load, but the vent hose behind the dryer should be cleaned at least once a year. A clogged vent restricts airflow, causing the dryer to run longer and use more energy. It also poses a serious fire hazard. A clean vent ensures your dryer runs at its designed efficiency.
+Targeting towels, jeans, and heavy hoodies avoids about one dryer cycle per week, which works out to 52 cycles a year. At roughly $0.30 to $0.50 per cycle in electricity, that is $20 to $25 saved annually. A folding drying rack costs about $15, so it covers its own cost within a few months.
+

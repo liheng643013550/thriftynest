@@ -90,14 +90,15 @@ A cold compost bin is almost always a carbon, moisture, airflow, or particle-siz
 
 ## Frequently Asked Questions
 
-### How long should it take for a small compost bin to heat up?
+### Why does a small countertop bin stay cold even when the mix seems right?
 
-In a 3–5 gallon bin with a good ratio and regular turning, you'll typically see warmth within 3–7 days. Countertop bins under 2 gallons may never get noticeably hot, and that's normal — they still break material down, just more slowly.
+Heat retention depends on the volume of material, so a 1–3 gallon container simply does not hold warmth the way a large outdoor pile does. A bin that is less than about a third full, or smaller than roughly 2 gallons, will struggle no matter how well the browns and greens are balanced. Batching scraps in the freezer and adding them all at once gives the bin enough mass to work with.
 
-### Can I compost in a dorm room without it smelling?
+### How do I know whether my bin is too wet or too dry?
 
-Yes, if you keep the ratio carbon-heavy and avoid meat, dairy, and oils. Sealed systems like bokashi fermenters handle odors especially well, and owner reviews consistently report minimal smell when the lid seals properly.
+Squeeze a handful of the contents and compare it to a wrung-out sponge — damp but not dripping is the target. If liquid runs out when you squeeze, it is too wet, which is common because kitchen scraps are 70–90% water by weight. If it crumbles and dust puffs up, add a few tablespoons of water and stir.
 
-### Is it worth buying a tumbler for a dorm?
+### Is a worm bin supposed to heat up?
 
-Usually not. Tumbling composters like the FCMP Outdoor IM4000 are 37 gallons and designed for outdoor use. In a dorm room, a sealed countertop bin or a bokashi system is a better fit, and cheaper to run over the first year.
+No. A worm bin is meant to run cool, and 55–77°F is the correct range for it, so a lack of heat is not a problem in that setup. The 130–160°F range applies to thermophilic composting, not to worm bins. If your bin is a small indoor worm bin, judge it by odor and how steadily the contents shrink instead of by temperature.
+

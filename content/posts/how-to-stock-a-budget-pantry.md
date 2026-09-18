@@ -134,3 +134,17 @@ A simple shelf organizer like a [SimpleHouseware Mesh Cabinet Organizer](https:/
 ## The Bottom Line
 
 Stocking a budget pantry for under $100 is completely doable if you focus on versatile staples and skip the hype. Stick to store brands, buy simple ingredients, and let your pantry do the heavy lifting. You’ll save money on groceries, cut down on takeout, and always have a meal within reach. Start with the list above, adjust it to your taste, and build from there. A little planning now means a lot of savings later.
+
+## Frequently Asked Questions
+
+### How much should a starter pantry cost if store brands are used?
+
+The article puts the total near the $100 mark when generic labels and store brands are chosen. Buying store brands instead of name brands can cut costs by 20-30% right away, which is one of the main reasons the full list stays affordable.
+
+### Which items on the list are the easiest to skip if the budget runs tight?
+
+Specialty extras like maple syrup and hot sauce are the first things the article suggests dropping. The core grains, beans, and canned tomatoes are the items worth protecting, since they form the base of most meals on the list.
+
+### What kind of pot and pan does pantry cooking actually require?
+
+A large pot in the 6-8 quart range handles soups, pasta, and dried beans, while one cast-iron or non-stick skillet covers most stovetop meals. A sharp chef's knife, a standard set of measuring cups and spoons, and airtight storage containers round out the essentials.
