@@ -436,6 +436,11 @@ def normalize_body(body):
     body = re.sub(r"[\U0001F300-\U0001FAFF\u2600-\u27BF]", "", body)
     # 合并 3 个以上连续空行
     body = re.sub(r"\n{3,}", "\n\n", body)
+    # FAQ 标题漏了 '## ' 前缀：模型偶尔只写一行纯文本标题。
+    # 后果是闸门认不出、构建脚本提取不到 -> 页面拿不到 FAQPage 结构化数据。
+    # 实测真发生过（best-small-desk-for-small-spaces-budget.md）。
+    body = re.sub(r"(?m)^Frequently Asked Questions[ \t]*$",
+                  "## Frequently Asked Questions", body)
     return body.strip()
 
 
@@ -473,8 +478,24 @@ def quality_gate(body, topic):
         problems.append("missing required FAQ section")
     if not re.search(r"(?m)^##\s+\S", body):
         problems.append("no H2 sections")
-    if re.search(r"(?i)\bwe (tested|measured|bought)|in our tests|our review unit", body):
-        problems.append("contains a fake first-hand testing claim")
+    # 编造第一人称体验：E-E-A-T 与 Amazon 运营协议都禁止。
+    # 关键教训：旧版本只查 "we tested"，【漏掉了 "I"】—— 结果 CI 每天新生成的
+    # 文章里持续溜进 "I've tested"、"I have owned a pair for two years"，
+    # 实测 20 篇 24 处，而且没人发现（清理工具压根没接进流水线）。
+    # 这里与 scripts/fix_fake_experience.py 的口径对齐，两个入口用同一套判断。
+    first_person = (
+        r"\b(?:I|we)(?:'ve|'d| have| had)?\s+"
+        r"(?:tested|tried|used|reviewed|measured|bought|purchased|owned|ordered|"
+        r"kept|returned)\b"
+        r"|\bin our tests?\b|\bour review unit\b"
+        r"|\b(?:we|I) kept\b|\bI (?:have|'ve|had) (?:to )?(?:make )?a confession\b"
+        r"|\bI used to think\b|\bI(?:'ll| will) admit\b"
+        r"|\b(?:in|on|at)\s+my\s+(?:kitchen|home|apartment|living room|bathroom|"
+        r"garage|office|house)\b"
+        r"|\bmy\s+(?:dog|cat|puppy|kitten|kid|kids|son|daughter|wife|husband)\b"
+    )
+    if re.search(first_person, body, re.I):
+        problems.append("contains a fake first-hand testing/ownership claim")
 
     # 模板占位符残留：模型会把 prompt 里的示例当内容抄下来，
     # 导致页面上出现文字就是 "Product Name" 的链接（真实发生过的缺陷）。

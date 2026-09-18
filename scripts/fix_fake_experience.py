@@ -47,17 +47,28 @@ POSTS = HERE.parent / "content" / "posts"
 BANNED = {
     "I tested": re.compile(r"\bI(?:'ve| have)?\s+(?:tested|tried|used|reviewed|measured|"
                            r"weighed|timed|compared|ran)\b", re.I),
-    "I bought/own": re.compile(r"\bI\s+(?:bought|purchased|own|owned|ordered|kept|returned)\b", re.I),
-    "I found/noticed": re.compile(r"\bI\s+(?:found|noticed|saw|discovered|realized|learned)\b", re.I),
+    # 必须允许 I've / I have —— 旧写法是 \bI\s+(?:bought|own…)，于是
+    # "I've bought"、"I have owned" 全都漏掉（实测线上有 11 处这种漏网的）。
+    "I bought/own": re.compile(r"\bI(?:'ve|'d| have| had)?\s+"
+                               r"(?:bought|purchased|own|owned|ordered|kept|returned)\b", re.I),
+    "I found/noticed": re.compile(r"\bI(?:'ve|'d| have| had)?\s+"
+                                  r"(?:found|noticed|saw|discovered|realized|learned)\b", re.I),
     "my <place>": re.compile(r"\b(?:in|on|at|into)\s+my\s+(?:kitchen|home|apartment|living room|"
                              r"bathroom|garage|house|yard|closet|office|dorm|rv|car)\b", re.I),
     "my <pet/family>": re.compile(r"\bmy\s+(?:dog|cat|puppy|kitten|kid|kids|son|daughter|"
                                   r"wife|husband|partner|roommate)\b", re.I),
     "we tested": re.compile(r"\bwe(?:'ve| have)?\s+(?:tested|tried|used|reviewed|measured|"
-                            r"bought|found|noticed)\b", re.I),
+                            r"bought|found|noticed|kept|compared|ran)\b", re.I),
+    # 这两条是实测漏网的：线上真出现过 "in our tests" 和 "I have a confession"，
+    # 而旧动词表里既没有 "in our tests" 也没有这类自述式开场。
+    "in our tests": re.compile(r"\bin (?:our|my) tests?\b", re.I),
+    "confession/self-narration": re.compile(
+        r"\bI (?:have|'ve|had) (?:to )?(?:make )?a confession\b"
+        r"|\bI(?:'ll| will) admit\b|\bI used to think\b", re.I),
     "our <place>": re.compile(r"\b(?:in|on|at)\s+our\s+(?:kitchen|home|test|testing|"
                               r"apartment|house|office)\b", re.I),
-    "I recommend to friends": re.compile(r"\bI\s+(?:recommend|tell friends|tell people)\b", re.I),
+    "I recommend to friends": re.compile(r"\bI(?:'ve|'d| have| had)?\s+"
+                                         r"(?:recommend|tell friends|tell people)\b", re.I),
 }
 
 # 这些是"作者实测"的间接说法，也一并算上（更严）

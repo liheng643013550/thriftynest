@@ -257,10 +257,29 @@ class Site:
         key = re.sub(r"^https?://", "", (canonical or "").strip()).rstrip("/")
         if not key:
             return ""
-        return ('<img src="https://hits.sh/%s.svg" width="1" height="1" '
-                'alt="" aria-hidden="true" '
-                'style="position:absolute;left:-9999px;top:0;border:0">'
-                % html.escape(key))
+        # 两个像素：① 页面浏览 ② 出站点击（读者点联盟链接时打一发）
+        # 为什么要追踪出站：页面浏览量只说明"有人看"，看点出去多少才说明
+        # "哪篇文章真的能带货" —— 这是做内容决策唯一有用的数字。
+        # 计数键加 /outbound 后缀，和浏览计数互不混淆。
+        return (
+            '<img src="https://hits.sh/%s.svg" width="1" height="1" '
+            'alt="" aria-hidden="true" '
+            'style="position:absolute;left:-9999px;top:0;border:0">\n'
+            "<script>\n"
+            "// 出站点击追踪（无 cookie、不阻塞跳转、只上报「这一页发出了点击」）\n"
+            "document.addEventListener('click', function (e) {\n"
+            "  var a = e.target && e.target.closest ? "
+            "e.target.closest('a[href*=\"amazon.com\"]') : null;\n"
+            "  if (!a) return;\n"
+            "  try {\n"
+            "    var k = %s + '/outbound';\n"
+            "    var i = new Image(1, 1);\n"
+            "    i.src = 'https://hits.sh/' + k + '.svg';\n"
+            "  } catch (err) {}\n"
+            "}, true);\n"
+            "</script>"
+            % (html.escape(key), json.dumps(key))
+        )
 
     def path(self, *parts):
         """Build a canonical site URL.
@@ -368,9 +387,27 @@ class Site:
 
     # ---------- page builders ----------
 
+    def affiliate_note(self):
+        """正文顶部的联盟披露（放在首个联盟链接之前）。
+
+        FTC 16 CFR 255 与 Amazon 运营协议都要求披露"清晰且显著"。
+        页脚那条是站级别的，够合规；但最佳实践是在读者【即将看到联盟链接】
+        的位置再明示一次 —— 这也是过审时审核员最容易看到的地方。
+        可用 monetization.affiliate_note: false 关掉。
+        """
+        # 注意：属性名是 self.money（见 __init__），不是 self.monetization
+        if not self.money.get("affiliate_note", True):
+            return ""
+        return ('<p class="affiliate-note"><em>This post contains affiliate links. '
+                'If you buy through them, we may earn a small commission at no extra '
+                'cost to you. We only link to products we could verify exist.</em></p>')
+
     def inline_links(self, related, category=""):
-        """Build a natural in-body paragraph linking to 1-2 related posts."""
-        picks = related[:2] if related else []
+        """Build a natural in-body paragraph linking to 3 related posts.
+
+        从 2 条提到 3 条：正文内链比文末列表权重更高，多一条就多一条通路。
+        """
+        picks = related[:3] if related else []
         linked = []
         for p in picks:
             title = html.escape(p["meta"].get("title", "this guide"))
@@ -379,8 +416,11 @@ class Site:
             return ""
         if len(linked) == 1:
             sentence = "While you're here, you might also like %s." % linked[0]
-        else:
+        elif len(linked) == 2:
             sentence = "If this helped, you'll also want to read %s and %s." % (linked[0], linked[1])
+        else:
+            sentence = ("If this helped, you'll also want to read %s, %s and %s."
+                        % (linked[0], linked[1], linked[2]))
         return '<p class="inline-links">%s</p>' % sentence
 
     def build_post(self, post, related):
@@ -391,6 +431,12 @@ class Site:
         md = markdown.Markdown(extensions=["tables", "fenced_code", "sane_lists"])
         body_html = md.convert(post["body"])
         body_html = amazon_links(body_html, self.tag)
+        # 披露语插在第一个段落之后（首个联盟链接之前），保证"先披露后链接"
+        note = self.affiliate_note()
+        if note:
+            m0 = re.search(r"</p>", body_html)
+            if m0:
+                body_html = body_html[:m0.end()] + "\n" + note + "\n" + body_html[m0.end():]
         ad = self.ad_unit()
         if ad:
             # insert an ad unit after the first paragraph
@@ -614,21 +660,41 @@ class Site:
 
         # About
         about = (
-            "<h1>About %s</h1>"
-            "<p>%s is a practical guide to saving money on your home. We research budget "
-            "kitchen appliances, storage solutions, cleaning supplies, and every-day "
-            "household buys so you can make smart, affordable choices.</p>"
-            "<p>Every guide is written to be honest and easy to read: no hype, no fluff, "
-            "just real recommendations that help you spend less without sacrificing "
-            "quality.</p>"
-            "<h2>How we work</h2>"
-            "<p>We compare products across price points, weigh the pros and cons, and "
-            "tell you what is genuinely worth your money. When you buy through links on "
-            "this site, we may earn a commission - it does not change the price you pay.</p>"
-            "<h2>Start exploring</h2>"
-            "<p>Browse all of our buying guides on the <a href=\"%s\">home page</a> or by "
-            "<a href=\"%s/categories/\">category</a>.</p>"
-            % (self.name, self.name, self.base, self.base)
+            '<h1>About %s</h1>'
+            '<p>%s is a practical buying guide for people who want a comfortable home '
+            'without overspending. We cover budget kitchen appliances, storage, '
+            'cleaning, home office, pets, garden and small energy savings - the '
+            'everyday purchases where a bad choice quietly costs you money for years.</p>'
+            '<h2>How we choose what to recommend</h2>'
+            '<p>We do not have a test lab, and we do not pretend to. Instead we work '
+            'from published manufacturer specifications, owner reviews, and one check '
+            'that most deal sites skip: <strong>every product we link to is verified to '
+            'actually exist on Amazon</strong>. We look the item up, match it against '
+            'the brand and model we intend to recommend, and discard it if the match '
+            'turns out to be a look-alike, an accessory, a bundle, or a different '
+            'capacity. A guide that sends you to a part instead of the product is worse '
+            'than no guide at all.</p>'
+            '<h2>What we will not do</h2>'
+            '<p>We will not claim we tested, bought, measured or owned a product we '
+            'have not. We will not invent a model number, a price, or a statistic to '
+            'make a paragraph look more authoritative. If we cannot verify something, '
+            'we leave it out - a shorter honest guide beats a longer confident one.</p>'
+            '<h2>How the site is funded</h2>'
+            '<p>%s is free to read. We earn a small commission when you buy through '
+            'some of our links, and we display advertising. Neither changes the price '
+            'you pay, and neither decides what we recommend - our picks are chosen '
+            'before we know whether a link will earn anything. See our '
+            '<a href="%s/privacy-policy/">privacy policy</a> for the full affiliate '
+            'disclosure.</p>'
+            '<h2>Corrections</h2>'
+            '<p>Prices, stock and model numbers change constantly. If you spot '
+            'something out of date or simply wrong, please '
+            '<a href="%s/contact/">tell us</a> and we will fix it.</p>'
+            '<h2>Start exploring</h2>'
+            '<p>Browse every guide on the <a href="%s">home page</a>, or jump straight '
+            'to a <a href="%s/categories/">category</a>.</p>'
+            % (self.name, self.name, self.name,
+               self.base, self.base, self.base, self.base)
         )
         self._trust_page("about", "About", about)
 
@@ -723,9 +789,9 @@ class Site:
         self.build_categories_index(posts)
         self.build_trust_pages()
         for i, post in enumerate(posts):
-            cat_posts = [p for p in posts if p["meta"].get("category") == post["meta"].get("category")
-                         and p is not post]
-            related = cat_posts[:3] if cat_posts else [p for p in posts if p is not post][:3]
+            # 相关性排序（而不是同分类前 3 篇）+ 5 篇：
+            # 让每篇文章都链向"最像它"的同伴，而不是永远链向同几个页面。
+            related = pick_related(post, posts, n=5)
             self.build_post(post, related)
         self.build_seo_files(posts)
         shutil.copytree(STATIC_DIR, OUT_DIR / "static", dirs_exist_ok=True)
@@ -745,5 +811,77 @@ def main():
     site.build(posts)
 
 
+# ---------------------------------------------------------------------------
+# 相关文章选择：按【相关性】而不是"同分类前 3 篇"
+# ---------------------------------------------------------------------------
+# 旧逻辑是 cat_posts[:3] —— 同分类里按文档顺序取前 3 篇。后果很严重：
+# 每个分类里固定那 2~3 篇吃掉全部内链权重，其余 20+ 篇几乎没有任何内链指向，
+# 读者也永远被推向同样几篇文章。内链是搜索引擎理解站点结构的主要信号，
+# 这个缺陷等于把整个分类的权重压在几个页面上。
+#
+# 这里改成余弦相似度（标题 + 描述 + 关键词 + 正文开头），同分类加权。
+# 同分类加权是有意的：读者点"空气炸锅"之后更可能想看同类内容，
+# 也能强化"分类 = 主题簇"的信号。跨分类高相关仍然保留通路。
+_STOP = set("""the a an and or of for to in on with without best cheap budget
+under over top guide how why what when which is are was were be been you your our
+their it its this that these those from by as at into than then them they we us
+about more most less least can could should would will just only also very
+really good great better worse than make makes made use uses used get gets got
+""".split())
+
+
+def _tokens(text):
+    return {w for w in re.findall(r"[a-z0-9]+", (text or "").lower())
+            if len(w) > 2 and w not in _STOP}
+
+
+_VEC_CACHE = {}
+
+
+def score_vec(post):
+    """把一篇文章压成一个词集合，用于算相关性（结果缓存，构建时只算一次）。"""
+    key = id(post)
+    v = _VEC_CACHE.get(key)
+    if v is None:
+        meta = post.get("meta", {})
+        parts = [meta.get("title", ""), meta.get("description", ""),
+                 " ".join(meta.get("keywords") or []),
+                 meta.get("category", ""),
+                 # 正文开头 1500 字符：足够表达主题，又不必扫全文
+                 " ".join((post.get("body") or "")[:1500].split())]
+        v = _tokens(" ".join(str(x) for x in parts))
+        _VEC_CACHE[key] = v
+    return v
+
+
+def _relevance(a, b):
+    if not a or not b:
+        return 0.0
+    # 用 sqrt 归一化，避免长文章天然占便宜
+    return len(a & b) / ((len(a) ** 0.5) * (len(b) ** 0.5))
+
+
+def pick_related(post, posts, n=5):
+    """按相关性挑 n 篇相关文章（同分类加权，结果确定性可复现）。"""
+    me = score_vec(post)
+    cat = post.get("meta", {}).get("category", "")
+    scored = []
+    for p in posts:
+        if p is post:
+            continue
+        s = _relevance(me, score_vec(p))
+        if p.get("meta", {}).get("category", "") == cat:
+            s += 0.25
+        scored.append((s, p))
+    # 同分时按 slug 排序，保证每次构建结果一致（否则 diff 会天天变）
+    scored.sort(key=lambda x: (-x[0], slug_of(x[1])))
+    return [p for _, p in scored[:n]]
+
+
+# 入口必须放在【所有定义之后】：
+# Python 是自上而下执行的，如果 __main__ 块写在前面，
+# main() 会在 pick_related 等函数定义之前被调用 -> NameError。
 if __name__ == "__main__":
     main()
+
+
