@@ -9,9 +9,9 @@ keywords:
 description: You don't need to spend $40 on a screwdriver set to fix a loose cabinet
   hinge or open up a laptop. But you do need one that won't strip screws or fall...
 ---
-You don't need to spend $40 on a screwdriver set to fix a loose cabinet hinge or open up a laptop. But you do need one that won't strip screws or fall apart on the second use. I've bought plenty of cheap sets over the years, and the difference between a good $12 set and a bad $12 set comes down to a few small details.
+You don't need to spend $40 on a screwdriver set to fix a loose cabinet hinge or open up a laptop. But you do need one that won't strip screws or fall apart on the second use. Plenty of cheap sets get bought over the years, and the difference between a good $12 set and a bad $12 set comes down to a few small details.
 
-Honestly, Magnetic tips are at the top of that list. A magnetized tip holds the screw so you can start it one-handed in a tight spot instead of chasing it across the floor. Here's what actually matters when you're shopping on a budget, plus the sets I'd recommend to a friend.
+Honestly, Magnetic tips are at the top of that list. A magnetized tip holds the screw so it can be started one-handed in a tight spot instead of chasing it across the floor. Here's what actually matters when shopping on a budget, plus the sets that are commonly recommended to a friend.
 
 ## What to look for in a cheap screwdriver set
 

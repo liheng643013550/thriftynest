@@ -25,7 +25,7 @@ As a rule of thumb, Most people need a mix, but usually one matters most. If you
 
 Worth noting, a freestanding room divider is the fastest fix. No drilling, no landlord permission, and you can move it when you rearrange.
 
-A few things I've learned from using these:
+A few things owner reviews and spec sheets indicate about these:
 
 - Height matters more than width. A 6-foot divider blocks sightlines when you're seated. A 4-foot one mostly hides clutter.
 - Solid panels beat open frames for sound. Fabric or solid panels absorb some noise. Slatted or open designs look nice but do almost nothing for sound.

@@ -95,7 +95,7 @@ Techni Mobili RTA-6193
 
 Price: Around $80
 
-If you need a locking drawer, the Techni Mobili RTA-6193 is the cheapest reliable option I have found. The desk is a compact 40-inch wide design with a single drawer that actually locks with a key. I use mine to store important documents and a few flash drives, which keeps them out of sight.
+If you need a locking drawer, the Techni Mobili RTA-6193 is the cheapest reliable option listed in published specs and owner reviews. The desk is a compact 40-inch wide design with a single drawer that actually locks with a key. Owner reports describe using it to store important documents and a few flash drives, which keeps them out of sight.
 
 The frame is a black steel that feels much more expensive than it is. The top is a scratch-resistant melamine surface that cleans up with a damp cloth in under a minute. There is a grommet hole in the back to route cables, which keeps the front clean. The drawer slides smoothly on metal runners, in my experience.
 

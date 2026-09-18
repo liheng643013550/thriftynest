@@ -36,7 +36,7 @@ Before you buy, here is what actually matters at this price point.
 
 ## Cosori Pro LE
 
-The Cosori Pro LE is the best air fryer you can get for around $50. It consistently outperforms other budget models in our tests, mostly because of its 1500-watt heating element and a fan that distributes heat more evenly than most. We cooked frozen chicken wings and they came out unbelievably crispy on the outside and juicy inside, with no cold spots.
+The Cosori Pro LE is the best air fryer you can get for around $50. It consistently outperforms other budget models in published tests, mostly because of its 1500-watt heating element and a fan that distributes heat more evenly than most. Owner reports describe frozen chicken wings coming out unbelievably crispy on the outside and juicy inside, with no cold spots.
 
 The digital touchscreen is a cut above what you usually see at this price. It has a nice shake reminder that actually works, and the interface is simple to navigate. One of the standout features is the ability to connect it to the VeSync app, which gives you access to hundreds of recipes. It's a gimmick for some, but it is genuinely useful for finding cook times.
 

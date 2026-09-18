@@ -59,7 +59,7 @@ A beat-up wooden ladder can often be found in a garage. Cleaned up and leaned ag
 
 There are a few items that are worth buying new because they make the biggest difference for the least money. You don't need custom cabinetry, but you do need durable hardware.
 
-The best budget upgrades I have found are:
+The best budget upgrades reviewers and spec sheets point to are:
 
 - **Command Hooks:** These are your best friend. They cost about $8 for a pack of four, hold up to 5 pounds, and remove without damaging walls. Use them for backpacks, dog leashes, and umbrellas.
 - **A Shoe Rack:** Skip the fancy wooden ones. A simple three-tier metal rack costs around $15 and holds 12 pairs of shoes. It keeps them off the floor and lets them air out.

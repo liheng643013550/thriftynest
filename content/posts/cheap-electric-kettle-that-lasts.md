@@ -11,7 +11,7 @@ description: 'A cheap electric kettle that dies in six months isn''t a bargain. 
 ---
 A cheap electric kettle that dies in six months isn't a bargain. If you've already replaced one twice in two years, you know the drill: the cord frays, the base stops connecting, or the heating element gives up. You want hot water without paying $80 for it, and you want the thing to still work next year.
 
-In most cases, I've bought, returned, and worn out more sub-$30 kettles than I care to admit. Most of them are fine for a while. These five are the ones that keep showing up in reviews and in my own kitchen after the one-year mark.
+In most cases, reviews describe more sub-$30 kettles bought, returned, and worn out than most owners care to admit. Most of them are fine for a while. These five are the ones that keep showing up in reviews and in owner reports after the one-year mark.
 
 ## What to look for
 

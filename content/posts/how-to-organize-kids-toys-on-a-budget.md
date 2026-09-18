@@ -9,7 +9,7 @@ keywords:
 description: 'Most families don''t have a toy problem — they have a storage problem.
   The toys multiply quietly: birthday party favors, happy meal prizes, a bin of bl...'
 ---
-Most families don't have a toy problem — they have a storage problem. The toys multiply quietly: birthday party favors, happy meal prizes, a bin of blocks that hasn't been opened since March. After years of stepping on LEGO bricks in my own house, I've learned that the fix isn't buying a fancy playroom system. It's a handful of cheap containers, a simple sorting routine, and rules your kids can actually follow without you standing over them.
+Most families don't have a toy problem — they have a storage problem. The toys multiply quietly: birthday party favors, happy meal prizes, a bin of blocks that hasn't been opened since March. After years of stepping on LEGO bricks in a typical household, the lesson from parent accounts is that the fix isn't buying a fancy playroom system. It's a handful of cheap containers, a simple sorting routine, and rules kids can actually follow without a parent standing over them.
 
 Worth noting, Here's how to organize kids' toys on a budget — and set it up so it stays organized.
 
@@ -61,7 +61,7 @@ You don't need a $300 cube organizer from a furniture store. Here are the budget
 
 Clear bins win for most families because kids can see what's inside without dumping everything out. If you want a set that stacks well and lasts, a [Sterilite 6-Quart Storage Bin](https://www.amazon.com/dp/B004QJKSTO?tag=__AMAZON_TAG__) runs about $5 at most stores and holds a full set of Magna-Tiles or a bin of cars.
 
-For stuffed animals, a mesh hanging toy hammock costs under $15 and frees up a whole corner of the room. It's one of the cheapest space-saving wins I've found, in practice.
+For stuffed animals, a mesh hanging toy hammock costs under $15 and frees up a whole corner of the room. It's one of the cheapest space-saving wins owners report, in practice.
 
 Skip anything with a lid that snaps shut for daily-use toys. Kids won't open it, and you'll end up with toys piled on top of the bin instead of inside it.
 

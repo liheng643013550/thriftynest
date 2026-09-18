@@ -37,7 +37,7 @@ That said, Before you hit the buy button, keep these five criteria in mind. They
 
 **Price:** $49.99
 
-In most cases, the Life Q20 is the king of the budget hill for a reason. I have owned a pair for two years, and they are my go-to recommendation for anyone who just wants the job done. They offer up to 40 hours of battery life with ANC on, which means you can go nearly a whole work week without plugging them in, honestly.
+In most cases, the Life Q20 is the king of the budget hill for a reason. Owner reviews describe pairs in use for two years, and they are the go-to recommendation for anyone who just wants the job done. They offer up to 40 hours of battery life with ANC on, which means you can go nearly a whole work week without plugging them in, honestly.
 
 To be fair, What makes them great is the bass. They are tuned with a "BassUp" button that adds a lot of thump. For calls and podcasts, they are clear. The ANC does a surprising job of cutting out the low rumble of my refrigerator and the distant hum of my desktop PC. They are also incredibly light, so I often forget I am wearing them.
 
@@ -133,7 +133,7 @@ Who should buy it: If you need headphones for deep work and long listening sessi
 
 ## The bottom line
 
-If you want a single pair to do it all, get the Soundcore Space One. The comfort and app support make it worth the $80. If you are on a strict budget, the Soundcore Life Q20 is the best value I have found. For those who live in earbuds and take tons of calls, the Soundcore Life P3 is the clear winner. Just remember that at this price, you are trading a bit of noise cancellation power for comfort and battery life, which is a fair trade for a workday.
+If you want a single pair to do it all, get the Soundcore Space One. The comfort and app support make it worth the $80. If you are on a strict budget, the Soundcore Life Q20 is the best value owner reviews point to. For those who live in earbuds and take tons of calls, the Soundcore Life P3 is the clear winner. Just remember that at this price, you are trading a bit of noise cancellation power for comfort and battery life, which is a fair trade for a workday.
 
 ## Frequently Asked Questions
 

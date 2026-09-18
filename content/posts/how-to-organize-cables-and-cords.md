@@ -6,10 +6,9 @@ category: organization
 type: howto
 keywords:
 - how to organize cables and cords
-description: I have a confession to make. For years, my “media center” was a black
-  hole of tangled wires hiding behind the TV stand. Every time I needed to plug in...
+description: "For years, a common media center setup has been a black hole of tangled wires hiding behind the TV stand, and every time something needs to be plugged in..."
 ---
-I have a confession to make. For years, my “media center” was a black hole of tangled wires hiding behind the TV stand. Every time I needed to plug in a phone charger, I’d have to wrestle with a nest of HDMI cables, power strips, and random USB cords that seemed to multiply overnight. It was frustrating, ugly, and honestly, a little dangerous with all that dust.
+A confession is in order. For years, the “media center” in many homes is a black hole of tangled wires hiding behind the TV stand. Every time a phone charger needs to be plugged in, there is a nest of HDMI cables, power strips, and random USB cords that seem to multiply overnight. It is frustrating, ugly, and honestly, a little dangerous with all that dust.
 
 From real-world use, But here’s the thing: fixing it doesn't require a professional electrician or a fancy custom-built cabinet. Owner reports describe entire setups done for under $10 using a few basic supplies available at any hardware store or online. In this guide, the exact same method owners describe using to tame the beast is laid out. The approach covers decluttering, sorting, and bundling cables so well that looking behind the desk actually becomes appealing.
 

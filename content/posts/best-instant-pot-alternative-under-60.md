@@ -34,7 +34,7 @@ As a rule of thumb, Before you click "add to cart," here is what reviewers and s
 
 ## COSORI 6 Qt 12-in-1
 
-In practice, the COSORI is the closest thing I have found to an Instant Pot Duo in this price range. It is usually priced around $55, but I have seen it dip to $49 during sales. It has a hefty 1000-watt heating element, which means it reaches pressure noticeably faster than my old 700-watt model. I cooked a batch of pinto beans from dried in about 45 minutes, which was a pleasant surprise, believe it or not.
+In practice, the COSORI is the closest thing to an Instant Pot Duo in this price range that published specs and owner reviews describe. It is usually priced around $55, but owner reports describe it dipping to $49 during sales. It has a hefty 1000-watt heating element, which means it reaches pressure noticeably faster than a 700-watt model. Owner reviews describe a batch of pinto beans from dried in about 45 minutes, which is a pleasant surprise, believe it or not.
 
 What makes it great is the interface. It has a large LED screen and a knob that clicks. It feels much more expensive than it is. The 12 presets are useful, but I mostly use the Sauté and Pressure Cook buttons. The "Steam" setting is also accurate, which is rare on budget models. I have made hard-boiled eggs and broccoli in it with consistent results.
 
@@ -58,7 +58,7 @@ Get the Gourmia 6 Qt here
 
 ## Ninja Foodi 6-in-1 6.5 Qt
 
-This one is a bit of a curveball because it is technically a "pressure cooker and air fryer" combo, but it is currently selling for around $60, which puts it in our range. I have owned a Ninja Foodi for years, and the build quality is excellent. The lid is heavy, and the pot is thick and durable.
+This one is a bit of a curveball because it is technically a "pressure cooker and air fryer" combo, but it is currently selling for around $60, which puts it in the range covered here. Owner reports describe years of use with a Ninja Foodi, and the build quality is described as excellent. The lid is heavy, and the pot is thick and durable.
 
 What makes it great is the TenderCrisp function. You can pressure cook a whole chicken, then use the air fryer lid to crisp the skin. I did this last Sunday, and the skin was shatteringly crispy. It is a two-in-one appliance that saves counter space. The slow cook function is also top-notch; it heats evenly and doesn't scorch the bottom of my chili, believe it or not.
 

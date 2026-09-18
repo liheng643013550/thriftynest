@@ -46,7 +46,7 @@ Buy this if you have a large vegetable garden and want to extend your season by 
 
 ## Easelshine Pop-Up Greenhouse
 
-For apartment dwellers and anyone with a tiny patio, the Easelshine pop-up is the most practical budget option I have found. At around $50, it is cheap enough to try without a big commitment. The whole thing unfolds like a camping tent, and you can have it standing in about five minutes with zero tools.
+For apartment dwellers and anyone with a tiny patio, the Easelshine pop-up is the most practical budget option widely cited. At around $50, it is cheap enough to try without a big commitment. The whole thing unfolds like a camping tent, and it can be standing in about five minutes with zero tools.
 
 The unit measures 27 inches wide, 27 inches deep, and 63 inches tall. It comes with five shelves, giving you ten tiers of growing space in a vertical footprint. I use mine on my balcony to start lettuce and herbs in early spring. The clear PVC cover zips shut completely, and the bottom has a skirt that I weigh down with bricks to keep it stable.
 
@@ -76,7 +76,7 @@ This is the best all-around budget greenhouse for a typical suburban backyard. I
 
 ## Pavilion 8x10 Greenhouse
 
-If you are ready to spend a bit more for a long-term investment, the Pavilion 8x10 is the most robust budget kit I have found. It costs around $300, but it honestly feels like a $600 greenhouse. The frame uses thicker-gauge steel with a matte black finish that resists rust better than any other model on this list.
+If you are ready to spend a bit more for a long-term investment, the Pavilion 8x10 is the most robust budget kit found in this research. It costs around $300, but owner reviews describe it as feeling like a $600 greenhouse. The frame uses thicker-gauge steel with a matte black finish that is described as resisting rust better than any other model on this list.
 
 The standout feature is the cover. It is a double-layer woven polyethylene with taped seams, and owner reports describe it surviving two full winters outdoors, including a snowstorm that dumped 14 inches on the roof. The double zippers on the door and the two roll-up side windows provide excellent airflow control. Owner reviews even describe keeping citrus trees alive through a mild winter using just a small space heater on the coldest nights.
 

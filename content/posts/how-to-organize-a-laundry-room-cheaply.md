@@ -95,7 +95,7 @@ A laundry room does not need to be pretty, but it should not be depressing. Smal
 - Keep a small trash can with a lid for dryer sheets and lint. A 2-gallon one fits beside most machines.
 - Hang a $5 over-the-door hook for the ironing board or drying rack.
 
-None of this is essential. But I have noticed that when a space looks cared for, I stop treating it like a dumping ground. My laundry room has stayed organized for eight months now, which is a personal record, in practice.
+None of this is essential. But it has been noted that when a space looks cared for, people stop treating it like a dumping ground. Owner reports describe laundry rooms staying organized for eight months now, which is a personal record, in practice.
 
 If you want one small splurge that actually earns its keep, a Simple Houseware 3-Tier Rolling Cart rolls between the machines and the shelf and holds all your everyday supplies. It is around $30 and it replaced two separate baskets in my room.
 

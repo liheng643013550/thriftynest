@@ -1,5 +1,5 @@
 ---
-title: Best 'Indestructible' Dog Toys on a Budget (We Tested the Claims)
+title: "Best 'Indestructible' Dog Toys on a Budget"
 slug: best-indestructible-dog-toys-budget
 date: '2026-08-22'
 category: pet

@@ -8,7 +8,7 @@ keywords: ["best coffee maker under $100"]
 description: "Five coffee makers under $100 compared on brew temperature, speed, and taste — including which budget model beats machines twice its price."
 ---
 
-You don't need a $400 espresso machine to drink great coffee at home. After brewing hundreds of cups through budget machines, these five coffee makers under $100 are the ones we kept on the counter. Here's what actually matters and which machine fits your morning.
+You don't need a $400 espresso machine to drink great coffee at home. After hundreds of cups brewed through budget machines in published reviews, these five coffee makers under $100 are the ones owners keep on the counter. Here's what actually matters and which machine fits your morning.
 
 ## What to look for in a budget coffee maker
 

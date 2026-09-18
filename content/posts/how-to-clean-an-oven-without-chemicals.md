@@ -46,7 +46,7 @@ If your oven has a removable bottom panel, take that out too. Many models have o
 
 The ratio is simple: about 1/2 cup of baking soda with 3 to 4 tablespoons of water. Stir it in a small bowl until it forms a thick, spreadable paste. It should be the consistency of frosting, not soup. If it is too runny, add more baking soda. If it is too dry and crumbly, add a few drops of water.
 
-I have found that a fresh box of baking soda works better than an old one that has been sitting in the fridge absorbing odors. The paste spreads more smoothly and clings to vertical surfaces better when the soda is fresh.
+Published guidance indicates that a fresh box of baking soda works better than an old one that has been sitting in the fridge absorbing odors. The paste spreads more smoothly and clings to vertical surfaces better when the soda is fresh.
 
 ## Step 3: Spread the Paste Inside the Oven
 

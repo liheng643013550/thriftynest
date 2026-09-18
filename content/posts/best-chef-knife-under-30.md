@@ -6,8 +6,7 @@ category: kitchen
 type: comparison
 keywords:
 - best chef knife under $30
-description: 'I have a confession: I used to think a $100 chef’s knife was the only
-  thing standing between me and culinary greatness. Then I moved, lost my fancy bl...'
+description: "A common assumption is that a $100 chef’s knife is the only thing standing between a cook and culinary greatness, but after a move and a lost fancy blade, that idea deserves a second look."
 ---
 A common assumption holds that a $100 chef’s knife is the only thing standing between a cook and culinary greatness. Then a move, a fancy blade lost in the chaos, and three months of making do with a $25 stopgap. That cheap knife changes minds. It chops onions, slices chicken, and minces garlic without a single complaint. It turns out you do not need to spend a fortune to get a blade that feels good in the hand and stays sharp through a busy week of cooking.
 
@@ -69,7 +68,7 @@ Get the KomKom Classic Chef Knife here
 
 Price: Around $25
 
-I will admit, I was skeptical of the KomKom. It looks like a cheap knockoff of a much more expensive German knife, but the performance surprised me. The blade is made from German stainless steel, and it arrived with a sharp edge that could easily compete with knives three times the price. The 8-inch blade is a standard size, but the knife feels smaller and lighter than it is, which is great for anyone with smaller hands or less wrist strength, believe it or not.
+Skepticism about the KomKom is understandable. It looks like a cheap knockoff of a much more expensive German knife, but the performance tends to surprise people. The blade is made from German stainless steel, and it arrives with a sharp edge that can easily compete with knives three times the price. The 8-inch blade is a standard size, but the knife feels smaller and lighter than it is, which is great for anyone with smaller hands or less wrist strength, believe it or not.
 
 The handle is a sleek, ergonomic black design that is comfortable for a pinch grip. It is well balanced, and the full tang adds a nice heft without making it unwieldy. Owner reviews describe breaking down a whole chicken, and the knife handling the joints with ease.
 
