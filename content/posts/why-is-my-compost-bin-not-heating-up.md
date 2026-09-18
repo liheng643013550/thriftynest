@@ -74,9 +74,9 @@ If you've fixed the ratio, moisture, airflow, and particle size, and the bin sti
 
 Two real options worth considering:
 
-The [Bokashi Living Bokashi Composter](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a 2-bucket fermenting system, typically around $60–$90 depending on the listing. It doesn't rely on heat at all — it ferments with inoculated bran — so the "not heating up" problem disappears entirely. It's a strong fit for a dorm because it's sealed and low-odor.
+The Bokashi Living Bokashi Composter is a 2-bucket fermenting system, typically around $60–$90 depending on the listing. It doesn't rely on heat at all — it ferments with inoculated bran — so the "not heating up" problem disappears entirely. It's a strong fit for a dorm because it's sealed and low-odor.
 
-The [FCMP Outdoor IM4000 Dual Chamber Tumbling Composter](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a 37-gallon dual-chamber tumbler, usually in the $100–$150 range. It's oversized for a dorm room, but if you have access to a balcony, porch, or a family home, it's the classic answer to poor airflow — you spin it instead of turning it by hand.
+The FCMP Outdoor IM4000 Dual Chamber Tumbling Composter is a 37-gallon dual-chamber tumbler, usually in the $100–$150 range. It's oversized for a dorm room, but if you have access to a balcony, porch, or a family home, it's the classic answer to poor airflow — you spin it instead of turning it by hand.
 
 For a strict dorm budget, the Bokashi Living unit is the more realistic pick. The FCMP Outdoor IM4000 only makes sense if you have outdoor space and a longer time horizon.
 

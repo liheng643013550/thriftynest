@@ -56,7 +56,7 @@ Parts availability is where off-brand tools fall apart. Generic impact drivers s
 
 If you are renting and space is tight, that matters twice over. You cannot store a dead tool "just in case," and you cannot afford to rebuy. Buying into a platform with a long, well-documented battery lineage is the cheapest insurance you can get.
 
-For a first-time renter, the practical picks are the [Ryobi PBLID02](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) if you want to start on the Ryobi 18V platform — it is one of the most widely supported battery ecosystems in the US, with batteries and chargers stocked in most home centers — and the [DeWalt DCF787](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) if you expect to keep building a tool collection over the next decade. Both are real, current models, and both take batteries you will still be able to buy in five years.
+For a first-time renter, the practical picks are the Ryobi PBLID02 if you want to start on the Ryobi 18V platform — it is one of the most widely supported battery ecosystems in the US, with batteries and chargers stocked in most home centers — and the DeWalt DCF787 if you expect to keep building a tool collection over the next decade. Both are real, current models, and both take batteries you will still be able to buy in five years.
 
 ## When it is NOT worth it
 
@@ -74,9 +74,9 @@ You are planning to drill holes rather than drive screws. An impact driver is th
 
 If you are on the fence, the honest budget move is a cordless drill/driver, not an impact driver.
 
-The [Black+Decker BDCDD12](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a compact 12V drill/driver that typically sells for well under $60 as a kit with a battery and charger. It has nowhere near impact-driver torque, but for hanging shelves, tightening furniture, and light assembly in an apartment, it covers most of what a first-time renter actually does. It is small enough to live in a kitchen drawer.
+The Black+Decker BDCDD12 is a compact 12V drill/driver that typically sells for well under $60 as a kit with a battery and charger. It has nowhere near impact-driver torque, but for hanging shelves, tightening furniture, and light assembly in an apartment, it covers most of what a first-time renter actually does. It is small enough to live in a kitchen drawer.
 
-If you want more capability without jumping to a full impact driver, the [Bosch PS31](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a 12V drill/driver that reviewers consistently praise for its compact size and clutch control — useful for precision work where an impact driver would be overkill. It costs more than the Black+Decker, generally in the $90 to $120 range for a kit.
+If you want more capability without jumping to a full impact driver, the Bosch PS31 is a 12V drill/driver that reviewers consistently praise for its compact size and clutch control — useful for precision work where an impact driver would be overkill. It costs more than the Black+Decker, generally in the $90 to $120 range for a kit.
 
 Neither will break loose a rusted bolt. Both will handle the projects most renters actually start with.
 
