@@ -60,7 +60,7 @@ Downsides: The app is a bit clunkier than WYZE’s, and the camera doesn’t hav
 
 Who should buy it: Budget-conscious folks who want a reliable camera with a privacy shutter and don’t mind buying a memory card for storage.
 
-[TP-Link Tapo C210](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+TP-Link Tapo C210
 
 ## YI Home Camera 2K
 
@@ -116,7 +116,7 @@ Downsides: It’s not a dedicated pet camera. No treats, no barking alerts. It�
 
 Who should buy it: Alexa users who want a simple, reliable camera for a single room and don’t need any pet-specific features.
 
-[Blink Mini](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Blink Mini
 
 ## The Bottom Line
 

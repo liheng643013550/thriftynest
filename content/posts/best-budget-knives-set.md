@@ -26,11 +26,11 @@ Before you click "add to cart," here is what actually matters when you are shopp
 
 | Product | Price | Best For | Key Pros |
 | :--- | :--- | :--- | :--- |
-| [KitchenAid Classic Multi-Purpose Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $30-$40 | First apartment | Great value, self-sharpening block |
+| KitchenAid Classic Multi-Purpose Set | $30-$40 | First apartment | Great value, self-sharpening block |
 | [Cuisinart Advantage Color Set](https://www.amazon.com/dp/B08FSGKS6S?tag=__AMAZON_TAG__) | $20-$30 | Students | Ultra-cheap, lightweight, colorful |
 | [Mercer Culinary Renaissance Set](https://www.amazon.com/dp/B0034612OK?tag=__AMAZON_TAG__) | $50-$70 | Home cooks who care | Professional quality, razor-sharp out of box |
-| [Chicago Cutlery Fusion 17-Piece Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $40-$50 | Full kitchen needs | Massive set, includes shears and steels |
-| [HENCKELS Statement 15-Piece Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $60-$80 | Everyday family meals | German-engineered, durable blades |
+| Chicago Cutlery Fusion 17-Piece Set | $40-$50 | Full kitchen needs | Massive set, includes shears and steels |
+| HENCKELS Statement 15-Piece Set | $60-$80 | Everyday family meals | German-engineered, durable blades |
 | [Imarku 8-Piece Set](https://www.amazon.com/dp/B0H8D1BYBL?tag=__AMAZON_TAG__) | $40-$50 | Heavy-duty chopping | Aesthetic design, sturdy full tang |
 | [Victorinox Fibrox Pro Set](https://www.amazon.com/dp/B0016O8PGA?tag=__AMAZON_TAG__) | $50-$70 | Serious value seekers | Grip is unbeatable, no frills |
 
@@ -38,7 +38,7 @@ Before you click "add to cart," here is what actually matters when you are shopp
 
 **Price:** Around $35
 
-The [KitchenAid Classic Multi-Purpose Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is often the first result when you search for budget knives, and for good reason. This set typically includes a chef's knife, a utility knife, a paring knife, and a bread knife, along with a wooden block that has a built-in sharpener.
+The KitchenAid Classic Multi-Purpose Set is often the first result when you search for budget knives, and for good reason. This set typically includes a chef's knife, a utility knife, a paring knife, and a bread knife, along with a wooden block that has a built-in sharpener.
 
 What makes it great is the self-sharpening block. Every time you pull a knife out, it passes through sharpening slots that hone the edge. This means you get a consistently sharp blade without any extra work. The knives are stainless steel and feel heavier than they look, which is nice for the price.
 
@@ -68,7 +68,7 @@ The downside is that the set is minimal. It does not include a bread knife or a 
 
 **Price:** Around $45
 
-For a full kitchen setup, the [Chicago Cutlery Fusion 17-Piece Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the ultimate value play. This set includes everything: a chef's knife, a bread knife, a carving knife, several utility and paring knives, kitchen shears, and a sharpening steel, all housed in a bamboo block.
+For a full kitchen setup, the Chicago Cutlery Fusion 17-Piece Set is the ultimate value play. This set includes everything: a chef's knife, a bread knife, a carving knife, several utility and paring knives, kitchen shears, and a sharpening steel, all housed in a bamboo block.
 
 What makes it great is the sheer volume. You will never be left hunting for the right tool. The blades are made from high-carbon stainless steel and feature a "Taper Grind" edge that is designed to stay sharp longer. The wooden handles are comfortable and have a classic look that fits in with most kitchen decor.
 
@@ -78,7 +78,7 @@ The downside is that the knives are not the highest quality individually. They a
 
 **Price:** Around $70
 
-HENCKELS is a German brand with a reputation for durability, and the [HENCKELS Statement 15-Piece Set](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is their entry-level offering that still delivers on that promise. This is a large set that includes all the essential knives plus steak knives and kitchen shears.
+HENCKELS is a German brand with a reputation for durability, and the HENCKELS Statement 15-Piece Set is their entry-level offering that still delivers on that promise. This is a large set that includes all the essential knives plus steak knives and kitchen shears.
 
 What makes it great is the construction. The blades are made from German stainless steel that is laser-controlled for precision. They are stamped, not forged, but the steel is treated to resist rust and corrosion. The handles are ergonomic and triple-riveted, giving them a sturdy, premium feel. This set is built to last through years of daily use.
 

@@ -40,7 +40,7 @@ Pair any of these with a $15 wireless keyboard and mouse. Raising the screen wit
 
 Price: about $21
 
-The [Nulaxy C1 Laptop Stand](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the one recommended to almost everyone. It's aluminum, so it pulls heat away from the bottom of the laptop instead of trapping it. Six height settings, and the whole thing folds flat enough to slide into a backpack pocket.
+The Nulaxy C1 Laptop Stand is the one recommended to almost everyone. It's aluminum, so it pulls heat away from the bottom of the laptop instead of trapping it. Six height settings, and the whole thing folds flat enough to slide into a backpack pocket.
 
 Honestly, it handles laptops up to 17 inches and about 22 lbs, which covers everything from a MacBook Air to a chunky Dell. My 14-inch work laptop sat rock steady through a full day of typing.
 
@@ -52,7 +52,7 @@ Who should buy it: anyone who wants one stand that works at a desk and on the ro
 
 Price: about $29
 
-If you own a MacBook and want the cleanest look on your desk, the [Rain Design mStand](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the classic pick. It's a single piece of curved aluminum with no moving parts, so there's nothing to break. The 15-degree angle and open back keep a MacBook Pro cool during long Zoom calls.
+If you own a MacBook and want the cleanest look on your desk, the Rain Design mStand is the classic pick. It's a single piece of curved aluminum with no moving parts, so there's nothing to break. The 15-degree angle and open back keep a MacBook Pro cool during long Zoom calls.
 
 It's also the sturdiest stand on this list. I could type on the laptop keyboard without any bounce, which isn't true of the plastic risers.
 
@@ -64,7 +64,7 @@ Who should buy it: MacBook users who want a fixed, attractive stand and never pl
 
 Price: about $26
 
-The [Soundance Laptop Stand](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) looks similar to the Nulaxy but has a slightly wider base and a stiffer hinge. That extra stability matters if you have a heavier 15-inch or 17-inch machine. It adjusts across roughly 6 inches of height, and the aluminum body dissipates heat well.
+The Soundance Laptop Stand looks similar to the Nulaxy but has a slightly wider base and a stiffer hinge. That extra stability matters if you have a heavier 15-inch or 17-inch machine. It adjusts across roughly 6 inches of height, and the aluminum body dissipates heat well.
 
 Rubber pads on the arms and base kept my laptop from sliding, even at the steepest angle.
 
@@ -76,7 +76,7 @@ Who should buy it: people with larger laptops who want a stand that stays put, b
 
 Price: about $17
 
-The [Amazon Basics Ventilated Laptop Stand](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the cheapest option that still does the job. It's a mesh-top riser that lifts your laptop about 5 inches and lets air move freely underneath. Ten dollars less than the aluminum stands, and it never gets hot.
+The Amazon Basics Ventilated Laptop Stand is the cheapest option that still does the job. It's a mesh-top riser that lifts your laptop about 5 inches and lets air move freely underneath. Ten dollars less than the aluminum stands, and it never gets hot.
 
 It's not adjustable, and it's plastic, so a heavy gaming laptop will flex it a bit. But for a 13-inch ultrabook on a tight budget, it's a solid pick.
 
@@ -88,7 +88,7 @@ Who should buy it: students and anyone who just wants their laptop off the desk 
 
 Price: about $23
 
-The [Liens Adjustable Stand](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) goes higher than most rivals, which makes it a good match if you're tall or you use an external monitor alongside your laptop. The wide base and dual hinges keep it stable even when raised near the top of its range. Aluminum construction, and it folds down for storage.
+The Liens Adjustable Stand goes higher than most rivals, which makes it a good match if you're tall or you use an external monitor alongside your laptop. The wide base and dual hinges keep it stable even when raised near the top of its range. Aluminum construction, and it folds down for storage.
 
 The extra height is described as genuinely useful for getting the webcam closer to eye level on video calls.
 
@@ -100,7 +100,7 @@ Who should buy it: taller users and anyone who switches between sitting and stan
 
 Price: about $20
 
-The [Boyata Laptop Stand](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the travel champ. It folds down to roughly the size of a thick paperback and weighs under a pound, so it disappears into a laptop bag. Six angle settings cover most desk and café setups.
+The Boyata Laptop Stand is the travel champ. It folds down to roughly the size of a thick paperback and weighs under a pound, so it disappears into a laptop bag. Six angle settings cover most desk and café setups.
 
 For the price, the build is surprisingly decent. It held my 3-lb laptop without slipping.
 
@@ -112,7 +112,7 @@ Who should buy it: frequent travelers and remote workers who bounce between loca
 
 Price: about $28
 
-The [Puma Laptop Stand](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) splits the difference between a travel stand and a desk stand. It has a sturdier frame than the Boyata, an ergonomic tilt that keeps your wrists straighter, and it still folds for transport. It handled a 15-inch laptop without complaint.
+The Puma Laptop Stand splits the difference between a travel stand and a desk stand. It has a sturdier frame than the Boyata, an ergonomic tilt that keeps your wrists straighter, and it still folds for transport. It handled a 15-inch laptop without complaint.
 
 The angled design also leaves a gap underneath for airflow, so the laptop stays cooler than it would on a flat surface.
 

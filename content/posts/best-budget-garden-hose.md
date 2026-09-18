@@ -55,7 +55,7 @@ It stays flexible down to freezing temperatures, which is a lifesaver in late fa
 
 **Who should buy it:** Buy this if you are tired of replacing hoses every two years. It’s the last hose you will need for a long time. It’s also the best choice for commercial-grade use around a heavy-duty home garden.
 
-[Craftsman Premium Rubber Hose](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Craftsman Premium Rubber Hose
 
 ## Gilmour Flexogen
 

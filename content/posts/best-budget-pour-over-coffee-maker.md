@@ -43,7 +43,7 @@ The Hario V60 is the gold standard for pour over. The spiral ridges and large si
 
 **Who should buy it:** If you like tinkering with your coffee and want to improve your technique over time, this is the one. It’s a great gift for someone who already enjoys coffee and wants to go deeper without spending a lot.
 
-[Buy the Hario V60 Ceramic](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the Hario V60 Ceramic
 
 ## Melitta Pour-Over
 
@@ -55,7 +55,7 @@ This is the most budget-friendly option on the list, and honestly, it’s a fant
 
 **Who should buy it:** This is perfect if you’re curious about pour over but don’t want to commit money or brainpower. It’s also great for dorm rooms, offices, or camping—anywhere you don’t want to worry about breaking something.
 
-[Buy the Melitta Pour-Over](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the Melitta Pour-Over
 
 ## Chemex Classic
 
@@ -67,7 +67,7 @@ The Chemex is more than a coffee maker; it’s a piece of laboratory glassware t
 
 **Who should buy it:** If you host brunch or drink coffee with a partner, this is ideal. It’s also a great option if you prefer a lighter, more delicate flavor profile over a heavy, full-bodied one.
 
-[Buy the Chemex Classic](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the Chemex Classic
 
 ## Kalita Wave
 
@@ -79,7 +79,7 @@ The Kalita Wave is often called the “forgiving” pour over. It has a flat bot
 
 **Who should buy it:** If you want great coffee without the ritual and precision, this is your best bet. It’s also excellent for beginners who want to learn the basics without getting frustrated.
 
-[Buy the Kalita Wave](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the Kalita Wave
 
 ## Bee House Ceramic Dripper
 
@@ -91,7 +91,7 @@ The Bee House is a workhorse. It’s a ceramic dripper with a flat bottom and a 
 
 **Who should buy it:** Anyone who wants a simple, no-nonsense brewer that will last for years. It’s a great choice for a daily commuter mug, as it’s stable and easy to use.
 
-[Buy the Bee House Ceramic Dripper](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the Bee House Ceramic Dripper
 
 ## AeroPress
 
@@ -103,7 +103,7 @@ Okay, it’s not a classic pour over, but the AeroPress is a budget brewer that 
 
 **Who should buy it:** Perfect for travelers, campers, or anyone who values speed and ease above all else. If you’re a beginner, it’s almost impossible to make a bad cup with this.
 
-[Buy the AeroPress](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the AeroPress
 
 ## Fellow Stagg XF
 
@@ -115,7 +115,7 @@ The Fellow Stagg is a more premium option that sometimes dips under $40. It’s 
 
 **Who should buy it:** If you want a high-end feel without a high-end price, this is a great pick. It’s ideal for someone who drinks a single, strong cup every morning and wants a durable, good-looking tool.
 
-[Buy the Fellow Stagg XF](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the Fellow Stagg XF
 
 ## The Bottom Line
 

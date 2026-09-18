@@ -27,7 +27,7 @@ You don’t need to spend $400 to get a set of pans that cooks well and survives
 | [T-fal Ultimate Hard Anodized 12-Piece](https://www.amazon.com/dp/B0GJFZNM9W?tag=__AMAZON_TAG__) | ~$140 | All-around family cooking | Durable hard-anodized body, oven-safe to 400°F, heavy-gauge lids |
 | [Cuisinart Chef's Classic 10-Piece](https://www.amazon.com/dp/B00008CM68?tag=__AMAZON_TAG__) | ~$130 | Stainless steel lovers on a budget | Triple-ply base, induction-ready, dishwasher-safe, no coating to wear off |
 | [GreenPan Valencia Pro 11-Piece](https://www.amazon.com/dp/B071HVQL76?tag=__AMAZON_TAG__) | ~$180 | Non-toxic nonstick seekers | PFAS-free ceramic, scratch-resistant, oven-safe to 600°F |
-| [Amazon Basics 12-Piece](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$70 | First apartment or dorm | Unbeatable price, decent nonstick, lightweight and easy to handle |
+| Amazon Basics 12-Piece | ~$70 | First apartment or dorm | Unbeatable price, decent nonstick, lightweight and easy to handle |
 | [Farberware Classic 10-Piece](https://www.amazon.com/dp/B08XWVYPM6?tag=__AMAZON_TAG__) | ~$90 | Simple, no-frills cooking | Classic stainless, lifetime warranty, heats evenly for the price |
 | [Calphalon Premier Space Saving 10-Piece](https://www.amazon.com/dp/B071XM6HTC?tag=__AMAZON_TAG__) | ~$200 | Small kitchens and storage | Stackable design, hard-anodized, comfortable handles |
 

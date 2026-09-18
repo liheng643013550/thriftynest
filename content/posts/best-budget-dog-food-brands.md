@@ -70,7 +70,7 @@ The downside is availability. It’s not always on the shelf at your local groce
 
 Who should buy it: Health-conscious owners on a budget who want a food with premium ingredients and no corn or wheat, and who are willing to shop at a pet store or order online.
 
-[Diamond Naturals](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Diamond Naturals
 
 ## Victor Hi-Pro Plus
 

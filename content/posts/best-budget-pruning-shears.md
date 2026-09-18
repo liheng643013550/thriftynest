@@ -50,7 +50,7 @@ That said, Who should buy it: serious gardeners, anyone with a big property, or 
 
 ## Corona BP 3180 ClassicCUT
 
-The [Corona BP 3180 ClassicCUT](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) sits in the sweet spot at about $28. The blades are forged, not stamped, which means they stay sharp longer and resist bending if you push them. It handles branches up to 1 inch, noticeably more than the Fiskars, and the shock-absorbing bumper cuts down on hand fatigue when you're making a lot of cuts.
+The Corona BP 3180 ClassicCUT sits in the sweet spot at about $28. The blades are forged, not stamped, which means they stay sharp longer and resist bending if you push them. It handles branches up to 1 inch, noticeably more than the Fiskars, and the shock-absorbing bumper cuts down on hand fatigue when you're making a lot of cuts.
 
 My one gripe is the size. It runs a bit large for smaller hands, and the lock can be stiff when new. Give it a week and it loosens up, honestly.
 
@@ -74,7 +74,7 @@ Who should buy it: budget shoppers who want more features than the Fiskars but d
 
 ## Bahco PX-M2 Ergo
 
-The [Bahco PX-M2 Ergo](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is built for comfort. The handles are shaped to fit your hand, and the steel spring is strong and durable. At around $35, it's a middle-ground option that feels more premium than the price suggests. The blade holds an edge well and the whole thing feels balanced.
+The Bahco PX-M2 Ergo is built for comfort. The handles are shaped to fit your hand, and the steel spring is strong and durable. At around $35, it's a middle-ground option that feels more premium than the price suggests. The blade holds an edge well and the whole thing feels balanced.
 
 The main downside is the ergonomic shape. It's great for medium to large hands but can feel bulky if yours are small. It's also heavier than the ARS, honestly.
 

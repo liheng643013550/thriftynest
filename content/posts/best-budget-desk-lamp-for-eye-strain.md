@@ -46,7 +46,7 @@ It also has a USB port on the base, which is handy for charging your phone or wi
 
 **Who should buy it:** Anyone who wants a reliable, feature-packed lamp for daily work or study without thinking too hard. It is the best all-rounder under $40.
 
-[Buy the TaoTronics LED Desk Lamp](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the TaoTronics LED Desk Lamp
 
 ## Lepro LED Desk Lamp
 
@@ -60,7 +60,7 @@ The light quality is very good for the price. It is flicker-free and easy on the
 
 **Who should buy it:** Students or anyone who wants a no-fuss lamp that looks clean and does the job. It is perfect for dorm rooms or small apartments.
 
-[Buy the Lepro LED Desk Lamp](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the Lepro LED Desk Lamp
 
 ## TCL LED Desk Lamp
 
@@ -74,7 +74,7 @@ It has a stepless dimmer and adjustable color temperature. The arms are stiff an
 
 **Who should buy it:** People who work with physical documents, blueprints, or detailed crafts that need broad, bright illumination. If you have a large desk, this is a great choice.
 
-[Buy the TCL LED Desk Lamp](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the TCL LED Desk Lamp
 
 ## BenQ e-Reading LED Lamp
 
@@ -88,7 +88,7 @@ The curved light bar is unique. It spreads light evenly across a wide area, redu
 
 **Who should buy it:** People who spend eight-plus hours a day at their desk and want the best eye-comfort technology available under $40. It is worth the small price premium.
 
-[Buy the BenQ e-Reading LED Lamp](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the BenQ e-Reading LED Lamp
 
 ## Luminoodle LED Desk Lamp
 
@@ -102,7 +102,7 @@ It does not have the fancy features of the others, but it provides clean, flicke
 
 **Who should buy it:** Anyone on a strict budget who needs a lamp that works. It is also a great option for a kid's room or a temporary setup.
 
-[Buy the Luminoodle LED Desk Lamp](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the Luminoodle LED Desk Lamp
 
 ## Lepro Clip-On LED Lamp
 
@@ -116,7 +116,7 @@ It has three brightness levels and three color temperatures. The light is surpri
 
 **Who should buy it:** People with cluttered desks, small workspaces, or those who prefer a minimalist setup. It is perfect for attaching to a monitor stand or a shelf.
 
-[Buy the Lepro Clip-On LED Lamp](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the Lepro Clip-On LED Lamp
 
 ## Philips Hue Play Light Bar
 
@@ -130,7 +130,7 @@ It connects to the Philips Hue app, offering millions of colors and adjustable w
 
 **Who should buy it:** Tech-savvy users who already have a smart home setup or who want to reduce eye strain from screen glare specifically. It is a great addition to a gaming or productivity setup.
 
-[Buy the Philips Hue Play Light Bar](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the Philips Hue Play Light Bar
 
 ## The Bottom Line
 

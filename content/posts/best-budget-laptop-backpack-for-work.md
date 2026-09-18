@@ -67,7 +67,7 @@ The padding is good, though not as plush as the Targus. The back panel is padded
 
 Who should buy it? This is aimed at anyone who carries a 17-inch laptop. Most budget bags stop at 15.6 inches, but this one is listed to fit a big gaming or workstation laptop with room to spare. The price is incredible for the capacity.
 
-[SwissGear 1900 Scansmart](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+SwissGear 1900 Scansmart
 
 ## Lenovo Legion Armored Backpack
 

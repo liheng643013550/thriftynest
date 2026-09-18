@@ -42,7 +42,7 @@ In practice, the downside is that the steel construction makes it heavier than a
 
 Buy this if you want one hammer that will last for decades and you don’t mind a little extra weight. It’s the best all-around budget hammer I’ve found.
 
-[Estwing E16-16](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Estwing E16-16
 
 ## Stanley FatMax Xtreme
 
@@ -54,7 +54,7 @@ The main downside is the rubber grip. It’s aggressive and grippy, which is goo
 
 Buy this if you’re doing framing, decking, or any project with lots of heavy nailing. It’s the best budget framing hammer I’ve tested, in practice.
 
-[Stanley FatMax Xtreme](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Stanley FatMax Xtreme
 
 ## Vaughan 16 oz Curved Claw
 
@@ -78,7 +78,7 @@ The downside is that it’s not great for heavy demolition. If you need to break
 
 Buy this if you assemble furniture, do light construction, or need a hammer that won’t leave dents. It’s a great cheap addition to any toolbox.
 
-[Wilmar 20 oz Rubber Mallet](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Wilmar 20 oz Rubber Mallet
 
 ## Husky 16 oz Fiberglass
 
@@ -90,7 +90,7 @@ The downsides are that the balance isn’t as refined as the Estwing, and the gr
 
 Buy this if you’re just starting out or you need a spare hammer for the garage. It’s a solid, cheap option that won’t disappoint, honestly.
 
-[Husky 16 oz Fiberglass](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Husky 16 oz Fiberglass
 
 ## Milwaukee 16 oz Framing
 
@@ -114,11 +114,11 @@ The downside is that the handle is thicker than most, so it might feel bulky if 
 
 Buy this if you have wrist or elbow issues, or if you just want the most comfortable hammer for the money.
 
-[Fiskars IsoCore 16 oz](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Fiskars IsoCore 16 oz
 
 ## The bottom line
 
-If you only buy one hammer, go with the [Estwing E16-16](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). It’s the best combination of durability, performance, and price. For framing, grab the [Stanley FatMax Xtreme](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). And if you want the most comfortable swing, the [Fiskars IsoCore](https://www.amazon.com/dp/B07DL1G86B?tag=__AMAZON_TAG__) is worth the extra few bucks. No matter which you choose, you’ll have a tool that handles 99% of what a homeowner needs, without breaking the bank.
+If you only buy one hammer, go with the Estwing E16-16. It’s the best combination of durability, performance, and price. For framing, grab the Stanley FatMax Xtreme. And if you want the most comfortable swing, the [Fiskars IsoCore](https://www.amazon.com/dp/B07DL1G86B?tag=__AMAZON_TAG__) is worth the extra few bucks. No matter which you choose, you’ll have a tool that handles 99% of what a homeowner needs, without breaking the bank.
 
 ## Frequently Asked Questions
 

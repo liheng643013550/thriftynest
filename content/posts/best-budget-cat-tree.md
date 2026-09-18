@@ -29,10 +29,10 @@ Here’s a quick look at the top contenders.
 | :--- | :--- | :--- | :--- |
 | [Amazon Basics Cat Tree](https://www.amazon.com/dp/B06X6J3L65?tag=__AMAZON_TAG__) | $40-$50 | Small cats & tight spaces | Low price, easy assembly, lightweight |
 | [Feandrea Cat Tree](https://www.amazon.com/dp/B0BR561TK3?tag=__AMAZON_TAG__) | $55-$60 | Multi-cat households | Sturdy build, large perch, modern look |
-| [YUNITY Cat Tree](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $45-$55 | Tall scratching | 45-inch height, solid sisal posts |
-| [Pawz Road Cat Tree](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $50-$60 | Active jumpers | Wide base, multiple levels, good sisal |
-| [VANVENE Cat Tree](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $35-$45 | First-time buyers | Very cheap, simple design, functional |
-| [Mewoo Cat Tree](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | $40-$50 | Smaller apartments | Compact footprint, includes toys, quiet |
+| YUNITY Cat Tree | $45-$55 | Tall scratching | 45-inch height, solid sisal posts |
+| Pawz Road Cat Tree | $50-$60 | Active jumpers | Wide base, multiple levels, good sisal |
+| VANVENE Cat Tree | $35-$45 | First-time buyers | Very cheap, simple design, functional |
+| Mewoo Cat Tree | $40-$50 | Smaller apartments | Compact footprint, includes toys, quiet |
 
 ---
 
@@ -48,7 +48,7 @@ What makes it great is the price-to-function ratio. It does exactly what it says
 
 **Who should buy it:** Single-cat households with a cat under 10 pounds. It’s also a great "starter" tree to see if your cat even likes climbing before you invest in a bigger one.
 
-[Buy the Amazon Basics Cat Tree here](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the Amazon Basics Cat Tree here
 
 ---
 
@@ -64,7 +64,7 @@ The build quality here is a step up from the Amazon Basics. The platforms are th
 
 **Who should buy it:** People who want a cat tree that doesn't look cheap. It’s sturdy enough for two smaller cats and has enough features (perch + condo) to keep them entertained.
 
-[Buy the Feandrea Cat Tree here](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the Feandrea Cat Tree here
 
 ---
 
@@ -80,7 +80,7 @@ The posts are wrapped in dense, natural sisal rope. This is important because it
 
 **Who should buy it:** Owners of cats that scratch furniture. If you want to save your sofa, this tree provides the most scratching surface area per dollar.
 
-[Buy the YUNITY Cat Tree here](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the YUNITY Cat Tree here
 
 ---
 
@@ -96,7 +96,7 @@ The platforms are covered in a high-pile plush that is incredibly soft. Owner re
 
 **Who should buy it:** Active cats that love to jump from perch to perch. The wide base ensures it won't topple over during a high-speed chase.
 
-[Buy the Pawz Road Cat Tree here](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the Pawz Road Cat Tree here
 
 ---
 
@@ -112,7 +112,7 @@ For the price, it's surprisingly stable. The base is wider than you'd expect for
 
 **Who should buy it:** Anyone on a super tight budget or who needs a temporary tree for a growing kitten. It's also a good option for a second tree to put in a home office or bedroom.
 
-[Buy the VANVENE Cat Tree here](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the VANVENE Cat Tree here
 
 ---
 
@@ -128,7 +128,7 @@ The standout feature is the quiet. The posts are wrapped in a soft fabric rather
 
 **Who should buy it:** Apartment dwellers and people with smaller cats. It’s a great value for the features included, especially if you need a quiet tree that won't disturb the neighbors.
 
-[Buy the Mewoo Cat Tree here](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Buy the Mewoo Cat Tree here
 
 ---
 

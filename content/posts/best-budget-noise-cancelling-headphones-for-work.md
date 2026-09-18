@@ -45,7 +45,7 @@ The downsides are the plastic build and the clamping force. They are not going t
 
 Who should buy it: If you want the safest bet for a long battery life and don't mind a slightly tight fit, this is it, in my experience.
 
-[Anker Soundcore Life Q20](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Anker Soundcore Life Q20
 
 ## Soundcore Space One
 
@@ -101,7 +101,7 @@ The downside is the fit. The earcups are a bit shallow, so my ears touch the ins
 
 Who should buy it: If you are a bass lover who uses headphones for music while coding or writing, these will make your playlists sound great.
 
-[JBL Tune 770NC](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+JBL Tune 770NC
 
 ## Soundcore Life P3
 
@@ -115,7 +115,7 @@ The downsides are the size. The case is bulky compared to the P20i, and the buds
 
 Who should buy it: If you are constantly on voice and video calls and want the best microphone quality under $100, these earbuds are your best bet.
 
-[Soundcore Life P3](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Soundcore Life P3
 
 ## Tribit QuietPlus 78
 

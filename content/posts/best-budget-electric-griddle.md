@@ -51,7 +51,7 @@ Who should buy it: This is for anyone who cooks for four or more people regularl
 
 ## Hamilton Beach 20-inch Electric Griddle
 
-[Hamilton Beach 20-inch Electric Griddle](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is priced at about $35 and offers a solid middle ground between size and price. The 20-inch by 10.5-inch surface gives you around 210 square inches, which is enough for six pancakes or four servings of bacon and eggs.
+Hamilton Beach 20-inch Electric Griddle is priced at about $35 and offers a solid middle ground between size and price. The 20-inch by 10.5-inch surface gives you around 210 square inches, which is enough for six pancakes or four servings of bacon and eggs.
 
 What makes it great: The temperature dial has clear markings and a true "warm" setting that works well for keeping food hot while you finish cooking. The heating element cycles reliably, so you get steady heat without constant fluctuations. The nonstick surface is smooth and holds up well with regular use. The drip tray slides out for easy cleaning, and the griddle surface wipes down with a damp cloth—no need to submerge the whole unit.
 
@@ -61,7 +61,7 @@ Who should buy it: This is a great pick for couples or small families who want a
 
 ## Black+Decker 20-inch Electric Griddle
 
-[Black+Decker 20-inch Electric Griddle](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) comes in at around $30, making it one of the cheapest full-size options on the market. The surface is 20 inches by 10 inches, about 200 square inches. It's a basic griddle, but it does the job.
+Black+Decker 20-inch Electric Griddle comes in at around $30, making it one of the cheapest full-size options on the market. The surface is 20 inches by 10 inches, about 200 square inches. It's a basic griddle, but it does the job.
 
 What makes it great: The price is the main draw here. You get a large cooking surface for less than the cost of a nice cast-iron skillet. The nonstick coating works well for the first year or so, and the temperature dial has a decent range from warm to 400 degrees. The drip tray is removable and dishwasher-safe, which is a nice touch at this price point.
 
@@ -71,7 +71,7 @@ Who should buy it: This is for someone who wants a griddle for occasional use—
 
 ## Oster 20-inch Electric Griddle
 
-[Oster 20-inch Electric Griddle](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is priced at about $38 and adds a few thoughtful features that make it easier to use. The 20-inch by 10.5-inch surface is standard for this category, but the design stands out.
+Oster 20-inch Electric Griddle is priced at about $38 and adds a few thoughtful features that make it easier to use. The 20-inch by 10.5-inch surface is standard for this category, but the design stands out.
 
 What makes it great: The cool-touch handles are a real upgrade—you can move the griddle while it's hot without needing oven mitts. The drip tray is dishwasher-safe, and the entire griddle surface can be removed for cleaning. The temperature control has a "keep warm" setting that actually holds a low temperature without scorching your food. The nonstick surface is smooth and releases food easily.
 
@@ -81,7 +81,7 @@ Who should buy it: This is a solid choice for anyone who values convenience feat
 
 ## Elite Gourmet 18-inch Electric Griddle
 
-[Elite Gourmet 18-inch Electric Griddle](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the smallest and cheapest on our list at about $28. The 18-inch by 10-inch surface gives you around 180 square inches, which fits four pancakes at a time. It's compact and lightweight, weighing just over three pounds.
+Elite Gourmet 18-inch Electric Griddle is the smallest and cheapest on our list at about $28. The 18-inch by 10-inch surface gives you around 180 square inches, which fits four pancakes at a time. It's compact and lightweight, weighing just over three pounds.
 
 What makes it great: The size is perfect for small kitchens, dorm rooms, or anyone who cooks for one or two people. It heats up fast—about three minutes to reach cooking temperature—and the nonstick surface works well for eggs, pancakes, and quesadillas. The temperature dial has a warm setting and a high setting, with a clear range in between. It's also the easiest to store, sliding into a cabinet or on a shelf without taking up much room.
 
@@ -101,7 +101,7 @@ Who should buy it: This is for someone who cooks for a crowd on a regular basis�
 
 ## Proctor Silex 21-inch Electric Griddle
 
-[Proctor Silex 21-inch Electric Griddle](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is priced at about $32 and offers a good balance of size and simplicity. The 21-inch by 10-inch surface gives you 210 square inches, and the design is straightforward.
+Proctor Silex 21-inch Electric Griddle is priced at about $32 and offers a good balance of size and simplicity. The 21-inch by 10-inch surface gives you 210 square inches, and the design is straightforward.
 
 What makes it great: It heats up quickly, reaching cooking temperature in about four minutes. The temperature dial is simple with clear markings, and the thermostat holds a steady temperature. The nonstick surface works well and is easy to clean with a quick wipe. The drip tray is removable and dishwasher-safe. It's also one of the lighter full-size griddles, at around four pounds.
 
@@ -113,8 +113,8 @@ Who should buy it: This is a good all-around choice for anyone who wants a relia
 
 For most people, the [Presto 22-inch Electric Griddle](https://www.amazon.com/dp/B01G7DM7X6?tag=__AMAZON_TAG__) is the best budget pick. It has the largest surface, the most even heat, and the bonus of being fully submersible for easy cleaning. At $40, it's a small price to pay for a griddle that will last for years.
 
-If you're on a tighter budget or only cook for one or two, the [Elite Gourmet 18-inch Electric Griddle](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a solid choice at $28. It's compact, fast, and easy to store.
+If you're on a tighter budget or only cook for one or two, the Elite Gourmet 18-inch Electric Griddle is a solid choice at $28. It's compact, fast, and easy to store.
 
-If you want the best value for a mid-size family, the [Hamilton Beach 20-inch Electric Griddle](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) at $35 hits the sweet spot. It's reliable, easy to use, and doesn't cost much more than the cheapest options.
+If you want the best value for a mid-size family, the Hamilton Beach 20-inch Electric Griddle at $35 hits the sweet spot. It's reliable, easy to use, and doesn't cost much more than the cheapest options.
 
 Skip the Black+Decker if you cook often—the hot spots get annoying. Spring for the Presto or Bella instead. Your pancakes will thank you.

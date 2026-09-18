@@ -28,7 +28,7 @@ Before you click "buy," check these five things to make sure you do not end up w
 | [HUANUO Single Monitor Mount](https://www.amazon.com/dp/B07CHKWNKC?tag=__AMAZON_TAG__) | ~$30 | Standard 24-inch office monitors | Cheap, solid aluminum, easy tilt |
 | [VIVO Single Monitor Arm](https://www.amazon.com/dp/B07TWYHCZH?tag=__AMAZON_TAG__) | ~$35 | Heavy 27-inch monitors | High weight capacity, steel build |
 | [MOUNTUP Single Monitor Mount](https://www.amazon.com/dp/B07Z7ZGHD5?tag=__AMAZON_TAG__) | ~$32 | Ultra-wide screens | Wide VESA plates, strong gas spring |
-| [NB North Bayou F80](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$25 | Extreme budget builds | Cheapest reliable arm, compact |
+| NB North Bayou F80 | ~$25 | Extreme budget builds | Cheapest reliable arm, compact |
 | [WALI Single Monitor Mount](https://www.amazon.com/dp/B0DGPZR6P1?tag=__AMAZON_TAG__) | ~$30 | Dual-arm setups | Solid base, good cable management |
 | [ErGear Single Monitor Arm](https://www.amazon.com/dp/B0GWW758T8?tag=__AMAZON_TAG__) | ~$40 | Height-adjustable workstations | Tall pole, smooth gas spring |
 
@@ -68,7 +68,7 @@ The downside is the cable management. The clips are small and plastic, and they 
 
 Who should buy it: If you have an ultrawide monitor or just want the smoothest height adjustment under $50, pick the MOUNTUP.
 
-## [NB North Bayou F80](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+## NB North Bayou F80
 
 **Price:** ~$25
 
@@ -106,4 +106,4 @@ Who should buy it: If you want the most adjustable and best-looking budget arm, 
 
 ## The bottom line
 
-You do not need to spend $150 on a monitor arm to fix your posture. For under $50, the [HUANUO Single Monitor Mount](https://www.amazon.com/dp/B07CHKWNKC?tag=__AMAZON_TAG__) is the best all-around pick for most people—it is cheap, reliable, and easy to install. If you have a heavy monitor, go with the [VIVO Single Monitor Arm](https://www.amazon.com/dp/B07TWYHCZH?tag=__AMAZON_TAG__). If you have an ultrawide, grab the [MOUNTUP Single Monitor Mount](https://www.amazon.com/dp/B07Z7ZGHD5?tag=__AMAZON_TAG__). And if you are truly broke, the [NB North Bayou F80](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) will hold your screen off the desk without complaint. Measure your desk, check your VESA pattern, and pick one. Your neck will thank you.
+You do not need to spend $150 on a monitor arm to fix your posture. For under $50, the [HUANUO Single Monitor Mount](https://www.amazon.com/dp/B07CHKWNKC?tag=__AMAZON_TAG__) is the best all-around pick for most people—it is cheap, reliable, and easy to install. If you have a heavy monitor, go with the [VIVO Single Monitor Arm](https://www.amazon.com/dp/B07TWYHCZH?tag=__AMAZON_TAG__). If you have an ultrawide, grab the [MOUNTUP Single Monitor Mount](https://www.amazon.com/dp/B07Z7ZGHD5?tag=__AMAZON_TAG__). And if you are truly broke, the NB North Bayou F80 will hold your screen off the desk without complaint. Measure your desk, check your VESA pattern, and pick one. Your neck will thank you.

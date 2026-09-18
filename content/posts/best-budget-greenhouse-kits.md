@@ -27,12 +27,12 @@ Before you click buy, consider these five criteria to avoid wasting money on a k
 
 | Product | Price | Best For | Key Pros |
 | --- | --- | --- | --- |
-| [Quictent 10x20 Greenhouse](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$200 | Large backyard growers | Heavy-duty frame, two roll-up doors, extended cover warranty |
-| [Easelshine Pop-Up Greenhouse](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$50 | Balconies and small patios | No tools needed, assembles in 5 minutes, includes shelves |
+| Quictent 10x20 Greenhouse | ~$200 | Large backyard growers | Heavy-duty frame, two roll-up doors, extended cover warranty |
+| Easelshine Pop-Up Greenhouse | ~$50 | Balconies and small patios | No tools needed, assembles in 5 minutes, includes shelves |
 | [Outsunny Walk-In Greenhouse](https://www.amazon.com/dp/B0DP9KFZVK?tag=__AMAZON_TAG__) | ~$90 | Beginners on a tight budget | Clear cover maximizes light, 4 shelves, sturdy powder-coated frame |
-| [VIVOSUN 6x8 Greenhouse](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$160 | All-around versatility | Strong steel frame, easy sliding zipper door, good ventilation |
-| [Pavilion 8x10 Greenhouse](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$300 | Serious seed starters | Commercial-grade frame, double zippers, UV-resistant cover |
-| [Flower House 6x4 Greenhouse](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$70 | Patio and deck growing | Compact footprint, includes 4 shelves, easy access zipper |
+| VIVOSUN 6x8 Greenhouse | ~$160 | All-around versatility | Strong steel frame, easy sliding zipper door, good ventilation |
+| Pavilion 8x10 Greenhouse | ~$300 | Serious seed starters | Commercial-grade frame, double zippers, UV-resistant cover |
+| Flower House 6x4 Greenhouse | ~$70 | Patio and deck growing | Compact footprint, includes 4 shelves, easy access zipper |
 
 ## Quictent 10x20 Greenhouse
 

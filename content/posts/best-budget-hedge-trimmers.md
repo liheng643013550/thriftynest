@@ -45,7 +45,7 @@ The blades are fully hardened steel, and they stay sharp for a long time. I’ve
 
 ## Scotts Outdoor Power Tools 22-Inch Hedge Trimmer
 
-This [Scotts Outdoor Power Tools 22-Inch Hedge Trimmer](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a bit of a hidden gem. It’s often cheaper than the big-name brands, but it performs just as well for light-duty work. It has a 4.2-amp motor, which is plenty for small bushes. Owner reviews describe the blade speed as slightly slower than a Black+Decker, but that actually gives you more control if you’re a beginner.
+This Scotts Outdoor Power Tools 22-Inch Hedge Trimmer is a bit of a hidden gem. It’s often cheaper than the big-name brands, but it performs just as well for light-duty work. It has a 4.2-amp motor, which is plenty for small bushes. Owner reviews describe the blade speed as slightly slower than a Black+Decker, but that actually gives you more control if you’re a beginner.
 
 The design is simple and lightweight at just over 5 pounds. I trimmed a line of small laurels without feeling any vibration fatigue. The main downside is the lack of a rotating handle, which makes vertical cuts on the top of tall hedges a bit awkward. You have to angle your wrist a little.
 
@@ -53,7 +53,7 @@ The design is simple and lightweight at just over 5 pounds. I trimmed a line of 
 
 ## Black+Decker 20V Cordless Hedge Trimmer
 
-The [Black+Decker 20V Cordless Hedge Trimmer](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the most expensive item on this list, but it’s worth the stretch if you hate cords. I have this model, and the 20V Lithium battery gives me about 45 minutes of run time, which is enough to do my entire front and back yard if I’m efficient. The 22-inch blade is a great length for reaching across the top of shrubs.
+The Black+Decker 20V Cordless Hedge Trimmer is the most expensive item on this list, but it’s worth the stretch if you hate cords. I have this model, and the 20V Lithium battery gives me about 45 minutes of run time, which is enough to do my entire front and back yard if I’m efficient. The 22-inch blade is a great length for reaching across the top of shrubs.
 
 The best part is the cordless convenience. No extension lead, no fighting with the cord getting tangled in the branches. The downside is that it isn't a powerhouse. If you try to cut through anything thicker than 1/2 inch, it tends to stall and slow down. You have to go slow.
 
@@ -61,7 +61,7 @@ The best part is the cordless convenience. No extension lead, no fighting with t
 
 ## Greenworks 22-Inch Corded Hedge Trimmer
 
-For pure value, the [Greenworks 22-Inch Corded Hedge Trimmer](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is hard to beat. It packs a 4.5-amp motor that chews through overgrown hedges without bogging down. Owner reviews describe it cutting through a rather wild forsythia bush with branches thicker than a thumb, and it handled them with ease. The dual-action blades reduce vibration significantly, so hands reportedly don't go numb.
+For pure value, the Greenworks 22-Inch Corded Hedge Trimmer is hard to beat. It packs a 4.5-amp motor that chews through overgrown hedges without bogging down. Owner reviews describe it cutting through a rather wild forsythia bush with branches thicker than a thumb, and it handled them with ease. The dual-action blades reduce vibration significantly, so hands reportedly don't go numb.
 
 It’s a corded tool, so you need to be near an outlet, but the 22-inch blade lets you cover a lot of ground quickly. The rubberized grip is comfortable, and the wrap-around handle makes it easy to flip for top cuts. The downside is the cord management; you will need to be careful not to cut the cord if you are working around the base of the hedge.
 
@@ -69,7 +69,7 @@ It’s a corded tool, so you need to be near an outlet, but the 22-inch blade le
 
 ## Worth Garden Bypass Hedge Shears
 
-If you want to go as cheap as possible without buying junk, the [Worth Garden Bypass Hedge Shears](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) are surprisingly good. They are incredibly light, which makes them great for precision work or for people with weaker grip strength. The blades are made of hardened steel and they come with a non-stick coating that helps prevent sap from gumming things up.
+If you want to go as cheap as possible without buying junk, the Worth Garden Bypass Hedge Shears are surprisingly good. They are incredibly light, which makes them great for precision work or for people with weaker grip strength. The blades are made of hardened steel and they come with a non-stick coating that helps prevent sap from gumming things up.
 
 These are used for shaping small decorative bushes, and owner reviews describe them as feeling like an extension of the hands. The downside is that they are not ideal for heavy cutting. If branches thicker than 1/2 inch are tackled, the blades tend to flex and the cut gets ragged. They are also not very long, so the user has to get close to the hedge.
 

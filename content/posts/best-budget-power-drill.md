@@ -42,7 +42,7 @@ As a rule of thumb, What makes it great is the price-to-usefulness ratio. It run
 
 To be fair, Downsides: it lacks the torque for drilling into concrete or thick hardwood. The battery is not part of a larger tool system, so a replacement costs almost as much as the drill.
 
-Who should buy it: renters, students, and anyone who needs a drill twice a year. [BLACK+DECKER BDEDRT Drill/Driver](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Who should buy it: renters, students, and anyone who needs a drill twice a year. BLACK+DECKER BDEDRT Drill/Driver
 
 ## Ryobi P215K1 18V One+
 
@@ -54,7 +54,7 @@ The P215K1 gives you 24 clutch settings, two speeds, and a built-in LED that lig
 
 Downsides: the included 1.5Ah battery runs down faster than the bigger packs, and the drill is a little bulky compared to 12V models.
 
-Who should buy it: first-time cordless buyers who plan to add more tools later. [Ryobi P215K1 18V One+](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Who should buy it: first-time cordless buyers who plan to add more tools later. Ryobi P215K1 18V One+
 
 ## DeWalt DCD771C2 20V Max
 
@@ -66,7 +66,7 @@ I have watched a friend use this exact model to build a full set of garage shelv
 
 Downsides: it costs more than double the cheapest option here. It is also heavier than 12V drills, which matters if you work overhead.
 
-Who should buy it: anyone who wants a drill that lasts 10 years and does not mind paying once. [DeWalt DCD771C2 20V Max](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Who should buy it: anyone who wants a drill that lasts 10 years and does not mind paying once. DeWalt DCD771C2 20V Max
 
 ## Bosch PS31-2A 12V Max
 
@@ -78,7 +78,7 @@ You get two batteries, which means one charges while you work. The 3/8-inch chuc
 
 Downsides: 12V means less torque. Do not plan on drilling into concrete or driving long screws into oak.
 
-Who should buy it: people who assemble furniture, install hardware, or work in cramped spots. [Bosch PS31-2A 12V Max](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Who should buy it: people who assemble furniture, install hardware, or work in cramped spots. Bosch PS31-2A 12V Max
 
 ## CRAFTSMAN CMED741 Corded
 
@@ -90,7 +90,7 @@ The keyless chuck lets you swap bits by hand. At 7 amps, it drills through pine,
 
 Downsides: you need an outlet and an extension cord. The cord limits where you can work, and it is heavier than a 12V cordless.
 
-Who should buy it: garage and workshop users who always have power nearby. [CRAFTSMAN CMED741 Corded](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Who should buy it: garage and workshop users who always have power nearby. CRAFTSMAN CMED741 Corded
 
 ## Skil 6445-04 Corded
 
@@ -102,7 +102,7 @@ For light drilling into wood and drywall, it gets the job done. I keep one in a 
 
 Downsides: no clutch means you can over-drive screws if you are not careful. It is not built for daily use.
 
-Who should buy it: occasional users who want the lowest possible price. [Skil 6445-04 Corded](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Who should buy it: occasional users who want the lowest possible price. Skil 6445-04 Corded
 
 ## Makita FD07R1 12V
 
@@ -114,7 +114,7 @@ The kit includes two batteries and a charger. For furniture assembly, cabinet hi
 
 Downsides: same torque limits as other 12V drills, and it costs as much as some 20V models.
 
-Who should buy it: hobbyists and detail-oriented beginners who want a tool that feels good in the hand. [Makita FD07R1 12V](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Who should buy it: hobbyists and detail-oriented beginners who want a tool that feels good in the hand. Makita FD07R1 12V
 
 ## The bottom line
 

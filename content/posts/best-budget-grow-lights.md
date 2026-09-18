@@ -24,13 +24,13 @@ If you're starting seeds on a windowsill or trying to keep a pothos alive throug
 
 | Product | Price | Best For | Key Pros |
 |---|---|---|---|
-| [GooingTop LED Grow Light](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$20 | A single houseplant | Clip-on, timer, cheap |
-| [Barrina T5 Grow Light Strip](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$30 (2-pack) | Seed starting shelves | Linkable, low profile |
-| [Sansi 24W Full Spectrum Bulb](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$25 | Standard lamp fixtures | Screws into E26 socket |
-| [GE BR30 Grow Light Bulb](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$20 | Single large plant | Widely available, reliable |
-| [Lordem LED Grow Light Panel](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$35 | Small shelf setups | Full spectrum, timer built in |
-| [Juhefa LED Grow Light](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$18 | Tight budgets, herbs | Very cheap, simple |
-| [Monios-L T8 Grow Light](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) | ~$40 (2-pack) | 4-foot shelves | Strong output, linkable |
+| GooingTop LED Grow Light | ~$20 | A single houseplant | Clip-on, timer, cheap |
+| Barrina T5 Grow Light Strip | ~$30 (2-pack) | Seed starting shelves | Linkable, low profile |
+| Sansi 24W Full Spectrum Bulb | ~$25 | Standard lamp fixtures | Screws into E26 socket |
+| GE BR30 Grow Light Bulb | ~$20 | Single large plant | Widely available, reliable |
+| Lordem LED Grow Light Panel | ~$35 | Small shelf setups | Full spectrum, timer built in |
+| Juhefa LED Grow Light | ~$18 | Tight budgets, herbs | Very cheap, simple |
+| Monios-L T8 Grow Light | ~$40 (2-pack) | 4-foot shelves | Strong output, linkable |
 
 ## GooingTop LED Grow Light
 
