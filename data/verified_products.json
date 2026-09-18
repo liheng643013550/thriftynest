@@ -1,0 +1,1003 @@
+{
+  "generated": "2026-09-18T07:52:39Z",
+  "note": "来自 inventory/ASIN工作单.csv 中 verified=yes 的行。生成器只准从这里选商品；没有合适的就不放链接，绝不允许编造。",
+  "count": 245,
+  "by_category": {
+    "cleaning": [
+      {
+        "name": "Amazon Basics Microfiber Cloths",
+        "asin": "B082XSXNJ5"
+      },
+      {
+        "name": "Beckham Hotel Collection Gel Pillows",
+        "asin": "B0DPJFB76K"
+      },
+      {
+        "name": "Bissell CleanView Swivel Pet",
+        "asin": "B07F6MXJ9X"
+      },
+      {
+        "name": "Bissell Featherweight",
+        "asin": "B06ZY7BTWM"
+      },
+      {
+        "name": "Bissell Pet Hair Eraser",
+        "asin": "B0DP5JNLQR"
+      },
+      {
+        "name": "Bona Hardwood Floor Spray Mop",
+        "asin": "B073HQTZV9"
+      },
+      {
+        "name": "E-Cloth General Purpose Pack",
+        "asin": "B07TTCJXX4"
+      },
+      {
+        "name": "Grout Brush Set",
+        "asin": "B0D65G1R96"
+      },
+      {
+        "name": "HOMEXCEL 12-Pack",
+        "asin": "B0CX9718K1"
+      },
+      {
+        "name": "Hoover WindTunnel 3",
+        "asin": "B0C7RKH5X9"
+      },
+      {
+        "name": "Microfiber Extendable Duster",
+        "asin": "B07XGJQPLJ"
+      },
+      {
+        "name": "Mr. Siga 12-Pack",
+        "asin": "B09FX7TFJV"
+      },
+      {
+        "name": "O-Cedar EasyWring Spin Mop",
+        "asin": "B01D7K595A"
+      },
+      {
+        "name": "Pyrex Glass Measuring Cup",
+        "asin": "B01GDDXDU6"
+      },
+      {
+        "name": "Rubbermaid Reveal Spray Mop",
+        "asin": "B074JBSPWY"
+      },
+      {
+        "name": "SafeRest Premium Cotton Mattress Protector",
+        "asin": "B00B29B1NI"
+      },
+      {
+        "name": "Scotch-Brite Large Microfiber Cloths",
+        "asin": "B0000E3QK1"
+      },
+      {
+        "name": "Scrub Daddy Microfiber Cloths",
+        "asin": "B0FQ665JHD"
+      },
+      {
+        "name": "Shark Navigator Lift-Away",
+        "asin": "B08TT4YHG1"
+      },
+      {
+        "name": "Shark WANDVAC",
+        "asin": "B0CBSV2TNM"
+      },
+      {
+        "name": "Squeegee",
+        "asin": "B0F24MHHFD"
+      },
+      {
+        "name": "Swiffer Sweeper",
+        "asin": "B07DBC5DYP"
+      },
+      {
+        "name": "Vileda Turbo Microfiber Spin Mop",
+        "asin": "B07FNY8RPR"
+      },
+      {
+        "name": "Wyze Cordless Vacuum",
+        "asin": "B0G2S2XK8L"
+      },
+      {
+        "name": "Zwipes 24-Pack",
+        "asin": "B0HFXBX4N5"
+      },
+      {
+        "name": "plastic scraper",
+        "asin": "B076BBW1WM"
+      }
+    ],
+    "energy": [
+      {
+        "name": "3M Indoor Shrink Film Kit",
+        "asin": "B000VSD9DG"
+      },
+      {
+        "name": "Amazon Basics Ceramic Space Heater",
+        "asin": "B07V6M4MSN"
+      },
+      {
+        "name": "Amazon Smart Plug",
+        "asin": "B0D9C2V83V"
+      },
+      {
+        "name": "Amazon Smart Thermostat",
+        "asin": "B0GKGW4N9N"
+      },
+      {
+        "name": "Comfort Zone Oscillating",
+        "asin": "B0GJTKN26Z"
+      },
+      {
+        "name": "Cooling Comforter",
+        "asin": "B0CH8BK2PG"
+      },
+      {
+        "name": "Delta H2Okinetic",
+        "asin": "B0BDGLSCNL"
+      },
+      {
+        "name": "Dreo Space Heater",
+        "asin": "B09YXJMH87"
+      },
+      {
+        "name": "Emerson Sensi Touch",
+        "asin": "B01N3CEUDH"
+      },
+      {
+        "name": "Genesis Clip Fan",
+        "asin": "B08DHJ1WLB"
+      },
+      {
+        "name": "Govee Smart Plug",
+        "asin": "B0CKM8CF7N"
+      },
+      {
+        "name": "Honey-Can-Do Foldable Drying Rack",
+        "asin": "B0BVRWJJR2"
+      },
+      {
+        "name": "Honeywell TurboForce",
+        "asin": "B07XG1HSKP"
+      },
+      {
+        "name": "Kasa Smart Plug HS103",
+        "asin": "B08K91R4DL"
+      },
+      {
+        "name": "Kasa Smart Plug HS103P2",
+        "asin": "B08M1Q3CW1"
+      },
+      {
+        "name": "Kohler Moxie",
+        "asin": "B08KHN1NV6"
+      },
+      {
+        "name": "Lasko 754200 Ceramic Heater",
+        "asin": "B000TKDQ5C"
+      },
+      {
+        "name": "Leviton Decora Smart Plug",
+        "asin": "B01NAO4B9Z"
+      },
+      {
+        "name": "Niagra Earth Massage",
+        "asin": "B07WHTJRY6"
+      },
+      {
+        "name": "P3 P4460 Kill A Watt EZ",
+        "asin": "B07W8WTQYT"
+      },
+      {
+        "name": "Pro Breeze Electric Mini Dehumidifier",
+        "asin": "B01DC5PPWM"
+      },
+      {
+        "name": "Window Insulation Kit by Frost King",
+        "asin": "B0CT43WHJS"
+      },
+      {
+        "name": "Wyze Plug",
+        "asin": "B07XZT24B8"
+      }
+    ],
+    "garden": [
+      {
+        "name": "ARS HP-VS8Z Signature",
+        "asin": "B005Q4LU1I"
+      },
+      {
+        "name": "Black+Decker 22-Inch Corded Hedge Trimmer",
+        "asin": "B078H8NQBW"
+      },
+      {
+        "name": "Cast Iron Plant",
+        "asin": "B0F5N5DBL2"
+      },
+      {
+        "name": "Dramm ColorStorm",
+        "asin": "B0018C8LK0"
+      },
+      {
+        "name": "FCMP Outdoor 37 Gallon",
+        "asin": "B009378AG2"
+      },
+      {
+        "name": "Felco F-2 Classic",
+        "asin": "B0C9YRYQHQ"
+      },
+      {
+        "name": "Fiskars 23-Inch Power-Lever Hedge Shears",
+        "asin": "B007HZCRNY"
+      },
+      {
+        "name": "Fiskars Bypass Pruner (8\")",
+        "asin": "B00D8QZIMS"
+      },
+      {
+        "name": "Fiskars Transplanter",
+        "asin": "B004BDNHTI"
+      },
+      {
+        "name": "Flexzilla Garden Hose",
+        "asin": "B0FGDT3NTM"
+      },
+      {
+        "name": "Gilmour Flexogen",
+        "asin": "B01N6BIRAK"
+      },
+      {
+        "name": "Golden Pothos",
+        "asin": "B0H3PN93JJ"
+      },
+      {
+        "name": "Gonicc 8\" Professional",
+        "asin": "B08CV6WKYP"
+      },
+      {
+        "name": "Miracle-Gro Potting Mix",
+        "asin": "B087F7GNFG"
+      },
+      {
+        "name": "OXO Good Grips 1.75 Gallon",
+        "asin": "B07ZDRTFYN"
+      },
+      {
+        "name": "Outsunny Walk-In Greenhouse",
+        "asin": "B0DP9KFZVK"
+      },
+      {
+        "name": "Snake Plant Laurentii",
+        "asin": "B0GGLS9KWR"
+      },
+      {
+        "name": "Spathiphyllum (Peace Lily)",
+        "asin": "B0FPG8QQ5Z"
+      },
+      {
+        "name": "Spear & Jackson 18-Inch Hedge Shears",
+        "asin": "B002AKKF5I"
+      },
+      {
+        "name": "Swan Element",
+        "asin": "B07K7W69V1"
+      },
+      {
+        "name": "Teknor Apex NeverKink",
+        "asin": "B09RQYTZ29"
+      },
+      {
+        "name": "Vivosun 6.5\" Hand Pruner",
+        "asin": "B0D3Q218KX"
+      },
+      {
+        "name": "ZZ Plant",
+        "asin": "B0H29M27XQ"
+      },
+      {
+        "name": "Zero-G 4001 Lightweight Hose",
+        "asin": "B079T9CBH9"
+      }
+    ],
+    "home-office": [
+      {
+        "name": "Adesso Tru-Form 150",
+        "asin": "B00N99LPC6"
+      },
+      {
+        "name": "Amazon Basics Classic Backpack",
+        "asin": "B013TGESIQ"
+      },
+      {
+        "name": "Anker Soundcore P20i",
+        "asin": "B0BTYCRJSS"
+      },
+      {
+        "name": "Case Logic DCB-310",
+        "asin": "B0039BPG1A"
+      },
+      {
+        "name": "Dell KB700",
+        "asin": "B0GVB4JZKH"
+      },
+      {
+        "name": "Door Draft Stopper",
+        "asin": "B07ZQ2ZKLW"
+      },
+      {
+        "name": "ErGear Single Monitor Arm",
+        "asin": "B0GWW758T8"
+      },
+      {
+        "name": "Ergotron WorkFit-S",
+        "asin": "B07519QKC7"
+      },
+      {
+        "name": "Furinno Econ Multipurpose",
+        "asin": "B07FKWT7HS"
+      },
+      {
+        "name": "Furinno Turn-N-Tube Corner Desk",
+        "asin": "B083FQ1MTC"
+      },
+      {
+        "name": "HUANUO Single Monitor Mount",
+        "asin": "B07CHKWNKC"
+      },
+      {
+        "name": "Kensington Pro Fit Ergo",
+        "asin": "B0D6FMPSNG"
+      },
+      {
+        "name": "LectroFan",
+        "asin": "B074FL2HL2"
+      },
+      {
+        "name": "Lenovo Legion Armored Backpack",
+        "asin": "B0FHQK4ZC8"
+      },
+      {
+        "name": "Logitech Brio 300",
+        "asin": "B09RGJWVG7"
+      },
+      {
+        "name": "Logitech C310",
+        "asin": "B00CCXUZBC"
+      },
+      {
+        "name": "Logitech C920x",
+        "asin": "B085TFF7M1"
+      },
+      {
+        "name": "Logitech K350",
+        "asin": "B009N6WMOY"
+      },
+      {
+        "name": "MOUNTUP Single Monitor Mount",
+        "asin": "B07Z7ZGHD5"
+      },
+      {
+        "name": "Matein Travel Laptop Backpack",
+        "asin": "B07N3WQ6H7"
+      },
+      {
+        "name": "Microsoft Sculpt Ergonomic",
+        "asin": "B07Y44T3CD"
+      },
+      {
+        "name": "Mount-It! Adjustable Converter",
+        "asin": "B01ETSJ6O4"
+      },
+      {
+        "name": "NICETown Blackout Curtains",
+        "asin": "B01CS31R94"
+      },
+      {
+        "name": "Perixx PERIBOARD-512",
+        "asin": "B075H1D95N"
+      },
+      {
+        "name": "Razer Kiyo X",
+        "asin": "B0FNBLG4SD"
+      },
+      {
+        "name": "SHW 48-Inch Electric Height Adjustable Standing Desk",
+        "asin": "B0CFF17W3V"
+      },
+      {
+        "name": "Seville Classics Airlift",
+        "asin": "B096LBBFWT"
+      },
+      {
+        "name": "Sony WH-CH520",
+        "asin": "B0BS1PRC4L"
+      },
+      {
+        "name": "Soundcore Space One",
+        "asin": "B0DWF6QCGX"
+      },
+      {
+        "name": "Targus CityGear Pro",
+        "asin": "B07Z589W4Y"
+      },
+      {
+        "name": "Tribit QuietPlus 78",
+        "asin": "B0FT89SFV5"
+      },
+      {
+        "name": "VIVO Black Desk Converter",
+        "asin": "B07K8WZ19K"
+      },
+      {
+        "name": "VIVO Single Monitor Arm",
+        "asin": "B07TWYHCZH"
+      },
+      {
+        "name": "WALI Single Monitor Mount",
+        "asin": "B0DGPZR6P1"
+      }
+    ],
+    "kitchen": [
+      {
+        "name": "Amazon Basics 6-Quart",
+        "asin": "B073Q9WV8S"
+      },
+      {
+        "name": "Amazon Basics Digital Kitchen Scale",
+        "asin": "B085214W32"
+      },
+      {
+        "name": "Aroma Digital 8-Cup",
+        "asin": "B007WQ9YNO"
+      },
+      {
+        "name": "Aroma Housewares 6-Cup",
+        "asin": "B08KFPZ1MF"
+      },
+      {
+        "name": "Bella 22-inch Electric Griddle",
+        "asin": "B0BDW32VJK"
+      },
+      {
+        "name": "Black+Decker 5-Speed Hand Mixer",
+        "asin": "B09DGDX8XK"
+      },
+      {
+        "name": "Black+Decker Crisp 'N Bake",
+        "asin": "B0CXF9LRQK"
+      },
+      {
+        "name": "Bodum Chambord French Press",
+        "asin": "B00PW537KS"
+      },
+      {
+        "name": "Calphalon Premier Space Saving 10-Piece",
+        "asin": "B071XM6HTC"
+      },
+      {
+        "name": "Chicago Cutlery Fusion Set",
+        "asin": "B08YMKNDNY"
+      },
+      {
+        "name": "Coffee Gator French Press",
+        "asin": "B01N1UWJAW"
+      },
+      {
+        "name": "Crock-Pot Artisan 5-Quart Enameled Cast Iron Dutch Oven",
+        "asin": "B01FJPWNKA"
+      },
+      {
+        "name": "Cuisinart Advantage Color Set",
+        "asin": "B08FSGKS6S"
+      },
+      {
+        "name": "Cuisinart Chef's Classic 10-Piece",
+        "asin": "B00008CM68"
+      },
+      {
+        "name": "Cuisinart Chef's Classic Enameled Cast Iron 5-Quart Dutch Oven",
+        "asin": "B0CG7NB5H6"
+      },
+      {
+        "name": "Cuisinart MultiClad Pro Stainless Steel Saucepan",
+        "asin": "B08L8F9262"
+      },
+      {
+        "name": "Cuisinart Perfectemp",
+        "asin": "B0C8Y8KNH8"
+      },
+      {
+        "name": "Cuisinart Power Advantage 5-Speed",
+        "asin": "B0CKLV7TZ3"
+      },
+      {
+        "name": "Cuisinart Smart Stick CSB-75",
+        "asin": "B00ARQVLX2"
+      },
+      {
+        "name": "Dash Compact Air Fryer",
+        "asin": "B075BCVSJZ"
+      },
+      {
+        "name": "Dash Mini Rice Cooker",
+        "asin": "B0FT46M9XR"
+      },
+      {
+        "name": "Digital Kitchen Scale",
+        "asin": "B0CW3JY6TF"
+      },
+      {
+        "name": "Electric Rice Cooker",
+        "asin": "B0D1LS87XD"
+      },
+      {
+        "name": "Farberware Classic 10-Piece",
+        "asin": "B08XWVYPM6"
+      },
+      {
+        "name": "Farberware Medium Cutting Board",
+        "asin": "B005FU50ZU"
+      },
+      {
+        "name": "Farberware Nonstick",
+        "asin": "B07HHVXTZ7"
+      },
+      {
+        "name": "Frieling French Press",
+        "asin": "B004XGBMB8"
+      },
+      {
+        "name": "Gourmia 6-Quart",
+        "asin": "B0FBZP4Q2S"
+      },
+      {
+        "name": "Gourmia 6-Slice Digital",
+        "asin": "B0BCX7H2TZ"
+      },
+      {
+        "name": "GreenPan Valencia Pro 11-Piece",
+        "asin": "B071HVQL76"
+      },
+      {
+        "name": "Hamilton Beach 6-Speed",
+        "asin": "B0D1DHY12C"
+      },
+      {
+        "name": "Hamilton Beach 6-Speed Electric Hand Mixer",
+        "asin": "B0CYQDPP4R"
+      },
+      {
+        "name": "Hamilton Beach Electric Kettle",
+        "asin": "B07FS7SJYP"
+      },
+      {
+        "name": "Imarku 8-Piece Set",
+        "asin": "B0H8D1BYBL"
+      },
+      {
+        "name": "Instant Pot Duo 6 Qt",
+        "asin": "B00FLYWNYQ"
+      },
+      {
+        "name": "John Boos End Grain Board",
+        "asin": "B00063QBE0"
+      },
+      {
+        "name": "KitchenAid 5-Speed Ultra Power",
+        "asin": "B0096TXQNE"
+      },
+      {
+        "name": "Mercer Culinary Renaissance Set",
+        "asin": "B0034612OK"
+      },
+      {
+        "name": "Ninja Air Fryer Max XL",
+        "asin": "B0D1GW9GMJ"
+      },
+      {
+        "name": "Ninja SP101",
+        "asin": "B07SCGY2H6"
+      },
+      {
+        "name": "NuWave Bravo",
+        "asin": "B00IXBMS6M"
+      },
+      {
+        "name": "OVENTE French Press",
+        "asin": "B09MDNMJRC"
+      },
+      {
+        "name": "Oxo Good Grips Carving Board",
+        "asin": "B08CF8FQYV"
+      },
+      {
+        "name": "Oxo Good Grips Pro",
+        "asin": "B0GS3RS3ZR"
+      },
+      {
+        "name": "PackIt Freezable Lunch Bag",
+        "asin": "B0CR1YCT2K"
+      },
+      {
+        "name": "Philips Essential Airfryer",
+        "asin": "B0BBWMV6S6"
+      },
+      {
+        "name": "Philips TurboStar",
+        "asin": "B01N6NYF0B"
+      },
+      {
+        "name": "Presto 22-inch Electric Griddle",
+        "asin": "B01G7DM7X6"
+      },
+      {
+        "name": "Rubbermaid Brilliance",
+        "asin": "B07X64Z8RM"
+      },
+      {
+        "name": "Secura French Press",
+        "asin": "B00JE36GLQ"
+      },
+      {
+        "name": "SimpleHouseware Mesh Cabinet Organizer",
+        "asin": "B09CQGLRVC"
+      },
+      {
+        "name": "Stainless Steel Saucepan with Lid",
+        "asin": "B0GS1G8MS8"
+      },
+      {
+        "name": "Stanley Classic Vacuum Bottle",
+        "asin": "B0DDPVT25T"
+      },
+      {
+        "name": "T-fal Ultimate Hard Anodized 12-Piece",
+        "asin": "B0GJFZNM9W"
+      },
+      {
+        "name": "Teakhaus Teak Board",
+        "asin": "B0F85N8KJG"
+      },
+      {
+        "name": "Victorinox Fibrox Pro Set",
+        "asin": "B0016O8PGA"
+      },
+      {
+        "name": "Zwilling Enfinigy Electric Kettle",
+        "asin": "B09X6BHBFQ"
+      },
+      {
+        "name": "stainless steel balloon whisk",
+        "asin": "B07D79B8ZC"
+      }
+    ],
+    "organization": [
+      {
+        "name": "Adhesive Cable Clips",
+        "asin": "B0D9HRTFHD"
+      },
+      {
+        "name": "Amazon Basics Wire Shelving Kit",
+        "asin": "B09W2Y51TC"
+      },
+      {
+        "name": "ClosetMaid 4-Cube Organizer",
+        "asin": "B07MP18DVL"
+      },
+      {
+        "name": "ClosetMaid 8-Cube",
+        "asin": "B0BZHD3QKP"
+      },
+      {
+        "name": "DYMO LabelManager 160 Label Maker",
+        "asin": "B005X9VZ70"
+      },
+      {
+        "name": "Holiday Time Ornament Storage Box",
+        "asin": "B0FLPPP7T1"
+      },
+      {
+        "name": "Honey-Can-Do 2-Tier Shoe Rack",
+        "asin": "B08XTMWYQW"
+      },
+      {
+        "name": "Honey-Can-Do 5-Tier Storage Rack",
+        "asin": "B0CJX788YC"
+      },
+      {
+        "name": "Honey-Can-Do Basket",
+        "asin": "B0CK3MTRPV"
+      },
+      {
+        "name": "IKEA VARIERA Box",
+        "asin": "B011S64GAE"
+      },
+      {
+        "name": "IRIS Ornament Storage",
+        "asin": "B0DJB2XG52"
+      },
+      {
+        "name": "IRIS USA CNL-5 Storage Box",
+        "asin": "B084BXK6RK"
+      },
+      {
+        "name": "OXO Good Grips Drawer Organizer",
+        "asin": "B0CW1MF1PK"
+      },
+      {
+        "name": "OXO Good Grips POP Containers",
+        "asin": "B07TD9QT97"
+      },
+      {
+        "name": "Progressive ProKeeper+ Bins",
+        "asin": "B0FT1MYG4M"
+      },
+      {
+        "name": "Rubbermaid Brilliance Pantry Containers",
+        "asin": "B0B1L79X41"
+      },
+      {
+        "name": "SONGMICS Entryway Bench",
+        "asin": "B07SR2S95R"
+      },
+      {
+        "name": "Simple Houseware 4-Tier Shoe Rack",
+        "asin": "B088QZPVPW"
+      },
+      {
+        "name": "Simple Houseware Expandable Kitchen Drawer Organizer",
+        "asin": "B0B36F899F"
+      },
+      {
+        "name": "Simple Houseware Expandable Shelf",
+        "asin": "B0G67RYV8B"
+      },
+      {
+        "name": "Simple Houseware Foldable Storage Cube Bins",
+        "asin": "B074841G79"
+      },
+      {
+        "name": "Simple Houseware Mesh Shelf",
+        "asin": "B0BTGJV9Y6"
+      },
+      {
+        "name": "SimpleHouseware 6-Tier",
+        "asin": "B0BNTYVFKT"
+      },
+      {
+        "name": "Slim Velvet Hangers",
+        "asin": "B00FXNABPI"
+      },
+      {
+        "name": "Songmics Coat Rack",
+        "asin": "B0GWLDN15Q"
+      },
+      {
+        "name": "Sterilite 16428012 Storage Box",
+        "asin": "B0H2M2PMZZ"
+      },
+      {
+        "name": "Sterilite 19849004 Storage Basket",
+        "asin": "B0044UMIJI"
+      },
+      {
+        "name": "Sterilite 6-Quart Storage Bin",
+        "asin": "B004QJKSTO"
+      },
+      {
+        "name": "Velcro Cable Ties",
+        "asin": "B0DYJWL6QS"
+      },
+      {
+        "name": "Whitmor Over-the-Door Shoe Rack",
+        "asin": "B01M19ZHJT"
+      },
+      {
+        "name": "Zober Ornament Storage Box",
+        "asin": "B016YUEHJ4"
+      },
+      {
+        "name": "mDesign Plastic Kitchen Drawer Organizer",
+        "asin": "B09X61VKH7"
+      },
+      {
+        "name": "mDesign Plastic Pantry Organizer Bins",
+        "asin": "B07KJ9VF2H"
+      },
+      {
+        "name": "mDesign Plastic Storage Rack",
+        "asin": "B07S7FKHKM"
+      },
+      {
+        "name": "mDesign Plastic Under Sink Shelf",
+        "asin": "B07QJ6XB5B"
+      }
+    ],
+    "pet": [
+      {
+        "name": "Amazon Basics Cat Scratching Post",
+        "asin": "B07G3GVBV7"
+      },
+      {
+        "name": "Amazon Basics Cat Tree",
+        "asin": "B06X6J3L65"
+      },
+      {
+        "name": "Benebone Wishbone",
+        "asin": "B00CPDWT2M"
+      },
+      {
+        "name": "Catstages Cat Dancer",
+        "asin": "B0CJ4Y5R2R"
+      },
+      {
+        "name": "Chuckit! Ultra Ball",
+        "asin": "B08D127PPC"
+      },
+      {
+        "name": "Feandrea Cat Tree",
+        "asin": "B0BR561TK3"
+      },
+      {
+        "name": "Furbo 360° Dog Camera",
+        "asin": "B09GDQZLD1"
+      },
+      {
+        "name": "Goughnuts Indestructible Stick",
+        "asin": "B0997V74LL"
+      },
+      {
+        "name": "Iams ProActive Health",
+        "asin": "B0D86Z1RW6"
+      },
+      {
+        "name": "KONG Classic",
+        "asin": "B01IUPTKFM"
+      },
+      {
+        "name": "Kirkland Signature",
+        "asin": "B0C54GXFQ8"
+      },
+      {
+        "name": "Kong Extreme",
+        "asin": "B0002AR0II"
+      },
+      {
+        "name": "Laser Pointer Cat Toy",
+        "asin": "B0FHP9PT33"
+      },
+      {
+        "name": "M-Pets Multi-Level Cat Scratching Post",
+        "asin": "B0F6CPGWJ5"
+      },
+      {
+        "name": "Millers Forge Nail Clipper",
+        "asin": "B0111SLMUQ"
+      },
+      {
+        "name": "North States Supergate",
+        "asin": "B0CYCBSM61"
+      },
+      {
+        "name": "Nylabone Dura Chew",
+        "asin": "B01LVU0SND"
+      },
+      {
+        "name": "Outward Hound Fire Biterz",
+        "asin": "B01MXWJ6TB"
+      },
+      {
+        "name": "Pawz Road Cat Scratcher with Catnip",
+        "asin": "B09Y31T4CC"
+      },
+      {
+        "name": "Pedigree Complete Nutrition",
+        "asin": "B007ZZDJWY"
+      },
+      {
+        "name": "PetFusion Ultimate Cat Scratcher",
+        "asin": "B01NC0A463"
+      },
+      {
+        "name": "Petcube Bites 2 Lite",
+        "asin": "B0CNH9ZMR8"
+      },
+      {
+        "name": "Petstages Cat Tracks",
+        "asin": "B0CW35BFN7"
+      },
+      {
+        "name": "Purina Dog Chow",
+        "asin": "B07D1HRQNJ"
+      },
+      {
+        "name": "Rachael Ray Nutrish",
+        "asin": "B0GHCDCWW4"
+      },
+      {
+        "name": "Richell Wood Pet Gate",
+        "asin": "B0030E5Q8E"
+      },
+      {
+        "name": "Summer Infant Multi-Use",
+        "asin": "B0GVN6QC91"
+      },
+      {
+        "name": "Victor Hi-Pro Plus",
+        "asin": "B0FNB7H9JF"
+      },
+      {
+        "name": "WYZE Cam Pan v3",
+        "asin": "B0B9TWY11Q"
+      },
+      {
+        "name": "West Paw Zogoflex Hurley",
+        "asin": "B0H8X1SX6M"
+      },
+      {
+        "name": "YI Home Camera 2K",
+        "asin": "B0C23NHY65"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Bosch Daredevil Set",
+        "asin": "B00XNFDK6U"
+      },
+      {
+        "name": "Craftsman 109-Piece Mechanics Tool Set",
+        "asin": "B0CPYVKLZQ"
+      },
+      {
+        "name": "Craftsman 9-Inch Torpedo Level",
+        "asin": "B07RCNHV5S"
+      },
+      {
+        "name": "DEWALT 108-Piece Mechanics Tool Set",
+        "asin": "B0DBWGMZVL"
+      },
+      {
+        "name": "DEWALT 27-Piece Hex Key Set",
+        "asin": "B005O1RGY8"
+      },
+      {
+        "name": "DEWALT Black Oxide Set",
+        "asin": "B001EYU5N8"
+      },
+      {
+        "name": "Fiskars IsoCore",
+        "asin": "B07DL1G86B"
+      },
+      {
+        "name": "IRWIN Cobalt Set",
+        "asin": "B000BO9JMK"
+      },
+      {
+        "name": "Milwaukee 16 oz Framing",
+        "asin": "B0BZ67LPGG"
+      },
+      {
+        "name": "Moen 1222 Cartridge",
+        "asin": "B00083EC6C"
+      },
+      {
+        "name": "Neiko HSS Set",
+        "asin": "B0195V5ICO"
+      },
+      {
+        "name": "Neodymium Magnetic Wristband",
+        "asin": "B0GMCF6T1X"
+      },
+      {
+        "name": "OOK Brand 50 lb. Picture Hanging Kit",
+        "asin": "B003WE9XTK"
+      },
+      {
+        "name": "Vaughan 16 oz Curved Claw",
+        "asin": "B00018ANOE"
+      }
+    ]
+  }
+}
