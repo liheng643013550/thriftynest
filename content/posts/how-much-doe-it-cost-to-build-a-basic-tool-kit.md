@@ -18,7 +18,7 @@ Here are the real numbers, plus a plan built around one question most guides ign
 
 A genuinely usable basic home tool kit costs somewhere between $75 and $200 if you buy new. If you shop sales, buy a pre-assembled kit, or already own a drill, you can land closer to $50.
 
-A pre-built kit from a brand like [DEWALT](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) or [Craftsman](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) typically runs $50 to $120 and fits in a case about the size of a large lunchbox. Building your own piece by piece usually costs more but gets you better tools and a footprint you control.
+A pre-built kit from a brand like DEWALT or Craftsman typically runs $50 to $120 and fits in a case about the size of a large lunchbox. Building your own piece by piece usually costs more but gets you better tools and a footprint you control.
 
 ## How the number is built
 
@@ -39,13 +39,13 @@ Stack those up and you land in the $75 to $200 range. Where you fall inside it d
 
 ### The drill is the single biggest swing
 
-A corded drill like the [Black+Decker DR260C](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) usually costs less than a cordless one and often has more sustained power for the money. Owner reviews frequently mention it's heavier and tethered to an outlet, which matters if you're drilling into a closet ceiling.
+A corded drill like the Black+Decker DR260C usually costs less than a cordless one and often has more sustained power for the money. Owner reviews frequently mention it's heavier and tethered to an outlet, which matters if you're drilling into a closet ceiling.
 
-Cordless options like the [Bosch PS31](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) or the [Makita FD07](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) cost more up front but store smaller and go anywhere. For a small-space kit, a 12V-class cordless driver is often the better footprint trade-off — it fits in a drawer and charges on a counter.
+Cordless options like the Bosch PS31 or the Makita FD07 cost more up front but store smaller and go anywhere. For a small-space kit, a 12V-class cordless driver is often the better footprint trade-off — it fits in a drawer and charges on a counter.
 
 ### Storage decides whether the kit survives
 
-This is where the footprint angle gets real. A 20-inch metal toolbox is cheap but bulky and doesn't fit on a narrow shelf. A soft-sided bag like the [Craftsman CMST82765](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) squashes into tight spaces and hangs on a hook.
+This is where the footprint angle gets real. A 20-inch metal toolbox is cheap but bulky and doesn't fit on a narrow shelf. A soft-sided bag like the Craftsman CMST82765 squashes into tight spaces and hangs on a hook.
 
 If your only option is under a sink or on a closet floor, measure first. A typical 16-inch tool bag takes up roughly the footprint of a shoebox. A 22-inch hard case does not.
 
@@ -73,7 +73,7 @@ Prices vary by brand and by season. Holiday sales on kits are usually the deepes
 
 ## Making it fit a small space
 
-If your storage is a single shelf, prioritize tools that do more than one job. A 6-in-1 screwdriver like the [Klein Tools 11-in-1](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) replaces a whole drawer of individual drivers. A [Stanley 25-foot tape measure](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is standard and thin enough to tuck anywhere.
+If your storage is a single shelf, prioritize tools that do more than one job. A 6-in-1 screwdriver like the Klein Tools 11-in-1 replaces a whole drawer of individual drivers. A Stanley 25-foot tape measure is standard and thin enough to tuck anywhere.
 
 Skip the giant socket set unless you actually work on furniture or bikes. A basic adjustable wrench covers most household nuts and bolts in a fraction of the space.
 

@@ -40,9 +40,9 @@ If you want coffee waiting when you wake up on a schedule, choose a drip maker w
 
 ## Cost to own: which one actually costs less
 
-Upfront, a French press is usually cheaper. A basic glass model with a metal frame often lands between fifteen and thirty dollars. A well-known example is the [Bodum Chambord](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__), which has been sold in roughly the same form for decades. For a stainless option that survives drops better than glass, the [Secura French Press](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a common pick and typically sits in the twenty to thirty-five dollar range.
+Upfront, a French press is usually cheaper. A basic glass model with a metal frame often lands between fifteen and thirty dollars. A well-known example is the Bodum Chambord, which has been sold in roughly the same form for decades. For a stainless option that survives drops better than glass, the Secura French Press is a common pick and typically sits in the twenty to thirty-five dollar range.
 
-Drip makers start similar but climb faster. A no-frills model like the [Mr. Coffee 5-Cup Mini Brew](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is often under thirty dollars. Step up to something like the [Black+Decker 12-Cup Programmable](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) and you are usually in the thirty to fifty dollar range. Neither is expensive, but the drip maker has more inside it that can stop working.
+Drip makers start similar but climb faster. A no-frills model like the Mr. Coffee 5-Cup Mini Brew is often under thirty dollars. Step up to something like the Black+Decker 12-Cup Programmable and you are usually in the thirty to fifty dollar range. Neither is expensive, but the drip maker has more inside it that can stop working.
 
 Consumables matter too. Drip makers use paper filters, which typically cost a few cents each. Over a year of daily brewing, that is often ten to twenty dollars. A French press uses a reusable metal mesh filter, so that cost is zero, though you may replace the mesh screen or the silicone or rubber seal every year or two for a few dollars.
 

@@ -45,7 +45,7 @@ A 700-watt mini-fridge running 24 hours is about 16.8 kWh a day. That sounds lik
 
 If you want a real number instead of an estimate, you need a plug-in power meter. These sit between the outlet and the appliance and log actual kWh over time.
 
-The one most people end up with is the [P3 International P4460 Kill A Watt](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__). It has been around for well over a decade, which is the durability story here: the design has not changed much because it does not need to. Owner reviews frequently mention units still working after years of intermittent use, and the main complaint is the same one that shows up on every model in this category — the LCD screen is not backlit, so it is hard to read in a dim dorm room. That is a minor annoyance, not a failure.
+The one most people end up with is the P3 International P4460 Kill A Watt. It has been around for well over a decade, which is the durability story here: the design has not changed much because it does not need to. Owner reviews frequently mention units still working after years of intermittent use, and the main complaint is the same one that shows up on every model in this category — the LCD screen is not backlit, so it is hard to read in a dim dorm room. That is a minor annoyance, not a failure.
 
 Here is what fails first on cheap power meters, in rough order:
 
@@ -89,7 +89,7 @@ Not worth replacing:
 
 The durability angle matters here. In a dorm, the appliances that die first are almost always the ones with moving parts — compressor fridges, fans, and anything with a cheap plastic hinge. Solid-state stuff like a power meter or an LED bulb tends to outlast the student.
 
-If you want a fridge that survives four years and a few moves, the [AstroAI Mini Fridge](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a commonly recommended compact option, though note that thermoelectric models like this one are quieter and cheaper but less efficient than compressor fridges — they run continuously rather than cycling. For a dorm that is usually an acceptable trade. Owner reviews often flag the door seal as the first thing to wear out.
+If you want a fridge that survives four years and a few moves, the AstroAI Mini Fridge is a commonly recommended compact option, though note that thermoelectric models like this one are quieter and cheaper but less efficient than compressor fridges — they run continuously rather than cycling. For a dorm that is usually an acceptable trade. Owner reviews often flag the door seal as the first thing to wear out.
 
 ## Track it without buying anything
 

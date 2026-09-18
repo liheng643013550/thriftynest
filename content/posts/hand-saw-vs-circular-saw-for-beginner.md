@@ -22,9 +22,9 @@ The second mistake is the opposite: spending $150 or more on a circular saw that
 
 ## Quick verdict
 
-- Small apartment, occasional furniture assembly and trim work: buy a quality hand saw. A [Stanley FatMax Hand Saw](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) covers most first-year jobs for under the cost of a single circular saw blade set.
-- Planning to build shelves, a desk, or cut plywood: buy a corded circular saw. A [DeWalt DWE575](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) with a decent 24-tooth blade handles sheet goods cleanly.
-- Cordless convenience matters and you already own a battery platform: a [Makita 5007MG](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) or a comparable corded model is still the better first buy than a bare cordless tool with no batteries.
+- Small apartment, occasional furniture assembly and trim work: buy a quality hand saw. A Stanley FatMax Hand Saw covers most first-year jobs for under the cost of a single circular saw blade set.
+- Planning to build shelves, a desk, or cut plywood: buy a corded circular saw. A DeWalt DWE575 with a decent 24-tooth blade handles sheet goods cleanly.
+- Cordless convenience matters and you already own a battery platform: a Makita 5007MG or a comparable corded model is still the better first buy than a bare cordless tool with no batteries.
 
 ## Hand saw vs circular saw head-to-head
 
@@ -39,9 +39,9 @@ The second mistake is the opposite: spending $150 or more on a circular saw that
 
 ## Cost to own over the first year
 
-This is where the two options separate most clearly. A quality hand saw like a [Stanley FatMax Hand Saw](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) typically runs $20–$35, and most owners report the original blade lasting well beyond a year of light use. Total first-year cost: roughly $20–$40 including a cheap sharpening file.
+This is where the two options separate most clearly. A quality hand saw like a Stanley FatMax Hand Saw typically runs $20–$35, and most owners report the original blade lasting well beyond a year of light use. Total first-year cost: roughly $20–$40 including a cheap sharpening file.
 
-A corded circular saw like the [DeWalt DWE575](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) usually lands between $90 and $130. Add one or two blades at $15–$25 each, plus a $10 extension cord, and you're looking at $130–$180 in year one. Cordless models like the [Makita 5007MG](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) push higher once you factor in batteries and a charger, often $200–$300 for a full kit.
+A corded circular saw like the DeWalt DWE575 usually lands between $90 and $130. Add one or two blades at $15–$25 each, plus a $10 extension cord, and you're looking at $130–$180 in year one. Cordless models like the Makita 5007MG push higher once you factor in batteries and a charger, often $200–$300 for a full kit.
 
 Verdict: if cost is the deciding factor, the hand saw wins by a wide margin in year one. If you're cutting more than about 20 pieces of lumber, the circular saw's time savings start to justify the gap.
 
@@ -79,15 +79,15 @@ Verdict: if you live in an apartment with thin walls or quiet hours, the hand sa
 
 Hand saws handle crosscuts and simple angles. They struggle with long rip cuts in plywood and can't easily cut a bevel.
 
-Circular saws adjust depth and bevel, handle sheet goods, and pair with a straight edge or track for long cuts. The [DeWalt DWE575](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) and similar models bevel up to 45 degrees, which is enough for most beginner furniture and shelving.
+Circular saws adjust depth and bevel, handle sheet goods, and pair with a straight edge or track for long cuts. The DeWalt DWE575 and similar models bevel up to 45 degrees, which is enough for most beginner furniture and shelving.
 
 Verdict: circular saw wins on range. If your project list includes plywood, bevels, or anything larger than a 2x4, this is the deciding factor.
 
 ## When to choose each one
 
-Choose a hand saw if you're furnishing a first apartment, cutting occasional trim, assembling flat-pack furniture, or working in a space where noise is a problem. A [Stanley FatMax Hand Saw](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) plus a miter box covers most of it for under $50 total.
+Choose a hand saw if you're furnishing a first apartment, cutting occasional trim, assembling flat-pack furniture, or working in a space where noise is a problem. A Stanley FatMax Hand Saw plus a miter box covers most of it for under $50 total.
 
-Choose a circular saw if you're building shelves, a desk, a headboard, or anything involving plywood or repeated cuts. Budget for a good blade on day one, not the stock one. The [DeWalt DWE575](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a common first pick, and the [Makita 5007MG](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is worth the step up if you expect years of use.
+Choose a circular saw if you're building shelves, a desk, a headboard, or anything involving plywood or repeated cuts. Budget for a good blade on day one, not the stock one. The DeWalt DWE575 is a common first pick, and the Makita 5007MG is worth the step up if you expect years of use.
 
 If you can only buy one and you're genuinely unsure, start with the hand saw. It costs less than a single circular saw blade replacement, and it will tell you quickly whether you enjoy cutting wood at all.
 

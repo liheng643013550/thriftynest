@@ -39,7 +39,7 @@ The real downsides: no timer, no auto-shutoff sophistication on the base models,
 
 Who should buy it: someone who wants a $25 machine, cheap filters, and zero commitment.
 
-[Mr. Coffee 5-Cup Mini Brew](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Mr. Coffee 5-Cup Mini Brew
 
 ## Black+Decker 12-Cup Programmable Coffee Maker
 
@@ -53,7 +53,7 @@ Downsides: the build is plastic-heavy, the warming plate runs hot, and the "12 c
 
 Who should buy it: a household of two or more that wants a timer and doesn't want to think about it.
 
-[Black+Decker 12-Cup Programmable Coffee Maker](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Black+Decker 12-Cup Programmable Coffee Maker
 
 ## AeroPress Original
 
@@ -67,7 +67,7 @@ The downsides: it brews one or two cups at a time, so it's slow for a crowd. It 
 
 Who should buy it: a solo renter or a couple who wants near-zero failure points and cheap filters forever.
 
-[AeroPress Original](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+AeroPress Original
 
 ## Bodum Chambord French Press
 
@@ -81,7 +81,7 @@ Downsides: glass carafes break, cleanup takes a minute, and you get sediment in 
 
 Who should buy it: someone who wants a $25 brewer with essentially no ongoing filter cost.
 
-[Bodum Chambord French Press](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Bodum Chambord French Press
 
 ## Keurig K-Mini
 
@@ -95,7 +95,7 @@ Downsides: pods are expensive if you don't use the reusable filter, the reservoi
 
 Who should buy it: someone in a tiny space who wants one cup at a time and will commit to the reusable filter.
 
-[Keurig K-Mini](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Keurig K-Mini
 
 ## OXO Brew Conical Burr Coffee Grinder
 
@@ -109,7 +109,7 @@ Downsides: it's the priciest item here, it's louder than you'd like, and it take
 
 Who should buy it: someone who plans to keep a cheap brewer for years and wants the coffee to actually taste good.
 
-[OXO Brew Conical Burr Coffee Grinder](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+OXO Brew Conical Burr Coffee Grinder
 
 ## Comparison table
 

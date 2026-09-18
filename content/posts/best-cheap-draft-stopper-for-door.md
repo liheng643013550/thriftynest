@@ -44,7 +44,7 @@ The downside for a small-space renter is cleaning. The fabric cover collects dus
 
 Buy it if your door stays closed most of the time — a bedroom, a closet, a rarely used entry.
 
-[Twin Draft Guard](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Twin Draft Guard
 
 ## Frost King Door Bottom Sweep
 
@@ -56,7 +56,7 @@ The catch: most versions require screws, and some use adhesive. If you're rentin
 
 Buy it if you want near-zero weekly cleaning and don't mind a small installation step.
 
-[Frost King Door Bottom Sweep](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Frost King Door Bottom Sweep
 
 ## Holikme Door Draft Stopper
 
@@ -68,7 +68,7 @@ Cleaning is the weak point again — the fabric sleeve gathers dust, and reviewe
 
 Buy it if you want the lowest upfront cost and don't mind a little upkeep.
 
-[Holikme Door Draft Stopper](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Holikme Door Draft Stopper
 
 ## Suptikes Door Draft Stopper
 
@@ -80,7 +80,7 @@ Downsides: adhesive strips can lose grip over time, especially in humid rooms, a
 
 Buy it if cleaning time is your top priority and your gap is modest.
 
-[Suptikes Door Draft Stopper](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Suptikes Door Draft Stopper
 
 ## BAINING Door Draft Stopper
 
@@ -92,7 +92,7 @@ The trade-offs are the usual ones for fabric: dust and hair cling to it, so budg
 
 Buy it if you want better sealing than a foam tube but still want the no-install simplicity.
 
-[BAINING Door Draft Stopper](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+BAINING Door Draft Stopper
 
 ## Magnetic Door Draft Stopper
 
@@ -104,7 +104,7 @@ The limitation is compatibility: they only work on magnetic surfaces, which rule
 
 Buy it if you have a metal door and want the easiest cleaning routine of the fabric options.
 
-[Magnetic Door Draft Stopper](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Magnetic Door Draft Stopper
 
 ## Duck Brand Window Draft Seal
 
@@ -116,7 +116,7 @@ Downsides: it's not reusable once removed, and it won't fix a badly warped windo
 
 Buy it if your windows rattle and leak and you want a five-minute fix.
 
-[Duck Brand Window Draft Seal](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Duck Brand Window Draft Seal
 
 ## Comparison table
 

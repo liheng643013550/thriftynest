@@ -33,7 +33,7 @@ Real downsides: it is loud, the pulp comes out wetter than on pricier machines, 
 
 Who should buy it: someone testing whether they will actually stick with juicing, or a small household juicing a couple of times a week.
 
-[Hamilton Beach Juicer Machine (67601A)](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Hamilton Beach Juicer Machine (67601A)
 
 ## Ninja NeverClog Cold Press Juicer (JC151)
 
@@ -47,7 +47,7 @@ Real downsides: slow juicers are genuinely slow. Expect a few minutes for a sing
 
 Who should buy it: anyone with limited counter space who wants better yield on greens and does not mind a slower process.
 
-[Ninja NeverClog Cold Press Juicer (JC151)](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Ninja NeverClog Cold Press Juicer (JC151)
 
 ## Breville Juice Fountain Compact (BJE200XL)
 
@@ -61,7 +61,7 @@ Real downsides: the compact design means a smaller pulp bin, so you empty it mor
 
 Who should buy it: small-space cooks who want a name-brand centrifugal juicer and prioritize height clearance.
 
-[Breville Juice Fountain Compact (BJE200XL)](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Breville Juice Fountain Compact (BJE200XL)
 
 ## Mueller Austria Juicer Ultra (MU-100)
 
@@ -75,7 +75,7 @@ Real downsides: high wattage does not fix a centrifugal design's weakness with g
 
 Who should buy it: budget shoppers who juice a lot of hard produce and want maximum motor for the money.
 
-[Mueller Austria Juicer Ultra (MU-100)](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Mueller Austria Juicer Ultra (MU-100)
 
 ## Aicok Slow Masticating Juicer
 
@@ -89,7 +89,7 @@ Real downsides: the horizontal or angled body takes up more counter depth than a
 
 Who should buy it: green-juice drinkers with a bit more counter depth who want quiet operation and better yield.
 
-[Aicok Slow Masticating Juicer](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Aicok Slow Masticating Juicer
 
 ## KOIOS Juicer (Slow Masticating)
 
@@ -103,7 +103,7 @@ Real downsides: budget slow juicers are not built for heavy daily use, and owner
 
 Who should buy it: small-space cooks who want slow-juicer yield and are willing to accept budget build quality.
 
-[KOIOS Juicer (Slow Masticating)](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+KOIOS Juicer (Slow Masticating)
 
 ## Hamilton Beach Big Mouth Juice Extractor (67608A)
 
@@ -117,7 +117,7 @@ Real downsides: it is the same story as other budget centrifugals — loud, wett
 
 Who should buy it: impatient juicers who want whole-fruit loading at the lowest possible price.
 
-[Hamilton Beach Big Mouth Juice Extractor (67608A)](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)
+Hamilton Beach Big Mouth Juice Extractor (67608A)
 
 ## Comparison table
 

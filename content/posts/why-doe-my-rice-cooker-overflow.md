@@ -72,8 +72,8 @@ If you've fixed the ratio, cleaned the vent, replaced the gasket, and it still o
 
 Two solid replacements that owner reviews consistently rate well for basic, no-fuss cooking:
 
-- [Aroma Housewares 8-Cup Digital Rice Cooker](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) — a simple, widely owned option if you want one pot that handles white and brown rice without much fiddling.
-- [Zojirushi NS-ZCC10 Neuro Fuzzy Rice Cooker](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) — a step up in price, but the fuzzy-logic models are the ones reviewers most often say they've owned for a decade or more.
+- Aroma Housewares 8-Cup Digital Rice Cooker — a simple, widely owned option if you want one pot that handles white and brown rice without much fiddling.
+- Zojirushi NS-ZCC10 Neuro Fuzzy Rice Cooker — a step up in price, but the fuzzy-logic models are the ones reviewers most often say they've owned for a decade or more.
 
 **On energy cost:** A fuzzy-logic cooker typically uses a gentler, more controlled heating cycle than a cheap on/off model, which usually means less overshoot and less boiling over. Over a year of daily use, the difference in electricity is modest—think a few dollars, not a few hundred—but the reliability difference is the bigger win. If your current cooker is a $25 model that's failed twice, the math favors replacing it.
 

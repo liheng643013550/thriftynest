@@ -80,9 +80,9 @@ Cost: this is the recurring cost of dog ownership. If you're replacing a heavy-c
 
 If you've tried sizing up, switching materials, and adding enrichment, and your dog is still shredding everything, stop buying plush and rope entirely. Two replacements that hold up well in owner reviews and are easy to clean:
 
-The [KONG Extreme](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is the standard answer for power chewers. It's a solid black natural rubber toy, dishwasher-safe on the top rack, and designed to be stuffed with treats and frozen. A rinse takes under a minute; a full wash takes about two minutes of hands-on time. Owner reviews consistently report it surviving dogs that destroy everything else, though no rubber toy is indestructible.
+The KONG Extreme is the standard answer for power chewers. It's a solid black natural rubber toy, dishwasher-safe on the top rack, and designed to be stuffed with treats and frozen. A rinse takes under a minute; a full wash takes about two minutes of hands-on time. Owner reviews consistently report it surviving dogs that destroy everything else, though no rubber toy is indestructible.
 
-The [West Paw Zogoflex Hurley](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__) is a solid rubber bone-style chew that floats, bounces, and is dishwasher-safe. It's a good fit for dogs that prefer to gnaw on an edge rather than work a cavity. It has a reputation among owners for outlasting softer rubber toys, and the cleanup is the same as the KONG: hot water and a bottle brush.
+The West Paw Zogoflex Hurley is a solid rubber bone-style chew that floats, bounces, and is dishwasher-safe. It's a good fit for dogs that prefer to gnaw on an edge rather than work a cavity. It has a reputation among owners for outlasting softer rubber toys, and the cleanup is the same as the KONG: hot water and a bottle brush.
 
 Both are in the $15 to $30 range depending on size, and both trade the "cute" factor for something your dog can't dismantle in ten minutes.
 
