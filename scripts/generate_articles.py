@@ -33,6 +33,7 @@ builds before you configure the key (see SETUP.md).
    此处补充"写入后回显字数与 FAQ 状态"）。
 """
 import argparse
+import json
 import os
 import random
 import re
@@ -282,21 +283,82 @@ STRUCTURES = {
     ),
 }
 
-AMAZON_LINK_RULE = (
-    "Linking rules (follow exactly):\n"
-    "  - Use the product's REAL brand + model as the link text. Format:\n"
-    "        [Cosori Pro LE](https://www.amazon.com/dp/PLACEHOLDER-ASIN?tag=__AMAZON_TAG__)\n"
-    "  - NEVER write the literal words 'Product Name', 'Brand', 'Product', 'Link' "
-    "or any bracketed placeholder as link text. That is the single worst mistake "
-    "you can make here.\n"
-    "  - Do NOT invent an ASIN - always keep the literal token PLACEHOLDER-ASIN in "
-    "the URL. A human fills in real ASINs later.\n"
-    "  - Naming real products is REQUIRED, not optional. This is a buying guide; "
-    "an article with no named products and no links is worthless to the reader. "
-    "If you are unsure of an exact model number, name the brand and the product "
-    "line (e.g. 'Cosori Pro LE') rather than dropping the link.\n"
-    "  - The same product must be called the same thing everywhere in the article."
-)
+# ---------------------------------------------------------------------------
+# 已核实的真实商品池（止血点）
+# ---------------------------------------------------------------------------
+# 旧规则是「必须命名真实商品」+「别编 ASIN，留 PLACEHOLDER-ASIN 等人补」。
+# 结果：一直没人补 -> 每天新增 8~24 条死链；而「必须命名真实商品」逼得模型
+# 编造型号（FlexiSpot M2B 在 Amazon 上直接 "No results for your search"）。
+#
+# 现在的做法：给模型一份【已通过双信号复核】的真实商品清单，只准从里面选。
+# 池子里没有合适的，就【不放链接】—— 绝不允许再编一个。
+# 池子来自 data/verified_products.json（由 74-build_product_pool.py 从
+# ASIN 工作单里 verified=yes 的行导出，250 个真实商品）。
+PRODUCT_POOL_PATH = ROOT / "data" / "verified_products.json"
+_POOL_CACHE = None
+
+
+def load_product_pool():
+    global _POOL_CACHE
+    if _POOL_CACHE is None:
+        try:
+            _POOL_CACHE = json.loads(PRODUCT_POOL_PATH.read_text(encoding="utf-8"))
+        except Exception:
+            _POOL_CACHE = {"by_category": {}, "count": 0}
+    return _POOL_CACHE
+
+
+def all_allowed_asins():
+    out = set()
+    for items in load_product_pool().get("by_category", {}).values():
+        for it in items:
+            if it.get("asin"):
+                out.add(it["asin"].strip().upper())
+    return out
+
+
+def pool_for(cat, limit=28):
+    """该分类的商品优先，不够就用其他分类补 —— 跨类目也能用得上。"""
+    pool = load_product_pool().get("by_category", {})
+    out = list(pool.get(cat, []))
+    if len(out) >= limit:
+        return out[:limit]
+    for c, items in pool.items():
+        if c == cat:
+            continue
+        for it in items:
+            if len(out) >= limit:
+                break
+            out.append(it)
+        if len(out) >= limit:
+            break
+    return out
+
+
+def build_link_rule(products):
+    """生成"只准从池子里选"的链接规则，附上商品清单。"""
+    lines = [
+        "Linking rules (follow exactly — these override anything else):",
+        "  - You may ONLY name and link products from the APPROVED PRODUCT LIST below.",
+        "  - Use the product's EXACT name as the link text and its EXACT ASIN in the URL:",
+        "        [<exact product name>](https://www.amazon.com/dp/<exact ASIN>?tag=__AMAZON_TAG__)",
+        "  - Copy the ASIN character-for-character. Never alter, shorten or invent an ASIN.",
+        "  - NEVER write the literal text PLACEHOLDER-ASIN in a URL. A link that does not",
+        "    point at a verified real product must not exist at all.",
+        "  - NEVER invent a brand, a model number, or a product that is not in the list.",
+        "    (Made-up model numbers are the worst possible failure here: readers search for",
+        "     them on Amazon and find nothing, which destroys trust in the whole guide.)",
+        "  - If no listed product genuinely fits this topic, write the article with NO",
+        "    product names and NO links — give buying criteria, specs, capacity ranges and",
+        "    price bands instead. That is a valid outcome. Do NOT invent anything to fill in.",
+        "  - Never write a guessed price. Ranges with 'typically'/'usually' only.",
+        "  - The same product must be called the same thing everywhere in the article.",
+        "",
+        "APPROVED PRODUCT LIST (use the exact names and ASINs shown):",
+    ]
+    for p in products:
+        lines.append("  - %s  |  ASIN %s" % (p.get("name", ""), p.get("asin", "")))
+    return "\n".join(lines)
 
 
 def content_variants(topic, year):
@@ -343,12 +405,12 @@ def build_prompt(topic, year):
         "exactly 3 questions. Format each as an H3 heading for the question "
         "followed by a short (1-3 sentence) answer paragraph. The FAQ section is "
         "REQUIRED — do not skip it.\n"
-        "- Mention real product names and well-known brands only; never invent a "
-        "brand or an exact price.\n"
+        "- Only name products that appear in the APPROVED PRODUCT LIST below. Never "
+        "invent a brand, a model number, or a price.\n"
         "- Output ONLY the article body in Markdown. No preamble, no title line, "
         "no closing remarks.\n"
     ) % (topic["kw"], topic["title"].format(year=year), audience, angle, opener,
-         structure, AMAZON_LINK_RULE)
+         structure, build_link_rule(pool_for(topic.get("cat", ""))))
 
 
 # ---------------------------------------------------------------------------
@@ -395,16 +457,34 @@ def quality_gate(body, topic):
         problems.append("template placeholder leaked as content: %s"
                         % sorted(set(leftovers))[:4])
 
-    # 商品链接数量：这是变现站，一篇没有商品链接的导购文没有价值。
-    # 反例：模型曾被"叫不出名字就别加链接"诱导，产出 0 链接的文章。
+    # --- 链接合规：止血点 ---------------------------------------------------
+    # 旧规则允许 PLACEHOLDER-ASIN（"等人类补"），但一直没人补，
+    # 于是每天新增 8~24 条死链，一个月就能把辛苦修好的存量全部冲掉。
+    # 现在：出现占位符、或链接指向未核实 ASIN，直接拒稿。
+    if "PLACEHOLDER-ASIN" in body:
+        problems.append("contains a PLACEHOLDER-ASIN dead link (must never happen)")
+
     links = re.findall(
-        r"\[([^\]]+)\]\((https://www\.amazon\.com/dp/PLACEHOLDER-ASIN[^\)]*)\)", body)
-    named = [n for n, _ in links
+        r"\[([^\]]+)\]\((https://www\.amazon\.com/dp/([A-Za-z0-9\-]+)[^\)]*)\)", body)
+    allowed = all_allowed_asins()
+    unknown = sorted({a.upper() for _, _, a in links if a.upper() not in allowed})
+    if unknown:
+        problems.append("link(s) point at unverified ASIN(s): %s" % unknown[:4])
+
+    # 链接数量：只做"该有却没有"的兜底，不再强迫凑数。
+    # 旧代码按 intent 硬要 4/3 条，池子里没有合适的时等于逼模型编 ——
+    # 这正是"编造商品名"的另一个源头。
+    named = [n for n, _, _ in links
              if not re.fullmatch(r"(?i)product name|brand|product|link|x", n.strip())]
-    need = {"comparison": 4, "vs": 3, "list": 3}.get(intent, 1)
-    if len(named) < need:
-        problems.append("%s article has only %d usable product link(s), needs >= %d"
-                        % (intent, len(named), need))
+    cat = topic.get("cat", "")
+    pool_n = len(pool_for(cat))
+    if not named:
+        if pool_n >= 12:
+            problems.append("0 product links, but the verified pool for '%s' has "
+                            "%d items - it should have used some" % (cat, pool_n))
+        else:
+            print("[generate] note: no product links (pool for '%s' has only %d)"
+                  % (cat, pool_n))
     return words, problems
 
 
