@@ -125,7 +125,7 @@ You do not have to sacrifice quality for a small footprint and a low price. For 
 
 Measure your space first, write down your absolute max width, and then pick from the list above. Every desk here is under $100, which means you can save your cash for a good office chair, which is honestly more important for your back anyway.
 
-Frequently Asked Questions
+## Frequently Asked Questions
 
 What size desk is best for a small space?
 A desk between 30 and 48 inches wide is usually the sweet spot. If your room is very narrow, look for a depth of 20 inches or less to avoid the desk jutting too far into the walkway, believe it or not.
