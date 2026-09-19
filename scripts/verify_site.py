@@ -149,10 +149,23 @@ def main():
     print("\n[3/7] page count matches content count")
     built = sorted(p.parent.name for p in (SITE_DIR / "posts").glob("*/index.html")) \
         if (SITE_DIR / "posts").is_dir() else []
+    # 跳转页不是文章，必须从计数里排除。
+    # 合并重复选题后，旧地址会生成一个跳转页（见 Site.build_redirects），
+    # 它位于 site/posts/<旧slug>/index.html —— 不排除的话这里会永远报
+    # "built=207 expected=205"，看起来像构建坏了，其实是正常的。
+    redirects = set()
+    try:
+        _cfg = load_config()
+        for _old in (_cfg.get("redirects") or {}):
+            redirects.add(str(_old).strip("/").split("/")[-1])
+    except Exception:
+        pass
+    built = [b for b in built if b not in redirects]
     expected = sorted(s for s, _, _ in posts)
     rep.check(len(built) == len(posts),
               "site/posts/*/index.html count == %d markdown posts" % len(posts),
-              "built=%d expected=%d" % (len(built), len(posts)))
+              "built=%d expected=%d (excluding %d redirect page(s))"
+              % (len(built), len(posts), len(redirects)))
     missing = [s for s in expected if s not in built]
     extra = [s for s in built if s not in expected]
     if missing:
@@ -374,6 +387,33 @@ def main():
               "no template placeholders leaked into article text",
               "%d post(s) contain literal placeholders as content:\n%s"
               % (len(residue), "\n".join(residue[:10])) if residue else None)
+
+    # Titles must not imply the site tested products.
+    # These words print straight into search-result titles - worse than a stray
+    # sentence in the body, and the body check above cannot see them because it
+    # only scans the body. Real cases found live:
+    #   "The 7 Best Air Fryers Under $50 in 2026 (Tested & Compared)"  x2
+    #   "The 5 Best Coffee Makers Under $100 in 2026 (Honest Review)" x2
+    # The generator now strips them via clean_title(); this is the backstop so a
+    # manual edit cannot reintroduce one.
+    title_claim = re.compile(
+        r"(?i)\b(?:tested|tested\s*(?:&|and)\s*compared|honest\s+review|"
+        r"reviewed|hands[- ]on|lab[- ]tested|we\s+tried)\b")
+    tainted = []
+    for slug, _, _ in posts:
+        raw = (POSTS_DIR / (slug + ".md")).read_text(encoding="utf-8")
+        m = re.match(r"^---\s*\n(.*?)\n---\s*\n", raw, re.S)
+        if not m:
+            continue
+        tm = re.search(r"(?m)^title:\s*(.*(?:\n[ \t]+\S.*)*)", m.group(1))
+        if not tm:
+            continue
+        val = " ".join(x.strip() for x in tm.group(1).splitlines())
+        if title_claim.search(val):
+            tainted.append("%s (%r)" % (slug, val[:60]))
+    rep.check(not tainted, "no title claims that products were tested",
+              "%d title(s) imply testing:\n%s"
+              % (len(tainted), "\n".join(tainted[:8])) if tainted else None)
 
     # Pinterest pin coverage.
     # scripts/make_pins.py must run BEFORE build_site.py, and it was missing from
