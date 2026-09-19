@@ -189,6 +189,9 @@ class Site:
         self.base = self.site.get("url", "").rstrip("/")
         self.name = self.site.get("name", "ThriftyNest")
         self.tagline = self.site.get("tagline", "")
+        # 公开联系邮箱（config.yaml 的 site.email）。留空则相关字段一律不输出，
+        # 页面与改动前完全一致 —— 保持"配置驱动"，可随时撤回。
+        self.email = (self.site.get("email") or "").strip()
         self.tag = (self.money.get("amazon_tag") or "").strip()
         self.adsense = (self.money.get("adsense_client") or "").strip()
         self.adsense_slot = (self.money.get("adsense_slot") or "").strip()
@@ -538,11 +541,32 @@ class Site:
             '<a class="hero-btn" href="%s">%s</a>' % (self.path("category", cat), name)
             for cat, name in sorted(CATEGORY_NAMES.items())
         )
-        jsonld = {
-            "@context": "https://schema.org",
-            "@type": "WebSite",
+        # WebSite + Organization 一起给。
+        # 为什么补 Organization：联盟与 AdSense 审核都要判断"这是不是一个
+        # 真实可联系的实体"。只有 WebSite 节点时，站点在结构化数据里没有
+        # 任何主体信息；补上 Organization + contactPoint 才能明确表达主体是谁、
+        # 怎么联系。用 @graph 组织两个节点，避免再插一个 script 块。
+        org = {
+            "@type": "Organization",
             "name": self.name,
             "url": self.path(""),
+        }
+        if self.email:
+            org["email"] = self.email
+            org["contactPoint"] = {
+                "@type": "ContactPoint",
+                "contactType": "customer support",
+                "email": self.email,
+            }
+        desc = self.site.get("description", "")
+        if desc:
+            org["description"] = desc
+        jsonld = {
+            "@context": "https://schema.org",
+            "@graph": [
+                {"@type": "WebSite", "name": self.name, "url": self.path("")},
+                org,
+            ],
         }
         body = (
             '<section class="hero">'
@@ -653,7 +677,9 @@ class Site:
             "<p>You can disable cookies in your browser settings. Note that some parts "
             "of the site may not work as well without them.</p>"
             "<h2>Contact</h2>"
-            "<p>Questions about this policy? See our <a href=\"%s/contact/\">contact page</a>.</p>"
+            "<p>Questions about this policy? Email us at "
+            "<a href=\"mailto:liheng643013550@gmail.com\">liheng643013550&#64;gmail&#46;com</a>, or see our "
+            "<a href=\"%s/contact/\">contact page</a>.</p>"
             % (self.name, self.base, self.base)
         )
         self._trust_page("privacy-policy", "Privacy Policy", privacy)
@@ -703,7 +729,12 @@ class Site:
             "<h1>Contact</h1>"
             "<p>Have a question, a suggestion, or found an issue on the site? We would "
             "love to hear from you.</p>"
-            "<p>We read every message and reply as soon as we can.</p>"
+            "<p>Email is the best way to reach us: "
+            "<a href=\"mailto:liheng643013550@gmail.com\"><strong>liheng643013550&#64;gmail&#46;com</strong></a></p>"
+            "<p>We read every message and reply as soon as we can - usually within a "
+            "few days. If you are reporting a broken link, a wrong price, or a product "
+            "that no longer matches our description, please include the page address so "
+            "we can fix it faster.</p>"
             "<p>You can also browse our guides from the <a href=\"%s\">home page</a> or "
             "check our <a href=\"%s/categories/\">full list of categories</a>.</p>"
             % (self.base, self.base)
