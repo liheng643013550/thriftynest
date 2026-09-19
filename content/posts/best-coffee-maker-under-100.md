@@ -1,5 +1,5 @@
 ---
-title: The 5 Best Coffee Makers Under $100 in 2026 (Honest Review)
+title: "The 5 Best Coffee Makers Under $100 in 2026"
 slug: best-coffee-maker-under-100
 date: '2026-09-14'
 category: kitchen

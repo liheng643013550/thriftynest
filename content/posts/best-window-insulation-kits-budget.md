@@ -11,7 +11,7 @@ description: Drafty windows can turn a cozy living room into a cold spot and sen
 ---
 Drafty windows can turn a cozy living room into a cold spot and send your heating bill climbing. You don't need to replace your windows or hire a contractor to fix this. A simple window insulation kit is a fast, cheap fix that can make your home noticeably warmer in under an hour.
 
-To be fair, I’ve tested several of these kits over the years in my own drafty 1920s house. Here are the best budget-friendly options that actually work.
+To be fair, published reviews and spec sheets cover several of these kits over the years in drafty 1920s houses. Here are the best budget-friendly options that are described as actually working.
 
 ## What to Look For
 

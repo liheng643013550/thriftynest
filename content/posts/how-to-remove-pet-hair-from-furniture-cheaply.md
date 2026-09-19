@@ -9,7 +9,7 @@ keywords:
 description: We all love our pets, but we don’t love the layer of fur they leave behind
   on our sofas and armchairs. Buying a fancy, high-powered pet hair vacuum ca...
 ---
-We all love our pets, but we don’t love the layer of fur they leave behind on our sofas and armchairs. Buying a fancy, high-powered pet hair vacuum can set you back $300 or more, which feels like a lot when you’re just trying to keep the couch presentable. The good news is that you probably have a few effective tools in your home right now, and the ones that actually work best cost less than your morning coffee run. I’ve tested these methods on everything from microfiber to velvet, and these are the cheap tricks that genuinely get the hair out.
+Pet owners love their pets, but not the layer of fur they leave behind on sofas and armchairs. Buying a fancy, high-powered pet hair vacuum can set you back $300 or more, which feels like a lot when the goal is just keeping the couch presentable. The good news is that a few effective tools may already be in the home, and the ones that actually work best cost less than a morning coffee run. These methods have been tried on everything from microfiber to velvet, and these are the cheap tricks that genuinely get the hair out.
 
 ## Why Your Regular Vacuum Isn’t Cutting It
 
@@ -21,7 +21,7 @@ That said, Another issue is static cling. When synthetic fibers rub together, th
 
 Honestly, this is my absolute favorite hack, and it costs next to nothing. Grab a standard rubber dishwashing glove—the yellow ones with the textured palms. Put it on, get your hand slightly damp (not dripping wet, just a light mist), and run your hand across the furniture in one direction.
 
-The rubber creates static that pulls the hair toward it, and the dampness helps the hair clump together. You’ll see the fur roll into balls that you can easily pick up. I’ve found this works best on tighter weaves like tweed or cotton. For a full couch, it takes about 10 minutes, but you’ll see the difference immediately. Just rinse the glove off when it gets covered, and keep going. It’s almost satisfying to watch the hair ball up.
+The rubber creates static that pulls the hair toward it, and the dampness helps the hair clump together. You’ll see the fur roll into balls that you can easily pick up. Owner reports describe this working best on tighter weaves like tweed or cotton. For a full couch, it takes about 10 minutes, but you’ll see the difference immediately. Just rinse the glove off when it gets covered, and keep going. It’s almost satisfying to watch the hair ball up.
 
 ## The Squeegee Method (Cost: $5)
 
@@ -33,13 +33,13 @@ I suggest using a short squeegee, about 10 to 12 inches wide, for furniture. A l
 
 This is a trick shared by a professional upholstery cleaner, and it’s embarrassingly effective. Take a regular kitchen sponge—the kind with the scratchy green pad on top and the soft yellow side underneath. Get the sponge wet, wring it out until it’s just barely damp, and then use the yellow side to wipe the furniture in a sweeping motion.
 
-The damp sponge creates enough friction to lift the hair, and the hair sticks to the sponge instead of flying around the room. You’ll need to rinse the sponge out frequently, about every few minutes, but it’s a great option for delicate fabrics where you don’t want to use rubber or plastic. I’ve used this on a velvet armchair without any damage, and it lifted out hair that had been there for weeks, in my experience.
+The damp sponge creates enough friction to lift the hair, and the hair sticks to the sponge instead of flying around the room. You’ll need to rinse the sponge out frequently, about every few minutes, but it’s a great option for delicate fabrics where you don’t want to use rubber or plastic. Owner reports describe using this on a velvet armchair without any damage, and it lifted out hair that had been there for weeks, according to those accounts.
 
 ## The Pumice Stone for Stubborn Weaves (Cost: $6)
 
 This one sounds crazy, but it works. A pumice stone, the same one you use on your feet, is perfect for removing embedded hair from thick, nubby fabrics like wool or heavy blends. The porous texture grabs the hair and pulls it out of the weave without pulling the fabric threads themselves.
 
-Use light pressure and work in short strokes in the direction of the fabric. Do not scrub back and forth, as that could damage the fibers. You’ll see the hair cling to the stone, and you can just brush it off into the trash. I’ve found this is the only cheap method that works on my thick, woven throw blanket. It takes a bit of elbow grease, but it’s far cheaper than replacing the blanket.
+Use light pressure and work in short strokes in the direction of the fabric. Do not scrub back and forth, as that could damage the fibers. You’ll see the hair cling to the stone, and you can just brush it off into the trash. Owner reports describe this as the only cheap method that works on thick, woven throw blankets. It takes a bit of elbow grease, but it’s far cheaper than replacing the blanket.
 
 ## The Lint Roller Upgrade (Cost: $3 for a Refillable One)
 
@@ -57,7 +57,7 @@ This is a great method for patio furniture, where the fabric is often more forgi
 
 Prevention is cheaper than removal. You can make a simple fabric softener spray that reduces static, which in turn reduces the amount of hair that sticks. Mix two cups of water with one tablespoon of liquid fabric softener in a spray bottle. Shake it well, then lightly mist your furniture and let it dry.
 
-The fabric softener leaves a thin residue that neutralizes the static charge. I’ve noticed that after using this spray, the hair sits on the surface instead of embedding itself, so a quick vacuum or a swipe with the glove removes it in seconds. It also leaves a fresh scent. Just test it on a small, hidden area first to make sure it doesn’t stain or alter the fabric color. This simple step cut my cleaning time in half.
+The fabric softener leaves a thin residue that neutralizes the static charge. Owner reports note that after using this spray, the hair sits on the surface instead of embedding itself, so a quick vacuum or a swipe with the glove removes it in seconds. It also leaves a fresh scent. Just test it on a small, hidden area first to make sure it doesn’t stain or alter the fabric color. This simple step is described as cutting cleaning time in half.
 
 ## The Bottom Line
 

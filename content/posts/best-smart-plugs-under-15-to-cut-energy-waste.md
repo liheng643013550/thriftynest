@@ -9,7 +9,7 @@ keywords:
 description: If your electric bill keeps creeping up, the culprit is often not the
   big appliances you use but the gadgets that sit plugged in and quietly sip power...
 ---
-If your electric bill keeps creeping up, the culprit is often not the big appliances you use but the gadgets that sit plugged in and quietly sip power all day. Smart plugs are the easiest fix. They let you cut power to devices completely, schedule them to run only when needed, and track what’s actually drawing energy. The good news is you don’t need to spend $30 a pop to get this done. I’ve tested several budget-friendly options, and these are the best smart plugs under $15 that actually work without fluff.
+If your electric bill keeps creeping up, the culprit is often not the big appliances you use but the gadgets that sit plugged in and quietly sip power all day. Smart plugs are the easiest fix. They let you cut power to devices completely, schedule them to run only when needed, and track what’s actually drawing energy. The good news is you don’t need to spend $30 a pop to get this done. Spec sheets and owner reviews cover several budget-friendly options, and these are the best smart plugs under $15 that actually work without fluff.
 
 ## What to look for
 

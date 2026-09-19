@@ -9,7 +9,7 @@ keywords:
 description: If your water bill feels like a second rent payment, or you’re tired
   of waiting forever for the tank to refill, a low-flow showerhead is the single ea...
 ---
-If your water bill feels like a second rent payment, or you’re tired of waiting forever for the tank to refill, a low-flow showerhead is the single easiest fix in your home. You don’t have to sacrifice a good rinse to save water, though. Modern aerating and laminar designs have completely changed the game, offering a drenching spray that feels like it’s using way more than the legal limit. I’ve tested a bunch of them in my own bathroom over the last few years, and these are the models I actually recommend to friends and family.
+If your water bill feels like a second rent payment, or you’re tired of waiting forever for the tank to refill, a low-flow showerhead is the single easiest fix in your home. You don’t have to sacrifice a good rinse to save water, though. Modern aerating and laminar designs have completely changed the game, offering a drenching spray that feels like it’s using way more than the legal limit. Owner reviews and published specs cover a bunch of them over the last few years, and these are the models that come up again and again among friends and family.
 
 ## What to look for
 

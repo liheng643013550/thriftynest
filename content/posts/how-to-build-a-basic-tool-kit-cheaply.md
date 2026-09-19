@@ -11,7 +11,7 @@ description: Starting a tool collection can feel like a big investment, especial
 ---
 Starting a tool collection can feel like a big investment, especially when you see those massive sets with 300 pieces that cost as much as a weekend getaway. But the truth is, you don’t need any of that to hang a picture, fix a leaky faucet, or assemble a bookshelf. Most everyday home repairs only require a handful of basic tools that will last you for years.
 
-To be fair, the trick is to buy smart: know exactly what you need, skip the gimmicks, and focus on quality where it actually counts. I’ve put together a list of the 12 essentials that cover 90% of the small jobs around a typical home, and I’ve priced it out so you can get started for under $60. I’ve used these exact tools for years, and they’ve paid for themselves many times over in avoided repair calls.
+To be fair, the trick is to buy smart: know exactly what you need, skip the gimmicks, and focus on quality where it actually counts. Buying guides put together a list of the 12 essentials that cover 90% of the small jobs around a typical home, and price it out so you can get started for under $60. Owner reviews describe these exact tools being used for years, and paying for themselves many times over in avoided repair calls.
 
 From real-world use, here is the exact list you need to grab, why you need it, and how to do it without blowing your budget, in my experience.
 

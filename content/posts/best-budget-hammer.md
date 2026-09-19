@@ -40,7 +40,7 @@ Honestly, the 16-ounce head is perfect for most household tasks. It drives a 2-i
 
 In practice, the downside is that the steel construction makes it heavier than a comparable fiberglass hammer, so it can feel a bit tiring after a long day of framing. Also, the grip can get slippery if your hands are sweaty, but that’s a minor issue for most people.
 
-Buy this if you want one hammer that will last for decades and you don’t mind a little extra weight. It’s the best all-around budget hammer I’ve found.
+Buy this if you want one hammer that will last for decades and you don’t mind a little extra weight. It’s the best all-around budget hammer owner reviews point to.
 
 Estwing E16-16
 
@@ -52,7 +52,7 @@ The standout feature here is the handle. It’s made from a vibration-dampening 
 
 The main downside is the rubber grip. It’s aggressive and grippy, which is good, but it can wear down over a few years. Also, the larger head makes it less precise for finish work, so it’s not ideal for hanging trim or small picture frames.
 
-Buy this if you’re doing framing, decking, or any project with lots of heavy nailing. It’s the best budget framing hammer I’ve tested, in practice.
+Buy this if you’re doing framing, decking, or any project with lots of heavy nailing. It’s the best budget framing hammer covered in published reviews, in practice.
 
 Stanley FatMax Xtreme
 

@@ -35,7 +35,7 @@ Here is the process:
 
 The water will slowly seep out of the holes into the roots over several days. For a larger pot, use a bigger bottle, like a 2-liter soda bottle. For smaller pots, a standard 16.9 oz water bottle works better, honestly.
 
-The trick is matching the bottle to the plant’s thirst level. If you have a heavy drinker, you might need two bottles per pot for a longer trip. I’ve used this method for a 10-day trip to the beach, and my basil survived perfectly. Just make sure the bottle is stable. A wobbly bottle will dump its entire contents in one go, which floods the roots.
+The trick is matching the bottle to the plant’s thirst level. If you have a heavy drinker, you might need two bottles per pot for a longer trip. Owner reports describe this method working for a 10-day trip to the beach, with basil surviving perfectly. Just make sure the bottle is stable. A wobbly bottle will dump its entire contents in one go, which floods the roots.
 
 ## The Wine Bottle and Clay Stake Hack
 

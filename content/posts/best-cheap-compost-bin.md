@@ -9,7 +9,7 @@ keywords:
 description: Composting is one of the easiest ways to cut down on kitchen waste and
   get free fertilizer for your garden, but the bins on the market can cost a fort...
 ---
-Composting is one of the easiest ways to cut down on kitchen waste and get free fertilizer for your garden, but the bins on the market can cost a fortune. You don't need to drop a hundred bucks on a stainless steel drum to get great results. I’ve tested and researched dozens of budget-friendly models, and I’m here to show you that a functional, durable bin is totally achievable for under $50.
+Composting is one of the easiest ways to cut down on kitchen waste and get free fertilizer for your garden, but the bins on the market can cost a fortune. You don't need to drop a hundred bucks on a stainless steel drum to get great results. Spec sheets and owner reviews cover dozens of budget-friendly models, and they show that a functional, durable bin is totally achievable for under $50.
 
 ## What to Look For
 
@@ -56,7 +56,7 @@ Exaco 2.4 Gallon
 
 ## Epica 1.3 Gallon Stainless Steel Compost Bin
 
-The Epica is the workhorse of cheap indoor bins. For around $20, you get a stainless steel body that resists odors and looks professional. The lid seals tightly with a silicone gasket, and it includes a replacement charcoal filter in the box. I’ve found that this bin keeps fruit flies out better than any plastic model I’ve tried.
+The Epica is the workhorse of cheap indoor bins. For around $20, you get a stainless steel body that resists odors and looks professional. The lid seals tightly with a silicone gasket, and it includes a replacement charcoal filter in the box. Owner reviews report that this bin keeps fruit flies out better than plastic models.
 
 It’s small enough to fit under a sink or on a crowded countertop. The 1.3-gallon size is perfect for a couple or a small family—you'll need to empty it every two or three days. The handle is comfortable, and the lid locks shut, so you can carry it to the backyard without spilling.
 

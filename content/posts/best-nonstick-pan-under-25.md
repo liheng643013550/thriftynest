@@ -26,7 +26,7 @@ Before you click "buy," here’s what actually matters when you’re shopping on
 
 ## The Quick Comparison
 
-Here’s a quick look at the top contenders. We’ve kept the prices as of this writing, but they can fluctuate.
+Here’s a quick look at the top contenders. Prices are kept as of this writing, but they can fluctuate.
 
 | Product | Price | Best For | Key Pros |
 | :--- | :--- | :--- | :--- |

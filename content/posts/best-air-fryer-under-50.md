@@ -1,5 +1,5 @@
 ---
-title: The 7 Best Air Fryers Under $50 in 2026 (Tested & Compared)
+title: "The 7 Best Air Fryers Under $50 in 2026"
 slug: best-air-fryer-under-50
 date: '2026-08-19'
 category: kitchen

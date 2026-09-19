@@ -44,7 +44,7 @@ Window sills are another spot that collects a surprising amount of grime, especi
 
 Now we get to the stuff you actually see every day. For solid wood tables, desks, and dressers, a dry microfiber cloth is usually all I need. I fold the cloth into quarters and use each side until it's dirty, then flip to a fresh side. This way, I’m not just smearing dirt around, honestly.
 
-If you have a lot of electronics like a TV or a computer monitor, this is the time to hit them. I use a slightly damp (not wet) microfiber cloth for screens. I’ve found that spending $8 on a pack of good cleaning cloths is worth it because they don’t leave lint behind. I specifically use one for screens and one for wood to avoid transferring any chemical residue.
+If you have a lot of electronics like a TV or a computer monitor, this is the time to hit them. A slightly damp (not wet) microfiber cloth is commonly recommended for screens. Owner reports describe spending $8 on a pack of good cleaning cloths as worth it because they don’t leave lint behind. A common practice is to use one specifically for screens and one for wood to avoid transferring any chemical residue.
 
 For a coffee table that has sticky rings from glasses, I’ll spray a little bit of my homemade cleaner (one part white vinegar, three parts water) onto the cloth, not the furniture, and wipe it down. This takes about two minutes per room, but it makes the whole house feel fresh.
 

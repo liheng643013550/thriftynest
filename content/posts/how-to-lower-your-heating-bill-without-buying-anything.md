@@ -51,7 +51,7 @@ You don’t need a professional energy audit to find the big leaks. You just nee
 
 The fix is usually free. That old towel you were about to throw away? Roll it up and stuff it at the bottom of the front door. That’s a draft stopper that costs you nothing. For window sashes, you can use a piece of old bubble wrap or even a rolled-up sock to jam into the gap.
 
-Look for the usual suspects: the mail slot, the doggy door, the gap under the baseboards, and the opening where pipes come through the wall under the sink. For those small gaps, a little wad of newspaper or a strip of cloth can work wonders in a pinch. I’ve used old t-shirts and duct tape more times than I care to admit. It looks a little rough, but it keeps the cold air out, and that’s what matters.
+Look for the usual suspects: the mail slot, the doggy door, the gap under the baseboards, and the opening where pipes come through the wall under the sink. For those small gaps, a little wad of newspaper or a strip of cloth can work wonders in a pinch. Old t-shirts and duct tape are commonly cited solutions, used more times than many care to admit. It looks a little rough, but it keeps the cold air out, and that’s what matters.
 
 ## Zone Heat the Rooms You Actually Use
 

@@ -25,7 +25,7 @@ I also look for duplicates. Do I really need 14 black t-shirts? No. Keep the thr
 
 ## Double Your Rod Space With a Hanging Chain
 
-The biggest waste of space in any closet is the empty triangle underneath your hanging shirts. You hang a button-down shirt, and there’s 18 inches of dead air below it. The cheapest fix I’ve found is to add a second hanging rod.
+The biggest waste of space in any closet is the empty triangle underneath your hanging shirts. You hang a button-down shirt, and there’s 18 inches of dead air below it. The cheapest fix is to add a second hanging rod.
 
 A fancy metal closet rod kit is an option, but the budget route is a simple chain and two heavy-duty S-hooks from the hardware store for about $6. The chain attaches to the existing rod, and a second rod hangs from the chain. This instantly gives a lower tier for folded pants, skirts, or shorter shirts.
 
