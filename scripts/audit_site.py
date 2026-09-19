@@ -89,12 +89,12 @@ if bare:
 # 旧版本这里是宽松式 \b(we|I)\b[^.]{0,20}\b(tested|...)\b —— 允许任意字符
 # 夹在中间，会把 "I recommend ... tried" 这类无关联的句子判成编造体验，
 # 实测一次误报 20 篇。巡检误报比漏报更贵：每周狼来了就没人看了。
-FAKE = (r"\b(?:I|we)(?:'ve|'d| have| had)?\s+"
+FAKE = (r"\b(?:I|we)(?:['\u2019]ve|['\u2019]d| have| had)?\s+"
         r"(?:tested|tried|used|reviewed|measured|bought|purchased|owned|ordered|"
         r"kept|returned|found|noticed|learned|compared|ran)\b"
         r"|\bin (?:our|my) tests?\b|\bour review unit\b"
         r"|\bI (?:have|'ve|had) (?:to )?(?:make )?a confession\b"
-        r"|\bI used to think\b|\bI(?:'ll| will) admit\b")
+        r"|\bI used to think\b|\bI(?:['\u2019]ll| will) admit\b")
 fake = [p.name for p in posts if re.search(FAKE, read(p))]
 line("| 编造第一人称体验 | %d %s |" % (len(fake), "✅" if not fake else "❌"))
 if fake:

@@ -136,30 +136,79 @@ def load_config():
         return yaml.safe_load(fh)
 
 
-def existing_slugs():
-    """Already-written topics, as NORMALIZED slugs.
+def _topic_key(text):
+    """选题去重键 = slugify + 英文单复数归一。
 
-    Both sides of the de-duplication comparison must go through slugify(),
-    otherwise the day you change slugify() every existing article looks
-    "unwritten" again and gets regenerated as a duplicate. That is exactly
-    the bug that produced best-air-fryers-under-50 + best-air-fryer-under-50.
+    为什么必须有这一层：slugify 只做词形转换，不认单复数。于是
+    "best air fryer under 50" 与 "best air fryers under 50" 成了两个不同的键，
+    日更把同一件事写了两遍 —— 两个页面抢同一个关键词，排名信号互相抵消。
+    实测已经产生了两组：
+        best-air-fryer-under-50   / best-air-fryers-under-50
+        best-coffee-maker-under-100 / best-coffee-makers-under-100
+    """
+    s = slugify(text)
+    out = []
+    for w in s.split("-"):
+        if len(w) > 4 and w.endswith("ies"):
+            w = w[:-3] + "y"
+        elif len(w) > 4 and w.endswith("es") and not w.endswith("ses"):
+            w = w[:-2]
+        elif len(w) > 3 and w.endswith("s") and not w.endswith("ss"):
+            w = w[:-1]
+        out.append(w)
+    return "-".join(out)
+
+
+def clean_title(title):
+    """去掉标题里暗示“我们测评过”的括号后缀。
+
+    为什么必须做：(Tested & Compared) / (Honest Review) 这类后缀会直接印在
+    搜索结果标题上 —— 那等于对所有人宣称这个站做过实测，是合规问题
+    （E-E-A-T 与 Amazon 运营协议都不允许），而且标题变长会被截断，点击率反而降。
+    实测线上已有 4 个标题带这类后缀（2 篇 air fryer + 2 篇 coffee maker）。
+    """
+    t = re.sub(
+        r"\s*[\(\[]\s*[^()\[\]]*\b(?:tested|tested\s*(?:&|and)\s*compared|honest\s+review|"
+        r"reviewed|hands[- ]on|lab[- ]tested|we\s+tried)\b[^()\[\]]*\s*[\)\]]",
+        "", title or "", flags=re.I)
+    # 结尾的 " - Tested & Compared" 这类也一并去掉
+    t = re.sub(r"\s*[-–—]\s*(?:tested|tested\s*(?:&|and)\s*compared|honest\s+review)\s*$",
+               "", t, flags=re.I)
+    return re.sub(r"\s{2,}", " ", t).strip()
+
+
+def existing_slugs():
+    """Already-written topics, as NORMALIZED keys.
+
+    Both sides of the de-duplication comparison must go through the same
+    normalisation, otherwise the day you change it every existing article
+    looks "unwritten" again and gets regenerated as a duplicate.
+    (That is exactly the bug that produced best-air-fryers-under-50.)
     """
     if not POSTS_DIR.exists():
         return set()
-    return {slugify(p.stem.replace("-", " ")) for p in POSTS_DIR.glob("*.md")}
+    return {_topic_key(p.stem.replace("-", " ")) for p in POSTS_DIR.glob("*.md")}
 
 
 def pick_topics(config, limit, override=None):
     used = existing_slugs()
     if override:
-        norm = slugify(override)
+        norm = _topic_key(override)
         topic = next((t for t in TOPICS
-                      if t["kw"].lower() == override.lower() or slugify(t["kw"]) == norm),
+                      if t["kw"].lower() == override.lower() or _topic_key(t["kw"]) == norm),
                      None)
         if not topic:
             sys.exit("Topic not found in pool: %s" % override)
         return [topic]
-    fresh = [t for t in TOPICS if slugify(t["kw"]) not in used]
+    # 池子内部也要按归一后的键去重：池里若同时存在单复数两个变体，
+    # 不能在同一天（或不同天）把同一件事写两遍。
+    fresh, seen = [], set()
+    for t in TOPICS:
+        k = _topic_key(t["kw"])
+        if k in used or k in seen:
+            continue
+        seen.add(k)
+        fresh.append(t)
     random.shuffle(fresh)  # vary what gets written each day
     return fresh[:limit]
 
@@ -484,12 +533,12 @@ def quality_gate(body, topic):
     # 实测 20 篇 24 处，而且没人发现（清理工具压根没接进流水线）。
     # 这里与 scripts/fix_fake_experience.py 的口径对齐，两个入口用同一套判断。
     first_person = (
-        r"\b(?:I|we)(?:'ve|'d| have| had)?\s+"
+        r"\b(?:I|we)(?:['\u2019]ve|['\u2019]d| have| had)?\s+"
         r"(?:tested|tried|used|reviewed|measured|bought|purchased|owned|ordered|"
         r"kept|returned)\b"
         r"|\bin our tests?\b|\bour review unit\b"
         r"|\b(?:we|I) kept\b|\bI (?:have|'ve|had) (?:to )?(?:make )?a confession\b"
-        r"|\bI used to think\b|\bI(?:'ll| will) admit\b"
+        r"|\bI used to think\b|\bI(?:['\u2019]ll| will) admit\b"
         r"|\b(?:in|on|at)\s+my\s+(?:kitchen|home|apartment|living room|bathroom|"
         r"garage|office|house)\b"
         r"|\bmy\s+(?:dog|cat|puppy|kitten|kid|kids|son|daughter|wife|husband)\b"
@@ -601,7 +650,8 @@ def write_article(topic, config, year):
     plain = re.sub(r"\s+", " ", plain).strip()
     description = plain[:150].rstrip(" ,.-") + "..."
     front = {
-        "title": topic["title"].format(year=year),
+        # 清掉标题里的“测评过”暗示后缀（见 clean_title 的说明）
+        "title": clean_title(topic["title"].format(year=year)),
         "slug": slug,
         "date": date,
         "category": topic["cat"],

@@ -741,6 +741,44 @@ class Site:
         )
         self._trust_page("contact", "Contact", contact)
 
+
+    def build_redirects(self):
+        """按 config.yaml 的 redirects: 写出跳转页。
+
+        为什么需要它：合并重复选题（例如把 best-air-fryers-under-50 并进
+        best-air-fryer-under-50）时，旧地址不能直接 404 —— 那会丢掉已经
+        被收录的链接。GitHub Pages 不能配 301，静态站的标准做法是在原地址
+        留一个最小跳转页，三样都给、兼容性最好：
+          - <link rel="canonical">  告诉搜索引擎真正的地址是哪个
+          - <meta robots noindex,follow>  别索引这个跳转页，但把权重传出去
+          - <meta http-equiv="refresh">  让浏览器立刻跳，读者无感
+        另加一行可见链接，兜住禁用跳转的情况。
+        """
+        try:
+            cfg = load_config()
+        except Exception:
+            return 0
+        red = cfg.get("redirects") or {}
+        if not isinstance(red, dict):
+            return 0
+        n = 0
+        for old, new in red.items():
+            new = str(new)
+            target = new if new.startswith("http") else self.path(new.lstrip("/"))
+            out = OUT_DIR / str(old).strip("/") / "index.html"
+            out.parent.mkdir(parents=True, exist_ok=True)
+            out.write_text(
+                '<!doctype html><html lang="en"><head><meta charset="utf-8">'
+                '<title>Moved</title>'
+                '<link rel="canonical" href="%s">'
+                '<meta name="robots" content="noindex,follow">'
+                '<meta http-equiv="refresh" content="0; url=%s">'
+                '</head><body><p>This page has moved to '
+                '<a href="%s">%s</a>.</p></body></html>'
+                % (target, target, target, target), encoding="utf-8")
+            n += 1
+        return n
+
     def build_seo_files(self, posts):
         # lastmod: use each post's own publish date instead of stamping every
         # URL with "today". The old behaviour told search engines the whole
@@ -825,6 +863,7 @@ class Site:
             related = pick_related(post, posts, n=5)
             self.build_post(post, related)
         self.build_seo_files(posts)
+        self.build_redirects()
         shutil.copytree(STATIC_DIR, OUT_DIR / "static", dirs_exist_ok=True)
         print("[build] done: %d posts, %d categories -> %s" %
               (len(posts), len(by_cat), OUT_DIR))
@@ -912,7 +951,7 @@ def pick_related(post, posts, n=5):
 # 入口必须放在【所有定义之后】：
 # Python 是自上而下执行的，如果 __main__ 块写在前面，
 # main() 会在 pick_related 等函数定义之前被调用 -> NameError。
+
+
 if __name__ == "__main__":
     main()
-
-
