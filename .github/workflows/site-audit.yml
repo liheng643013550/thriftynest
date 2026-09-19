@@ -52,6 +52,22 @@ jobs:
         continue-on-error: true
         run: python scripts/audit_site.py
 
+      - name: Traffic report (hits.sh, read-only)
+        # 把流量数据附在同一份报告里 —— 于是每周一的那张 issue 同时包含
+        # "站点健康"和"这周有多少人看、多少人点走"。
+        # 关键是【只读】：hits.sh 的 .svg 端点是写操作（请求一次 +1），
+        # 而 traffic_report.py 走的是 /api/urns/<key> 只读接口，不会污染数据。
+        # continue-on-error + || true：取不到数据时不能让整份巡检报告失败。
+        continue-on-error: true
+        run: |
+          python scripts/traffic_report.py || true
+          if [ -f traffic-report.md ]; then
+            printf '\n\n---\n\n' >> audit-report.md
+            cat traffic-report.md >> audit-report.md
+          else
+            printf '\n\n---\n\n## 流量\n\n_本次没能取到 hits.sh 数据。_\n' >> audit-report.md
+          fi
+
       - name: Open or update the audit issue
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
