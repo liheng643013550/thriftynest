@@ -11,6 +11,10 @@ site:
   url: "https://liheng643013550.github.io/thriftynest"
   name: "ThriftyNest"
   tagline: "Smart picks for a budget home"
+  # 公开联系邮箱：联系页、隐私政策、Organization 结构化数据都用它。
+  # 留空（""）则这三处都不输出邮箱，站点与加之前完全一致 —— 可随时撤回。
+  # 轻度混淆：HTML 里 @ 和 . 用实体编码，防简单邮件爬虫；mailto 与显示均正常。
+  email: "liheng643013550@gmail.com"
   description: "Practical, honest buying guides and money-saving tips for a budget-friendly home."
   author: "ThriftyNest Team"
   lang: "en"
