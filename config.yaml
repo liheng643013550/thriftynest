@@ -92,3 +92,11 @@ llm:
   max_tokens: 4096
   # DeepSeek 平台：https://platform.deepseek.com
   # 充值 10 元人民币大约能生成 1000+ 篇文章
+
+# ---------------------------------------------------------------------------
+# 重定向：合并重复选题后，旧地址不能直接 404（会丢掉已收录的链接）。
+# 构建时会在原地址生成一个最小跳转页（canonical + meta refresh + 可见链接）。
+# 键 = 旧路径（不含开头斜杠），值 = 目标路径。
+redirects:
+  "posts/best-air-fryers-under-50": "/posts/best-air-fryer-under-50/"
+  "posts/best-coffee-makers-under-100": "/posts/best-coffee-maker-under-100/"
