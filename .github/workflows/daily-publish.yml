@@ -82,6 +82,14 @@ jobs:
         # 这一步原先缺失，导致 pin 图从未生成过 —— 见 PINTEREST.md。
         run: python scripts/make_pins.py
 
+      - name: Clean stale build output
+        # 构建前必须先清掉旧的 site/。
+        # 为什么：site/ 是被提交进仓库的，而 build_site.py 只【写】不【删】——
+        # 合并/删除文章后，旧的页面目录会一直留在产物里。实测 CI 因此变红：
+        # 闸门数到的页面数比文章数多，且已删文章仍带着违规标题参与检查。
+        # 清理是安全的：static/pins 与 static/img 都会被后续步骤重新生成。
+        run: rm -rf site
+
       - name: Strip unverified (placeholder) product links
         # 构建前最后一道兜底。为什么必须生在流水线里：
         # 线上真实出现过 9 篇 / 48 条 amazon.com/dp/PLACEHOLDER-ASIN 死链，
