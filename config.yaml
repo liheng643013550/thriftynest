@@ -66,6 +66,15 @@ analytics:
   umami_id: ""
   # 自建 Umami 时改这里，用官方云保持默认即可。
   umami_host: "https://cloud.umami.is"
+  # GoatCounter：免费 + 自带爬虫过滤 + 有来源/页面/国家数据（推荐首选）。
+  # 开通：www.goatcounter.com/signup → 选一个站点代码（形如 thriftynest）
+  #       → 把代码填到这里，全站立刻开始统计。
+  # 为什么需要它：hits.sh 只有浏览量且爬虫照样计数 ——
+  # 实测全站被爬一遍后 208 篇每篇恰好 3 次，数字无法用于任何决策。
+  goatcounter_code: ""
+  # 只有自建 GoatCounter 时才需要改下面两个（用官方云保持默认）。
+  goatcounter_host: ""
+  goatcounter_js_host: "https://gc.zgo.at"
 
   # hits.sh 计数像素：零注册、零账号、零成本，立刻可用。
   # 开启后每个页面埋一个 1x1 隐形图，计数键 = 该页 URL 去掉协议
