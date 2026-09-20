@@ -235,39 +235,80 @@ class Site:
                          'data-website-id="%s"></script>'
                          % (html.escape(host), html.escape(umami)))
 
+        # GoatCounter：免费 + 【自带爬虫过滤】+ 有来源/页面/国家数据。
+        # 为什么优先推荐它：hits.sh 只有浏览量，且爬虫照样计数 ——
+        # 实测全站被爬一遍后 208 篇每篇恰好 3 次，数字完全没法用于决策。
+        # GoatCounter 在服务端就把已知爬虫剔除了，是国内可达的免费方案里最合适的。
+        gc = (a.get("goatcounter_code") or "").strip()
+        if gc:
+            endp = (a.get("goatcounter_host") or "https://%s.goatcounter.com" % gc).strip().rstrip("/")
+            parts.append(
+                '<script data-goatcounter="%s/count" async src="%s/count.js"></script>'
+                % (html.escape(endp),
+                   html.escape((a.get("goatcounter_js_host") or "https://gc.zgo.at").strip().rstrip("/"))))
+
         return "\n".join(parts)
 
     def hits_pixel(self, canonical):
-        """hits.sh 计数像素。零注册，1x1 隐形图，读完不污染。
+        """hits.sh 计数像素：JS 动态加载 + 爬虫过滤。零注册，1x1 隐形图。
 
         为什么用它：这台机器的站长只有 Gmail（Web 打不开）且没有微软账号，
         任何"要邮箱验证"的统计服务都注册不了。hits.sh 不需要任何账号。
 
-        计数键 = URL 去掉协议，例如
-            liheng643013550.github.io/thriftynest/posts/best-air-fryer-under-50
-        于是【每篇文章一个独立计数器】—— 既能汇总出站点总量，又能看出
-        哪篇文章有人看（做内容决策要的就是这个）。
+        计数键 = URL 去掉协议。于是【每篇文章一个独立计数器】——
+        既能汇总站点总量，又能看出哪篇文章有人看（做内容决策要的就是这个）。
 
         必须知道的坑：只有 .svg 端点会计数。读取数据要用只读 API
         https://hits.sh/api/urns/<key>  —— 直接 GET .svg 会把数字刷高。
-        （不是猜测：实测连调 API 5 次总数不变，GET 一次 .svg 就 +1。）
 
-        局限（已向用户说明）：只有浏览量，没有独立访客/来源/国家；
-        爬虫和链接预览也会计入，所以数字偏高。
+        ★ 为什么改成 JS 加载（2026-09-20 修）
+        ------------------------------------
+        原来是写死的 <img src="...svg"> 标签。实测后果：全站被爬一遍后，
+        208 篇文章【每一篇都恰好 3 次】，共 622 次 —— 这是爬虫的分布，
+        真人访问必然是长尾（少数几篇被反复读、多数接近 0）。
+        数字完全无法用来判断"有没有真实读者"，比没有数据更糟，因为它误导决策。
+
+        改成 JS 注入 + UA 粗筛后：
+          · 不执行 JS 的爬虫 -> 一次都不计
+          · navigator.webdriver（无头浏览器、自动化工具）-> 不计
+          · 已知爬虫 UA -> 不发请求
+          · 真人浏览器 -> 正常计数
+        这不是完美方案（会渲染 JS 的爬虫仍会计数），但把噪声去掉了绝大部分，
+        而且不需要任何账号。要彻底解决就填 analytics.goatcounter_code 或 umami_id。
         """
         if not self.analytics.get("hits_sh"):
             return ""
         key = re.sub(r"^https?://", "", (canonical or "").strip()).rstrip("/")
         if not key:
             return ""
-        # 两个像素：① 页面浏览 ② 出站点击（读者点联盟链接时打一发）
-        # 为什么要追踪出站：页面浏览量只说明"有人看"，看点出去多少才说明
+        # 两个计数：① 页面浏览 ② 出站点击（读者点联盟链接时打一发）
+        # 为什么要追踪出站：页面浏览量只说明"有人看"，点出去多少才说明
         # "哪篇文章真的能带货" —— 这是做内容决策唯一有用的数字。
         # 计数键加 /outbound 后缀，和浏览计数互不混淆。
         return (
-            '<img src="https://hits.sh/%s.svg" width="1" height="1" '
-            'alt="" aria-hidden="true" '
-            'style="position:absolute;left:-9999px;top:0;border:0">\n'
+            "<script>\n"
+            "// 浏览计数：JS 动态加载 + 爬虫过滤（详见 build_site.hits_pixel 注释）\n"
+            "(function () {\n"
+            "  var ua = navigator.userAgent || '';\n"
+            "  if (/bot|crawl|spider|slurp|bingpreview|facebookexternalhit|"
+            "headless|phantom|puppeteer|playwright|python-requests|python-urllib|"
+            "curl\\/|wget|httpx|scrapy|monitor|uptime|pingdom/i.test(ua)) return;\n"
+            "  if (navigator.webdriver) return;\n"
+            "  function fire() {\n"
+            "    try {\n"
+            "      var i = new Image(1, 1);\n"
+            "      i.alt = '';\n"
+            "      i.setAttribute('aria-hidden', 'true');\n"
+            "      i.style.cssText = 'position:absolute;left:-9999px;top:0;border:0';\n"
+            "      i.src = 'https://hits.sh/' + %s + '.svg';\n"
+            "      var p = document.body || document.documentElement;\n"
+            "      if (p) p.appendChild(i);\n"
+            "    } catch (e) {}\n"
+            "  }\n"
+            "  if (document.body) { fire(); }\n"
+            "  else { document.addEventListener('DOMContentLoaded', fire, { once: true }); }\n"
+            "})();\n"
+            "</script>\n"
             "<script>\n"
             "// 出站点击追踪（无 cookie、不阻塞跳转、只上报「这一页发出了点击」）\n"
             "document.addEventListener('click', function (e) {\n"
@@ -281,7 +322,7 @@ class Site:
             "  } catch (err) {}\n"
             "}, true);\n"
             "</script>"
-            % (html.escape(key), json.dumps(key))
+            % (json.dumps(key), json.dumps(key))
         )
 
     def path(self, *parts):
