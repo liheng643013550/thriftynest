@@ -1,5 +1,5 @@
 ---
-title: Best Air Fryer Toaster Oven Combos Under $100 (Two Appliances, One Price)
+title: Best Air Fryer Toaster Oven Combos Under $100
 slug: best-air-fryer-toaster-oven-combo-under-100
 date: '2026-08-26'
 category: kitchen

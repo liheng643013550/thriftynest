@@ -1,5 +1,5 @@
 ---
-title: How to Save Money on Groceries Every Month (14 Tricks That Add Up)
+title: How to Save Money on Groceries Every Month
 slug: how-to-save-money-on-groceries-every-month
 date: '2026-08-24'
 category: kitchen

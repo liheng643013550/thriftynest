@@ -1,5 +1,5 @@
 ---
-title: Best Indoor Plants for Low Light (Cheap & Nearly Impossible to Kill)
+title: Best Indoor Plants for Low Light
 slug: best-indoor-plants-for-low-light-cheap
 date: '2026-09-08'
 category: garden

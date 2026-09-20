@@ -1,5 +1,5 @@
 ---
-title: How to Cook Rice Perfectly Without a Rice Cooker (Stovetop Method)
+title: How to Cook Rice Perfectly Without a Rice Cooker
 slug: how-to-cook-rice-perfectly-without-a-rice-cooker
 date: '2026-08-26'
 category: kitchen

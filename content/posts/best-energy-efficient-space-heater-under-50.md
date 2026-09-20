@@ -1,5 +1,5 @@
 ---
-title: Best Energy-Efficient Space Heaters Under $50 (Warm Room, Low Bill)
+title: Best Energy-Efficient Space Heaters Under $50
 slug: best-energy-efficient-space-heater-under-50
 date: '2026-08-26'
 category: energy

@@ -1,5 +1,5 @@
 ---
-title: 'Best Slow Cookers Under $40 in 2026: Set It and Forget It, Cheaply'
+title: Best Slow Cookers Under $40 in 2026
 slug: best-slow-cooker-under-40
 date: '2026-08-18'
 category: kitchen
