@@ -45,7 +45,7 @@
   </div>
 </header>
 <main class="wrap">
-<header class="cat-head"><h1>Browse all guides</h1><p class="hero-sub">Every category on ThriftyNest, in one place.</p></header><section class="grid"><article class="card cat-kitchen"><h2 class="card-title"><a href="https://getthriftynest.com/category/kitchen/">Kitchen &amp; Cooking</a></h2><p class="card-meta">50 guides</p></article><article class="card cat-organization"><h2 class="card-title"><a href="https://getthriftynest.com/category/organization/">Organization &amp; Storage</a></h2><p class="card-meta">28 guides</p></article><article class="card cat-cleaning"><h2 class="card-title"><a href="https://getthriftynest.com/category/cleaning/">Cleaning</a></h2><p class="card-meta">32 guides</p></article><article class="card cat-home-office"><h2 class="card-title"><a href="https://getthriftynest.com/category/home-office/">Home Office</a></h2><p class="card-meta">20 guides</p></article><article class="card cat-pet"><h2 class="card-title"><a href="https://getthriftynest.com/category/pet/">Pets</a></h2><p class="card-meta">18 guides</p></article><article class="card cat-garden"><h2 class="card-title"><a href="https://getthriftynest.com/category/garden/">Garden &amp; Outdoors</a></h2><p class="card-meta">25 guides</p></article><article class="card cat-energy"><h2 class="card-title"><a href="https://getthriftynest.com/category/energy/">Energy &amp; Savings</a></h2><p class="card-meta">23 guides</p></article><article class="card cat-tools"><h2 class="card-title"><a href="https://getthriftynest.com/category/tools/">Tools &amp; DIY</a></h2><p class="card-meta">18 guides</p></article></section>
+<header class="cat-head"><h1>Browse all guides</h1><p class="hero-sub">Every category on ThriftyNest, in one place.</p></header><section class="grid"><article class="card cat-kitchen"><h2 class="card-title"><a href="https://getthriftynest.com/category/kitchen/">Kitchen &amp; Cooking</a></h2><p class="card-meta">51 guides</p></article><article class="card cat-organization"><h2 class="card-title"><a href="https://getthriftynest.com/category/organization/">Organization &amp; Storage</a></h2><p class="card-meta">28 guides</p></article><article class="card cat-cleaning"><h2 class="card-title"><a href="https://getthriftynest.com/category/cleaning/">Cleaning</a></h2><p class="card-meta">32 guides</p></article><article class="card cat-home-office"><h2 class="card-title"><a href="https://getthriftynest.com/category/home-office/">Home Office</a></h2><p class="card-meta">20 guides</p></article><article class="card cat-pet"><h2 class="card-title"><a href="https://getthriftynest.com/category/pet/">Pets</a></h2><p class="card-meta">19 guides</p></article><article class="card cat-garden"><h2 class="card-title"><a href="https://getthriftynest.com/category/garden/">Garden &amp; Outdoors</a></h2><p class="card-meta">25 guides</p></article><article class="card cat-energy"><h2 class="card-title"><a href="https://getthriftynest.com/category/energy/">Energy &amp; Savings</a></h2><p class="card-meta">23 guides</p></article><article class="card cat-tools"><h2 class="card-title"><a href="https://getthriftynest.com/category/tools/">Tools &amp; DIY</a></h2><p class="card-meta">19 guides</p></article></section>
 </main>
 <footer class="site-foot">
   <div class="wrap foot-grid">
@@ -76,7 +76,27 @@
     </div>
   </div>
 </footer>
-<img src="https://hits.sh/getthriftynest.com/categories.svg" width="1" height="1" alt="" aria-hidden="true" style="position:absolute;left:-9999px;top:0;border:0">
+<script>
+// 浏览计数：JS 动态加载 + 爬虫过滤（详见 build_site.hits_pixel 注释）
+(function () {
+  var ua = navigator.userAgent || '';
+  if (/bot|crawl|spider|slurp|bingpreview|facebookexternalhit|headless|phantom|puppeteer|playwright|python-requests|python-urllib|curl\/|wget|httpx|scrapy|monitor|uptime|pingdom/i.test(ua)) return;
+  if (navigator.webdriver) return;
+  function fire() {
+    try {
+      var i = new Image(1, 1);
+      i.alt = '';
+      i.setAttribute('aria-hidden', 'true');
+      i.style.cssText = 'position:absolute;left:-9999px;top:0;border:0';
+      i.src = 'https://hits.sh/' + "getthriftynest.com/categories" + '.svg';
+      var p = document.body || document.documentElement;
+      if (p) p.appendChild(i);
+    } catch (e) {}
+  }
+  if (document.body) { fire(); }
+  else { document.addEventListener('DOMContentLoaded', fire, { once: true }); }
+})();
+</script>
 <script>
 // 出站点击追踪（无 cookie、不阻塞跳转、只上报「这一页发出了点击」）
 document.addEventListener('click', function (e) {

@@ -174,7 +174,27 @@
     </div>
   </div>
 </footer>
-<img src="https://hits.sh/getthriftynest.com/posts/cheapest-standing-desk-setup.svg" width="1" height="1" alt="" aria-hidden="true" style="position:absolute;left:-9999px;top:0;border:0">
+<script>
+// 浏览计数：JS 动态加载 + 爬虫过滤（详见 build_site.hits_pixel 注释）
+(function () {
+  var ua = navigator.userAgent || '';
+  if (/bot|crawl|spider|slurp|bingpreview|facebookexternalhit|headless|phantom|puppeteer|playwright|python-requests|python-urllib|curl\/|wget|httpx|scrapy|monitor|uptime|pingdom/i.test(ua)) return;
+  if (navigator.webdriver) return;
+  function fire() {
+    try {
+      var i = new Image(1, 1);
+      i.alt = '';
+      i.setAttribute('aria-hidden', 'true');
+      i.style.cssText = 'position:absolute;left:-9999px;top:0;border:0';
+      i.src = 'https://hits.sh/' + "getthriftynest.com/posts/cheapest-standing-desk-setup" + '.svg';
+      var p = document.body || document.documentElement;
+      if (p) p.appendChild(i);
+    } catch (e) {}
+  }
+  if (document.body) { fire(); }
+  else { document.addEventListener('DOMContentLoaded', fire, { once: true }); }
+})();
+</script>
 <script>
 // 出站点击追踪（无 cookie、不阻塞跳转、只上报「这一页发出了点击」）
 document.addEventListener('click', function (e) {
