@@ -641,7 +641,11 @@ class Site:
         )
         page = self.render_page(
             title="%s — %s" % (category_name(cat), self.name),
-            description="All %s guides on %s." % (category_name(cat), self.name),
+            description=(
+                    "Browse every %s guide on %s: honest budget picks, real prices, "
+                    "and money-saving tips for a thrifty home. Updated every week."
+                    % (category_name(cat), self.name)
+                ),
             body_html=body,
             canonical=self.path("category", cat),
         )
@@ -678,10 +682,13 @@ class Site:
         out.parent.mkdir(parents=True, exist_ok=True)
         out.write_text(page, encoding="utf-8")
 
-    def _trust_page(self, slug, title, body):
+    def _trust_page(self, slug, title, body, desc=""):
+        # desc 必须显式传入：原来的默认值 "%s for %s." 只有 20 来个字符，
+        # 会让 about / contact / privacy 三页的 meta description 短得毫无信息量
+        # （Google 会自己抓正文片段，等于放弃了这段可控的展示位）。
         page = self.render_page(
             title="%s — %s" % (title, self.name),
-            description="%s for %s." % (title, self.name),
+            description=desc or ("%s for %s." % (title, self.name)),
             body_html=body,
             canonical=self.path(slug),
         )
@@ -723,7 +730,12 @@ class Site:
             "<a href=\"%s/contact/\">contact page</a>.</p>"
             % (self.name, self.base, self.base)
         )
-        self._trust_page("privacy-policy", "Privacy Policy", privacy)
+        self._trust_page(
+            "privacy-policy", "Privacy Policy", privacy,
+            desc=("A plain-English privacy policy for %s: what data we collect, how "
+                  "cookies and analytics are used, and how affiliate links work."
+                  % self.name),
+        )
 
         # About
         about = (
@@ -763,7 +775,12 @@ class Site:
             % (self.name, self.name, self.name,
                self.base, self.base, self.base, self.base)
         )
-        self._trust_page("about", "About", about)
+        self._trust_page(
+            "about", "About", about,
+            desc=("What %s is, how our budget buying guides are put together, how we "
+                  "handle affiliate links, and how to tell us about a mistake."
+                  % self.name),
+        )
 
         # Contact
         contact = (
@@ -780,7 +797,11 @@ class Site:
             "check our <a href=\"%s/categories/\">full list of categories</a>.</p>"
             % (self.base, self.base)
         )
-        self._trust_page("contact", "Contact", contact)
+        self._trust_page(
+            "contact", "Contact", contact,
+            desc=("How to reach %s with a question, a correction, or a product "
+                  "suggestion — and what to expect when you get in touch." % self.name),
+        )
 
 
     def build_redirects(self):

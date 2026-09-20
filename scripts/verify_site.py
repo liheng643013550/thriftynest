@@ -248,7 +248,11 @@ def main():
         sample = slugs
 
     problems = {"title": [], "canonical": [], "jsonld": [], "small": [],
-                "unclosed": [], "placeholder": []}
+                "unclosed": [], "placeholder": [],
+                # SEO 长度闸门（2026-09 新增）。长度一律按【html.unescape 之后】算：
+                # HTML 会把 ' 转义成 &#x27;（1 字符变 6 字符），按原始 HTML 数长度
+                # 会把 55 字符的标题算成 70+，造成大量误报 —— 体检脚本踩过这个坑。
+                "title_long": [], "desc_len": []}
     titles_seen = {}
     for slug in sample:
         page = SITE_DIR / "posts" / slug / "index.html"
@@ -266,6 +270,18 @@ def main():
             problems["title"].append(slug)
         else:
             titles_seen.setdefault(m.group(1).strip(), []).append(slug)
+
+        # SEO 长度：先反转义再数，否则 &#x27; 这类实体会把长度撑大 6 倍
+        t_txt = html.unescape(m.group(1)).strip() if m else ""
+        if t_txt and len(t_txt) > 65:
+            problems["title_long"].append("%s (%d)" % (slug, len(t_txt)))
+        d_m = re.search(r'<meta[^>]*name="description"[^>]*content="([^"]*)"', raw, re.I)
+        if d_m:
+            d_txt = html.unescape(d_m.group(1)).strip()
+            if len(d_txt) > 165:
+                problems["desc_len"].append("%s (desc %d)" % (slug, len(d_txt)))
+            elif len(d_txt) < 50:
+                problems["desc_len"].append("%s (desc %d, too short)" % (slug, len(d_txt)))
 
         c = re.search(r'<link rel="canonical" href="([^"]+)"', raw)
         # 严格比对（含尾斜杠）：canonical 必须指向真实提供 200 的那个地址。
@@ -297,6 +313,9 @@ def main():
 
     rep.check(len(sample) > 0, "inspected %d post page(s)" % len(sample))
     bucket("title", "every inspected page has a non-empty <title>")
+    bucket("title_long", "post titles stay <=65 chars (else search results truncate)",
+           severity="warn")
+    bucket("desc_len", "post descriptions stay 50-165 chars", severity="warn")
     bucket("canonical", "every inspected page has the right canonical URL")
     bucket("jsonld", "every inspected page has JSON-LD structured data")
     bucket("small", "no truncated pages (all >= %d B)" % MIN_POST_BYTES)
@@ -453,3 +472,67 @@ def finish(rep, args):
 
 if __name__ == "__main__":
     main()
+
+def check_title_desc_length(site_dir):
+    """标题 <=65、描述 50~165 —— 必须按【反转义后】的真实长度算。
+
+    踩过的坑：早期按原始 HTML 数长度，' 被写成 &#x27;（1 字符变 6 字符），
+    于是 68 字符的标题被算成 74，误报"超长"。所有长度判定一律先 html.unescape。
+    """
+    import html as _html
+    import re as _re
+    from html.parser import HTMLParser as _HP
+
+    class _Head(_HP):
+        def __init__(self):
+            super().__init__(convert_charrefs=True)
+            self.title = ""
+            self.desc = None
+            self._t = False
+            self._in = True
+
+        def handle_starttag(self, tag, attrs):
+            if tag == "body":
+                self._in = False
+            if not self._in:
+                return
+            if tag == "title":
+                self._t = True
+            if tag == "meta":
+                a = {k.lower(): v for k, v in attrs}
+                if (a.get("name") or "").lower() == "description" and self.desc is None:
+                    self.desc = a.get("content") or ""
+
+        def handle_endtag(self, tag):
+            if tag == "title":
+                self._t = False
+
+        def handle_data(self, data):
+            if self._t:
+                self.title += data
+
+    problems = []
+    pages = list(Path(site_dir).rglob("index.html"))
+    for f in pages:
+        if "page" in f.parts and "posts" not in f.parts:
+            continue
+        try:
+            h = f.read_text(encoding="utf-8", errors="replace")
+        except Exception:
+            continue
+        p = _Head()
+        try:
+            p.feed(h)
+        except Exception:
+            continue
+        rel = "/".join(f.relative_to(site_dir).parts[:-1]) or "/"
+        t = _html.unescape(p.title).strip()
+        d = _html.unescape(p.desc or "").strip()
+        if t and len(t) > 65:
+            problems.append("%s 标题 %d 字符 (>65)" % (rel, len(t)))
+        if d:
+            if len(d) > 165:
+                problems.append("%s 描述 %d 字符 (>165)" % (rel, len(d)))
+            elif len(d) < 50 and not rel.startswith("posts/"):
+                problems.append("%s 描述 %d 字符 (<50)" % (rel, len(d)))
+    return problems
