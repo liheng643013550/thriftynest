@@ -61,9 +61,14 @@ analytics:
   # 开通：clarity.microsoft.com（用 Microsoft 账号登录）→ New project →
   #       填网站地址 → 拿到形如 "abcd1234ef" 的 10 位 ID → 填到这里。
   clarity_id: ""
-  # Umami Cloud：轻量、隐私友好（无需 cookie 弹窗），免费 10 万事件/月。
+  # Umami Cloud：轻量、隐私友好（无需 cookie 弹窗），免费额度够用。
   # 开通：cloud.umami.is → Add website → 复制 Website ID 填到这里。
-  umami_id: ""
+  # 为什么最终选它（2026-09-20 实测各方案）：
+  #   · 脚本 CDN 与后台【两边都通】(cloud.umami.is) —— 装得上也看得见
+  #   · GoatCounter 的脚本 CDN (gc.zgo.at) 被墙，装不上（已保留代码备用）
+  #   · Google Analytics 后台被墙，装了也看不见
+  #   · 相比 hits.sh：有独立访客/来源/国家/跳出率，且爬虫过滤更好
+  umami_id: "09d03e5e-cb6c-4c8a-af23-0b2c3f6aa094"
   # 自建 Umami 时改这里，用官方云保持默认即可。
   umami_host: "https://cloud.umami.is"
   # GoatCounter：免费 + 自带爬虫过滤 + 有来源/页面/国家数据（推荐首选）。
