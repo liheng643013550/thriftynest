@@ -35,7 +35,18 @@
 <link rel="stylesheet" href="https://getthriftynest.com/static/style.css">
 <link rel="alternate" type="application/rss+xml" title="ThriftyNest RSS" href="https://getthriftynest.com/feed.xml">
 
-<script defer src="https://cloud.umami.is/script.js" data-website-id="09d03e5e-cb6c-4c8a-af23-0b2c3f6aa094"></script>
+<script>
+(function () {
+  var ua = navigator.userAgent || '';
+  if (/bot|crawl|spider|slurp|bingpreview|facebookexternalhit|headless|phantom|python-requests|python-urllib|curl\/|wget|httpx|axios|monitor|uptime|lighthouse|pingdom/i.test(ua)) return;
+  if (navigator.webdriver) return;
+  var s = document.createElement('script');
+  s.defer = true;
+  s.src = 'https://cloud.umami.is/script.js';
+  s.setAttribute('data-website-id', '09d03e5e-cb6c-4c8a-af23-0b2c3f6aa094');
+  (document.head || document.documentElement).appendChild(s);
+})();
+</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "How to Find Energy Vampire Appliances (And Slay Them)", "description": "You\u2019ve probably heard the term thrown around, but let\u2019s get specific. An energy vampire isn\u2019t a mythical creature; it\u2019s any appliance or device that d...", "datePublished": "2026-08-23", "author": {"@type": "Person", "name": "ThriftyNest Team"}, "publisher": {"@type": "Organization", "name": "ThriftyNest"}, "mainEntityOfPage": "https://getthriftynest.com/posts/how-to-find-energy-vampire-appliances/"}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://getthriftynest.com/"}, {"@type": "ListItem", "position": 2, "name": "Energy & Savings", "item": "https://getthriftynest.com/category/energy/"}, {"@type": "ListItem", "position": 3, "name": "How to Find Energy Vampire Appliances (And Slay Them)", "item": "https://getthriftynest.com/posts/how-to-find-energy-vampire-appliances/"}]}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How much can standby power actually add to a monthly electric bill?", "acceptedAnswer": {"@type": "Answer", "text": "Standby draw can account for as much as 10% of a monthly electricity bill. The exact figure depends on how many devices are plugged in and how much power each one pulls while idle. Individually the amounts look small, but they add up across a whole home."}}, {"@type": "Question", "name": "Which rooms tend to have the worst phantom loads?", "acceptedAnswer": {"@type": "Answer", "text": "The living room is usually the epicenter, since televisions, soundbars, streaming sticks, and cable boxes all draw power while idle. Cable boxes are often the worst of the group because they run a hard drive and stay connected to the cable network. The home office is the next biggest area, mainly because of speakers, powered USB hubs, and monitors that sit in deep standby."}}, {"@type": "Question", "name": "Is it worth unplugging everything with a standby light?", "acceptedAnswer": {"@type": "Answer", "text": "No. Some devices need constant power to work as intended, including smart home hubs, security cameras, and DVRs that would lose scheduled recordings. Refrigerators and washing machines with control boards can also reset and need reprogramming if they lose power. The practical goal is cutting waste, not making the home inconvenient."}}]}]}</script>
 </head>
 <body>
