@@ -231,9 +231,37 @@ class Site:
         umami = (a.get("umami_id") or "").strip()
         if umami:
             host = (a.get("umami_host") or "https://cloud.umami.is").strip().rstrip("/")
-            parts.append('<script defer src="%s/script.js" '
-                         'data-website-id="%s"></script>'
-                         % (html.escape(host), html.escape(umami)))
+            # ★ 为什么不用官方的 <script defer src=...> 写法（2026-09-21 改）
+            # ----------------------------------------------------------
+            # 官方写法是静态标签，任何执行 JS 的访客（包括 headless 浏览器、
+            # 会渲染的爬虫、SEO 扫描器）都会把统计脚本拉下来并上报。
+            # 实测后果：Umami 后台 24 小时显示 9 访客 / 23 浏览，看起来像有流量，
+            # 但证据全指向爬虫：
+            #   · 域名是 2 天前刚注册的，不可能有历史流量；
+            #   · 访问记录里有 /imprint/ 和 /impressum/ —— 本站没有这两个页面，
+            #     它们是德语站的法律页路径，只有扫描器会去试；这两个请求实际 404。
+            #   · 浏览器 UA 出现 "Chrome (webview)"（headless 特征）；
+            #   · 来源全部是"直接访问"，真实搜索流量一定带 referrer。
+            # 数字误导决策，比没有数据更糟 —— 所以改成 JS 动态加载 + UA 过滤，
+            # 与 hits_pixel() 用【同一套判据】。
+            #
+            # 注意顺序：data-website-id 必须在 appendChild 之前 setAttribute，
+            # 否则 Umami 脚本读取时属性还不存在，上报会被服务端拒绝。
+            parts.append(
+                "<script>\n"
+                "(function () {\n"
+                "  var ua = navigator.userAgent || '';\n"
+                "  if (/bot|crawl|spider|slurp|bingpreview|facebookexternalhit|headless"
+                "|phantom|python-requests|python-urllib|curl\\/|wget|httpx|axios|monitor"
+                "|uptime|lighthouse|pingdom/i.test(ua)) return;\n"
+                "  if (navigator.webdriver) return;\n"
+                "  var s = document.createElement('script');\n"
+                "  s.defer = true;\n"
+                "  s.src = '%s/script.js';\n"
+                "  s.setAttribute('data-website-id', '%s');\n"
+                "  (document.head || document.documentElement).appendChild(s);\n"
+                "})();\n"
+                "</script>" % (html.escape(host), html.escape(umami)))
 
         # GoatCounter：免费 + 【自带爬虫过滤】+ 有来源/页面/国家数据。
         # 为什么优先推荐它：hits.sh 只有浏览量，且爬虫照样计数 ——
