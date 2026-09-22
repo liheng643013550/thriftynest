@@ -33,7 +33,8 @@ SITE_DIR = ROOT / "site"
 
 # Extra non-post URLs the builder emits: home + categories index + 3 trust
 # pages + 8 category pages. Keep in sync with build_site.CATEGORY_NAMES.
-NON_POST_URLS = 13
+NON_POST_URLS = 14   # 1 首页 + 1 categories + 8 分类 + privacy/about/contact +
+                     # editorial-policy（GEO 新增，2026-09-21）。加/删信任页时改这里。
 
 # A page smaller than this is almost certainly a failed render.
 MIN_INDEX_BYTES = 5_000

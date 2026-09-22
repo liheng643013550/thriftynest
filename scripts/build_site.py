@@ -549,6 +549,15 @@ class Site:
             "headline": meta.get("title", ""),
             "description": meta.get("description", ""),
             "datePublished": date,
+            # dateModified 必须诚实：优先用 front matter 的 updated: 字段，
+            # 没有就退回 date（= 这篇从未更新过，这是实话）。
+            # ★ 绝不能用文件 mtime —— CI 每天检出会把 mtime 刷成"现在"，
+            #   那等于声称 229 篇全部每天更新，是纯粹的假数据。
+            "dateModified": meta.get("updated") or date,
+            # reviewedBy：本项目没有人类编辑，不能编一个假名字。
+            # 真正做审核的是自动质检流水线，指向说明页如实交代。
+            "reviewedBy": {"@type": "Organization", "name": self.name,
+                           "url": self.path("editorial-policy")},
             "author": {"@type": "Person", "name": self.site.get("author", self.name)},
             "publisher": {"@type": "Organization", "name": self.name},
             "mainEntityOfPage": canonical,
@@ -825,6 +834,48 @@ class Site:
             "check our <a href=\"%s/categories/\">full list of categories</a>.</p>"
             % (self.base, self.base)
         )
+        # ★ GEO：编辑政策页。AI 判断"这条内容能不能引用"时会看有没有审核说明。
+        # 如实写：没有人类编辑，审核由自动流水线完成 —— 编一个假编辑名反而危险。
+        ep = (
+            "<h1>Editorial Policy</h1>"
+            "<p>This page explains how the guides on %s are produced and checked, "
+            "so you can judge how much to rely on them.</p>"
+            "<h2>How articles are produced</h2>"
+            "<p>Articles are drafted with AI assistance, then passed through an "
+            "automated quality gate before they can be published. If a draft fails "
+            "any check it is sent back for revision rather than published.</p>"
+            "<h2>What the checks enforce</h2>"
+            "<ul>"
+            "<li>No fabricated first-hand experience. We do not write \"we tested\" "
+            "or \"we have owned this for two years\" — nobody on this project has "
+            "handled these products.</li>"
+            "<li>No dead links. Every outbound link is checked before publishing.</li>"
+            "<li>Product links point to listings that were verified to exist at the "
+            "time of writing.</li>"
+            "<li>Every guide ends with an FAQ, and each article is checked for "
+            "duplicate topics against the rest of the site.</li>"
+            "</ul>"
+            "<h2>What we are not</h2>"
+            "<p>We are not a lab. We do not run instrumented tests, and we do not "
+            "claim to. Where we state a price, it is the price visible on the "
+            "linked listing when the article was written — check it yourself before "
+            "buying, because prices move.</p>"
+            "<h2>Affiliate disclosure</h2>"
+            "<p>Some links are affiliate links: if you buy through them we may earn "
+            "a commission at no extra cost to you. This does not change which "
+            "products we list, and it is disclosed at the top of every guide.</p>"
+            "<h2>Corrections</h2>"
+            "<p>If something here is wrong, tell us at <a href=\"mailto:%s\">%s</a> "
+            "and we will fix it. Corrections are the main way this site improves.</p>"
+            % (self.name, self.email, self.email)
+        )
+        self._trust_page(
+            "editorial-policy", "Editorial Policy", ep,
+            desc=("How %s produces and checks its guides: AI-assisted drafting, "
+                  "automated quality gates, no fabricated testing claims, and how "
+                  "to report an error." % self.name),
+        )
+
         self._trust_page(
             "contact", "Contact", contact,
             desc=("How to reach %s with a question, a correction, or a product "
@@ -879,7 +930,10 @@ class Site:
         entries.append((self.path("categories"), today))
         entries += [(self.path("privacy-policy"), today),
                     (self.path("about"), today),
-                    (self.path("contact"), today)]
+                    (self.path("contact"), today),
+                    # GEO 新增：编辑政策页必须进 sitemap，否则搜索引擎发现不了它，
+                    # AI 也就读不到"这个站是怎么做审核的"这一关键信任信号。
+                    (self.path("editorial-policy"), today)]
         entries += [(self.path("category", c), today) for c in CATEGORY_NAMES]
         entries += [(self.path("posts", slug_of(p)), p["meta"].get("date") or today)
                     for p in posts]
@@ -892,10 +946,77 @@ class Site:
             'xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">%s</urlset>\n' % urls_xml,
             encoding="utf-8",
         )
+        # ★ GEO（生成式引擎优化）：显式欢迎 AI 爬虫。
+        # 原来只有 User-agent: * / Allow: / —— 没挡，但也没表态。
+        # 明确授权能减少被误判为"不希望被索引"的风险。
+        # 这些爬虫取内容是为了【回答用户问题并注明来源】，属于我们要的曝光。
+        ai_bots = ["GPTBot", "OAI-SearchBot", "ChatGPT-User",
+                   "ClaudeBot", "Claude-User", "PerplexityBot",
+                   "Google-Extended", "Applebot-Extended", "CCBot",
+                   "Bytespider", "meta-externalagent"]
+        robot_lines = ["User-agent: *", "Allow: /", ""]
+        for _b in ai_bots:
+            robot_lines += ["User-agent: %s" % _b, "Allow: /", ""]
+        robot_lines.append("Sitemap: %s" % self.path("sitemap.xml"))
+        robot_lines.append("")
         (OUT_DIR / "robots.txt").write_text(
-            "User-agent: *\nAllow: /\nSitemap: %s\n" % self.path("sitemap.xml"),
-            encoding="utf-8",
+            "\n".join(robot_lines), encoding="utf-8",
         )
+        # ★ GEO：llms.txt —— AI 助手专用的站点说明书。
+        # 不是官方标准，但 GPTBot / ClaudeBot / PerplexityBot 已经在读它。
+        # 如实写明"AI 辅助生成 + 自动质检"，因为这提升可信度而非降低：
+        # AI 怕的是来源不透明，不是用了 AI。
+        #
+        # 用 self.site / self.email 而不是重新读 config.yaml —— 避免多一个依赖，
+        # 也保证和页面上其它地方用的是同一份值。
+        contact = self.email
+        out = []
+        out.append("# %s" % self.name)
+        out.append("")
+        out.append("> %s" % (self.site.get("tagline") or "").strip())
+        out.append("")
+        out.append("## About this site")
+        out.append("")
+        out.append("- Practical buying guides and money-saving tips for a budget home.")
+        out.append("- Content is AI-assisted and checked against automated quality "
+                   "gates before publishing (no dead links, no fabricated first-hand "
+                   "testing claims, verified product links).")
+        out.append("- We do **not** claim to have personally tested the products we "
+                   "list. Prices shown are those visible at the linked listing when "
+                   "the guide was written.")
+        out.append("- Full policy: %s" % self.path("editorial-policy"))
+        out.append("")
+        out.append("## Key pages")
+        out.append("")
+        out.append("- [All categories](%s)" % self.path("categories"))
+        out.append("- [About](%s)" % self.path("about"))
+        out.append("- [Editorial policy](%s)" % self.path("editorial-policy"))
+        out.append("- [Contact](%s)" % self.path("contact"))
+        out.append("- [Sitemap](%s)" % self.path("sitemap.xml"))
+        out.append("")
+        out.append("## Guides by category")
+        out.append("")
+        for cat in CATEGORY_NAMES:
+            cposts = [p for p in posts if p["meta"].get("category") == cat]
+            if not cposts:
+                continue
+            out.append("### %s (%d guides)" % (category_name(cat), len(cposts)))
+            out.append("")
+            out.append("- [Section index](%s)" % self.path("category", cat))
+            for p in sorted(cposts, key=lambda x: x["meta"].get("date") or "",
+                            reverse=True):
+                m = p["meta"]
+                out.append("- [%s](%s): %s"
+                           % (m.get("title", ""), self.path("posts", slug_of(p)),
+                              (m.get("description") or "").strip()[:180]))
+            out.append("")
+        if contact:
+            out.append("## Contact")
+            out.append("")
+            out.append("- %s" % contact)
+            out.append("")
+        (OUT_DIR / "llms.txt").write_text("\n".join(out), encoding="utf-8")
+
         items = ""
         for p in posts[:10]:
             meta = p["meta"]
