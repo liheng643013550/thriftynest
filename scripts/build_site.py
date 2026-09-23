@@ -962,6 +962,30 @@ class Site:
         (OUT_DIR / "robots.txt").write_text(
             "\n".join(robot_lines), encoding="utf-8",
         )
+
+        items = ""
+        for p in posts[:10]:
+            meta = p["meta"]
+            md = markdown.Markdown(extensions=["tables", "fenced_code", "sane_lists"])
+            desc = excerpt(md.convert(p["body"]), 300)
+            items += (
+                "<item><title>%s</title><link>%s</link>"
+                "<guid isPermaLink=\"true\">%s</guid>"
+                "<pubDate>%s</pubDate><description>%s</description></item>\n"
+                % (html.escape(meta.get("title", "")),
+                   self.path("posts", slug_of(p)),
+                   self.path("posts", slug_of(p)),
+                   format_datetime(datetime.strptime(meta.get("date", "2000-01-01"), "%Y-%m-%d")),
+                   html.escape(desc))
+            )
+        (OUT_DIR / "feed.xml").write_text(
+            '<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0">'
+            "<channel><title>%s</title><link>%s</link><description>%s</description>"
+            "<language>en-us</language>%s</channel></rss>\n"
+            % (html.escape(self.name), self.path(""),
+               html.escape(self.site.get("description", "")), items),
+            encoding="utf-8",
+        )
         not_found = self.render_page(
             title="Page not found — " + self.name,
             description="The page you're looking for doesn't exist.",
