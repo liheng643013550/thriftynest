@@ -239,6 +239,17 @@ def main():
     else:
         rep.warn("no site.indexnow_key configured - Bing instant indexing is off")
 
+    # ★ 产物里不应出现 llms.txt。
+    #   2026-09-23 依据 Google 官方 GEO 指南撤掉了它，原文：
+    #     "creating unnecessary AI text files (like llms.txt)"
+    #   为什么需要闸门：删掉生成代码后，旧文件仍留在 site/ 里
+    #   （build 只覆盖同名文件，不清理已删除的产物），必须显式拦住。
+    if (SITE_DIR / "llms.txt").exists():
+        rep.fail("site/llms.txt 不应存在（Google 官方指南说它没必要）",
+                 "删掉 site/llms.txt；生成代码已由 161 号脚本移除")
+    else:
+        rep.ok("no llms.txt in output")
+
     # --------------------------------------------------- 4. per-page deep check
     print("\n[5/7] deep-inspect pages")
     slugs = [s for s, _, _ in posts]
