@@ -6,8 +6,8 @@ category: organization
 type: comparison
 keywords:
 - best cheap entryway storage ideas
-description: If your front door opens into a pile of shoes, a jumble of mail, and
-  a spot where everyone drops their bags, you already know the struggle. You do not...
+description: "If your front door opens into a pile of shoes, a jumble of mail, and a spot where everyone drops their bags, you already know the struggle."
+
 ---
 If your front door opens into a pile of shoes, a jumble of mail, and a spot where everyone drops their bags, you already know the struggle. You do not need a custom-built mudroom to fix this, though. With a few smart buys, you can turn even a tiny corner into a functional landing zone without spending a fortune. Here are the best cheap entryway storage ideas that actually hold up to daily use.
 

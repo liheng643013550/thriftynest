@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best budget wireless mouse
-description: 'If you''re furnishing a first apartment together, the single question
-  that decides your mouse is this: how much time each week are you willing to spend...'
+description: "If you're furnishing a first apartment together, the single question that decides your mouse is this."
+
 ---
 If you're furnishing a first apartment together, the single question that decides your mouse is this: how much time each week are you willing to spend cleaning it? A cheap mouse that traps crumbs in a scroll wheel groove will quietly cost you five minutes every Sunday. A slightly better one wipes clean in ten seconds. That difference, multiplied over a couple of years, matters more than any spec on the box.
 

@@ -6,8 +6,8 @@ category: pet
 type: comparison
 keywords:
 - best cat toys under $10
-description: Cats are picky. You can spend twenty bucks on a fancy electronic toy,
-  and they’ll end up playing with the cardboard box it came in. But you also don't...
+description: "Cats are picky. You can spend twenty bucks on a fancy electronic toy, and they’ll end up playing with the cardboard box it came in."
+
 ---
 Cats are picky. You can spend twenty bucks on a fancy electronic toy, and they’ll end up playing with the cardboard box it came in. But you also don't need to spend that much to keep them happy. We rounded up the best cat toys under $10 that are actually durable, engaging, and worth your money.
 

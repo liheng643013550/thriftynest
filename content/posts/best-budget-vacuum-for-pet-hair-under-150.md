@@ -6,8 +6,8 @@ category: cleaning
 type: comparison
 keywords:
 - best budget vacuum for pet hair under $150
-description: 'If you share your home with a shedding machine, you know the struggle:
-  fur tumbleweeds under the sofa, a dustpan full of hair after five minutes of sw...'
+description: "If you share your home with a shedding machine, you know the struggle: fur tumbleweeds under the sofa."
+
 ---
 If you share your home with a shedding machine, you know the struggle: fur tumbleweeds under the sofa, a dustpan full of hair after five minutes of sweeping, and a vacuum that chokes on the first pass. You need serious suction, but you don't need to spend a fortune to get it. Here are the best budget vacuums for pet hair under $150 that actually win the fur war without emptying your wallet.
 

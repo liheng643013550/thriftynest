@@ -6,8 +6,8 @@ category: tools
 type: comparison
 keywords:
 - best budget toolbox
-description: 'A good toolbox does two jobs: it keeps your tools from rolling around
-  in a junk drawer, and it lets you carry a full project to the job in one trip. Y...'
+description: "A good toolbox does two jobs: it keeps tools from rolling around in a junk drawer, and it lets a full project be carried to the job in one trip."
+
 ---
 A good toolbox does two jobs: it keeps tools from rolling around in a junk drawer, and it lets a full project be carried to the job in one trip. Spending $150 on a rolling chest isn't necessary to get that, though. Owner reports describe cheap boxes that cracked at the latch and plastic bags that split at the seams, and also $25 options that have lasted years. Here's what holds up at the budget end, whether the preference is plastic, metal, or a bag.
 

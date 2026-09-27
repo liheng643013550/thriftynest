@@ -6,8 +6,8 @@ category: organization
 type: comparison
 keywords:
 - best cheap closet shelf kits
-description: Is your closet bursting at the seams? If you have a single rod and a
-  pile of shoes on the floor, you are not using your vertical space. Adding a secon...
+description: "Is your closet bursting at the seams? If you have a single rod and a pile of shoes on the floor, you are not using your vertical space."
+
 ---
 Is your closet bursting at the seams? If you have a single rod and a pile of shoes on the floor, you are not using your vertical space. Adding a second shelf or rod is the fastest, cheapest way to double your storage without ripping out drywall. But you do not need a contractor or custom built-ins to fix this. You just need a decent kit and a screwdriver.
 

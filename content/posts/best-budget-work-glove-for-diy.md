@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best budget work gloves for diy
-description: You need gloves that protect your hands without costing more than the
-  project itself, and you don't have an afternoon to compare twenty listings. Here...
+description: "You need gloves that protect your hands without costing more than the project itself, and you don't have an afternoon to compare twenty listings."
+
 ---
 You need gloves that protect your hands without costing more than the project itself, and you don't have an afternoon to compare twenty listings. Here's the honest version: the biggest mistake DIY buyers make is shopping by padding. Thick, fluffy gloves feel protective in the store, then make it impossible to pick up a screw, feel a drill trigger, or grip a wrench — so they sit in a drawer while you work bare-handed and get splinters anyway.
 

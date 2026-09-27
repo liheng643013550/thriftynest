@@ -7,9 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best budget watering can
-description: 'If you''re a college student in a dorm and your plants are thirsty,
-  the one question that decides everything is this: when a part wears out or goes
-  mis...'
+description: "If you're a college student in a dorm and your plants are thirsty, the one question that decides everything is this."
+
 ---
 If you're a college student in a dorm and your plants are thirsty, the one question that decides everything is this: when a part wears out or goes missing, can you actually replace it without buying a whole new can? A watering can is simple enough that almost any cheap one will pour water for a semester. What separates a can you keep for four years from one that ends up in a dumpster in November is whether the rose (the sprinkler head), the handle, or the seal can be reordered on their own.
 

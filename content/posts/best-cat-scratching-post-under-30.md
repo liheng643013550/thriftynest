@@ -6,8 +6,8 @@ category: pet
 type: comparison
 keywords:
 - best cat scratching post under $30
-description: If your couch is starting to look like a war crime scene and your curtains
-  are dangling by a thread, you know the struggle. You need to redirect your...
+description: "If your couch is starting to look like a war crime scene and your curtains are dangling by a thread, you know the struggle."
+
 ---
 If your couch is starting to look like a war crime scene and your curtains are dangling by a thread, you know the struggle. You need to redirect your cat’s natural scratching instinct to something that isn’t your furniture, but you also don’t want to blow your budget on a fancy cat tree. The good news is that you don’t have to. There are plenty of durable, cat-approved scratching posts out there for under $30.
 

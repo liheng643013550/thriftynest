@@ -6,8 +6,8 @@ category: tools
 type: comparison
 keywords:
 - best budget tool set for home
-description: If you are looking for a tool set for your home, you probably do not
-  need a 300-piece mechanic's kit. You need a practical set of the essentials—screw...
+description: "If you are looking for a tool set for your home, you probably do not need a 300-piece mechanic's kit."
+
 ---
 If you are looking for a tool set for your home, you probably do not need a 300-piece mechanic's kit. You need a practical set of the essentials—screwdrivers, a hammer, pliers, a tape measure, and a decent set of sockets—that will not fall apart the first time you use them. The trick is finding a kit that skips the junk and keeps the quality where it matters, without spending a fortune.
 

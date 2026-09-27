@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best cheap coffee gear for renters
-description: What's the one thing that decides whether a coffee setup works for a
-  renter? Not the flavor. Not the price. It's whether you can fix it, refill it, an...
+description: "What's the one thing that decides whether a coffee setup works for a renter? Not the flavor. Not the price."
+
 ---
 What's the one thing that decides whether a coffee setup works for a renter? Not the flavor. Not the price. It's whether you can fix it, refill it, and eventually replace the parts without begging a landlord for permission to drill a hole in the countertop.
 

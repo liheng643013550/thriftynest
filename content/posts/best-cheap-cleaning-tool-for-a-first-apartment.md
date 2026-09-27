@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best cheap cleaning tools for a first apartment
-description: You just moved into your first place, you cooked something that splattered
-  oil across half the kitchen, and you own exactly one paper towel and a spon...
+description: "You just moved into your first place, you cooked something that splattered oil across half the kitchen."
+
 ---
 You just moved into your first place, you cooked something that splattered oil across half the kitchen, and you own exactly one paper towel and a sponge that already smells like a wet basement. The cheap cleaning tools you can grab at a dollar store will get you through move-in week, then quietly fall apart by month three. This guide is about which budget tools actually survive a full year of dorm-style cooking, and which ones fail first so you can plan around it.
 

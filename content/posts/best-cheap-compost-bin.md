@@ -6,8 +6,8 @@ category: garden
 type: comparison
 keywords:
 - best cheap compost bin
-description: Composting is one of the easiest ways to cut down on kitchen waste and
-  get free fertilizer for your garden, but the bins on the market can cost a fort...
+description: "Composting is one of the easiest ways to cut down on kitchen waste and get free fertilizer for your garden, but the bins on the market can cost a fortune."
+
 ---
 Composting is one of the easiest ways to cut down on kitchen waste and get free fertilizer for your garden, but the bins on the market can cost a fortune. You don't need to drop a hundred bucks on a stainless steel drum to get great results. Spec sheets and owner reviews cover dozens of budget-friendly models, and they show that a functional, durable bin is totally achievable for under $50.
 

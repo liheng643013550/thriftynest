@@ -6,8 +6,8 @@ category: organization
 type: comparison
 keywords:
 - best cheap cable organizers
-description: Messy cables are a small annoyance that adds up. You spend time untangling
-  chargers, fighting with drawers full of cords, and staring at a nest of wir...
+description: "Messy cables are a small annoyance that adds up. You spend time untangling chargers, fighting with drawers full of cords."
+
 ---
 Messy cables are a small annoyance that adds up. You spend time untangling chargers, fighting with drawers full of cords, and staring at a nest of wires behind your TV. You do not need a fancy system or expensive gear to fix this. A few cheap organizers can bring real order to your home, often for less than the cost of a coffee.
 

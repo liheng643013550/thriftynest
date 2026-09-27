@@ -6,8 +6,8 @@ category: cleaning
 type: comparison
 keywords:
 - best budget steam mop
-description: A steam mop can replace a bucket, a chemical cleaner, and a lot of scrubbing.
-  But walk down the aisle at Target or scroll Amazon for five minutes and...
+description: "A steam mop can replace a bucket, a chemical cleaner, and a lot of scrubbing."
+
 ---
 A steam mop can replace a bucket, a chemical cleaner, and a lot of scrubbing. But walk down the aisle at Target or scroll Amazon for five minutes and you'll see steam mops priced from $35 to $180, and it's hard to tell what you actually get for the extra money. Published specs and owner reviews cover the budget end of that range so you can pick one that cleans well without draining your wallet.
 

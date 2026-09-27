@@ -7,9 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best cheap draft stopper for doors
-description: 'Best Cheap Draft Stoppers for Doors and Windows If you rent a small
-  place, you already know the problem: cold air slides under the door, the heater
-  ru...'
+description: "Best Cheap Draft Stoppers for Doors and Windows If you rent a small place, you already know the problem: cold air slides under the door."
+
 ---
 ## Best Cheap Draft Stoppers for Doors and Windows
 

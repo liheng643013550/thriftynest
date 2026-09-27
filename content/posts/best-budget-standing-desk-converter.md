@@ -6,8 +6,8 @@ category: home-office
 type: comparison
 keywords:
 - best budget standing desk converter
-description: Sitting all day is a silent budget killer—not just for your health, but
-  for your focus and energy. A standing desk converter lets you switch between s...
+description: "Sitting all day is a silent budget killer—not just for your health, but for your focus and energy."
+
 ---
 Sitting all day is a silent budget killer—not just for your health, but for your focus and energy. A standing desk converter lets you switch between sitting and standing without replacing your entire desk, but the good ones often cost as much as a new piece of furniture. Reviews and spec sheets cover the most popular models under $100 so you can stand up for your posture without sitting down on your wallet.
 

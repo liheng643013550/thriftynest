@@ -6,8 +6,8 @@ category: kitchen
 type: comparison
 keywords:
 - best cheap cutting boards
-description: You don't need to spend forty bucks on a single board to protect your
-  knives and your countertops. The truth is, a great cutting board is about materi...
+description: "You don't need to spend forty bucks on a single board to protect your knives and your countertops."
+
 ---
 You don't need to spend forty bucks on a single board to protect your knives and your countertops. The truth is, a great cutting board is about material and thickness, not brand hype. We sorted through the budget options to find the ones that actually hold up without scratching your wallet, covering the three main materials: wood, plastic, and bamboo.
 

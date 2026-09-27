@@ -6,8 +6,8 @@ category: energy
 type: comparison
 keywords:
 - best cheap fans for summer
-description: Summer heat can hit your wallet as hard as it hits your home. Cranking
-  the AC all day is the fastest way to blow your budget, but sweating through Jul...
+description: "Summer heat can hit your wallet as hard as it hits your home."
+
 ---
 Summer heat can hit your wallet as hard as it hits your home. Cranking the AC all day is the fastest way to blow your budget, but sweating through July isn't an option either. The smart play is a cheap fan that moves air efficiently so you can run the AC less and still stay comfortable.
 

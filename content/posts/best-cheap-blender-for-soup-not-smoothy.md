@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best cheap blender for soups not smoothies
-description: 'The one question that decides everything here is this: will the blender
-  survive a hot, thick, fibrous load every week for a year without the motor qui...'
+description: "The one question that decides everything here is this: will the blender survive a hot, thick."
+
 ---
 The one question that decides everything here is this: will the blender survive a hot, thick, fibrous load every week for a year without the motor quitting or the jar cracking? Soup is harder on a blender than a smoothie ever will be — no ice, no frozen fruit, just heavy, hot, fibrous work. If you hate buying things twice, that question matters more than wattage bragging rights.
 

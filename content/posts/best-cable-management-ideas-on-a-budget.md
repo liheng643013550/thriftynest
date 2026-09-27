@@ -6,8 +6,8 @@ category: home-office
 type: howto
 keywords:
 - best cable management ideas on a budget
-description: Messy cables are an eyesore, and the “solutions” you see online often
-  involve hundreds of dollars in custom panels and electricians. You don’t need an...
+description: "Messy cables are an eyesore, and the “solutions” you see online often involve hundreds of dollars in custom panels and electricians. You don’t need any of that."
+
 ---
 Messy cables are an eyesore, and the “solutions” you see online often involve hundreds of dollars in custom panels and electricians. You don’t need any of that. With a little creativity and a trip to the dollar store or a quick Amazon order, you can tame the chaos behind your TV and desk for under $30. The best part? None of these ideas require drilling a single hole into your walls.
 

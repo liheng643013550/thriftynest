@@ -6,8 +6,8 @@ category: organization
 type: comparison
 keywords:
 - best cheap file organizers
-description: Clutter on a desk is a silent killer of productivity. If you are staring
-  at a pile of receipts, unpaid bills, and that one warranty card you swear you...
+description: "Clutter on a desk is a silent killer of productivity. If you are staring at a pile of receipts, unpaid bills."
+
 ---
 Clutter on a desk is a silent killer of productivity. If you are staring at a pile of receipts, unpaid bills, and that one warranty card you swear you will need someday, you do not need a $200 filing system. You need a cheap, sturdy organizer that gets the job done without breaking the bank.
 
