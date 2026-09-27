@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best budget pots and pans for a first apartment
-description: 'If you''re outfitting your first apartment kitchen, one question decides
-  almost everything: how much cabinet and counter space can you actually give up...'
+description: "If you're outfitting your first apartment kitchen, one question decides almost everything: how much cabinet and counter space can you actually give up?"
+
 ---
 If you're outfitting your first apartment kitchen, one question decides almost everything: how much cabinet and counter space can you actually give up? A studio or shared rental often has a single lower cabinet and maybe two feet of counter, so the "best" set is simply the one that stores small, stacks cleanly, and still cooks a real meal. This guide focuses on footprint first, then price, then how the pans actually hold up in daily use.
 

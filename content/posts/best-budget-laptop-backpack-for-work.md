@@ -6,8 +6,8 @@ category: home-office
 type: comparison
 keywords:
 - best budget laptop backpack for work
-description: You need a laptop backpack that won't fall apart after a month, has enough
-  padding to protect a work laptop, and doesn't cost more than your weekly gr...
+description: "You need a laptop backpack that won't fall apart after a month, has enough padding to protect a work laptop."
+
 ---
 You need a laptop backpack that won't fall apart after a month, has enough padding to protect a work laptop, and doesn't cost more than your weekly grocery bill. Published reviews and owner reports cover dozens of bags over the years, from cheap gas-station specials to premium brands, and the sweet spot for value is well documented. In this guide, the best budget laptop backpacks for work that actually hold up are broken down, with honest notes on where each one falls short.
 

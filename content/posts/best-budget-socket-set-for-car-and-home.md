@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best budget socket set for car and home
-description: 'The Reality Check: What $40 to $100 Actually Buys You If you''re a busy
-  parent staring down a wobbly shelf, a lawn mower that needs a spark plug, or a...'
+description: "The Reality Check: What $40 to $100 Actually Buys You If you're a busy parent staring down a wobbly shelf, a lawn mower that needs a spark plug."
+
 ---
 ## The Reality Check: What $40 to $100 Actually Buys You
 

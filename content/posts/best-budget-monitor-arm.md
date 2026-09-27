@@ -6,8 +6,8 @@ category: home-office
 type: comparison
 keywords:
 - best budget monitor arm
-description: You spend a third of your day at your desk, but if your monitor is sitting
-  on its stock stand, you are probably hunching forward, craning your neck, a...
+description: "You spend a third of your day at your desk, but if your monitor is sitting on its stock stand, you are probably hunching forward, craning your neck."
+
 ---
 You spend a third of your day at your desk, but if your monitor is sitting on its stock stand, you are probably hunching forward, craning your neck, and losing valuable real estate to a plastic foot. A monitor arm fixes all of that, but the good ones from brands like Ergotron can cost as much as a used car payment. The good news is that you do not need to spend $150 to get a stable, functional arm. Here are the best budget monitor arms that will reclaim your desk without wrecking your wallet.
 

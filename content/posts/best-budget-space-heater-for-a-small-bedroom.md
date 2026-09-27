@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best budget space heater for a small bedroom
-description: The biggest mistake buyers make with a small-bedroom space heater is
-  buying for the lowest sticker price and ignoring the two costs that actually foll...
+description: "The biggest mistake buyers make with a small-bedroom space heater is buying for the lowest sticker price and ignoring the two costs that actually follow."
+
 ---
 The biggest mistake buyers make with a small-bedroom space heater is buying for the lowest sticker price and ignoring the two costs that actually follow you home: the electricity bill and the weekly cleaning time. A $25 heater that pulls 1,500 watts on high and has a grille you can't reach with a brush will cost more and annoy you more than a slightly pricier model you can wipe down in two minutes. This guide is written for anyone cooking on a tight monthly budget who wants a warm bedroom without wrecking the grocery money.
 

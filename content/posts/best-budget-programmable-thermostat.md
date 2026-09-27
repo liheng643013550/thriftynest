@@ -6,8 +6,8 @@ category: energy
 type: comparison
 keywords:
 - best budget programmable thermostat
-description: If you are tired of waking up to a freezing house or paying for heat
-  when nobody is home, a smart thermostat is the fix. But you do not need to spend...
+description: "If you are tired of waking up to a freezing house or paying for heat when nobody is home, a smart thermostat is the fix."
+
 ---
 If you are tired of waking up to a freezing house or paying for heat when nobody is home, a smart thermostat is the fix. But you do not need to spend $200 to get the job done. Published testing and research cover the best budget programmable thermostats that will pay for themselves within a single heating season.
 

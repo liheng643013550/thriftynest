@@ -6,8 +6,8 @@ category: kitchen
 type: comparison
 keywords:
 - best budget pour over coffee maker
-description: If you want better coffee without the machine noise, plastic pods, or
-  the price tag of a fancy electric brewer, a pour over is the way to go. It gives...
+description: "If you want better coffee without the machine noise, plastic pods, or the price tag of a fancy electric brewer, a pour over is the way to go."
+
 ---
 If you want better coffee without the machine noise, plastic pods, or the price tag of a fancy electric brewer, a pour over is the way to go. It gives you a clean, flavorful cup with total control, and you don't need to spend a fortune to get a good one. Here are the best budget pour over coffee makers under $40 that actually work well.
 

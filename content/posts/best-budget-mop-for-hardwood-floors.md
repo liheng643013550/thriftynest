@@ -6,8 +6,8 @@ category: cleaning
 type: comparison
 keywords:
 - best budget mop for hardwood floors
-description: Hardwood floors look great, but they need the right kind of care. Using
-  the wrong mop can leave streaks, cause water damage, or dull the finish over t...
+description: "Hardwood floors look great, but they need the right kind of care. Using the wrong mop can leave streaks, cause water damage, or dull the finish over time."
+
 ---
 Hardwood floors look great, but they need the right kind of care. Using the wrong mop can leave streaks, cause water damage, or dull the finish over time. You don’t need to spend a fortune to keep them clean, though. Here are the best budget mops for hardwood floors that actually get the job done without breaking the bank.
 

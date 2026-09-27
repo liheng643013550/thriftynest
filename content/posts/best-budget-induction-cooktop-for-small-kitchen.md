@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best budget induction cooktop for small kitchens
-description: Downsizing into a smaller home usually means a smaller kitchen, and a
-  smaller kitchen usually means giving up counter space you used to take for grant...
+description: "Downsizing into a smaller home usually means a smaller kitchen, and a smaller kitchen usually means giving up counter space you used to take for granted."
+
 ---
 Downsizing into a smaller home usually means a smaller kitchen, and a smaller kitchen usually means giving up counter space you used to take for granted. If you are replacing a full-size range or just want a backup cooking surface that tucks away, a portable induction cooktop can do the job — but only if it actually fits. Here is what to look for, and which budget models tend to work best when space is tight.
 

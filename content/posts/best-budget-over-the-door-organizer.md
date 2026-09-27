@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best budget over the door organizers
-description: The single biggest mistake buyers make with over-the-door organizers
-  is buying one that can't be wiped clean. If a pocket is fabric-lined, stitched sh...
+description: "The single biggest mistake buyers make with over-the-door organizers is buying one that can't be wiped clean."
+
 ---
 The single biggest mistake buyers make with over-the-door organizers is buying one that can't be wiped clean. If a pocket is fabric-lined, stitched shut, or has a cardboard insert you can't remove, every spill becomes a hand-washing job — and a sticky pocket of lotion or a leaky shampoo bottle can eat 20 to 30 minutes of scrubbing you'll never get back. The second mistake is buying more pockets than you have door clearance for. Measure the door's thickness and the gap above it before you buy anything.
 

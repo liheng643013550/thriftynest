@@ -6,8 +6,8 @@ category: home-office
 type: comparison
 keywords:
 - best budget noise cancelling headphones for work
-description: If you work from home, in a busy office, or spend hours on calls in noisy
-  coffee shops, background chatter and traffic can wreck your focus. You need...
+description: "If you work from home, in a busy office, or spend hours on calls in noisy coffee shops, background chatter and traffic can wreck your focus."
+
 ---
 If you work from home, in a busy office, or spend hours on calls in noisy coffee shops, background chatter and traffic can wreck your focus. You need to block out the world without emptying your wallet for a pair of premium headphones. Reviews and spec sheets cover several affordable options over the years, and solid active noise cancellation (ANC) is available for under $80.
 

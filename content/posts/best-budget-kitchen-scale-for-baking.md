@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best budget kitchen scale for baking
-description: Your first apartment kitchen has roughly two square feet of usable counter
-  space, and you have already learned that a $9 scale from the checkout aisle...
+description: "Your first apartment kitchen has roughly two square feet of usable counter space."
+
 ---
 Your first apartment kitchen has roughly two square feet of usable counter space, and you have already learned that a $9 scale from the checkout aisle is not going to survive a year of Saturday morning cookies. It drifts, it shuts off mid-weigh, and one day it just reads "0" no matter what you put on it. The frustrating part is not the money — it is that you have to figure out which cheap scale is actually built to last before you spend anything at all.
 

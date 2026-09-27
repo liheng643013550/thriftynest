@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best budget meal prep tools for one person
-description: 'For two people setting up a first apartment, the meal prep question
-  that decides everything is simple: how much does it actually cost to run this thin...'
+description: "For two people setting up a first apartment, the meal prep question that decides everything is simple."
+
 ---
 For two people setting up a first apartment, the meal prep question that decides everything is simple: how much does it actually cost to run this thing every month? A $30 appliance that pulls 1,000 watts for an hour a day can quietly add more to your electric bill than the gadget itself cost. This guide focuses on tools that are cheap to buy and cheap to live with, sized for one person so you're not cooking for four or cleaning a giant pot every night.
 

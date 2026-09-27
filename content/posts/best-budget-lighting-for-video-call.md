@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best budget lighting for video calls
-description: It's 7:40 p.m., the only free hour you have to record a video call is
-  now, and the overhead kitchen light is turning you into a raccoon — bright foreh...
+description: "It's 7:40 p.m., the only free hour you have to record a video call is now, and the overhead kitchen light is turning you into a raccoon — bright forehead."
+
 ---
 It's 7:40 p.m., the only free hour you have to record a video call is now, and the overhead kitchen light is turning you into a raccoon — bright forehead, dark eye sockets, and a grainy orange cast that makes you look like you're broadcasting from a basement. You've priced ring lights and "creator kits" and most of them cost more than a week of groceries. What you actually need is one cheap light you can set up in two minutes, that doesn't flicker, doesn't wash you out, and — this matters more than people admit — can still be fixed or re-bulbed two years from now instead of becoming e-waste.
 

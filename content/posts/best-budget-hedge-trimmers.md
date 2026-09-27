@@ -6,8 +6,8 @@ category: garden
 type: comparison
 keywords:
 - best budget hedge trimmers
-description: If your hedges look like they’ve been through a fight with a giant squirrel,
-  you probably need a trimmer. But walking through the tool aisle can be sh...
+description: "If your hedges look like they’ve been through a fight with a giant squirrel, you probably need a trimmer."
+
 ---
 If your hedges look like they’ve been through a fight with a giant squirrel, you probably need a trimmer. But walking through the tool aisle can be shocking when you see price tags north of $200. The good news is you don't need to spend that much. I’ve spent the last few weekends testing a range of affordable options in my own yard, and I’m here to tell you that you can get a clean, crisp cut for under $60 if you know what to grab.
 

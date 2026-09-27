@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best budget microphone for meetings
-description: If you're taking classes from a dorm room, a shared apartment, or a house
-  with thin walls, the wrong microphone can turn every group project into a no...
+description: "If you're taking classes from a dorm room, a shared apartment, or a house with thin walls."
+
 ---
 If you're taking classes from a dorm room, a shared apartment, or a house with thin walls, the wrong microphone can turn every group project into a noise complaint. You need something that picks up your voice clearly on Zoom and Discord without blasting your roommate, your hallmates, or your upstairs neighbor. This guide covers what actually matters, plus real budget options — including a couple of picks that double as listening gear so you're not the person whose speaker rattles the floor at 1 a.m.
 

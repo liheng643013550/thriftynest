@@ -6,8 +6,8 @@ category: home-office
 type: comparison
 keywords:
 - best budget laptop stand
-description: 'If you spend eight hours a day hunched over a laptop, you already know
-  the drill: by 3 p.m. your neck aches, your shoulders creep up toward your ears...'
+description: "If you spend eight hours a day hunched over a laptop, you already know the drill: by 3 p.m."
+
 ---
 If you spend eight hours a day hunched over a laptop, you already know the drill: by 3 p.m. your neck aches, your shoulders creep up toward your ears, and your wrists start complaining. A laptop stand fixes most of that for less than the cost of a chiropractor copay.
 

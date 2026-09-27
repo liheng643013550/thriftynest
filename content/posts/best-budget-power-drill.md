@@ -6,8 +6,8 @@ category: tools
 type: comparison
 keywords:
 - best budget power drill
-description: You do not need to spend $200 to hang a shelf or build a planter box.
-  A decent budget drill costs between $30 and $80 and will handle almost everythin...
+description: "You do not need to spend $200 to hang a shelf or build a planter box."
+
 ---
 You do not need to spend $200 to hang a shelf or build a planter box. A decent budget drill costs between $30 and $80 and will handle almost everything a beginner throws at it. This guide covers the best budget power drills right now, both corded and cordless, so you can pick the one that fits your projects and your wallet.
 

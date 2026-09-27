@@ -6,8 +6,8 @@ category: garden
 type: comparison
 keywords:
 - best budget pruning shears
-description: If your old pruners are crushing stems instead of slicing them, or you're
-  tired of scraping rust off blades every spring, it's time for an upgrade tha...
+description: "If your old pruners are crushing stems instead of slicing them, or you're tired of scraping rust off blades every spring."
+
 ---
 If your old pruners are crushing stems instead of slicing them, or you're tired of scraping rust off blades every spring, it's time for an upgrade that won't wreck your budget. You don't need to spend $60 on Japanese steel to get clean cuts—there are plenty of solid options under $30 that hold an edge and shrug off moisture. Owner reviews and spec sheets cover a lot of these over the years, and here's what actually holds up.
 

@@ -6,8 +6,8 @@ category: pet
 type: comparison
 keywords:
 - best budget pet camera
-description: You love your pet. You also love not spending money you don't have to.
-  Those are the two reasons you’re here. A pet camera used to be a luxury gadget...
+description: "You love your pet. You also love not spending money you don't have to. Those are the two reasons you’re here."
+
 ---
 You love your pet. You also love not spending money you don't have to. Those are the two reasons you’re here. A pet camera used to be a luxury gadget with a luxury price tag, but that’s changed. You can now get a solid, reliable camera for under $50 that lets you watch, talk to, and even toss a treat to your dog or cat while you’re at work. Reviews and spec sheets cover a handful of these budget models from the last few years, and the goal here is to tell you which ones are actually worth your cash and which ones are just plastic junk that will frustrate you.
 

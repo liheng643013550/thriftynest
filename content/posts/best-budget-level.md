@@ -6,8 +6,8 @@ category: tools
 type: comparison
 keywords:
 - best budget level
-description: Levels are one of those tools people either love or ignore. If you have
-  ever tried to hang a shelf with a phone app, you know why a real bubble level...
+description: "Levels are one of those tools people either love or ignore. If you have ever tried to hang a shelf with a phone app."
+
 ---
 Levels are one of those tools people either love or ignore. If you have ever tried to hang a shelf with a phone app, you know why a real bubble level still matters. The good news is you do not have to spend $80 on a Stabila to get straight lines, square frames, and cabinets that do not look drunk. These are the best budget levels, according to owner reviews and published specs, from a $12 torpedo to a $40 laser that owner reports credit with saving a full afternoon on a closet build.
 
