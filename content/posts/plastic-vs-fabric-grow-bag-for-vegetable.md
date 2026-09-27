@@ -7,8 +7,8 @@ type: comparison
 intent: vs
 keywords:
 - plastic vs fabric grow bags for vegetables
-description: Does the container you grow in make noise? That sounds like a strange
-  question until you live in a dorm with a roommate, a shared wall, and neighbors...
+description: "Does the container you grow in make noise? That sounds like a strange question until you live in a dorm with a roommate, a shared wall."
+
 ---
 Does the container you grow in make noise? That sounds like a strange question until you live in a dorm with a roommate, a shared wall, and neighbors who can hear everything. For a college student growing vegetables on a windowsill or a balcony, the gap between plastic pots and fabric grow bags comes down to one thing: which one you can actually live with in a small shared space. Plastic pots suit people who water on a schedule and want zero mess; fabric grow bags suit people who overwater, forget, or move plants around a lot.
 

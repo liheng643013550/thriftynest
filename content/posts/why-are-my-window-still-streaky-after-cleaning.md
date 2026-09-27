@@ -7,8 +7,8 @@ type: howto
 intent: problem
 keywords:
 - why are my windows still streaky after cleaning
-description: You just spent twenty minutes on the glass, and the afternoon sun is
-  still showing every wipe mark like a fingerprint on a phone screen. Here's the go...
+description: "You just spent twenty minutes on the glass, and the afternoon sun is still showing every wipe mark like a fingerprint on a phone screen."
+
 ---
 You just spent twenty minutes on the glass, and the afternoon sun is still showing every wipe mark like a fingerprint on a phone screen. Here's the good news: streaky windows are almost always a technique problem, a tool problem, or a cheap tool that has quietly worn out — not a sign that you did something wrong. Fixing it usually costs between nothing and about $20.
 

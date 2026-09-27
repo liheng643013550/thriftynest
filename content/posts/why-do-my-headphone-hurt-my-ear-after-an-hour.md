@@ -7,8 +7,8 @@ type: howto
 intent: problem
 keywords:
 - why do my headphones hurt my ears after an hour
-description: Ear pain after an hour of listening is one of the most common complaints
-  about headphones, and the good news is that it is almost never permanent dama...
+description: "Ear pain after an hour of listening is one of the most common complaints about headphones, and the good news is that it is almost never permanent damage."
+
 ---
 Ear pain after an hour of listening is one of the most common complaints about headphones, and the good news is that it is almost never permanent damage. In most cases it comes down to pressure, heat, or a cable that is quietly failing, and the fix usually costs less than a pizza.
 

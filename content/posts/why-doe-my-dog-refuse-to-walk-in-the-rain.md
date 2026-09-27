@@ -7,8 +7,8 @@ type: howto
 intent: problem
 keywords:
 - why does my dog refuse to walk in the rain
-description: Does your dog plant their paws at the door the second it starts raining,
-  leaving you standing there with a leash and five free minutes you don't have?...
+description: "Does your dog plant their paws at the door the second it starts raining, leaving you standing there with a leash and five free minutes you don't have?"
+
 ---
 Does your dog plant their paws at the door the second it starts raining, leaving you standing there with a leash and five free minutes you don't have? Take a breath. Rain refusal is one of the most common dog behaviors out there, and most of the time it's fixable in a few days with things you already own or can grab for under $20.
 

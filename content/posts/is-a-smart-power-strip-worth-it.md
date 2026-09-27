@@ -7,8 +7,8 @@ type: comparison
 intent: worthit
 keywords:
 - is a smart power strip worth it
-description: You have a tangle of chargers, a lamp nobody turns off, and a kid who
-  leaves the TV on all night. A smart power strip sounds like the fix, but you are...
+description: "You have a tangle of chargers, a lamp nobody turns off, and a kid who leaves the TV on all night."
+
 ---
 You have a tangle of chargers, a lamp nobody turns off, and a kid who leaves the TV on all night. A smart power strip sounds like the fix, but you are not sure it is worth the money, or whether you should just walk around unplugging things like your parents did.
 

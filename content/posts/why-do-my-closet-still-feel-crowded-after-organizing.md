@@ -7,8 +7,8 @@ type: howto
 intent: problem
 keywords:
 - why do my closets still feel crowded after organizing
-description: Your closet isn't failing because you're messy. It's crowded for a physical
-  reason — usually one you can fix for under $40 in an afternoon. The fix is...
+description: "Your closet isn't failing because you're messy. It's crowded for a physical reason — usually one you can fix for under $40 in an afternoon."
+
 ---
 Your closet isn't failing because you're messy. It's crowded for a physical reason — usually one you can fix for under $40 in an afternoon. The fix is almost never "buy a bigger house" and it's almost never "buy a fancy closet system."
 

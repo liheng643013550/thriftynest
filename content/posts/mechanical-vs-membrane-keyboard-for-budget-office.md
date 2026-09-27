@@ -7,8 +7,8 @@ type: comparison
 intent: vs
 keywords:
 - mechanical vs membrane keyboard for budget offices
-description: The single biggest mistake first-apartment buyers make is spending their
-  entire keyboard budget on switches and ignoring the case. A cheap mechanical...
+description: "The single biggest mistake first-apartment buyers make is spending their entire keyboard budget on switches and ignoring the case."
+
 ---
 The single biggest mistake first-apartment buyers make is spending their entire keyboard budget on switches and ignoring the case. A cheap mechanical board with a thin plastic chassis and a soldered, non-replaceable cable will often fail before a $30 membrane keyboard does, because what actually breaks on budget keyboards is rarely the switch mechanism itself. It's the cable strain relief, the USB connector, the keycap stems, and spilled coffee.
 

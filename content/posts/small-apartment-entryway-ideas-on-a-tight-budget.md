@@ -7,8 +7,8 @@ type: list
 intent: list
 keywords:
 - small apartment entryway ideas on a tight budget
-description: A tiny entryway can eat your budget in two directions at once. First
-  you buy a bench or a rack that doesn't fit, then you spend the next twelve months...
+description: "A tiny entryway can eat your budget in two directions at once."
+
 ---
 A tiny entryway can eat your budget in two directions at once. First you buy a bench or a rack that doesn't fit, then you spend the next twelve months replacing it with something that does. The single biggest mistake first-time renters make is buying storage for the space they wish they had — a full hall tree, a big cube wall, a heavy shoe cabinet — instead of measuring the actual 30 to 40 inches they're working with and buying one piece that fits it. That mistake usually costs $80 to $150 in returns, restocking fees, and a second purchase. Everything below is chosen so the first-year total stays low.
 

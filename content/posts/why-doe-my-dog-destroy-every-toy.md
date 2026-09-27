@@ -7,8 +7,8 @@ type: howto
 intent: problem
 keywords:
 - why does my dog destroy every toy
-description: Your dog just gutted another toy in under ten minutes. Fluff is across
-  the rug, the squeaker is somewhere under the couch, and you're standing there c...
+description: "Your dog just gutted another toy in under ten minutes. Fluff is across the rug, the squeaker is somewhere under the couch."
+
 ---
 Your dog just gutted another toy in under ten minutes. Fluff is across the rug, the squeaker is somewhere under the couch, and you're standing there calculating how much you've spent this year on things that died before dinner. Good news: this is almost always a solvable problem, and the fix is usually cheaper than buying a new $15 toy every week.
 

@@ -7,8 +7,8 @@ type: comparison
 intent: worthit
 keywords:
 - is a food processor worth it if you cook every day
-description: Is a Food Processor Worth It If You Cook Every Day? You cook almost every
-  night. You have a cutting board the size of a paperback, one good knife, and...
+description: "Is a Food Processor Worth It If You Cook Every Day? You cook almost every night."
+
 ---
 ## Is a Food Processor Worth It If You Cook Every Day?
 

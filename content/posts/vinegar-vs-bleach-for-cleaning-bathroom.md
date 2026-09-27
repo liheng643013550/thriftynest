@@ -7,8 +7,8 @@ type: comparison
 intent: vs
 keywords:
 - vinegar vs bleach for cleaning bathrooms
-description: The biggest mistake downsizers make The single biggest mistake is treating
-  vinegar and bleach as interchangeable "cheap cleaners" and reaching for whi...
+description: "The biggest mistake downsizers make The single biggest mistake is treating vinegar and bleach as interchangeable \"cheap cleaners\" and reaching for."
+
 ---
 ## The biggest mistake downsizers make
 

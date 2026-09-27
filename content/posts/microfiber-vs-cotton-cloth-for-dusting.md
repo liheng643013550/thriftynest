@@ -7,8 +7,8 @@ type: comparison
 intent: vs
 keywords:
 - microfiber vs cotton cloths for dusting
-description: You get home from work, you've got maybe twenty minutes before you want
-  to eat dinner, and there's a gray film of dust sitting on every surface you ca...
+description: "You get home from work, you've got maybe twenty minutes before you want to eat dinner, and there's a gray film of dust sitting on every surface you can see."
+
 ---
 You get home from work, you've got maybe twenty minutes before you want to eat dinner, and there's a gray film of dust sitting on every surface you can see. You grab whatever cloth is closest — maybe it's a cut-up old T-shirt, maybe it's a pack of something you bought in a hurry — and you start wiping. Ten minutes later the dust isn't gone. It's just been pushed into a thin streak across the shelf, and now you're shaking the cloth out the window wondering why this keeps happening.
 

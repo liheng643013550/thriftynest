@@ -7,8 +7,8 @@ type: howto
 intent: problem
 keywords:
 - why do my potted plants dry out so fast
-description: Why Potted Plants Dry Out So Fast and the Cheap Fix If your houseplants
-  are wilting a day or two after you water them, you are not a bad plant parent...
+description: "Why Potted Plants Dry Out So Fast (and the Cheap Fix) If your houseplants are wilting a day or two after you water them, you are not a bad plant parent."
+
 ---
 ## Why Potted Plants Dry Out So Fast (and the Cheap Fix)
 

@@ -7,8 +7,8 @@ type: comparison
 intent: worthit
 keywords:
 - is solar worth it for a small home
-description: 'You have probably done the math in your head a dozen times: the electric
-  bill comes, you wince, and you wonder whether panels on the roof would finall...'
+description: "You have probably done the math in your head a dozen times: the electric bill comes, you wince."
+
 ---
 You have probably done the math in your head a dozen times: the electric bill comes, you wince, and you wonder whether panels on the roof would finally put an end to it. But then you look at your square footage, your monthly budget, and the quotes you have seen online, and it feels like solar is a game for people with big houses and bigger savings accounts. So the real question for a small home on a tight budget is not "does solar work?" It is "does the monthly math work in my favor, or am I better off cutting what I already use?"
 

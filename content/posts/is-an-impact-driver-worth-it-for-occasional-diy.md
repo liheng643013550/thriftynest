@@ -7,8 +7,8 @@ type: comparison
 intent: worthit
 keywords:
 - is an impact driver worth it for occasional diy
-description: You are standing in a hardware store aisle, holding a $99 drill in one
-  hand and a $99 impact driver in the other, and you genuinely cannot tell what t...
+description: "You are standing in a hardware store aisle, holding a $99 drill in one hand and a $99 impact driver in the other."
+
 ---
 You are standing in a hardware store aisle, holding a $99 drill in one hand and a $99 impact driver in the other, and you genuinely cannot tell what the difference is. You live in a small rental apartment, you own maybe one toolbag, and your projects so far have been hanging a shelf and tightening a wobbly chair leg. So the real question is simple: is an impact driver worth it for occasional DIY, or is it a tool that sits in a closet until you move out?
 

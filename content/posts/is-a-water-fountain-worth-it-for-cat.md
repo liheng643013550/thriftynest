@@ -7,8 +7,8 @@ type: comparison
 intent: worthit
 keywords:
 - is a water fountain worth it for cats
-description: You've tried the bowl on the floor, the bowl in the corner, the bowl
-  by the sink, and the fancy ceramic dish you bought hoping it would make a differe...
+description: "You've tried the bowl on the floor, the bowl in the corner, the bowl by the sink, and the fancy ceramic dish you bought hoping it would make a difference."
+
 ---
 You've tried the bowl on the floor, the bowl in the corner, the bowl by the sink, and the fancy ceramic dish you bought hoping it would make a difference. Your cat still treats water like it's a suggestion. And now you're moving into a smaller place, which means every square foot has to earn its keep — including the one a plugged-in fountain would occupy. So the real question isn't just whether a fountain works. It's whether it's worth the counter space, the outlet, and the cleaning time in a home where you no longer have room to store things you don't use.
 

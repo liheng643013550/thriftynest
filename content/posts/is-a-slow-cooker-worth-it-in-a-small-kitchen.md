@@ -7,8 +7,8 @@ type: comparison
 intent: worthit
 keywords:
 - is a slow cooker worth it in a small kitchen
-description: You keep moving the slow cooker between the pantry shelf and the stove,
-  and you're starting to wonder if it earns its spot. Maybe you bought it on sal...
+description: "You keep moving the slow cooker between the pantry shelf and the stove, and you're starting to wonder if it earns its spot."
+
 ---
 You keep moving the slow cooker between the pantry shelf and the stove, and you're starting to wonder if it earns its spot. Maybe you bought it on sale, used it twice, and now it lives in the hall closet behind the vacuum. Or maybe you're standing in the store right now, staring at a six-quart box, trying to picture where it would even go.
 

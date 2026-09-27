@@ -7,8 +7,8 @@ type: comparison
 intent: worthit
 keywords:
 - is a stand mixer worth the money
-description: 'A stand mixer is one of those registry items that feels like a milestone:
-  the shiny bowl, the promise of weekend baking, the sense that you have offic...'
+description: "A stand mixer is one of those registry items that feels like a milestone: the shiny bowl, the promise of weekend baking."
+
 ---
 A stand mixer is one of those registry items that feels like a milestone: the shiny bowl, the promise of weekend baking, the sense that you have officially set up a grown-up kitchen. But standing in the aisle — or staring at the price online — the doubt creeps in. Do you actually need a machine that costs several times what a hand mixer does, especially in a first apartment where counter space and electricity bills are both tight? And if you do buy one, what does it really cost to own?
 

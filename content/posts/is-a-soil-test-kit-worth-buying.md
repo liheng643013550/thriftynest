@@ -7,8 +7,8 @@ type: comparison
 intent: worthit
 keywords:
 - is a soil test kit worth buying
-description: You are standing in a garden center or scrolling Amazon, looking at a
-  little box of vials and color charts, and you're wondering whether this is a rea...
+description: "You are standing in a garden center or scrolling Amazon, looking at a little box of vials and color charts."
+
 ---
 You are standing in a garden center or scrolling Amazon, looking at a little box of vials and color charts, and you're wondering whether this is a real tool or a $15 science project you'll use once. You're a college student cooking in a dorm, so the stakes are low — a windowsill basil plant, maybe a couple of pots of lettuce, a pothos that's seen better days. The question that decides everything for this category is simple: **will you actually use it more than once?**
 

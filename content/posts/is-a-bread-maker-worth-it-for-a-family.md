@@ -7,8 +7,8 @@ type: comparison
 intent: worthit
 keywords:
 - is a bread maker worth it for a family
-description: The Single Biggest Mistake Families Make You are standing in the small-appliance
-  aisle or scrolling a product page at 11 p.m., wondering whether a bre...
+description: "The Single Biggest Mistake Families Make You are standing in the small-appliance aisle or scrolling a product page at 11 p.m.."
+
 ---
 ## The Single Biggest Mistake Families Make
 

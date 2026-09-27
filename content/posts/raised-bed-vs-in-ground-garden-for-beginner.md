@@ -7,8 +7,8 @@ type: comparison
 intent: vs
 keywords:
 - raised bed vs in ground garden for beginners
-description: You've measured the one sunny corner of your yard three times, you've
-  got a shoebox of seed packets on the counter, and you're stuck on the same quest...
+description: "You've measured the one sunny corner of your yard three times, you've got a shoebox of seed packets on the counter."
+
 ---
 You've measured the one sunny corner of your yard three times, you've got a shoebox of seed packets on the counter, and you're stuck on the same question every new gardener hits: do I build a box, or do I just dig into the dirt I already have? Pick wrong and you either spend $150 on lumber that warps by August, or you spend a weekend fighting crabgrass and clay and quit by July.
 

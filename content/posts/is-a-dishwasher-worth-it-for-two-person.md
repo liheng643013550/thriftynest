@@ -7,8 +7,8 @@ type: comparison
 intent: worthit
 keywords:
 - is a dishwasher worth it for two people
-description: You're standing at the sink at 9pm, rinsing two plates, two glasses,
-  a pan, and a spatula. It takes eleven minutes. Tomorrow night it will take eleven...
+description: "You're standing at the sink at 9pm, rinsing two plates, two glasses, a pan, and a spatula. It takes eleven minutes."
+
 ---
 You're standing at the sink at 9pm, rinsing two plates, two glasses, a pan, and a spatula. It takes eleven minutes. Tomorrow night it will take eleven minutes again. You live in a small rental, the counter is roughly the size of a laptop, and somewhere in the building a neighbor is already asleep on the other side of a very thin wall. So you start wondering whether a countertop dishwasher is worth it for two people — and whether the noise would be a problem you'd regret.
 

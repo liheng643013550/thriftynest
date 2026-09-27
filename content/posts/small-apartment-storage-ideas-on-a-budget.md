@@ -6,8 +6,8 @@ category: organization
 type: howto
 keywords:
 - small apartment storage ideas on a budget
-description: Living in a small apartment often feels like a constant game of Tetris,
-  especially when you’re trying to do it without spending a fortune on fancy org...
+description: "Living in a small apartment often feels like a constant game of Tetris, especially when you’re trying to do it without spending a fortune on fancy."
+
 ---
 Living in a small apartment often feels like a constant game of Tetris, especially when you’re trying to do it without spending a fortune on fancy organizational systems. Many renters have been there, staring at a closet that seems to swallow everything they own, convinced a full renovation is needed when really just a few clever tweaks are. The good news is that you don't need custom built-ins or a trip to a high-end design store to reclaim your space. With a little creativity and some everyday items, you can double your storage capacity for less than the cost of a pizza.
 
