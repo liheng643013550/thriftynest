@@ -264,7 +264,10 @@ def main():
                 # SEO 长度闸门（2026-09 新增）。长度一律按【html.unescape 之后】算：
                 # HTML 会把 ' 转义成 &#x27;（1 字符变 6 字符），按原始 HTML 数长度
                 # 会把 55 字符的标题算成 70+，造成大量误报 —— 体检脚本踩过这个坑。
-                "title_long": [], "desc_len": []}
+                "title_long": [], "desc_len": [],
+                # ★ 2026-09-27 新增：描述是否以 "..." 结尾（= 被硬切过）。
+                #   这段文字会原样出现在 Google 搜索结果里，半句话很显廉价。
+                "desc_trunc": []}
     titles_seen = {}
     for slug in sample:
         page = SITE_DIR / "posts" / slug / "index.html"
@@ -294,6 +297,10 @@ def main():
                 problems["desc_len"].append("%s (desc %d)" % (slug, len(d_txt)))
             elif len(d_txt) < 50:
                 problems["desc_len"].append("%s (desc %d, too short)" % (slug, len(d_txt)))
+            # ★ 硬切检测：以 "..." 结尾说明是被按字符数截断的（生成器曾经的行为），
+            #   这种描述会原样出现在 Google 搜索结果里。
+            if d_txt.rstrip().endswith("..."):
+                problems["desc_trunc"].append("%s (%s)" % (slug, d_txt[-28:]))
 
         c = re.search(r'<link rel="canonical" href="([^"]+)"', raw)
         # 严格比对（含尾斜杠）：canonical 必须指向真实提供 200 的那个地址。
@@ -328,6 +335,7 @@ def main():
     bucket("title_long", "post titles stay <=65 chars (else search results truncate)",
            severity="warn")
     bucket("desc_len", "post descriptions stay 50-165 chars", severity="warn")
+    bucket("desc_trunc", "no meta description ends with '...' (means it was hard-cut)")
     bucket("canonical", "every inspected page has the right canonical URL")
     bucket("jsonld", "every inspected page has JSON-LD structured data")
     bucket("small", "no truncated pages (all >= %d B)" % MIN_POST_BYTES)

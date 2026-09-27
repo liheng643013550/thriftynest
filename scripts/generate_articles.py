@@ -79,6 +79,62 @@ WRITER_SYSTEM = (
 # ---------------------------------------------------------------------------
 # slug / 选题挑选
 # ---------------------------------------------------------------------------
+
+def _clean_prose(s):
+    """把 markdown 正文压成纯文本（去链接/强调/代码/实体）。"""
+    import html as _html
+    import re as _re
+    s = _re.sub(r"\[([^\]]+)\]\([^)]*\)", r"\1", s)
+    s = _re.sub(r"\*\*([^*]+)\*\*", r"\1", s)
+    s = _re.sub(r"[*_`]", "", s)
+    s = _re.sub(r"\s+", " ", s).strip()
+    return _html.unescape(s)
+
+
+def build_meta_description(body, limit_max=160, limit_min=110):
+    """从正文开头拼一条完整的 meta description。
+
+    第一版写砸了（会产出 2101 字符的描述），原因是有个"太短就继续补"的分支
+    失控累积。这一版去掉那个分支，只有两条确定性的路径：
+
+      路径 A（正常）：一句一句往上加【整句】，加不下就停 -> 天然语义完整
+      路径 B（兜底）：第一句本身就超过上限时，在 155 字窗口内
+                     往前找最近的句末标点；找不到就退到最后一个空格再补句号
+
+    无论走哪条，结果都不会以 "..." 结尾，也不会以半个词结尾。
+    """
+    import re as _re
+    text = _clean_prose(body)
+    text = _re.sub(r"^#+\s*", "", text)
+    # 句末标点后面必须跟空格 + 大写字母/引号，才算真正的句子边界
+    # （避免把 "e.g. something"、"$1.5 million" 误切成两句）
+    sents = _re.split(r"(?<=[.!?])\s+(?=[A-Z\"\'“])", text)
+    sents = [s.strip() for s in sents if s.strip()]
+
+    # ---- 路径 A：累加整句
+    out = ""
+    for s in sents:
+        cand = (out + " " + s) if out else s
+        if len(cand) <= limit_max:
+            out = cand
+        else:
+            break
+    if out and len(out) >= limit_min and out[-1] in ".!?":
+        return out
+    if out and len(out) >= limit_min:
+        return out.rstrip(" ,;:-") + "."
+
+    # ---- 路径 B：兜底（第一句就超长，或累计不足）
+    window = text[:155]
+    for m in reversed(list(_re.finditer(r"[.!?](?=\s|$)", window))):
+        if m.end() >= 90:
+            return window[:m.end()].strip()
+    cut = window.rfind(" ")
+    if cut >= 90:
+        return window[:cut].rstrip(" ,;:-—") + "."
+    return window.rstrip(" ,;:-—") + "."
+
+
 def _singularize(word):
     """Conservative English singularizer used only for slug de-duplication.
 
@@ -648,7 +704,7 @@ def write_article(topic, config, year):
     date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     plain = re.sub(r"[#*`>\[\]()!|]", " ", body)
     plain = re.sub(r"\s+", " ", plain).strip()
-    description = plain[:150].rstrip(" ,.-") + "..."
+    description = build_meta_description(plain)
     front = {
         # 清掉标题里的“测评过”暗示后缀（见 clean_title 的说明）
         "title": clean_title(topic["title"].format(year=year)),
