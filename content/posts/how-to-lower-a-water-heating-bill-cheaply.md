@@ -7,8 +7,8 @@ type: howto
 intent: howto
 keywords:
 - how to lower a water heating bill cheaply
-description: 'You just moved into a smaller place. Maybe it''s a one-bedroom apartment,
-  a condo, or a back unit in a duplex. The good news: less square footage usual...'
+description: "You just moved into a smaller place. Maybe it's a one-bedroom apartment, a condo, or a back unit in a duplex."
+
 ---
 You just moved into a smaller place. Maybe it's a one-bedroom apartment, a condo, or a back unit in a duplex. The good news: less square footage usually means lower utility bills. The bad news: the first winter bill arrives and the water heating line item looks almost the same as it did at the old house.
 

@@ -7,8 +7,8 @@ type: howto
 intent: howto
 keywords:
 - how to keep cables tidy on a rented desk
-description: 'The reality check first If you rent, you already know the rule: no holes
-  in the walls, no holes in the desk, and no permanent changes you''ll have to e...'
+description: "The reality check first If you rent, you already know the rule: no holes in the walls, no holes in the desk."
+
 ---
 ## The reality check first
 

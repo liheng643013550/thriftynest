@@ -6,8 +6,8 @@ category: tools
 type: howto
 keywords:
 - how to hang a picture frame straight cheaply
-description: Picture frames are the original home decor headache. You measure, you
-  eyeball, you hang, and somehow it still looks off by two degrees. That wobbly, c...
+description: "Picture frames are the original home decor headache. You measure, you eyeball, you hang, and somehow it still looks off by two degrees."
+
 ---
 Picture frames are the original home decor headache. You measure, you eyeball, you hang, and somehow it still looks off by two degrees. That wobbly, crooked look can drive anyone crazy, but the fix doesn't require a fancy laser level or a contractor’s tool bag.
 

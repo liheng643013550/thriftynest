@@ -6,8 +6,8 @@ category: energy
 type: howto
 keywords:
 - how to lower your heating bill without buying anything
-description: When the temperature drops, that first heating bill can be a real shock.
-  I get it—I’ve been there, staring at the number and wondering where all that...
+description: "When the temperature drops, that first heating bill can be a real shock."
+
 ---
 When the temperature drops, that first heating bill can be a real shock. I get it—I’ve been there, staring at the number and wondering where all that money went. The good news is you don’t need to spend a dime on gadgets, space heaters, or fancy smart thermostats to start saving. In fact, most of the biggest savings come from changing a few habits and doing some basic maintenance you can handle this afternoon.
 

@@ -7,8 +7,8 @@ type: howto
 intent: howto
 keywords:
 - how to organize a freezer to waste less food
-description: You open the freezer to grab the bag of frozen peas and a frozen chicken
-  breast falls out and lands on your foot. There's a mystery container in the b...
+description: "You open the freezer to grab the bag of frozen peas and a frozen chicken breast falls out and lands on your foot."
+
 ---
 You open the freezer to grab the bag of frozen peas and a frozen chicken breast falls out and lands on your foot. There's a mystery container in the back that's been there since you moved in, and you're honestly a little afraid to open it. Meanwhile, the ground beef you bought last week is buried under three bags of frozen fruit, so you end up ordering takeout again — and the beef gets freezer-burned and thrown out a month later.
 

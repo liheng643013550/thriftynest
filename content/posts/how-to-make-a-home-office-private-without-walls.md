@@ -6,8 +6,8 @@ category: home-office
 type: howto
 keywords:
 - how to make a home office private without walls
-description: Working from home sounds great until you're taking a client call while
-  your kid practices drums eight feet away. If you rent, or you just don't want t...
+description: "Working from home sounds great until you're taking a client call while your kid practices drums eight feet away."
+
 ---
 Working from home sounds great until you're taking a client call while your kid practices drums eight feet away. If you rent, or you just don't want to frame out a room, you can still carve out real privacy. Here's how I've helped friends (and myself) create a workable home office in apartments, spare bedrooms, and open living rooms.
 

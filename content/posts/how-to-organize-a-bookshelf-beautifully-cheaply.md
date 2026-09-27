@@ -6,7 +6,8 @@ category: organization
 type: howto
 keywords:
 - how to organize a bookshelf beautifully cheaply
-description: "A beautiful bookshelf display rarely comes from buying expensive new furniture or rearranging the same items repeatedly."
+description: "Many people rearrange a bookshelf more times than they can count, and the lesson from those experiences is that a beautiful display rarely comes from."
+
 ---
 Many people rearrange a bookshelf more times than they can count, and the lesson from those experiences is that a beautiful display rarely comes from buying expensive new furniture or decor. It comes from working with what you have, using a few clever tricks, and making a trip to the dollar store instead of the home goods aisle. A cluttered pile of books can be transformed into a styled focal point for less than the cost of a new hardcover. Here is the exact process commonly used to organize a bookshelf beautifully for under $20, without any power tools or design degrees.
 

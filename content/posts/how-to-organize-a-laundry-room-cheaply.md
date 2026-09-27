@@ -6,8 +6,8 @@ category: organization
 type: howto
 keywords:
 - how to organize a laundry room cheaply
-description: A messy laundry room makes a 45-minute chore feel like a two-hour project.
-  The good news is you do not need custom cabinets or a renovation budget to...
+description: "A messy laundry room makes a 45-minute chore feel like a two-hour project. The good news is you do not need custom cabinets or a renovation budget to fix it."
+
 ---
 A messy laundry room makes a 45-minute chore feel like a two-hour project. The good news is you do not need custom cabinets or a renovation budget to fix it. Published guides describe cleaning up a 6-by-8-foot laundry room for about $35 and one afternoon, and most of the ideas below are the same ones those guides cover.
 

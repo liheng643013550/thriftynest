@@ -6,8 +6,8 @@ category: organization
 type: howto
 keywords:
 - how to organize a tiny bathroom cheaply
-description: If your bathroom is so small that you can sit on the toilet and wash
-  your hands at the same time, you know the struggle. Cluttered counters, a jam-pac...
+description: "If your bathroom is so small that you can sit on the toilet and wash your hands at the same time, you know the struggle."
+
 ---
 If your bathroom is so small that you can sit on the toilet and wash your hands at the same time, you know the struggle. Cluttered counters, a jam-packed medicine cabinet, and nowhere to put a towel are daily frustrations. The good news is that fixing this doesn't require a remodel or a big budget. You just need to think vertically, use what you already own, and buy a few smart organizers that cost less than a pizza. Here is how to reclaim your space without breaking the bank.
 

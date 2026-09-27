@@ -7,8 +7,8 @@ type: howto
 intent: howto
 keywords:
 - how to organize a mudroom without building one
-description: Your dorm room has exactly one door, and everything you own funnels through
-  it. Wet umbrella, muddy sneakers, a jacket you'll wear again tomorrow, the...
+description: "Your dorm room has exactly one door, and everything you own funnels through it."
+
 ---
 Your dorm room has exactly one door, and everything you own funnels through it. Wet umbrella, muddy sneakers, a jacket you'll wear again tomorrow, the tote bag with your laptop in it, the stack of mail you grabbed on the way in. Within a week, that six square feet of floor by the door becomes a permanent pile, and you start stepping over it in socks at 11 p.m. when you're hungry and the dining hall is closed.
 

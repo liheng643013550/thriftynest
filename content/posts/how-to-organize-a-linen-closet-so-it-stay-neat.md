@@ -7,8 +7,8 @@ type: howto
 intent: howto
 keywords:
 - how to organize a linen closet so it stays neat
-description: 'If you''ve just moved into a smaller place, you already know the scene:
-  you open the linen closet for one clean towel, and a folded wall of sheets slid...'
+description: "If you've just moved into a smaller place, you already know the scene: you open the linen closet for one clean towel."
+
 ---
 If you've just moved into a smaller place, you already know the scene: you open the linen closet for one clean towel, and a folded wall of sheets slides out onto your feet. Now you're standing in the hallway holding a fitted sheet like a net, and the whole stack has to come out before you can find anything.
 

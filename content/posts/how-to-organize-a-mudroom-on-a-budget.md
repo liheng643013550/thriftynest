@@ -6,8 +6,8 @@ category: organization
 type: howto
 keywords:
 - how to organize a mudroom on a budget
-description: If your front door opens into a pile of shoes, a heap of backpacks, and
-  a mountain of coats, you already know the struggle. But you don’t need a fancy...
+description: "If your front door opens into a pile of shoes, a heap of backpacks, and a mountain of coats, you already know the struggle."
+
 ---
 If your front door opens into a pile of shoes, a heap of backpacks, and a mountain of coats, you already know the struggle. But you don’t need a fancy built-in bench with custom cabinetry to fix the chaos. I’ve organized three different entryways on a tight budget, and the biggest secret is that function beats furniture every single time.
 

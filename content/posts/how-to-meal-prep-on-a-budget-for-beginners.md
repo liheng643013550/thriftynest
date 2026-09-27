@@ -6,8 +6,8 @@ category: kitchen
 type: howto
 keywords:
 - how to meal prep on a budget for beginners
-description: Meal prepping sounds like a big commitment, but it’s really just a way
-  to make your future self’s life easier. If you’re tired of throwing away wilted...
+description: "Meal prepping sounds like a big commitment, but it’s really just a way to make your future self’s life easier."
+
 ---
 Meal prepping sounds like a big commitment, but it’s really just a way to make your future self’s life easier. If you’re tired of throwing away wilted veggies or ordering takeout because you’re too tired to cook, a little planning can save you real money. This guide is about keeping things simple, affordable, and doable, even if you’ve never cooked a meal in bulk before.
 

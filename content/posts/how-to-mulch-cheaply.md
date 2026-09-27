@@ -6,8 +6,8 @@ category: garden
 type: howto
 keywords:
 - how to mulch cheaply
-description: You don’t need to spend a fortune on bagged mulch from the big-box store.
-  Landscaping supply companies charge $30 to $50 per cubic yard, and that adds...
+description: "You don’t need to spend a fortune on bagged mulch from the big-box store."
+
 ---
 You don’t need to spend a fortune on bagged mulch from the big-box store. Landscaping supply companies charge $30 to $50 per cubic yard, and that adds up fast if you have any real garden beds. The truth is, your yard, your kitchen, and even your local government are producing perfectly good mulch every single day, and most of it gets thrown away.
 

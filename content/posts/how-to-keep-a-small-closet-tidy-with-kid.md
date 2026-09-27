@@ -7,8 +7,8 @@ type: howto
 intent: howto
 keywords:
 - how to keep a small closet tidy with kids
-description: Downsizing into a smaller home with kids usually means the closet that
-  used to hold everything now has to hold everything and stay walkable. The hones...
+description: "Downsizing into a smaller home with kids usually means the closet that used to hold everything now has to hold everything and stay walkable."
+
 ---
 Downsizing into a smaller home with kids usually means the closet that used to hold everything now has to hold everything *and* stay walkable. The honest reality check: no organizer will make a small closet feel like a walk-in, and nothing stays tidy on its own for more than a few days with young kids in the house. What a modest budget (typically $40 to $150 total) can realistically buy you is a system that's fast to reset, holds up to daily use, and — this is the part people forget — uses bins, racks, and containers you can still buy replacements for two years from now.
 

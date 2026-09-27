@@ -6,8 +6,8 @@ category: organization
 type: howto
 keywords:
 - how to maximize closet space cheaply
-description: If your closet looks like a laundry basket exploded inside a tornado,
-  you don't need a fancy custom closet company to fix it. I’ve been there, staring...
+description: "If your closet looks like a laundry basket exploded inside a tornado, you don't need a fancy custom closet company to fix it."
+
 ---
 If your closet looks like a laundry basket exploded inside a tornado, you don't need a fancy custom closet company to fix it. I’ve been there, staring at a rod that’s too high, shelves that are too deep, and a floor that’s just a pile of shoes. The good news? You can double your usable space for under $50 if you’re smart about it.
 

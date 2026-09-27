@@ -7,8 +7,8 @@ type: howto
 intent: howto
 keywords:
 - how to organize a home office desk cheaply
-description: What a tight budget can and cannot buy You can absolutely get a home
-  office desk organized for under $50 in the first year, and often under $25 if you...
+description: "What a tight budget can and cannot buy You can absolutely get a home office desk organized for under $50 in the first year."
+
 ---
 ## What a tight budget can and cannot buy
 

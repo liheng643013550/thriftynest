@@ -6,7 +6,8 @@ category: organization
 type: howto
 keywords:
 - how to organize cables and cords
-description: "For years, a common media center setup has been a black hole of tangled wires hiding behind the TV stand, and every time something needs to be plugged in..."
+description: "A confession is in order. For years, the “media center” in many homes is a black hole of tangled wires hiding behind the TV stand."
+
 ---
 A confession is in order. For years, the “media center” in many homes is a black hole of tangled wires hiding behind the TV stand. Every time a phone charger needs to be plugged in, there is a nest of HDMI cables, power strips, and random USB cords that seem to multiply overnight. It is frustrating, ugly, and honestly, a little dangerous with all that dust.
 

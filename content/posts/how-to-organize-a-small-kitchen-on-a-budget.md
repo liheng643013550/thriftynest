@@ -5,7 +5,8 @@ date: 2026-08-18
 category: organization
 type: howto
 keywords: ["how to organize a small kitchen on a budget"]
-description: "Twelve cheap, practical ways to organize a small kitchen — most cost under $10, and several cost nothing at all."
+description: "A small kitchen isn't a problem to fix, it's a system to design. The good news: you don't need custom cabinetry or a renovation budget."
+
 ---
 
 A small kitchen isn't a problem to fix, it's a system to design. The good news: you don't need custom cabinetry or a renovation budget. These twelve tricks cost almost nothing and will make your small kitchen feel twice as big.

@@ -7,8 +7,8 @@ type: howto
 intent: howto
 keywords:
 - how to organize a pantry cheaply
-description: The single biggest mistake people make when organizing a pantry is buying
-  a matching set of containers before measuring anything. They come home with...
+description: "The single biggest mistake people make when organizing a pantry is buying a matching set of containers before measuring anything."
+
 ---
 The single biggest mistake people make when organizing a pantry is buying a matching set of containers before measuring anything. They come home with twelve identical canisters, discover half of them don't fit the shelf depth, and the whole project stalls. The fix costs nothing: measure first, then buy only what fits. Everything below follows that order.
 

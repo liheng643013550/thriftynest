@@ -7,8 +7,8 @@ type: howto
 intent: howto
 keywords:
 - how to keep a house warm without raising the thermostat
-description: The Biggest Mistake People Make When Trying to Stay Warm The single biggest
-  mistake is reaching for a 1,500-watt space heater as the main heat source...
+description: "The Biggest Mistake People Make When Trying to Stay Warm The single biggest mistake is reaching for a 1,500-watt space heater as the main heat source and."
+
 ---
 ## The Biggest Mistake People Make When Trying to Stay Warm
 

@@ -6,8 +6,8 @@ category: organization
 type: howto
 keywords:
 - how to organize holiday decorations cheaply
-description: 'Every January, the same scene plays out in living rooms across the country:
-  a mountain of tangled lights, crushed ornament boxes, and a spool of ribbo...'
+description: "Every January, the same scene plays out in living rooms across the country: a mountain of tangled lights, crushed ornament boxes."
+
 ---
 Every January, the same scene plays out in living rooms across the country: a mountain of tangled lights, crushed ornament boxes, and a spool of ribbon that has somehow become a knot the size of a grapefruit. You swear you will organize it next year. Next year is now. The good news is that you do not need a Pinterest-perfect craft room or a closet full of custom bins to fix this. You need a plan, a few household items, and about an hour of your time.
 

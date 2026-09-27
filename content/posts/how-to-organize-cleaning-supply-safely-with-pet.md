@@ -7,8 +7,8 @@ type: howto
 intent: howto
 keywords:
 - how to organize cleaning supplies safely with pets
-description: 'The one question that decides everything: can a pet reach it, knock
-  it over, or chew through it? If the answer is yes to any of those, the product doe...'
+description: "The one question that decides everything: can a pet reach it, knock it over, or chew through it?"
+
 ---
 The one question that decides everything: can a pet reach it, knock it over, or chew through it? If the answer is yes to any of those, the product doesn't belong there — no matter how tidy the shelf looks.
 

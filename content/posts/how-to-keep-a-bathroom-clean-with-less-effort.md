@@ -7,8 +7,8 @@ type: howto
 intent: howto
 keywords:
 - how to keep a bathroom clean with less effort
-description: The Biggest Mistake Buyers Make When Downsizing a Bathroom The single
-  biggest mistake is buying cleaning gear sized for the home you left behind. A do...
+description: "The Biggest Mistake Buyers Make When Downsizing a Bathroom The single biggest mistake is buying cleaning gear sized for the home you left behind."
+
 ---
 ## The Biggest Mistake Buyers Make When Downsizing a Bathroom
 

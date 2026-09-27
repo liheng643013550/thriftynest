@@ -7,8 +7,8 @@ type: howto
 intent: howto
 keywords:
 - how to keep weeds out of a garden bed cheaply
-description: 'If you are renting a dorm room, a student apartment, or a shared house
-  with a small backyard plot, the question that decides everything is this: how m...'
+description: "If you are renting a dorm room, a student apartment, or a shared house with a small backyard plot, the question that decides everything is this."
+
 ---
 If you are renting a dorm room, a student apartment, or a shared house with a small backyard plot, the question that decides everything is this: how much time and money are you actually willing to spend in year one, because weeds reward neglect and punish overinvestment equally.
 
