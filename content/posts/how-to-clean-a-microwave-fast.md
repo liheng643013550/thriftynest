@@ -6,8 +6,8 @@ category: cleaning
 type: howto
 keywords:
 - how to clean a microwave fast
-description: If your microwave looks like a science experiment gone wrong, you are
-  not alone. Dried-on spaghetti sauce and exploded oatmeal are the arch-nemeses of...
+description: "If your microwave looks like a science experiment gone wrong, you are not alone."
+
 ---
 If your microwave looks like a science experiment gone wrong, you are not alone. Dried-on spaghetti sauce and exploded oatmeal are the arch-nemeses of every kitchen. You don’t need harsh chemicals or a lot of elbow grease to fix it; you just need water, steam, and about five minutes of your time.
 

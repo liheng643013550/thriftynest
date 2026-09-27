@@ -6,8 +6,8 @@ category: cleaning
 type: howto
 keywords:
 - how to clean a washing machine cheaply
-description: Your washing machine works hard. Every week, it tackles muddy soccer
-  uniforms, greasy work clothes, and the mystery stain that appeared on your favori...
+description: "Your washing machine works hard. Every week, it tackles muddy soccer uniforms, greasy work clothes, and the mystery stain that appeared on your favorite shirt."
+
 ---
 Your washing machine works hard. Every week, it tackles muddy soccer uniforms, greasy work clothes, and the mystery stain that appeared on your favorite shirt. But here’s the thing nobody tells you: the machine needs a bath too. Over time, detergent scum, fabric softener residue, and hard water minerals build up inside the drum and hoses. This gunk can trap bacteria, which leads to a musty smell that clings to your "clean" clothes. You don't need a fancy $20 cleaning pod or a plumber to fix this. You probably have everything you need in your pantry right now.
 

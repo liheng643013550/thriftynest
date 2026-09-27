@@ -6,8 +6,8 @@ category: cleaning
 type: howto
 keywords:
 - how to get rid of mildew smell in laundry
-description: That sour, musty smell in your laundry is one of the most stubborn odors
-  to beat. It doesn't come from dirt—it comes from living microbes. The good ne...
+description: "That sour, musty smell in your laundry is one of the most stubborn odors to beat. It doesn't come from dirt—it comes from living microbes."
+
 ---
 That sour, musty smell in your laundry is one of the most stubborn odors to beat. It doesn't come from dirt—it comes from living microbes. The good news is that once you know where they hide, you can get rid of the smell and keep it from coming back.
 

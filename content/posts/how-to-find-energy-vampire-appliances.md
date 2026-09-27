@@ -6,8 +6,8 @@ category: energy
 type: howto
 keywords:
 - how to find energy vampire appliances
-description: You’ve probably heard the term thrown around, but let’s get specific.
-  An energy vampire isn’t a mythical creature; it’s any appliance or device that d...
+description: "You’ve probably heard the term thrown around, but let’s get specific."
+
 ---
 You’ve probably heard the term thrown around, but let’s get specific. An energy vampire isn’t a mythical creature; it’s any appliance or device that draws power even when it’s turned off or in standby mode. These silent sippers can add up to 10% of your monthly electricity bill, which is real money you could be spending on literally anything else. The good news is that finding them is a straightforward process, and slaying them is even easier.
 

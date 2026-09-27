@@ -7,8 +7,8 @@ type: howto
 intent: howto
 keywords:
 - how to grow vegetables in pots cheaply
-description: The Frustrating Reality of Small-Space Gardening You want fresh tomatoes,
-  herbs, and peppers, but you live in an apartment with a tiny balcony—or mayb...
+description: "The Frustrating Reality of Small-Space Gardening You want fresh tomatoes, herbs, and peppers."
+
 ---
 ## The Frustrating Reality of Small-Space Gardening
 

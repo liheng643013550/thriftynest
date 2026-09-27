@@ -7,8 +7,8 @@ type: howto
 intent: howto
 keywords:
 - how to clean a couch at home cheaply
-description: 'The reality check Cleaning a couch at home cheaply means working with
-  what you already own: a vacuum you may already have, a spray bottle, dish soap...'
+description: "The reality check Cleaning a couch at home cheaply means working with what you already own: a vacuum you may already have, a spray bottle, dish soap."
+
 ---
 ## The reality check
 

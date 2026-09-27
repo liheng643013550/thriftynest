@@ -6,8 +6,8 @@ category: cleaning
 type: howto
 keywords:
 - how to clean white sneakers cheaply
-description: White sneakers look great for about a day. After that, they collect scuffs,
-  dirt, and that annoying yellow tinge along the rubber sole. You could buy...
+description: "White sneakers look great for about a day. After that, they collect scuffs, dirt, and that annoying yellow tinge along the rubber sole."
+
 ---
 White sneakers look great for about a day. After that, they collect scuffs, dirt, and that annoying yellow tinge along the rubber sole. You could buy a specialty cleaner, but those cost $10 to $15 a bottle. That’s a waste of money when you already have the best cleaner sitting in your pantry: baking soda.
 

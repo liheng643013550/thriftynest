@@ -6,8 +6,8 @@ category: tools
 type: howto
 keywords:
 - how to fix a leaky faucet cheaply
-description: A dripping faucet is one of the most annoying sounds in a home, and it
-  is also quietly wasting water and money on your utility bill. The good news is...
+description: "A dripping faucet is one of the most annoying sounds in a home, and it is also quietly wasting water and money on your utility bill."
+
 ---
 A dripping faucet is one of the most annoying sounds in a home, and it is also quietly wasting water and money on your utility bill. The good news is that you do not need to call a plumber or spend a fortune on a new fixture. In most cases, you can fix the problem yourself for about five dollars and about thirty minutes of your time.
 

@@ -6,8 +6,8 @@ category: cleaning
 type: howto
 keywords:
 - how to clean windows without streaks cheaply
-description: We’ve all been there. You spend a solid hour spritzing and wiping, only
-  to step back and see a smeary, streaky mess that looks worse than when you sta...
+description: "We’ve all been there. You spend a solid hour spritzing and wiping, only to step back and see a smeary, streaky mess that looks worse than when you started."
+
 ---
 We’ve all been there. You spend a solid hour spritzing and wiping, only to step back and see a smeary, streaky mess that looks worse than when you started. The good news is that you don’t need a drawer full of specialty sprays or a professional-grade squeegee to get crystal-clear glass. In fact, the entire secret costs less than two bucks, and you probably already own most of the gear.
 

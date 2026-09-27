@@ -5,7 +5,8 @@ date: 2026-08-18
 category: home-office
 type: howto
 keywords: ["how to build a home office on $200"]
-description: "A complete home office setup for under $200: desk, chair, monitor, lighting, and accessories — with the exact parts list and what to skip."
+description: "You don't need a $1,500 standing desk and an ergonomic throne to work from home."
+
 ---
 
 You don't need a $1,500 standing desk and an ergonomic throne to work from home. A genuinely comfortable, productive home office can be built for about $200 if you spend on the three things that matter — desk, chair, and monitor — and skip everything else. Here's the exact parts list.

@@ -6,8 +6,8 @@ category: tools
 type: howto
 keywords:
 - how to build a basic tool kit cheaply
-description: Starting a tool collection can feel like a big investment, especially
-  when you see those massive sets with 300 pieces that cost as much as a weekend g...
+description: "Starting a tool collection can feel like a big investment, especially when you see those massive sets with 300 pieces that cost as much as a weekend getaway."
+
 ---
 Starting a tool collection can feel like a big investment, especially when you see those massive sets with 300 pieces that cost as much as a weekend getaway. But the truth is, you don’t need any of that to hang a picture, fix a leaky faucet, or assemble a bookshelf. Most everyday home repairs only require a handful of basic tools that will last you for years.
 

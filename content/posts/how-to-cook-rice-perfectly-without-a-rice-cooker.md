@@ -6,8 +6,8 @@ category: kitchen
 type: howto
 keywords:
 - how to cook rice perfectly without a rice cooker
-description: You don’t need a fancy gadget to make great rice. In fact, the stovetop
-  method is how most of the world does it, and it gives you total control over t...
+description: "You don’t need a fancy gadget to make great rice. In fact, the stovetop method is how most of the world does it, and it gives you total control over texture."
+
 ---
 You don’t need a fancy gadget to make great rice. In fact, the stovetop method is how most of the world does it, and it gives you total control over texture. Once you learn this simple ratio and a few timing tricks, you’ll nail fluffy, separate grains every single time.
 

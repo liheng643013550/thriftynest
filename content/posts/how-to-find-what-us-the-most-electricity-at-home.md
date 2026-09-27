@@ -7,8 +7,8 @@ type: howto
 intent: howto
 keywords:
 - how to find what uses the most electricity at home
-description: You have a 1,500-watt space heater running six hours a day, and you have
-  never once thought about it. That is the single biggest mistake people make w...
+description: "You have a 1,500-watt space heater running six hours a day, and you have never once thought about it."
+
 ---
 You have a 1,500-watt space heater running six hours a day, and you have never once thought about it. That is the single biggest mistake people make when they try to cut their electric bill: they stare at the big obvious appliances, guess, and then spend money on fixes that save almost nothing. The actual answer is almost always a boring box that turns electricity into heat.
 

@@ -6,8 +6,8 @@ category: garden
 type: howto
 keywords:
 - how to grow herbs indoors cheaply
-description: Growing herbs indoors doesn’t require a fancy greenhouse, expensive grow
-  lights, or a degree in horticulture. With a sunny windowsill and a few items...
+description: "Growing herbs indoors doesn’t require a fancy greenhouse, expensive grow lights, or a degree in horticulture."
+
 ---
 Growing herbs indoors doesn’t require a fancy greenhouse, expensive grow lights, or a degree in horticulture. With a sunny windowsill and a few items you probably already own, you can keep parsley, basil, and mint thriving for the price of a single bunch at the grocery store. This guide focuses on the cheapest, most reliable methods to get your indoor herb garden started today.
 

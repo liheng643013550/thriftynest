@@ -6,8 +6,8 @@ category: cleaning
 type: howto
 keywords:
 - how to dust a house fast
-description: Dusting is one of those chores that feels like it takes forever, but
-  with the right strategy, you can make your whole house look noticeably cleaner in...
+description: "Dusting is one of those chores that feels like it takes forever, but with the right strategy."
+
 ---
 Dusting is one of those chores that feels like it takes forever, but with the right strategy, you can make your whole house look noticeably cleaner in about ten minutes. The secret isn't buying expensive gadgets or special sprays; it’s about working from the top down and using the right tools for the job. I’m going to walk you through my exact routine that gets the job done fast, even on a busy weeknight.
 

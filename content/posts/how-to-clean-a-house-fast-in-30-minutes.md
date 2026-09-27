@@ -6,8 +6,8 @@ category: cleaning
 type: howto
 keywords:
 - how to clean a house fast in 30 minutes
-description: 'There is no way around it: sometimes you have thirty minutes until someone
-  walks through the door, and your living room looks like a laundry bomb went...'
+description: "There is no way around it: sometimes you have thirty minutes until someone walks through the door, and your living room looks like a laundry bomb went off."
+
 ---
 There is no way around it: sometimes you have thirty minutes until someone walks through the door, and your living room looks like a laundry bomb went off. You don't need a deep clean; you need a miracle sprint that makes the place look tidy, smell fresh, and feel welcoming without breaking a sweat. This is the exact 30-minute routine I use when I get a text that says "on my way," and it works every single time.
 

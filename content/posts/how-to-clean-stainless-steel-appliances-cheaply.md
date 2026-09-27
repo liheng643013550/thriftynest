@@ -6,8 +6,8 @@ category: cleaning
 type: howto
 keywords:
 - how to clean stainless steel appliances cheaply
-description: Stainless steel looks great until it doesn't. A single fingerprint on
-  a refrigerator door can make an otherwise clean kitchen look grimy, and those sm...
+description: "Stainless steel looks great until it doesn't. A single fingerprint on a refrigerator door can make an otherwise clean kitchen look grimy."
+
 ---
 Stainless steel looks great until it doesn't. A single fingerprint on a refrigerator door can make an otherwise clean kitchen look grimy, and those smudges seem to multiply every time someone touches the handle. The good news is you don't need a $15 bottle of specialty cleaner to fix it — I've been cleaning my own stainless fridge, dishwasher, and oven with stuff I already had under the sink for years, and it costs me pennies per use.
 

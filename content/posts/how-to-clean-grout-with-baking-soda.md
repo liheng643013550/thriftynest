@@ -6,8 +6,8 @@ category: cleaning
 type: howto
 keywords:
 - how to clean grout with baking soda
-description: 'Let’s be honest: grout lines are the first thing to look dirty in a
-  bathroom or kitchen, even when the tiles themselves are spotless. The porous surfa...'
+description: "Let’s be honest: grout lines are the first thing to look dirty in a bathroom or kitchen, even when the tiles themselves are spotless."
+
 ---
 Let’s be honest: grout lines are the first thing to look dirty in a bathroom or kitchen, even when the tiles themselves are spotless. The porous surface acts like a sponge, soaking up soap scum, hard water minerals, and everyday grime. Before you reach for harsh chemical cleaners or start pricing out a professional re-grouting service, there is a much cheaper solution sitting in your pantry.
 

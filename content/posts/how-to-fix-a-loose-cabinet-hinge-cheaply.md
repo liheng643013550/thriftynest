@@ -7,8 +7,8 @@ type: howto
 intent: howto
 keywords:
 - how to fix a loose cabinet hinge cheaply
-description: You open a kitchen cabinet door and it sags a little. A week later it's
-  hanging at a weird angle, the door scrapes the frame, and the screw holes feel...
+description: "You open a kitchen cabinet door and it sags a little. A week later it's hanging at a weird angle, the door scrapes the frame."
+
 ---
 You open a kitchen cabinet door and it sags a little. A week later it's hanging at a weird angle, the door scrapes the frame, and the screw holes feel soft and stripped. Every time you close it, the door shifts.
 

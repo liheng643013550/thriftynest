@@ -6,8 +6,8 @@ category: pet
 type: howto
 keywords:
 - how to entertain a cat indoors cheaply
-description: Indoor cats get bored. It’s not their fault. They have energy to burn,
-  instincts to exercise, and a whole lot of square footage that doesn’t change. W...
+description: "Indoor cats get bored. It’s not their fault. They have energy to burn, instincts to exercise, and a whole lot of square footage that doesn’t change."
+
 ---
 Indoor cats get bored. It’s not their fault. They have energy to burn, instincts to exercise, and a whole lot of square footage that doesn’t change. When boredom hits, you get scratched furniture, midnight zoomies, or a cat that won’t stop yelling at you.
 

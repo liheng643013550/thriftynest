@@ -7,8 +7,8 @@ type: howto
 intent: howto
 keywords:
 - how to clean a stainless steel sink cheaply
-description: Most people reach for steel wool or a scouring pad the moment a stainless
-  sink looks dull, and that single habit is the biggest mistake you can make...
+description: "Most people reach for steel wool or a scouring pad the moment a stainless sink looks dull, and that single habit is the biggest mistake you can make."
+
 ---
 Most people reach for steel wool or a scouring pad the moment a stainless sink looks dull, and that single habit is the biggest mistake you can make. Those abrasives scratch the surface, and scratched stainless traps dirt, water spots, and bacteria far worse than a smooth finish ever would. The good news: cleaning a stainless steel sink properly costs just a few dollars a year in supplies you probably already own.
 

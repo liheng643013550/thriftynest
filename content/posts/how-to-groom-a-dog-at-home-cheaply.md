@@ -6,8 +6,8 @@ category: pet
 type: howto
 keywords:
 - how to groom a dog at home cheaply
-description: 'If you have a dog, you know the drill: the minute they look a little
-  shaggy, the groomer’s price tag stares back at you. A basic bath and haircut can...'
+description: "If you have a dog, you know the drill: the minute they look a little shaggy, the groomer’s price tag stares back at you."
+
 ---
 If you have a dog, you know the drill: the minute they look a little shaggy, the groomer’s price tag stares back at you. A basic bath and haircut can easily run $50 to $90, and that’s before tip. For a medium or large breed, that adds up fast, especially if you visit every six to eight weeks.
 

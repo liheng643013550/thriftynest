@@ -6,8 +6,8 @@ category: cleaning
 type: howto
 keywords:
 - how to clean an oven without chemicals
-description: Opening the oven door to a crusted-on mess from last month’s lasagna
-  is never fun. The good news is that you don’t need a can of toxic foam to fix it...
+description: "Opening the oven door to a crusted-on mess from last month’s lasagna is never fun. The good news is that you don’t need a can of toxic foam to fix it."
+
 ---
 Opening the oven door to a crusted-on mess from last month’s lasagna is never fun. The good news is that you don’t need a can of toxic foam to fix it. A simple paste of baking soda and water handles the job just as well, and it costs about 50 cents per use.
 

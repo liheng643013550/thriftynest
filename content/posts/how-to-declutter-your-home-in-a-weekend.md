@@ -6,8 +6,8 @@ category: organization
 type: howto
 keywords:
 - how to declutter your home in a weekend
-description: Decluttering your whole home sounds like a tall order, but with a focused
-  plan, you can make a massive dent in just 48 hours. The goal isn't perfectio...
+description: "Decluttering your whole home sounds like a tall order, but with a focused plan, you can make a massive dent in just 48 hours."
+
 ---
 Decluttering your whole home sounds like a tall order, but with a focused plan, you can make a massive dent in just 48 hours. The goal isn't perfection; it’s to get rid of the chaos so your space feels calmer and easier to manage.
 

@@ -6,8 +6,8 @@ category: energy
 type: howto
 keywords:
 - how to cool a room without AC cheaply
-description: Summer heat is rough, and the thought of a high electric bill makes it
-  even worse. You don't need a costly window unit or a central air system to surv...
+description: "Summer heat is rough, and the thought of a high electric bill makes it even worse."
+
 ---
 Summer heat is rough, and the thought of a high electric bill makes it even worse. You don't need a costly window unit or a central air system to survive a heat wave. With a little strategy and some household items you probably already own, you can drop the temperature in your room by several degrees and actually feel comfortable again.
 
