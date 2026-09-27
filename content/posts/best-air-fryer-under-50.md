@@ -6,8 +6,8 @@ category: kitchen
 type: comparison
 keywords:
 - best air fryer under $50
-description: You don’t need to spend a hundred bucks to get crispy fries and perfectly
-  roasted veggies. The air fryer market has gotten incredibly competitive, and...
+description: "You don’t need to spend a hundred bucks to get crispy fries and perfectly roasted veggies."
+
 ---
 You don’t need to spend a hundred bucks to get crispy fries and perfectly roasted veggies. The air fryer market has gotten incredibly competitive, and some of the best budget models are shockingly good. Reviews and spec sheets cover seven models under $50 to identify the ones that cook evenly, don't scream like a jet engine, and are easy to clean.
 

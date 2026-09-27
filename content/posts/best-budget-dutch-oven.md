@@ -6,8 +6,8 @@ category: kitchen
 type: comparison
 keywords:
 - best budget dutch oven
-description: You don’t need to spend $400 to get a Dutch oven that performs like a
-  champ. For most home cooks, a budget Dutch oven does everything the expensive on...
+description: "You don’t need to spend $400 to get a Dutch oven that performs like a champ."
+
 ---
 You don’t need to spend $400 to get a Dutch oven that performs like a champ. For most home cooks, a budget Dutch oven does everything the expensive ones do: sears meat, braises tough cuts, bakes crusty bread, and goes from stovetop to oven without a fuss. The secret is knowing which materials matter, which features are worth paying for, and which brands cut corners where you won’t notice.
 

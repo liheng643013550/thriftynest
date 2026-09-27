@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best budget blender for smoothies
-description: If you want a smoothie every morning without spending $200 on a blender
-  that sits in a cabinet, the under-$50 shelf is where you should be looking. Th...
+description: "If you want a smoothie every morning without spending $200 on a blender that sits in a cabinet, the under-$50 shelf is where you should be looking."
+
 ---
 If you want a smoothie every morning without spending $200 on a blender that sits in a cabinet, the under-$50 shelf is where you should be looking. The question is whether a cheap blender will actually survive daily frozen fruit, or die in three months. The short answer: some will, most won't, and the difference comes down to motor wattage, jar material, and how hard you push them.
 

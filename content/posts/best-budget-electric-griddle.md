@@ -6,8 +6,8 @@ category: kitchen
 type: comparison
 keywords:
 - best budget electric griddle
-description: Sunday morning pancakes sound perfect until you realize your skillet
-  only fits two at a time. A budget electric griddle solves that problem by giving...
+description: "Sunday morning pancakes sound perfect until you realize your skillet only fits two at a time."
+
 ---
 Sunday morning pancakes sound perfect until you realize your skillet only fits two at a time. A budget electric griddle solves that problem by giving you a large, flat cooking surface for around thirty bucks. You get even heat, a nonstick surface, and enough room to cook breakfast for the whole family without standing over the stove for an hour.
 

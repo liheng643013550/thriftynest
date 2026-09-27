@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best budget dog grooming kit
-description: 'If you''re moving into a smaller place, the real question isn''t which
-  grooming kit has the most attachments. It''s this: how much floor space and counte...'
+description: "If you're moving into a smaller place, the real question isn't which grooming kit has the most attachments."
+
 ---
 If you're moving into a smaller place, the real question isn't which grooming kit has the most attachments. It's this: how much floor space and counter space will this thing eat, and how long will it take you every week to clean it?
 

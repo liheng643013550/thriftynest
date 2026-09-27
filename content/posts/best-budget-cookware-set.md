@@ -6,7 +6,8 @@ category: kitchen
 type: comparison
 keywords:
 - best budget cookware set
-description: "A set of pans that cooks well and survives daily life does not require spending $400, and budget sets from T-fal, Cuisinart, GreenPan, an..."
+description: "You don’t need to spend $400 to get a set of pans that cooks well and survives daily life."
+
 ---
 You don’t need to spend $400 to get a set of pans that cooks well and survives daily life. Budget sets from T-fal, Cuisinart, GreenPan, and others have been covered in reviews and spec sheets over the last few years, and the truth is that the sweet spot sits between $80 and $200. Below, what actually matters when you shop is broken down, the top contenders are compared, and exactly which set makes sense for your kitchen is explained.
 

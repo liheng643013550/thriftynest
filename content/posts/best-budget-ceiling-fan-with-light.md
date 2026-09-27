@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best budget ceiling fan with light
-description: You've just moved into your first apartment together, the living room
-  has one sad overhead bulb, and the bedroom gets stuffy by 9 p.m. You want a ceil...
+description: "You've just moved into your first apartment together, the living room has one sad overhead bulb, and the bedroom gets stuffy by 9 p.m."
+
 ---
 You've just moved into your first apartment together, the living room has one sad overhead bulb, and the bedroom gets stuffy by 9 p.m. You want a ceiling fan with a light — one fixture that moves air and lights the room — without spending $200 at a big-box store. Here's the honest math on what budget really buys, and which models are worth your money.
 

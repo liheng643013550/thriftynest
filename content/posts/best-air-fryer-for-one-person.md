@@ -6,8 +6,8 @@ category: kitchen
 type: comparison
 keywords:
 - best air fryer for one person
-description: Living alone has its perks. You answer to no one, you eat what you want,
-  and you don't have to fight over the remote. But cooking for one often feels...
+description: "Living alone has its perks. You answer to no one, you eat what you want, and you don't have to fight over the remote."
+
 ---
 Living alone has its perks. You answer to no one, you eat what you want, and you don't have to fight over the remote. But cooking for one often feels like a hassle. Firing up a full-size oven for a single chicken breast wastes energy, time, and heats up the whole kitchen. That is where a small air fryer comes in. It preheats in minutes, cooks faster than a regular oven, and uses a fraction of the electricity. The trick is finding a model that isn't too bulky, doesn't sound like a jet engine, and fits your actual budget.
 

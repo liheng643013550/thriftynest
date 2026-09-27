@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best budget grow light for herbs
-description: You've done the math on those little countertop herb kits and it doesn't
-  work. The light is weak, the basil stretches toward it and goes pale, and the...
+description: "You've done the math on those little countertop herb kits and it doesn't work."
+
 ---
 You've done the math on those little countertop herb kits and it doesn't work. The light is weak, the basil stretches toward it and goes pale, and the replacement bulbs cost more than the herbs are worth. So you start looking at "real" grow lights and find a wall of blurple panels with wattage numbers that don't mean anything and no mention of what they cost to run every month.
 

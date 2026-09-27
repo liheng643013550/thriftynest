@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best budget compost bin for a small yard
-description: The single biggest mistake people make with a small-yard compost bin
-  is buying for capacity instead of for emptying. A 37-gallon bin sounds efficient...
+description: "The single biggest mistake people make with a small-yard compost bin is buying for capacity instead of for emptying."
+
 ---
 The single biggest mistake people make with a small-yard compost bin is buying for capacity instead of for emptying. A 37-gallon bin sounds efficient until you're the one wrestling a full, wet, half-rotted load out of a narrow hatch on a Tuesday night. In a small yard you don't need volume — you need a bin you can empty, rinse, and forget about in under fifteen minutes a week.
 

@@ -6,8 +6,8 @@ category: tools
 type: comparison
 keywords:
 - best budget drill bit set
-description: Grabbing a cheap drill bit set from the checkout aisle is a gamble. You
-  get it home, try to drive a screw into a stud, and the bit twists into a usele...
+description: "Grabbing a cheap drill bit set from the checkout aisle is a gamble."
+
 ---
 Grabbing a cheap drill bit set from the checkout aisle is a gamble. You get it home, try to drive a screw into a stud, and the bit twists into a useless spiral of metal. We have all been there. It is frustrating and wasteful, but you do not need to spend a fortune to get bits that actually cut. The trick is knowing which materials, coatings, and shank types matter for the work you do around the house.
 

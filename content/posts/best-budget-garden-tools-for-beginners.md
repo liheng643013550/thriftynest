@@ -6,8 +6,8 @@ category: garden
 type: comparison
 keywords:
 - best budget garden tools for beginners
-description: Starting a garden is one of the most satisfying things you can do, but
-  the checkout aisle at the home center can be terrifying. There are hundreds of...
+description: "Starting a garden is one of the most satisfying things you can do, but the checkout aisle at the home center can be terrifying."
+
 ---
 Starting a garden is one of the most satisfying things you can do, but the checkout aisle at the home center can be terrifying. There are hundreds of tools, and the prices range from "cheap enough to break" to "more than my first car." Here is the truth: you need fewer than ten tools to build a fantastic vegetable patch or flower bed this season.
 

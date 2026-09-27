@@ -6,8 +6,8 @@ category: kitchen
 type: comparison
 keywords:
 - best air fryer toaster oven combo under $100
-description: If you are tired of your toaster burning the bagels and your air fryer
-  taking up half the counter, this article is for you. Combining both appliances...
+description: "If you are tired of your toaster burning the bagels and your air fryer taking up half the counter, this article is for you."
+
 ---
 If you are tired of your toaster burning the bagels and your air fryer taking up half the counter, this article is for you. Combining both appliances into one machine saves space and money, but finding a good one under $100 can feel like a gamble. Published specs, manufacturer statements, and aggregated owner reviews cover the best budget-friendly combo units to help you figure out which one actually earns its spot on your countertop.
 

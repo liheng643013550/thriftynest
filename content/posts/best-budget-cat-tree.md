@@ -6,8 +6,8 @@ category: pet
 type: comparison
 keywords:
 - best budget cat tree
-description: Cats love to climb. Your furniture, unfortunately, does not. If you’re
-  looking for a way to give your feline friend a high perch without spending a sm...
+description: "Cats love to climb. Your furniture, unfortunately, does not."
+
 ---
 Cats love to climb. Your furniture, unfortunately, does not. If you’re looking for a way to give your feline friend a high perch without spending a small fortune, you need a solid budget cat tree. The good news is that you don’t have to spend $150 to get something sturdy and tall. Here are the best budget cat trees under $60 that actually hold up to daily use.
 

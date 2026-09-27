@@ -7,8 +7,8 @@ type: comparison
 intent: vs
 keywords:
 - air fryer vs toaster oven for one person
-description: You are cooking for one, in a small space, probably without a real kitchen.
-  The air fryer and the toaster oven are the two countertop machines that pr...
+description: "You are cooking for one, in a small space, probably without a real kitchen."
+
 ---
 You are cooking for one, in a small space, probably without a real kitchen. The air fryer and the toaster oven are the two countertop machines that promise to replace it — and they overlap just enough to make the choice annoying. The air fryer suits fast, small, crispy batches you eat straight from the basket; the toaster oven suits anything that needs a flat surface, a rack, or a broiler element, and it usually does more jobs at once.
 

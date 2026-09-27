@@ -6,8 +6,8 @@ category: garden
 type: comparison
 keywords:
 - best budget garden hose
-description: If your old hose is a tangled, leaky mess that sprays you more than your
-  plants, you know the struggle. You don't need a fancy brass nozzle or a desig...
+description: "If your old hose is a tangled, leaky mess that sprays you more than your plants, you know the struggle."
+
 ---
 If your old hose is a tangled, leaky mess that sprays you more than your plants, you know the struggle. You don't need a fancy brass nozzle or a designer reel; you just need a hose that actually works without costing a fortune. This guide cuts through the noise to find the best budget garden hoses that deliver water where you need it, without the kinks, the leaks, or the drama.
 

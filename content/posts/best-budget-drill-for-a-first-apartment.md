@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best budget drill for a first apartment
-description: Best Budget Drills for a First Apartment in 2026 You just moved into
-  your first apartment, the walls are bare, and every shelf you own is still leanin...
+description: "Best Budget Drills for a First Apartment in 2026 You just moved into your first apartment, the walls are bare."
+
 ---
 ## Best Budget Drills for a First Apartment in 2026
 

@@ -6,8 +6,8 @@ category: garden
 type: comparison
 keywords:
 - best budget grow lights
-description: If you're starting seeds on a windowsill or trying to keep a pothos alive
-  through a dark winter, you've probably figured out that regular room light i...
+description: "If you're starting seeds on a windowsill or trying to keep a pothos alive through a dark winter."
+
 ---
 If you're starting seeds on a windowsill or trying to keep a pothos alive through a dark winter, you've probably figured out that regular room light isn't enough. The good news: you don't need to spend $150 on a pro setup. Reviews and spec sheets cover lights in the $15 to $40 range, and a few of them genuinely work. Here's what's worth considering, and what to skip.
 

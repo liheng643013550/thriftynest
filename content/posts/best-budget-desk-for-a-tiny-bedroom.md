@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best budget desk for a tiny bedroom
-description: If you're squeezing a desk into a tiny bedroom, you don't need the fanciest
-  option on the market — you need something that fits the wall, holds a lapt...
+description: "If you're squeezing a desk into a tiny bedroom, you don't need the fanciest option on the market — you need something that fits the wall."
+
 ---
 If you're squeezing a desk into a tiny bedroom, you don't need the fanciest option on the market — you need something that fits the wall, holds a laptop and a lamp, and doesn't wreck your budget. This guide focuses on one thing most reviews skip: what each desk actually costs you over the first year, not just on the day you buy it. Here's the honest picture so you can pick once and move on.
 

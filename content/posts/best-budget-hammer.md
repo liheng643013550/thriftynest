@@ -6,8 +6,8 @@ category: tools
 type: comparison
 keywords:
 - best budget hammer
-description: A good hammer is one of those tools you don't think about until you need
-  it, and when you need it, you need it to work. Whether you're hanging picture...
+description: "A good hammer is one of those tools you don't think about until you need it, and when you need it, you need it to work."
+
 ---
 A good hammer is one of those tools you don't think about until you need it, and when you need it, you need it to work. Whether you're hanging picture frames, assembling a flat-pack dresser, or tackling a small framing project, you don't need to spend a fortune to get a reliable tool. I've spent years using cheap hammers that fell apart and expensive ones that weren't worth the premium, so I've rounded up the best budget hammers that actually hold up.
 

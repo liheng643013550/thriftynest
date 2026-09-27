@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best affordable tape measure that lasts
-description: You're standing on a chair with a phone flashlight in your teeth, trying
-  to figure out whether the mini-fridge will clear the underside of the lofted...
+description: "You're standing on a chair with a phone flashlight in your teeth, trying to figure out whether the mini-fridge will clear the underside of the lofted bed."
+
 ---
 You're standing on a chair with a phone flashlight in your teeth, trying to figure out whether the mini-fridge will clear the underside of the lofted bed, and the only "tape measure" in the room is a flimsy promotional keychain one that snapped back and sliced your thumb. Or maybe you're hanging a poster and need to know if the frame actually fits the wall space between the desk and the window. A tape measure is one of those things you never think about until you need it, and in a dorm room, the cheap freebie version is almost always a disappointment: the blade flops, the lock slips, and the whole thing dies within a semester.
 
