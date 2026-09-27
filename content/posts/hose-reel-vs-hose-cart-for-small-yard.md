@@ -7,8 +7,8 @@ type: comparison
 intent: vs
 keywords:
 - hose reel vs hose cart for small yards
-description: Your landlord promised a yard. What you got is a strip of grass the size
-  of a parking space, a spigot that leaks, and a hose that spends more time as...
+description: "Your landlord promised a yard. What you got is a strip of grass the size of a parking space, a spigot that leaks."
+
 ---
 Your landlord promised a yard. What you got is a strip of grass the size of a parking space, a spigot that leaks, and a hose that spends more time as a tangled sculpture on the patio than as a tool. Every time you drag it out to water the tomatoes or rinse off the grill, you lose ten minutes to untangling and another five to coiling it back up badly. So you start looking at hose reels and hose carts, and the prices range from about $30 to well over $150, and nobody tells you what the first year actually costs.
 

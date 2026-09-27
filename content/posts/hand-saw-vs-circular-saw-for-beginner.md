@@ -7,8 +7,8 @@ type: comparison
 intent: vs
 keywords:
 - hand saw vs circular saw for beginners
-description: Setting up a first apartment usually means a short list of furniture
-  to assemble, a few shelves to hang, and maybe a wobbly IKEA dresser that needs a...
+description: "Setting up a first apartment usually means a short list of furniture to assemble, a few shelves to hang, and maybe a wobbly IKEA dresser that needs a brace."
+
 ---
 Setting up a first apartment usually means a short list of furniture to assemble, a few shelves to hang, and maybe a wobbly IKEA dresser that needs a brace. At that point, the saw question comes up fast: buy a cheap hand saw and save money, or spend more on a circular saw and save time?
 

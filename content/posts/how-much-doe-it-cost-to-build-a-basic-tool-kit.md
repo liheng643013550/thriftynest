@@ -7,8 +7,8 @@ type: howto
 intent: cost
 keywords:
 - how much does it cost to build a basic tool kit
-description: It's 7 p.m., the kitchen faucet is dripping, and the only tool in the
-  house is a butter knife you're using on a flathead screw. You don't want a works...
+description: "It's 7 p.m., the kitchen faucet is dripping, and the only tool in the house is a butter knife you're using on a flathead screw. You don't want a workshop."
+
 ---
 It's 7 p.m., the kitchen faucet is dripping, and the only tool in the house is a butter knife you're using on a flathead screw. You don't want a workshop. You want a small box that handles picture hanging, loose cabinet hinges, and the occasional IKEA rescue without a trip to the hardware store every time something wiggles.
 

@@ -6,8 +6,8 @@ category: cleaning
 type: howto
 keywords:
 - how often should you wash your bedding
-description: Washing your bedding is one of those chores that’s easy to put off. You
-  spend a third of your life in bed, but out of sight, out of mind. The truth is...
+description: "Washing your bedding is one of those chores that’s easy to put off. You spend a third of your life in bed, but out of sight, out of mind."
+
 ---
 Washing your bedding is one of those chores that’s easy to put off. You spend a third of your life in bed, but out of sight, out of mind. The truth is, your sheets collect dead skin cells, sweat, body oils, dust mites, and pet dander every single night. That buildup doesn't just make your bed less fresh; it can trigger allergies and break down the fabric faster.
 

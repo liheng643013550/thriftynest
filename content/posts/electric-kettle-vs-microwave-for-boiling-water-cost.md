@@ -7,8 +7,8 @@ type: comparison
 intent: vs
 keywords:
 - electric kettle vs microwave for boiling water cost
-description: 'For a first-time renter in a small space, the choice between an electric
-  kettle and a microwave for boiling water usually comes down to two things: ho...'
+description: "For a first-time renter in a small space, the choice between an electric kettle and a microwave for boiling water usually comes down to two things."
+
 ---
 For a first-time renter in a small space, the choice between an electric kettle and a microwave for boiling water usually comes down to two things: how much room you have, and how much noise you can get away with. An electric kettle suits anyone who wants quiet, fast, single-purpose boiling, while a microwave suits someone who needs one appliance to do many jobs and has counter space to spare. This guide weighs cost, space, cleaning, speed, noise, and versatility, with the noise question front and center because in a thin-walled apartment that is often the deciding factor.
 

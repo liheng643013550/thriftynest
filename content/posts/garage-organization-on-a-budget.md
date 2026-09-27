@@ -6,8 +6,8 @@ category: organization
 type: howto
 keywords:
 - garage organization on a budget
-description: The garage is often the most expensive room in the house to organize,
-  but it doesn’t have to be. You don’t need a custom cabinet system or a professio...
+description: "The garage is often the most expensive room in the house to organize, but it doesn’t have to be."
+
 ---
 The garage is often the most expensive room in the house to organize, but it doesn’t have to be. You don’t need a custom cabinet system or a professional designer to make your garage functional. With a little planning and some smart shopping, you can turn the chaos into a system that works, often for under a hundred bucks.
 

@@ -7,8 +7,8 @@ type: howto
 intent: cost
 keywords:
 - how much does it cost to run a slow cooker for 8 hours
-description: 'Most people who ask this question are quietly worried about two things
-  at once: the electricity bill, and whether the appliance will earn its counter...'
+description: "Most people who ask this question are quietly worried about two things at once: the electricity bill, and whether the appliance will earn its counter space."
+
 ---
 Most people who ask this question are quietly worried about two things at once: the electricity bill, and whether the appliance will earn its counter space. Here's the honest math. An 8-hour slow cooker session typically costs somewhere between 10 and 30 cents in electricity — less than a single load of laundry, less than a cup of coffee, and far less than most people assume.
 

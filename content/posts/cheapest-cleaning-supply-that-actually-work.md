@@ -7,8 +7,8 @@ type: list
 intent: list
 keywords:
 - cheapest cleaning supplies that actually work
-description: 'Eight Cheapest Cleaning Supplies That Actually Work Cheap cleaning gear
-  fails in one of two ways: it breaks, or it doesn''t clean. Sometimes it does bo...'
+description: "Eight Cheapest Cleaning Supplies That Actually Work Cheap cleaning gear fails in one of two ways: it breaks, or it doesn't clean."
+
 ---
 Eight Cheapest Cleaning Supplies That Actually Work
 

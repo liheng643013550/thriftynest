@@ -6,8 +6,8 @@ category: kitchen
 type: list
 keywords:
 - cheapest meals for a family of four
-description: 'We’ve all been there: it’s 4:30 PM, the kids are hungry, and you have
-  about $12 in your checking account until payday. Feeding four people on a tight...'
+description: "We’ve all been there: it’s 4:30 PM, the kids are hungry, and you have about $12 in your checking account until payday."
+
 ---
 We’ve all been there: it’s 4:30 PM, the kids are hungry, and you have about $12 in your checking account until payday. Feeding four people on a tight budget feels like a math problem you didn’t sign up for. But after years of feeding my own family of four on a shoestring, I can tell you that it’s totally doable. You just need a game plan and a list of reliable, cheap meals that don’t taste like punishment.
 

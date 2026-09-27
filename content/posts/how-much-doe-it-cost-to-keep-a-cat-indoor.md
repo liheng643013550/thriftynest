@@ -7,8 +7,8 @@ type: howto
 intent: cost
 keywords:
 - how much does it cost to keep a cat indoors
-description: Keeping an indoor cat in a small rental usually runs somewhere between
-  $600 and $1,400 in the first year , and $450 to $950 a year after that . The ga...
+description: "Keeping an indoor cat in a small rental usually runs somewhere between $600 and $1,400 in the first year, and $450 to $950 a year after that."
+
 ---
 Keeping an indoor cat in a small rental usually runs somewhere between **$600 and $1,400 in the first year**, and **$450 to $950 a year after that**. The gap between those two numbers is almost entirely about stuff — litter, food, a place to scratch, and one or two vet visits — not about how many square feet you have.
 

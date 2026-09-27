@@ -7,8 +7,8 @@ type: howto
 intent: cost
 keywords:
 - how much does it cost to leave a fan on all day
-description: You're a first-time renter in a small studio or one-bedroom, and the
-  fan you bought to survive summer is now the thing you're scared to leave running...
+description: "You're a first-time renter in a small studio or one-bedroom, and the fan you bought to survive summer is now the thing you're scared to leave running."
+
 ---
 You're a first-time renter in a small studio or one-bedroom, and the fan you bought to survive summer is now the thing you're scared to leave running while you're at class or asleep. The question that decides everything is simple: is this a few dollars a year, or a scary number on the electric bill? The honest answer for almost any fan you'd actually buy for a small space is that it lands somewhere between about $2 and $30 a year, and most people are closer to the low end. What follows is the real math behind that range, plus what actually breaks first on cheap fans so you're not replacing one every summer.
 

@@ -6,8 +6,8 @@ category: pet
 type: howto
 keywords:
 - cheapest way to keep your dog entertained
-description: Dogs are fantastic companions, but they can also be a handful when they’re
-  bored. A bored dog often turns into a destructive force, redecorating your...
+description: "Dogs are fantastic companions, but they can also be a handful when they’re bored."
+
 ---
 Dogs are fantastic companions, but they can also be a handful when they’re bored. A bored dog often turns into a destructive force, redecorating your couch cushions or turning your favorite shoes into chew toys. The good news is that you don’t need to drop a fortune on fancy gadgets to keep them happy; most of the best entertainment is completely free and involves things you already have around the house.
 

@@ -7,8 +7,8 @@ type: howto
 intent: cost
 keywords:
 - how much does a cleaning service cost per visit
-description: The quick answer For a standard 2-bedroom, 2-bath home, most US cleaning
-  services charge $100 to $180 per visit for a recurring clean , with a one-tim...
+description: "The quick answer For a standard 2-bedroom, 2-bath home, most US cleaning services charge $100 to $180 per visit for a recurring clean."
+
 ---
 ## The quick answer
 

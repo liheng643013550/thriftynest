@@ -5,7 +5,8 @@ date: 2026-08-18
 category: energy
 type: howto
 keywords: ["cheapest ways to save on electricity bills"]
-description: "Electricity-saving tips ranked by effort and payoff: what's free, what costs $15, and what actually moves your bill."
+description: "Most \"save money on electricity\" advice is either obvious (turn off the lights) or expensive (buy solar panels)."
+
 ---
 
 Most "save money on electricity" advice is either obvious (turn off the lights) or expensive (buy solar panels). This list is different: every tip is ranked by effort and real payoff, starting with things that cost nothing and take five minutes, and ending with the few purchases that actually earn their keep.

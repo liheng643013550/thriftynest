@@ -6,8 +6,8 @@ category: tools
 type: howto
 keywords:
 - how to assemble furniture faster
-description: Assembling flat-pack furniture is rarely anyone’s idea of a good time,
-  but a few smart habits can turn a two-hour frustration session into a 45-minute...
+description: "Assembling flat-pack furniture is rarely anyone’s idea of a good time, but a few smart habits can turn a two-hour frustration session into a 45-minute tidy job."
+
 ---
 Assembling flat-pack furniture is rarely anyone’s idea of a good time, but a few smart habits can turn a two-hour frustration session into a 45-minute tidy job. I’ve put together everything from cheap nightstands to heavy wardrobes, and these are the exact tricks I use to speed things up without stripping a single screw.
 

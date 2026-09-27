@@ -7,8 +7,8 @@ type: howto
 intent: cost
 keywords:
 - how much does it cost to run a space heater
-description: 'If you want the real number before you plug anything in, here it is:
-  most space heaters cost somewhere between 11 and 36 cents an hour to run at typic...'
+description: "If you want the real number before you plug anything in, here it is: most space heaters cost somewhere between 11 and 36 cents an hour to run at typical."
+
 ---
 If you want the real number before you plug anything in, here it is: most space heaters cost somewhere between 11 and 36 cents an hour to run at typical US electricity rates, and the honest answer is that no single figure fits everyone. Your rate, the wattage you actually use, and how long the thing runs all move that number a lot. What follows is the math, not a guess, so you can plug in your own bill and see where you land.
 

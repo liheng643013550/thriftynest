@@ -7,8 +7,8 @@ type: comparison
 intent: vs
 keywords:
 - french press vs drip coffee maker cost
-description: If you are choosing between a French press and a drip coffee maker mainly
-  because you are tired of replacing stuff that quits on you, you are asking t...
+description: "If you are choosing between a French press and a drip coffee maker mainly because you are tired of replacing stuff that quits on you."
+
 ---
 If you are choosing between a French press and a drip coffee maker mainly because you are tired of replacing stuff that quits on you, you are asking the right question. The machine that costs less on day one is not always the machine that costs less over five years. French presses suit people who want one simple object that does one job and can be repaired by hand. Drip makers suit people who want coffee ready before they are fully awake and are willing to accept that some parts wear out.
 

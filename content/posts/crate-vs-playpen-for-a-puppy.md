@@ -7,8 +7,8 @@ type: comparison
 intent: vs
 keywords:
 - crate vs playpen for a puppy
-description: The biggest mistake buyers make is setting up the wrong one first. Most
-  people buy a crate, put the puppy in it, and then discover the puppy needs a s...
+description: "The biggest mistake buyers make is setting up the wrong one first."
+
 ---
 The biggest mistake buyers make is setting up the wrong one first. Most people buy a crate, put the puppy in it, and then discover the puppy needs a safe place to move around while they cook dinner. The crate and the playpen do different jobs, and the order you set them up depends on your kitchen, your schedule, and how much time you want to spend wiping things down.
 

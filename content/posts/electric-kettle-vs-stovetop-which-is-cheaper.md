@@ -6,8 +6,8 @@ category: kitchen
 type: howto
 keywords:
 - electric kettle vs stovetop which is cheaper
-description: If you’re trying to cut costs in the kitchen, the way you heat water
-  matters more than you might think. Whether you are making your morning pour-over...
+description: "If you’re trying to cut costs in the kitchen, the way you heat water matters more than you might think."
+
 ---
 If you’re trying to cut costs in the kitchen, the way you heat water matters more than you might think. Whether you are making your morning pour-over or a quick bowl of oatmeal, the appliance you choose affects your electric bill. We did the math on the classic debate—electric kettle vs. stovetop—to see which one actually saves you money.
 

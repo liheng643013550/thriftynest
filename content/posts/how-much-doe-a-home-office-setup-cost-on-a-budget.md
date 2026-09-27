@@ -7,8 +7,8 @@ type: howto
 intent: cost
 keywords:
 - how much does a home office setup cost on a budget
-description: The quick answer For most people, a genuinely usable budget home office
-  costs between $250 and $600 upfront . The running cost is smaller than you'd t...
+description: "The quick answer For most people, a genuinely usable budget home office costs between $250 and $600 upfront."
+
 ---
 ## The quick answer
 

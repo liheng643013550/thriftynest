@@ -7,8 +7,8 @@ type: list
 intent: list
 keywords:
 - cheapest way to equip a kitchen from scratch
-description: You've just signed a lease, the boxes are stacked in the living room,
-  and it's 6 p.m. on a Tuesday. You open the kitchen cabinets and find... nothing...
+description: "You've just signed a lease, the boxes are stacked in the living room, and it's 6 p.m. on a Tuesday. You open the kitchen cabinets and find... nothing. No pot."
+
 ---
 You've just signed a lease, the boxes are stacked in the living room, and it's 6 p.m. on a Tuesday. You open the kitchen cabinets and find... nothing. No pot. No pan. No way to make dinner. And you have maybe $200 and zero interest in spending three weekends driving between six stores to save four dollars on a spatula.
 

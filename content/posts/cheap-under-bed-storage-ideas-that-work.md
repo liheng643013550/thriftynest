@@ -7,8 +7,8 @@ type: list
 intent: list
 keywords:
 - cheap under bed storage ideas that work
-description: What's the one thing that decides whether an under-bed storage idea works
-  in a first apartment? Not price, not looks — it's noise. A plastic bin that...
+description: "What's the one thing that decides whether an under-bed storage idea works in a first apartment? Not price, not looks — it's noise."
+
 ---
 What's the one thing that decides whether an under-bed storage idea works in a first apartment? Not price, not looks — it's noise. A plastic bin that scrapes across hardwood at 11 p.m. is a problem when your neighbor is asleep on the other side of a shared wall, and a lid that snaps shut like a gunshot is worse. Everything below is judged on that first, then on cost.
 

@@ -7,8 +7,8 @@ type: list
 intent: list
 keywords:
 - cheapest way to add storage to a rental kitchen
-description: Moving into a first apartment together usually means a kitchen with exactly
-  one drawer, two cabinets, and a landlord who does not want holes in the wa...
+description: "Moving into a first apartment together usually means a kitchen with exactly one drawer, two cabinets, and a landlord who does not want holes in the walls."
+
 ---
 Moving into a first apartment together usually means a kitchen with exactly one drawer, two cabinets, and a landlord who does not want holes in the walls. The good news is that the cheapest storage upgrades are also the least permanent. The bad news is that most people buy the wrong thing first.
 

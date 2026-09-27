@@ -6,8 +6,8 @@ category: home-office
 type: howto
 keywords:
 - cheapest standing desk setup
-description: If you work from home, you have probably felt that nagging ache in your
-  lower back after a long day at the kitchen table. Standing desks are the obvio...
+description: "If you work from home, you have probably felt that nagging ache in your lower back after a long day at the kitchen table."
+
 ---
 If you work from home, you have probably felt that nagging ache in your lower back after a long day at the kitchen table. Standing desks are the obvious fix, but the good news is that you do not need to spend $800 on a fancy electric frame to get the health benefits. You can build a rock-solid, adjustable standing setup for less than the cost of a nice dinner out.
 
