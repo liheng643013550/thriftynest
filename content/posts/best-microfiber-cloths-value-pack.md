@@ -6,8 +6,8 @@ category: cleaning
 type: comparison
 keywords:
 - best microfiber cloths value pack
-description: You don't need to spend a fortune to get a decent set of cleaning cloths.
-  The truth is, for general dusting, wiping counters, and tackling glass, the...
+description: "You don't need to spend a fortune to get a decent set of cleaning cloths."
+
 ---
 You don't need to spend a fortune to get a decent set of cleaning cloths. The truth is, for general dusting, wiping counters, and tackling glass, the cheapest microfiber cloths on the market often perform just as well as premium brands. This guide breaks down the best value packs so you can stock up without the sticker shock.
 

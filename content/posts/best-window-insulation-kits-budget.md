@@ -6,8 +6,8 @@ category: energy
 type: comparison
 keywords:
 - best window insulation kits budget
-description: Drafty windows can turn a cozy living room into a cold spot and send
-  your heating bill climbing. You don't need to replace your windows or hire a cont...
+description: "Drafty windows can turn a cozy living room into a cold spot and send your heating bill climbing."
+
 ---
 Drafty windows can turn a cozy living room into a cold spot and send your heating bill climbing. You don't need to replace your windows or hire a contractor to fix this. A simple window insulation kit is a fast, cheap fix that can make your home noticeably warmer in under an hour.
 

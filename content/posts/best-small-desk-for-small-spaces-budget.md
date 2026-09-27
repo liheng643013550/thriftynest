@@ -6,8 +6,8 @@ category: home-office
 type: comparison
 keywords:
 - best small desk for small spaces budget
-description: Finding a desk that fits a tiny room without emptying your wallet can
-  feel like a losing battle. You need a spot for your laptop, a coffee mug, and ma...
+description: "Finding a desk that fits a tiny room without emptying your wallet can feel like a losing battle."
+
 ---
 Finding a desk that fits a tiny room without emptying your wallet can feel like a losing battle. You need a spot for your laptop, a coffee mug, and maybe a notebook, but you don't have the square footage or the cash for a massive executive setup. I have been there, measuring gaps between doorframes and cursing the price of "compact" furniture.
 

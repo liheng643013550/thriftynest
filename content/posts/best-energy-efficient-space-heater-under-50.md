@@ -6,8 +6,8 @@ category: energy
 type: comparison
 keywords:
 - best energy efficient space heater under $50
-description: Winter is here, your living room feels like a walk-in fridge, and you
-  are dreading the heating bill. You need a quick, targeted way to warm up your sp...
+description: "Winter is here, your living room feels like a walk-in fridge, and you are dreading the heating bill."
+
 ---
 Winter is here, your living room feels like a walk-in fridge, and you are dreading the heating bill. You need a quick, targeted way to warm up your space without turning your thermostat into a money pit. The good news is that you don't need to spend a fortune on a fancy gadget to get the job done.
 

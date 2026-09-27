@@ -6,9 +6,8 @@ category: kitchen
 type: comparison
 keywords:
 - best nonstick pan under $25
-description: Okay, here is the blog article as requested. What to Look For Before
-  you click "buy," here’s what actually matters when you’re shopping on a budget.
-  I...
+description: "Okay, here is the blog article as requested. ## What to Look For Before you click \"buy,\" here’s what actually matters when you’re shopping on a budget."
+
 ---
 Okay, here is the blog article as requested.
 

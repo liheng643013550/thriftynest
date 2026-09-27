@@ -6,8 +6,8 @@ category: kitchen
 type: comparison
 keywords:
 - best rice cooker under $50
-description: If you love rice but hate watching a pot boil over, burning the bottom,
-  or ending up with gluey mush, a dedicated rice cooker is a game changer. The b...
+description: "If you love rice but hate watching a pot boil over, burning the bottom, or ending up with gluey mush, a dedicated rice cooker is a game changer. The best part?"
+
 ---
 If you love rice but hate watching a pot boil over, burning the bottom, or ending up with gluey mush, a dedicated rice cooker is a game changer. The best part? You don’t need to spend a fortune to get perfectly fluffy grains every single time. A great rice cooker under $50 can handle everything from weekday white rice to brown rice and even oatmeal, saving you time and a ton of counter-space anxiety.
 

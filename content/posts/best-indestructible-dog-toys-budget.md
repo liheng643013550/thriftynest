@@ -6,8 +6,8 @@ category: pet
 type: comparison
 keywords:
 - best indestructible dog toys budget
-description: Dogs can destroy almost anything. You know it. I know it. We have all
-  watched a “tough” toy last about four minutes before the stuffing ends up all ov...
+description: "Dogs can destroy almost anything. You know it. I know it. We have all watched a “tough” toy last about four minutes before the stuffing ends up all over."
+
 ---
 Dogs can destroy almost anything. You know it. I know it. We have all watched a “tough” toy last about four minutes before the stuffing ends up all over the living room floor.
 

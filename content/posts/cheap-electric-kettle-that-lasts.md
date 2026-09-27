@@ -6,8 +6,8 @@ category: kitchen
 type: comparison
 keywords:
 - cheap electric kettle that lasts
-description: 'A cheap electric kettle that dies in six months isn''t a bargain. If
-  you''ve already replaced one twice in two years, you know the drill: the cord frays...'
+description: "A cheap electric kettle that dies in six months isn't a bargain."
+
 ---
 A cheap electric kettle that dies in six months isn't a bargain. If you've already replaced one twice in two years, you know the drill: the cord frays, the base stops connecting, or the heating element gives up. You want hot water without paying $80 for it, and you want the thing to still work next year.
 

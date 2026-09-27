@@ -6,8 +6,8 @@ category: garden
 type: comparison
 keywords:
 - best indoor plants for low light cheap
-description: If your living room is dark and your track record with plants is spotty,
-  you probably think you can't have nice things. But you don't need a sunroom o...
+description: "If your living room is dark and your track record with plants is spotty, you probably think you can't have nice things."
+
 ---
 If your living room is dark and your track record with plants is spotty, you probably think you can't have nice things. But you don't need a sunroom or a green thumb to keep a plant alive. You just need the right plant and a realistic budget. Plenty of "easy" plants have been killed by overwatering them in a dim corner, so the species that actually thrive on neglect are the ones to stick with. Here are the best indoor plants for low light that are also cheap, usually under $20 at a big-box store or nursery.
 

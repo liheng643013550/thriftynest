@@ -6,8 +6,8 @@ category: organization
 type: comparison
 keywords:
 - best shoe racks for small spaces
-description: Your front door is a mess, and you are tired of tripping over sneakers
-  every time you walk in. You need a shoe rack that fits your space and your budg...
+description: "Your front door is a mess, and you are tired of tripping over sneakers every time you walk in."
+
 ---
 Your front door is a mess, and you are tired of tripping over sneakers every time you walk in. You need a shoe rack that fits your space and your budget without looking like an eyesore. The good news is you do not need to spend a lot to get your entryway under control, and these picks under $30 actually hold up.
 

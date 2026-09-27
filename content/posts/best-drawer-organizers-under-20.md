@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best drawer organizers under $20
-description: Moving into a smaller place is a crash course in editing your life. The
-  kitchen loses a drawer, the bathroom loses a shelf, and suddenly every spatula...
+description: "Moving into a smaller place is a crash course in editing your life."
+
 ---
 Moving into a smaller place is a crash course in editing your life. The kitchen loses a drawer, the bathroom loses a shelf, and suddenly every spatula and hair tie is fighting for the same few square inches. Drawer organizers promise to fix that, but the cheap end of the market is crowded with flimsy plastic and "one-size-fits-nothing" trays.
 

@@ -6,8 +6,8 @@ category: cleaning
 type: comparison
 keywords:
 - best stick vacuum for hardwood floors cheap
-description: 'If you have hardwood floors, you know the drill: dust, pet hair, and
-  crumbs show up instantly. A bulky upright vacuum feels like overkill, and a cordl...'
+description: "If you have hardwood floors, you know the drill: dust, pet hair, and crumbs show up instantly."
+
 ---
 If you have hardwood floors, you know the drill: dust, pet hair, and crumbs show up instantly. A bulky upright vacuum feels like overkill, and a cordless stick model with all the bells and whistles can cost as much as a used car. You just want something light, effective, and cheap.
 

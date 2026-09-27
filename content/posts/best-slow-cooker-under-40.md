@@ -6,8 +6,8 @@ category: kitchen
 type: comparison
 keywords:
 - best slow cooker under $40
-description: A slow cooker is one of the few kitchen appliances that genuinely pays
-  for itself. You can turn a $3 chuck roast into a meal that feeds a family of fo...
+description: "A slow cooker is one of the few kitchen appliances that genuinely pays for itself."
+
 ---
 A slow cooker is one of the few kitchen appliances that genuinely pays for itself. You can turn a $3 chuck roast into a meal that feeds a family of four for two days. But you don’t need to spend $100 on a smart model with a phone app to get tender, set-it-and-forget-it results. In fact, the best slow cookers under $40 do the exact same job as the premium ones: they cook low and slow for eight hours without burning your dinner.
 

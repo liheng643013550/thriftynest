@@ -6,8 +6,8 @@ category: home-office
 type: comparison
 keywords:
 - best ergonomic keyboard under $50
-description: Your wrists do a lot of work before lunchtime, let alone after a full
-  day of typing. If you are feeling that familiar ache or stiffness, you do not ne...
+description: "Your wrists do a lot of work before lunchtime, let alone after a full day of typing."
+
 ---
 Your wrists do a lot of work before lunchtime, let alone after a full day of typing. If you are feeling that familiar ache or stiffness, you do not need to spend a fortune to fix it. I have spent hours digging through specs and user reviews to find the best ergonomic keyboards under $50 that actually help.
 

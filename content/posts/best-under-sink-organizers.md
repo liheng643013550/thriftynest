@@ -6,8 +6,8 @@ category: organization
 type: comparison
 keywords:
 - best under sink organizers
-description: Your kitchen sink cabinet is prime real estate. It holds your cleaning
-  supplies, spare sponges, and that collection of plastic bags you swear you will...
+description: "Your kitchen sink cabinet is prime real estate. It holds your cleaning supplies, spare sponges."
+
 ---
 Your kitchen sink cabinet is prime real estate. It holds your cleaning supplies, spare sponges, and that collection of plastic bags you swear you will use someday. But because of the curved drainpipe and garbage disposal, this space usually turns into a black hole of clutter. You shove things in, close the door, and hope for the best.
 

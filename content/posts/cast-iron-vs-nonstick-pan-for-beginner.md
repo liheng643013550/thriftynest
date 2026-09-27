@@ -7,8 +7,8 @@ type: comparison
 intent: vs
 keywords:
 - cast iron vs nonstick pan for beginners
-description: You've just moved into a smaller place — maybe a 600-square-foot apartment,
-  a condo, or a downsized house — and you're standing in the kitchen aisle t...
+description: "You've just moved into a smaller place — maybe a 600-square-foot apartment, a condo."
+
 ---
 You've just moved into a smaller place — maybe a 600-square-foot apartment, a condo, or a downsized house — and you're standing in the kitchen aisle trying to pick one frying pan that will earn its counter space. The problem isn't that you can't cook. It's that every guide assumes you already own six pans and know what "seasoning" means. You want one pan that works, and you want to know that if a handle strips or a lid cracks in two years, you can actually replace the part instead of trashing the whole thing. That last point matters more than most buying guides admit, and it's the lens we'll use here.
 

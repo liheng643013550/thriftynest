@@ -6,8 +6,8 @@ category: kitchen
 type: list
 keywords:
 - cheap healthy snacks to meal prep
-description: Meal prepping snacks is one of the smartest ways to save money and avoid
-  the 3 p.m. vending machine trap. When you have a container of something good...
+description: "Meal prepping snacks is one of the smartest ways to save money and avoid the 3 p.m. vending machine trap."
+
 ---
 Meal prepping snacks is one of the smartest ways to save money and avoid the 3 p.m. vending machine trap. When you have a container of something good ready to grab, you are far less likely to drop five bucks on a sad, overpriced granola bar. Here are 15 cheap, healthy snack ideas you can batch out in a couple of hours this weekend.
 

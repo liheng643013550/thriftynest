@@ -6,8 +6,8 @@ category: kitchen
 type: comparison
 keywords:
 - best immersion blender under $40
-description: Soup season is here, and so is the mountain of dirty blenders. If you
-  want smooth purees, quick dressings, and frothy coffee without dropping fifty bu...
+description: "Soup season is here, and so is the mountain of dirty blenders."
+
 ---
 Soup season is here, and so is the mountain of dirty blenders. If you want smooth purees, quick dressings, and frothy coffee without dropping fifty bucks or scrubbing a giant carafe, a stick blender is the answer. Reviews and spec sheets cover a bunch of budget-friendly models, and owner reports tell you which ones actually hold up.
 
