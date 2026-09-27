@@ -7,8 +7,8 @@ type: comparison
 intent: vs
 keywords:
 - wood vs plastic cutting boards for cheap kitchens
-description: How much of your week do you actually want to spend washing and drying
-  a cutting board? That single question decides the wood-versus-plastic debate fa...
+description: "How much of your week do you actually want to spend washing and drying a cutting board?"
+
 ---
 How much of your week do you actually want to spend washing and drying a cutting board? That single question decides the wood-versus-plastic debate faster than any durability chart. If you cook a few times a week and want the cheapest board that cleans up in seconds, plastic usually wins on time and money. If you cook most days and want a board that stays put, feels good under a knife, and doesn't slide around on a wet counter, wood earns its higher price over a year or two.
 

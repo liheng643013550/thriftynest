@@ -7,8 +7,8 @@ type: howto
 intent: problem
 keywords:
 - why is my compost bin not heating up
-description: If your compost bin is sitting there cold, clumpy, and smelling like
-  a wet gym bag, don't panic. In almost every case it's one of a handful of fixable...
+description: "If your compost bin is sitting there cold, clumpy, and smelling like a wet gym bag, don't panic."
+
 ---
 If your compost bin is sitting there cold, clumpy, and smelling like a wet gym bag, don't panic. In almost every case it's one of a handful of fixable problems, and most fixes cost under $10 — often $0. Here's the honest version, written for someone composting in a dorm room or a tiny apartment, where the whole setup might live under a desk and cost less than a pizza a month.
 

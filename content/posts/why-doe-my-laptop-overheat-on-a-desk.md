@@ -7,8 +7,8 @@ type: howto
 intent: problem
 keywords:
 - why does my laptop overheat on a desk
-description: 'The biggest mistake: buying a laptop that vents from the bottom Most
-  laptops pull cool air in through vents on the underside and push hot air out the...'
+description: "The biggest mistake: buying a laptop that vents from the bottom Most laptops pull cool air in through vents on the underside and push hot air out the back."
+
 ---
 ## The biggest mistake: buying a laptop that vents from the bottom
 

@@ -7,8 +7,8 @@ type: howto
 intent: problem
 keywords:
 - why is my screw stripping every time
-description: Why does a screw strip every time I turn it? Ever turned a screwdriver
-  and watched the screw head turn to mush instead of sinking in? It's one of the...
+description: "Why does a screw strip every time I turn it? Ever turned a screwdriver and watched the screw head turn to mush instead of sinking in?"
+
 ---
 ## Why does a screw strip every time I turn it?
 

@@ -7,8 +7,8 @@ type: howto
 intent: problem
 keywords:
 - why is my wifi slow in one room
-description: Why Is My Wi-Fi Slow in One Room? Cheap Fixes to Try First If your Wi-Fi
-  crawls in exactly one room while the rest of the place streams fine, you're n...
+description: "Why Is My Wi-Fi Slow in One Room? Cheap Fixes to Try First If your Wi-Fi crawls in exactly one room while the rest of the place streams fine."
+
 ---
 ## Why Is My Wi-Fi Slow in One Room? Cheap Fixes to Try First
 

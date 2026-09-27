@@ -7,8 +7,8 @@ type: howto
 intent: problem
 keywords:
 - why does my rice cooker overflow
-description: You measure the water, press start, walk away—and ten minutes later there's
-  a starchy puddle creeping across your counter and a hissing, spitting pot...
+description: "You measure the water, press start, walk away—and ten minutes later there's a starchy puddle creeping across your counter and a hissing, spitting pot."
+
 ---
 You measure the water, press start, walk away—and ten minutes later there's a starchy puddle creeping across your counter and a hissing, spitting pot. Good news: an overflowing rice cooker is almost always a cheap fix. Most of the time it's a $0 habit problem or a $10–$20 part, not a dead appliance.
 
