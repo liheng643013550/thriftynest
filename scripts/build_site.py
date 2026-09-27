@@ -695,18 +695,57 @@ class Site:
         for p in posts:
             cat = p["meta"].get("category", "misc")
             counts[cat] = counts.get(cat, 0) + 1
+        # ★ 每个分类补"说明 + 最近 3 篇"。
+        #   为什么：这个页面原来只有名字和篇数，正文仅 772 字符，
+        #   Google 抓取后判定"太薄、不值得编入索引"（GSC: 已抓取-尚未编入索引）。
+        #   补完后它对读者是真正的导航页，对搜索引擎也不再是薄页。
+        CAT_DESC = {
+            "kitchen": "Air fryers, toaster ovens, knives and cookware that earn "
+                       "their counter space - sized and priced for a first apartment "
+                       "or a small kitchen.",
+            "organization": "Storage that actually fits small homes: under-bed, "
+                            "closet, entryway and bathroom fixes that do not need "
+                            "drilling into a rental wall.",
+            "cleaning": "Routines and supplies that get the job done without a "
+                        "cupboard full of single-purpose bottles.",
+            "home-office": "Desk setups and gear for working from a corner of a "
+                           "room, without an ergonomics budget.",
+            "pet": "Feeding, grooming and housing a cat or dog in a small space, "
+                   "for less than the vet-brand price tag.",
+            "garden": "Balcony and container growing: what survives a small "
+                      "balcony, and which tools are worth buying.",
+            "energy": "Small changes that show up on the bill - heating, lighting, "
+                      "standby power and water.",
+            "tools": "The handful of hand tools and DIY kit that covers most "
+                     "apartment repairs.",
+        }
         items = ""
         for cat, name in CATEGORY_NAMES.items():
             n = counts.get(cat, 0)
+            cposts = [p for p in posts if p["meta"].get("category") == cat]
+            cposts.sort(key=lambda x: x["meta"].get("date") or "", reverse=True)
+            picks = ""
+            for _p in cposts[:3]:
+                picks += ('<li><a href="%s">%s</a></li>'
+                          % (self.path("posts", slug_of(_p)),
+                             html.escape(_p["meta"].get("title", ""))))
             items += (
-                '<article class="card cat-%s"><h2 class="card-title"><a href="%s">%s</a></h2>'
-                '<p class="card-meta">%d guide%s</p></article>'
+                '<article class="card cat-%s">'
+                '<h2 class="card-title"><a href="%s">%s</a></h2>'
+                '<p class="card-meta">%d guide%s</p>'
+                '<p class="card-desc">%s</p>'
+                '<ul class="cat-picks">%s</ul>'
+                '<p><a href="%s">Browse all %d &rarr;</a></p>'
+                '</article>'
                 % (cat, self.path("category", cat), html.escape(name), n,
-                   "" if n == 1 else "s")
+                   "" if n == 1 else "s", CAT_DESC.get(cat, ""), picks,
+                   self.path("category", cat), n)
             )
         body = (
             '<header class="cat-head"><h1>Browse all guides</h1>'
-            '<p class="hero-sub">Every category on %s, in one place.</p></header>'
+            '<p class="hero-sub">Every category on %s, in one place. Each section '
+            'shows its most recent guides, so you can see what is new without '
+            'clicking through every page.</p></header>'
             '<section class="grid">%s</section>' % (self.name, items)
         )
         page = self.render_page(
@@ -820,18 +859,47 @@ class Site:
         )
 
         # Contact
+        # ★ 补齐联系页。原来只有 3 段（992 字符），被 Google 判为"太薄"
+        #   补的全是对读者真实有用的信息，不堆废话。
         contact = (
             "<h1>Contact</h1>"
-            "<p>Have a question, a suggestion, or found an issue on the site? We would "
-            "love to hear from you.</p>"
+            "<p>Have a question, a suggestion, or found something wrong on the "
+            "site? We would love to hear from you.</p>"
             "<p>Email is the best way to reach us: "
-            "<a href=\"mailto:liheng643013550@gmail.com\"><strong>liheng643013550&#64;gmail&#46;com</strong></a></p>"
-            "<p>We read every message and reply as soon as we can - usually within a "
-            "few days. If you are reporting a broken link, a wrong price, or a product "
-            "that no longer matches our description, please include the page address so "
-            "we can fix it faster.</p>"
-            "<p>You can also browse our guides from the <a href=\"%s\">home page</a> or "
-            "check our <a href=\"%s/categories/\">full list of categories</a>.</p>"
+            "<a href=\"mailto:liheng643013550@gmail.com\"><strong>"
+            "liheng643013550&#64;gmail&#46;com</strong></a></p>"
+            "<h2>What to write about</h2>"
+            "<ul>"
+            "<li><strong>A wrong price.</strong> Prices move constantly. If the "
+            "number in a guide no longer matches the listing, tell us and we will "
+            "update it.</li>"
+            "<li><strong>A broken link.</strong> Include the page address so we "
+            "can find it quickly.</li>"
+            "<li><strong>A product we should stop recommending.</strong> If "
+            "something has been discontinued or changed badly, we want to "
+            "know.</li>"
+            "<li><strong>A topic you want covered.</strong> Reader requests go on "
+            "a list that we work through.</li>"
+            "<li><strong>Anything that reads wrong.</strong> If a guide says "
+            "something untrue, that is the most useful email we can get.</li>"
+            "</ul>"
+            "<h2>How we handle reports</h2>"
+            "<p>Every message is read. Corrections go into the article itself "
+            "rather than a comment thread, so the next reader gets the fixed "
+            "version. When a price or a link is wrong, we re-check the listing "
+            "before changing the text.</p>"
+            "<h2>What we cannot help with</h2>"
+            "<p>We do not sell products, handle orders, or manage deliveries - "
+            "those go through the retailer. We also cannot give one-to-one buying "
+            "advice by email; for a question about a specific product, the FAQ at "
+            "the end of the relevant guide is usually the fastest answer.</p>"
+            "<h2>Response time</h2>"
+            "<p>We read every message and reply as soon as we can - usually "
+            "within a few days. This is a small operation, so thank you for your "
+            "patience.</p>"
+            "<p>You can also browse our guides from the <a href=\"%s\">home "
+            "page</a> or check our <a href=\"%s/categories/\">full list of "
+            "categories</a>.</p>"
             % (self.base, self.base)
         )
         # ★ GEO：编辑政策页。AI 判断"这条内容能不能引用"时会看有没有审核说明。
