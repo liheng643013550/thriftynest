@@ -6,8 +6,8 @@ category: home-office
 type: howto
 keywords:
 - how to set up a home office in a bedroom
-description: If you work from home but don't have a spare room, the bedroom is the
-  most common fallback. It’s also the hardest room to make work. You are asking yo...
+description: "If you work from home but don't have a spare room, the bedroom is the most common fallback. It’s also the hardest room to make work."
+
 ---
 If you work from home but don't have a spare room, the bedroom is the most common fallback. It’s also the hardest room to make work. You are asking your brain to switch from "rest mode" to "work mode" in the same four walls where you sleep. It’s doable, but you need a plan that separates the two mentally and physically without knocking down walls.
 

@@ -7,8 +7,8 @@ type: howto
 intent: howto
 keywords:
 - how to remove soap scum without harsh chemicals
-description: You know the scene. You're standing in the shower, the water's running,
-  and you look up at the glass or the tile and there it is — that cloudy, chalky...
+description: "You know the scene. You're standing in the shower, the water's running, and you look up at the glass or the tile and there it is — that cloudy."
+
 ---
 You know the scene. You're standing in the shower, the water's running, and you look up at the glass or the tile and there it is — that cloudy, chalky film that no amount of scrubbing with your hand seems to touch. So you buy the loudest bottle on the shelf, the one with the skull-and-crossbones on the back, you open a window, you hold your breath, and twenty minutes later your eyes are watering and your throat feels scratchy. And the film is *still* there in the corners.
 

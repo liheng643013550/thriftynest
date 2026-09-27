@@ -6,8 +6,8 @@ category: pet
 type: howto
 keywords:
 - how to trim dog nails at home safely
-description: Trimming your dog’s nails at home is one of the easiest ways to save
-  money and keep your pup comfortable. A trip to the groomer or vet can cost anywhe...
+description: "Trimming your dog’s nails at home is one of the easiest ways to save money and keep your pup comfortable."
+
 ---
 Trimming your dog’s nails at home is one of the easiest ways to save money and keep your pup comfortable. A trip to the groomer or vet can cost anywhere from $15 to $40, and that adds up fast if you have a dog that needs trims every few weeks. With the right tools and a calm approach, you can get this done safely in about ten minutes, even if your dog hates the process.
 

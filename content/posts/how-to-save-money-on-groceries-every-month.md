@@ -6,8 +6,8 @@ category: kitchen
 type: howto
 keywords:
 - how to save money on groceries every month
-description: 'Let’s be honest: the grocery bill is probably the most annoying line
-  in your budget. Prices fluctuate, the kids want the fancy cereal, and somehow you...'
+description: "Let’s be honest: the grocery bill is probably the most annoying line in your budget."
+
 ---
 Let’s be honest: the grocery bill is probably the most annoying line in your budget. Prices fluctuate, the kids want the fancy cereal, and somehow you always leave the store with at least three things you didn’t plan to buy. But you don’t need to clip a hundred coupons or eat rice and beans for a month to see a difference. Small, consistent tweaks to how you shop can quietly save you $50 to $100 every single month without making you miserable.
 

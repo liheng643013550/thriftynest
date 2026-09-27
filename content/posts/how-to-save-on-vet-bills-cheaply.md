@@ -6,8 +6,8 @@ category: pet
 type: howto
 keywords:
 - how to save on vet bills cheaply
-description: A sudden vet bill can feel like a punch to the gut. I remember staring
-  at a $900 estimate for my dog’s emergency surgery and feeling my stomach drop...
+description: "A sudden vet bill can feel like a punch to the gut. Many pet owners describe staring at a $900 estimate for a dog’s emergency surgery and feeling their."
+
 ---
 A sudden vet bill can feel like a punch to the gut. Many pet owners describe staring at a $900 estimate for a dog’s emergency surgery and feeling their stomach drop. The truth is, you don't have to choose between your pet's health and your rent payment.
 

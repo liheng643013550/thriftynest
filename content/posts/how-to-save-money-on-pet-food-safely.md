@@ -6,8 +6,8 @@ category: pet
 type: howto
 keywords:
 - how to save money on pet food safely
-description: We all want to give our pets the best, but the sticker shock at the pet
-  store is real. I have a 65-pound Labrador who thinks she’s a lapdog, and a 12...
+description: "We all want to give our pets the best, but the sticker shock at the pet store is real."
+
 ---
 We all want to give our pets the best, but the sticker shock at the pet store is real. I have a 65-pound Labrador who thinks she’s a lapdog, and a 12-pound rescue cat who acts like she pays the mortgage. Feeding them both well used to feel like a second grocery bill. The good news is that you can trim your pet food budget significantly without dropping to bottom-shelf kibble that’s mostly filler. It just takes a little strategy and knowing where the actual savings are hiding.
 

@@ -7,8 +7,8 @@ type: howto
 intent: howto
 keywords:
 - how to save money on potting soil
-description: Moving into a smaller place usually means fewer shelves, less storage,
-  and a hard look at what you're actually spending to keep a few plants alive. Po...
+description: "Moving into a smaller place usually means fewer shelves, less storage, and a hard look at what you're actually spending to keep a few plants alive."
+
 ---
 Moving into a smaller place usually means fewer shelves, less storage, and a hard look at what you're actually spending to keep a few plants alive. Potting soil is one of those quiet costs — a bag here, a bag there, and suddenly you've spent more on dirt than on the plants. The good news is that making your own mix is one of the few garden chores that saves real money from the very first batch.
 

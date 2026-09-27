@@ -6,8 +6,8 @@ category: cleaning
 type: howto
 keywords:
 - how to remove pet hair from furniture cheaply
-description: We all love our pets, but we don’t love the layer of fur they leave behind
-  on our sofas and armchairs. Buying a fancy, high-powered pet hair vacuum ca...
+description: "Pet owners love their pets, but not the layer of fur they leave behind on sofas and armchairs."
+
 ---
 Pet owners love their pets, but not the layer of fur they leave behind on sofas and armchairs. Buying a fancy, high-powered pet hair vacuum can set you back $300 or more, which feels like a lot when the goal is just keeping the couch presentable. The good news is that a few effective tools may already be in the home, and the ones that actually work best cost less than a morning coffee run. These methods have been tried on everything from microfiber to velvet, and these are the cheap tricks that genuinely get the hair out.
 

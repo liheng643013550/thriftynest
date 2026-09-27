@@ -6,8 +6,8 @@ category: garden
 type: howto
 keywords:
 - how to water plants while on vacation cheaply
-description: Leaving town for a week shouldn't mean coming home to a pot of crispy,
-  brown twigs. For years, I assumed my only options were begging a neighbor to co...
+description: "Leaving town for a week shouldn't mean coming home to a pot of crispy, brown twigs."
+
 ---
 Leaving town for a week shouldn't mean coming home to a pot of crispy, brown twigs. For years, I assumed my only options were begging a neighbor to come by or spending a small fortune on a fancy irrigation system. Both felt like a hassle, and honestly, I felt awkward asking someone to haul my watering can around.
 

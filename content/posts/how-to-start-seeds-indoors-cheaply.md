@@ -6,8 +6,8 @@ category: garden
 type: howto
 keywords:
 - how to start seeds indoors cheaply
-description: Starting seeds indoors sounds like a hobby for people with grow lights,
-  heat mats, and a spare bedroom. It isn't. I've started tomatoes, peppers, basi...
+description: "Starting seeds indoors sounds like a hobby for people with grow lights, heat mats, and a spare bedroom. It isn't."
+
 ---
 Starting seeds indoors sounds like a hobby for people with grow lights, heat mats, and a spare bedroom. It isn't. I've started tomatoes, peppers, basil, and marigolds on a $12 setup that lived on top of my refrigerator for six weeks. Here's how to do it without buying things you'll use once and store forever.
 

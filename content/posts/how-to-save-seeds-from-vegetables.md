@@ -6,8 +6,8 @@ category: garden
 type: howto
 keywords:
 - how to save seeds from vegetables
-description: If you’ve ever bought a packet of seeds for $3.99 and watched it turn
-  into forty dollars’ worth of tomatoes, you already know the magic. Saving seeds...
+description: "If you’ve ever bought a packet of seeds for $3.99 and watched it turn into forty dollars’ worth of tomatoes, you already know the magic."
+
 ---
 If you’ve ever bought a packet of seeds for $3.99 and watched it turn into forty dollars’ worth of tomatoes, you already know the magic. Saving seeds is the next step, and it’s honestly one of the most satisfying things you can do in the garden. It takes a little patience, but the payoff is free plants, year after year, that are perfectly adapted to your own backyard.
 

@@ -6,8 +6,8 @@ category: kitchen
 type: howto
 keywords:
 - how to stock a budget pantry
-description: Starting a pantry from scratch feels expensive, but it doesn’t have to
-  be. With a little planning, you can build a versatile foundation of staples tha...
+description: "Starting a pantry from scratch feels expensive, but it doesn’t have to be."
+
 ---
 Starting a pantry from scratch feels expensive, but it doesn’t have to be. With a little planning, you can build a versatile foundation of staples that will carry you through dozens of meals for about one hundred dollars. This guide breaks down exactly what to buy, why it works, and how to stretch every dollar without sacrificing flavor.
 

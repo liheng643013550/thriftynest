@@ -7,8 +7,8 @@ type: howto
 intent: howto
 keywords:
 - how to sharpen kitchen knives without a sharpener
-description: You're mid-recipe, the onion is fighting back, and the knife is skating
-  across the skin instead of biting in. You press harder. It slips. Now you're s...
+description: "You're mid-recipe, the onion is fighting back, and the knife is skating across the skin instead of biting in. You press harder. It slips."
+
 ---
 You're mid-recipe, the onion is fighting back, and the knife is skating across the skin instead of biting in. You press harder. It slips. Now you're sawing at a tomato like it's a piece of firewood, and the thought of driving to a store or waiting two days for a sharpener to ship is genuinely exhausting. Here's the good news: you almost certainly already own everything you need to put a working edge back on that blade in about ten minutes.
 

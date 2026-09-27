@@ -6,8 +6,8 @@ category: kitchen
 type: howto
 keywords:
 - how to reduce food waste at home
-description: The average American family tosses out around $1,500 worth of food every
-  single year. That’s not just a waste of groceries; it’s basically throwing ca...
+description: "The average American family tosses out around $1,500 worth of food every single year."
+
 ---
 The average American family tosses out around $1,500 worth of food every single year. That’s not just a waste of groceries; it’s basically throwing cash directly into the landfill. A common complaint among home cooks is buying bags of spinach that turned to slime and herbs that wilted into sad little piles before the container was even opened. After a few too many painful grocery receipts, the decision to get serious is a familiar one. Household food waste can be cut by at least 75% over the last few years, and the savings add up to roughly $100 a month. It isn’t about being perfect or turning into a hardcore homesteader. It’s about a handful of simple systems that make it easier to actually eat what you buy.
 

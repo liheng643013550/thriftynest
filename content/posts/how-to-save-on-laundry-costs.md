@@ -6,8 +6,8 @@ category: energy
 type: howto
 keywords:
 - how to save on laundry costs
-description: The average American family does about 300 loads of laundry every year.
-  When you add up the electricity for the washer and dryer, the water heater, th...
+description: "The average American family does about 300 loads of laundry every year."
+
 ---
 The average American family does about 300 loads of laundry every year. When you add up the electricity for the washer and dryer, the water heater, the detergent, and the water itself, that routine chore can easily cost you over $300 annually. It doesn’t sound like much until you see it as a lump sum, and honestly, most of that money is being flushed down the drain through simple inefficiencies. I’ve trimmed my own laundry bill by nearly 40% just by changing a few habits, and you can do the same without buying expensive gadgets.
 

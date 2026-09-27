@@ -7,8 +7,8 @@ type: howto
 intent: howto
 keywords:
 - how to water plants cheaply while away
-description: A Reality Check Before You Spend Anything If you're heading out of town
-  for a week or two, you don't need to spend $150 on a smart irrigation system f...
+description: "A Reality Check Before You Spend Anything If you're heading out of town for a week or two."
+
 ---
 ## A Reality Check Before You Spend Anything
 

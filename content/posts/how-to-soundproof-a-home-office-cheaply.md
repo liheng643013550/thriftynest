@@ -6,8 +6,8 @@ category: home-office
 type: howto
 keywords:
 - how to soundproof a home office cheaply
-description: If you work from home, you know the struggle. The neighbor’s dog, the
-  garbage truck, or the sound of your partner blending a smoothie can derail a dee...
+description: "If you work from home, you know the struggle. The neighbor’s dog, the garbage truck."
+
 ---
 If you work from home, you know the struggle. The neighbor’s dog, the garbage truck, or the sound of your partner blending a smoothie can derail a deep-focus session in seconds. But you don’t need to spend a fortune on acoustic foam panels or a studio renovation to get some peace. I’ve soundproofed my own 10x10 home office on a strict budget, and these are the ten real fixes that actually worked for me.
 

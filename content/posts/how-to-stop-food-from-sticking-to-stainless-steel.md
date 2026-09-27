@@ -7,8 +7,8 @@ type: howto
 intent: howto
 keywords:
 - how to stop food from sticking to stainless steel
-description: Stainless steel is the pan you keep for twenty years, but it's also the
-  pan that grabs your scrambled eggs and refuses to let go. That frustration alm...
+description: "Stainless steel is the pan you keep for twenty years, but it's also the pan that grabs your scrambled eggs and refuses to let go."
+
 ---
 Stainless steel is the pan you keep for twenty years, but it's also the pan that grabs your scrambled eggs and refuses to let go. That frustration almost always comes down to heat and timing, not a defective pan. Get those two things right and stainless becomes the most reliable piece of cookware in your kitchen.
 

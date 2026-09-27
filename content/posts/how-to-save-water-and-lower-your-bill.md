@@ -7,8 +7,8 @@ type: howto
 intent: howto
 keywords:
 - how to save water and lower your bill
-description: You know the feeling. It's the 28th of the month, you've been cooking
-  at home every single night to save money, and the water bill shows up higher tha...
+description: "You know the feeling. It's the 28th of the month, you've been cooking at home every single night to save money."
+
 ---
 You know the feeling. It's the 28th of the month, you've been cooking at home every single night to save money, and the water bill shows up higher than it was when you were eating out three times a week. Nothing changed. You didn't take longer showers. But somewhere between rinsing vegetables, boiling pasta, and running the dishwasher twice a day, water quietly became one of your biggest variable costs.
 

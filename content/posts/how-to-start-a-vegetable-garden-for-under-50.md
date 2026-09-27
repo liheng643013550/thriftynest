@@ -6,8 +6,8 @@ category: garden
 type: howto
 keywords:
 - how to start a vegetable garden for under $50
-description: Starting a vegetable garden feels like one of those things that should
-  be expensive. Between raised beds, fancy tools, and a truckload of seedlings, t...
+description: "Starting a vegetable garden feels like one of those things that should be expensive."
+
 ---
 Starting a vegetable garden feels like one of those things that should be expensive. Between raised beds, fancy tools, and a truckload of seedlings, the costs add up fast. But it doesn't have to be that way.
 

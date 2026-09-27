@@ -6,8 +6,8 @@ category: cleaning
 type: howto
 keywords:
 - how to remove hard water stains cheaply
-description: If you live anywhere with hard water, you know the frustration of spotting
-  cloudy, white, or even rust-colored stains on your shower doors and bathroo...
+description: "If you live anywhere with hard water, you know the frustration of spotting cloudy, white, or even rust-colored stains on your shower doors and bathroom mirrors."
+
 ---
 If you live anywhere with hard water, you know the frustration of spotting cloudy, white, or even rust-colored stains on your shower doors and bathroom mirrors. These aren't just dirt; they are mineral deposits like calcium and magnesium that have baked onto the glass. While commercial cleaners promise miracles, they often cost a small fortune. The good news? The cheapest, most effective solution is probably already sitting in your kitchen pantry.
 

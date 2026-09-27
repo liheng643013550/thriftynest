@@ -7,8 +7,8 @@ type: howto
 intent: howto
 keywords:
 - how to take better video calls without a ring light
-description: The biggest mistake people make They buy a ring light first. A ring light
-  is a light. It does one job, and it does it while drawing power from a wall...
+description: "The biggest mistake people make They buy a ring light first. A ring light is a light."
+
 ---
 ## The biggest mistake people make
 

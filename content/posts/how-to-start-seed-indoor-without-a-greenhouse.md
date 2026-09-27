@@ -7,8 +7,8 @@ type: howto
 intent: howto
 keywords:
 - how to start seeds indoors without a greenhouse
-description: It's the middle of February, the seed catalogs have been sitting on your
-  kitchen table for three weeks, and every packet of tomatoes and peppers you b...
+description: "It's the middle of February, the seed catalogs have been sitting on your kitchen table for three weeks."
+
 ---
 It's the middle of February, the seed catalogs have been sitting on your kitchen table for three weeks, and every packet of tomatoes and peppers you bought is still sealed. You don't have a greenhouse, you don't have a sunny south-facing window worth bragging about, and you're not about to spend $60 on a grow tent setup when the grocery budget is already tight. Here's the good news: starting seeds indoors without a greenhouse is mostly about light, warmth, moisture, and timing — and you can do all four on a card table.
 

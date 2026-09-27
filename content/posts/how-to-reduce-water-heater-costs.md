@@ -6,8 +6,8 @@ category: energy
 type: howto
 keywords:
 - how to reduce water heater costs
-description: Most households don't think about their water heater until it breaks
-  or the utility bill spikes. But heating water is typically the second-biggest ene...
+description: "Most households don't think about their water heater until it breaks or the utility bill spikes."
+
 ---
 Most households don't think about their water heater until it breaks or the utility bill spikes. But heating water is typically the second-biggest energy expense in a home, behind only heating and cooling. The good news is that you can cut that cost without buying a new water heater or taking cold showers.
 

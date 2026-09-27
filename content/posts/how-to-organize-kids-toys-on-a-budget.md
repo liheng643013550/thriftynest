@@ -6,8 +6,8 @@ category: organization
 type: howto
 keywords:
 - how to organize kids toys on a budget
-description: 'Most families don''t have a toy problem — they have a storage problem.
-  The toys multiply quietly: birthday party favors, happy meal prizes, a bin of bl...'
+description: "Most families don't have a toy problem — they have a storage problem."
+
 ---
 Most families don't have a toy problem — they have a storage problem. The toys multiply quietly: birthday party favors, happy meal prizes, a bin of blocks that hasn't been opened since March. After years of stepping on LEGO bricks in a typical household, the lesson from parent accounts is that the fix isn't buying a fancy playroom system. It's a handful of cheap containers, a simple sorting routine, and rules kids can actually follow without a parent standing over them.
 
