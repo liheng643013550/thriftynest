@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best cheap window insulation kit
-description: 'The one question that decides everything with cheap window insulation
-  kits is this: does the kit cut noise as well as cold, or does it just stop the d...'
+description: "The one question that decides everything with cheap window insulation kits is this: does the kit cut noise as well as cold, or does it just stop the draft?"
+
 ---
 The one question that decides everything with cheap window insulation kits is this: does the kit cut noise as well as cold, or does it just stop the draft? For a couple in a first apartment, that matters more than the price tag. You want a warmer room at night without turning your bedroom into a sealed box that keeps every footstep from the hallway echoing inside.
 

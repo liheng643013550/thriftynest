@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best cheap tape measure
-description: You just signed a lease on a studio or a small one-bedroom, and you're
-  staring at a blank wall where a shelf, a curtain rod, or a picture frame needs...
+description: "You just signed a lease on a studio or a small one-bedroom, and you're staring at a blank wall where a shelf, a curtain rod, or a picture frame needs to go."
+
 ---
 You just signed a lease on a studio or a small one-bedroom, and you're staring at a blank wall where a shelf, a curtain rod, or a picture frame needs to go. You don't own a tape measure. You borrow one from a neighbor, or you guess, and you guess wrong, and now there's an extra hole in the drywall that you'll have to patch before move-out. A tape measure is the cheapest tool you can own that prevents the most expensive mistakes, and you don't need to spend much to get one that lasts years.
 

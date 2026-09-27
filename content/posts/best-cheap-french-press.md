@@ -6,8 +6,8 @@ category: kitchen
 type: comparison
 keywords:
 - best cheap french press
-description: A good cup of French press coffee doesn't need to cost a fortune. You
-  can get rich, full-bodied coffee with a simple, well-made press for under $25. T...
+description: "A good cup of French press coffee doesn't need to cost a fortune. You can get rich, full-bodied coffee with a simple, well-made press for under $25."
+
 ---
 A good cup of French press coffee doesn't need to cost a fortune. You can get rich, full-bodied coffee with a simple, well-made press for under $25. This guide covers the best cheap French presses that actually brew well and hold up over time, so you can skip the expensive models and keep your money for the beans.
 

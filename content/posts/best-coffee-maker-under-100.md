@@ -6,8 +6,8 @@ category: kitchen
 type: comparison
 keywords:
 - best coffee maker under $100
-description: You do not need to spend $200 to get a good cup of coffee at home. The
-  trick is knowing which features actually matter in a budget machine, and which...
+description: "You do not need to spend $200 to get a good cup of coffee at home."
+
 ---
 You do not need to spend $200 to get a good cup of coffee at home. The trick is knowing which features actually matter in a budget machine, and which ones are just marketing. Published reviews and owner reports cover more than a dozen coffee makers under $100 over the past few years, and these five are the ones reviewers keep recommending to friends and family.
 

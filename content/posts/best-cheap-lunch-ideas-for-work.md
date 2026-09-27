@@ -6,8 +6,8 @@ category: kitchen
 type: list
 keywords:
 - best cheap lunch ideas for work
-description: If you’re tired of spending $12 to $15 on a sad desk salad or a soggy
-  sandwich, you’re not alone. Packing your lunch is the single easiest way to cut...
+description: "If you’re tired of spending $12 to $15 on a sad desk salad or a soggy sandwich, you’re not alone."
+
 ---
 If you’re tired of spending $12 to $15 on a sad desk salad or a soggy sandwich, you’re not alone. Packing your lunch is the single easiest way to cut your weekly food budget, but it only works if the food actually sounds good at 11:30 AM. Here are 12 cheap lunch ideas for work that don’t require a microwave, so you can save money and skip the office kitchen line.
 

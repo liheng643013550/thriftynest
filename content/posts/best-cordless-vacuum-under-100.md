@@ -6,8 +6,8 @@ category: cleaning
 type: comparison
 keywords:
 - best cordless vacuum under $100
-description: Finding a cordless vacuum that actually cleans for under $100 feels impossible.
-  Most cheap stick vacs die after five minutes, barely pick up crumbs, o...
+description: "Finding a cordless vacuum that actually cleans for under $100 feels impossible."
+
 ---
 Finding a cordless vacuum that actually cleans for under $100 feels impossible. Most cheap stick vacs die after five minutes, barely pick up crumbs, or fall apart in a month. But the market has changed a lot over the last year. Published reviews and spec sheets cover 14 budget models on carpet, hard floors, pet hair, and around baseboards to identify the ones that genuinely work without breaking the bank.
 

@@ -7,9 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best cheap pruning tools for small gardens
-description: Downsizing to a smaller home usually means a smaller yard, a smaller
-  shed, and a much smaller tolerance for gear that costs more than it gives back.
-  I...
+description: "Downsizing to a smaller home usually means a smaller yard, a smaller shed, and a much smaller tolerance for gear that costs more than it gives back."
+
 ---
 Downsizing to a smaller home usually means a smaller yard, a smaller shed, and a much smaller tolerance for gear that costs more than it gives back. If you're starting fresh on a compact lot, the real question isn't which pruner is "best" in a vacuum. It's which handful of tools gets you through a full year of trimming for the least total money.
 

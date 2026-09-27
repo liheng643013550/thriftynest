@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best cheap knife for a small kitchen
-description: The best cheap knife for a small kitchen is the one you'll actually use
-  every day — not a block set that eats half your counter. If you're renting you...
+description: "The best cheap knife for a small kitchen is the one you'll actually use every day — not a block set that eats half your counter."
+
 ---
 The best cheap knife for a small kitchen is the one you'll actually use every day — not a block set that eats half your counter. If you're renting your first place and cooking on a 24-inch stretch of counter, you need one knife that holds an edge, feels safe in your hand, and doesn't cost more than a week of groceries.
 

@@ -6,8 +6,8 @@ category: cleaning
 type: comparison
 keywords:
 - best cheap robot vacuum under $150
-description: You don’t need to spend $800 on a robot vacuum to keep your floors presentable.
-  The market has changed a lot, and you can now grab a solid, reliable m...
+description: "You don’t need to spend $800 on a robot vacuum to keep your floors presentable."
+
 ---
 You don’t need to spend $800 on a robot vacuum to keep your floors presentable. The market has changed a lot, and you can now grab a solid, reliable model for under $150. The catch is knowing which features actually matter at this price point and which ones are just marketing fluff.
 

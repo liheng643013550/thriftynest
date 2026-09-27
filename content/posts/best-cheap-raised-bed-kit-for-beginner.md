@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best cheap raised bed kit for beginners
-description: You have a sunny balcony, a tiny patio, or a strip of concrete outside
-  a first apartment, and you want to grow something real. You buy a bag of soil...
+description: "You have a sunny balcony, a tiny patio, or a strip of concrete outside a first apartment, and you want to grow something real."
+
 ---
 You have a sunny balcony, a tiny patio, or a strip of concrete outside a first apartment, and you want to grow something real. You buy a bag of soil, a few seedlings, and a cheap raised bed kit. Two weeks later the soil is bone dry, the frame has bowed, and you have spent more time fighting the setup than watering it. A bad kit turns a relaxing hobby into a weekly chore. A good one mostly stays out of your way.
 

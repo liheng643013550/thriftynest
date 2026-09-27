@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best cheap mop for tile floors
-description: Best Cheap Mops for Tile Floors in 2026 Tile is one of the most forgiving
-  floors you can own — until you have to clean it. Grout lines trap grit, text...
+description: "Best Cheap Mops for Tile Floors in 2026 Tile is one of the most forgiving floors you can own — until you have to clean it."
+
 ---
 ## Best Cheap Mops for Tile Floors in 2026
 

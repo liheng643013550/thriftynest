@@ -6,8 +6,8 @@ category: kitchen
 type: howto
 keywords:
 - best cheap stand mixer alternatives
-description: A stand mixer is one of those kitchen tools that feels essential until
-  you see the price tag. A new KitchenAid Artisan runs about $450, and even the e...
+description: "A stand mixer is one of those kitchen tools that feels essential until you see the price tag."
+
 ---
 A stand mixer is one of those kitchen tools that feels essential until you see the price tag. A new KitchenAid Artisan runs about $450, and even the entry-level Classic Plus hovers around $250. If you bake occasionally and don't want to drop that kind of money, you have options.
 

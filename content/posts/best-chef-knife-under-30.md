@@ -6,8 +6,8 @@ category: kitchen
 type: comparison
 keywords:
 - best chef knife under $30
-description: 'A buying guide to chef knives under $30: blade steel, full tang, handle comfort,
-  weight and sharpening. Includes a comparison table and a top overall pick.'
+description: "A common assumption holds that a $100 chef’s knife is the only thing standing between a cook and culinary greatness."
+
 ---
 A common assumption holds that a $100 chef’s knife is the only thing standing between a cook and culinary greatness. Then a move, a fancy blade lost in the chaos, and three months of making do with a $25 stopgap. That cheap knife changes minds. It chops onions, slices chicken, and minces garlic without a single complaint. It turns out you do not need to spend a fortune to get a blade that feels good in the hand and stays sharp through a busy week of cooking.
 

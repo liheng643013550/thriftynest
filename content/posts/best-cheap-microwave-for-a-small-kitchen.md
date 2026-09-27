@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best cheap microwave for a small kitchen
-description: It's 11 p.m., you're hungry, and the only "kitchen" you have is a two-foot
-  stretch of dorm desk next to your laptop. You want hot leftovers, popcorn...
+description: "It's 11 p.m., you're hungry, and the only \"kitchen\" you have is a two-foot stretch of dorm desk next to your laptop."
+
 ---
 It's 11 p.m., you're hungry, and the only "kitchen" you have is a two-foot stretch of dorm desk next to your laptop. You want hot leftovers, popcorn, or a mug of ramen — not a machine that hogs your whole countertop or trips the outlet every time you run it. A cheap microwave that actually fits a small space solves that problem, and this guide is about finding the one that fits yours.
 

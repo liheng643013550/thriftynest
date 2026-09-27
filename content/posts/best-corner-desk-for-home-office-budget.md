@@ -6,8 +6,8 @@ category: home-office
 type: comparison
 keywords:
 - best corner desk for home office budget
-description: Working from home usually means working from the kitchen table, the couch,
-  or a cramped corner of the bedroom. If you are short on square footage, a s...
+description: "Working from home usually means working from the kitchen table, the couch, or a cramped corner of the bedroom."
+
 ---
 Working from home usually means working from the kitchen table, the couch, or a cramped corner of the bedroom. If you are short on square footage, a standard rectangular desk often eats up too much floor space and leaves your walls looking empty. A corner desk fixes that by turning dead space into a proper workstation. The trick is finding one that is sturdy, fits your gear, and does not cost more than your weekly grocery bill.
 

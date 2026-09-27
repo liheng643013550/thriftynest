@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best cheap storage bins for closets
-description: You've got a closet the size of a phone booth, a lease that says no holes
-  in the walls, and a growing pile of stuff that has nowhere to go. Every "sto...
+description: "You've got a closet the size of a phone booth, a lease that says no holes in the walls, and a growing pile of stuff that has nowhere to go."
+
 ---
 You've got a closet the size of a phone booth, a lease that says no holes in the walls, and a growing pile of stuff that has nowhere to go. Every "storage solution" you look at costs more than your monthly coffee budget, and half of them look like they belong in a hospital supply room. The good news: cheap bins that don't look like cheap bins do exist, and if you pick right the first time, you won't be rebuying them in eight months.
 

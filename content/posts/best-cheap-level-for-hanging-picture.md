@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best cheap level for hanging pictures
-description: You have maybe four feet of wall space, a stack of framed photos still
-  in the moving box, and a lease that says you can't put holes just anywhere. You...
+description: "You have maybe four feet of wall space, a stack of framed photos still in the moving box, and a lease that says you can't put holes just anywhere."
+
 ---
 You have maybe four feet of wall space, a stack of framed photos still in the moving box, and a lease that says you can't put holes just anywhere. You hold a picture up, eyeball it, and it looks straight — until you step back and see it's an inch low on one side. So you tap a new nail, and now there are two holes and the frame still hangs crooked.
 

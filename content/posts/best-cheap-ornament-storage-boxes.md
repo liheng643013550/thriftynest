@@ -6,8 +6,8 @@ category: organization
 type: comparison
 keywords:
 - best cheap ornament storage boxes
-description: Opening the closet where I keep my holiday decorations is always a little
-  stressful. I’ve got a mix of cheap plastic totes and old shoeboxes, and ever...
+description: "Opening the closet where holiday decorations are kept is always a little stressful."
+
 ---
 Opening the closet where holiday decorations are kept is always a little stressful. There’s a mix of cheap plastic totes and old shoeboxes, and every year the hope is that the glass ornaments bought for $2 at a post-Christmas sale survived the summer. Last year, three were lost. Three! That was the final straw.
 

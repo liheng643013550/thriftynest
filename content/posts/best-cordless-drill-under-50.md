@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best cordless drill under $50
-description: If you're shopping for a cordless drill under $50, you're probably not
-  chasing bragging rights — you want a tool that drives a shelf bracket without s...
+description: "If you're shopping for a cordless drill under $50, you're probably not chasing bragging rights — you want a tool that drives a shelf bracket without."
+
 ---
 If you're shopping for a cordless drill under $50, you're probably not chasing bragging rights — you want a tool that drives a shelf bracket without stripping the screw, and you don't want to replace it next spring. Here's the honest version of what that budget buys, with a hard look at one spec most reviews ignore: how loud the thing is when you pull the trigger at 9 p.m.
 

@@ -6,8 +6,8 @@ category: tools
 type: comparison
 keywords:
 - best cheap screwdriver set
-description: You don't need to spend $40 on a screwdriver set to fix a loose cabinet
-  hinge or open up a laptop. But you do need one that won't strip screws or fall...
+description: "You don't need to spend $40 on a screwdriver set to fix a loose cabinet hinge or open up a laptop."
+
 ---
 You don't need to spend $40 on a screwdriver set to fix a loose cabinet hinge or open up a laptop. But you do need one that won't strip screws or fall apart on the second use. Plenty of cheap sets get bought over the years, and the difference between a good $12 set and a bad $12 set comes down to a few small details.
 

@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best cheap squeegee for shower glass
-description: The single biggest mistake buyers make with cheap shower squeegees is
-  judging the blade. Everyone squeezes the rubber in the store, decides it feels s...
+description: "The single biggest mistake buyers make with cheap shower squeegees is judging the blade."
+
 ---
 The single biggest mistake buyers make with cheap shower squeegees is judging the blade. Everyone squeezes the rubber in the store, decides it feels soft enough, and buys it. Then the thing dies in three months — and it's almost never the blade that failed. It's the handle joint, the suction hook, or the rubber going stiff and brittle because it sat in a hot, wet shower. If you want a squeegee that survives, shop for the parts that break, not the part you can feel.
 

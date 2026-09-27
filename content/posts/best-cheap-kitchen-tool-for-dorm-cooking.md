@@ -7,8 +7,8 @@ type: comparison
 intent: comparison
 keywords:
 - best cheap kitchen tools for dorm cooking
-description: 'The question that decides everything for dorm cooking is simple: does
-  the tool work without a stove, and will it survive a full school year of ramen...'
+description: "The question that decides everything for dorm cooking is simple: does the tool work without a stove, and will it survive a full school year of ramen."
+
 ---
 The question that decides everything for dorm cooking is simple: does the tool work without a stove, and will it survive a full school year of ramen, reheating leftovers, and being jammed into a milk crate at the end of spring semester? Get those two things wrong and you've wasted money twice. This guide is for parents who want to buy once, buy cheap, and not think about it again until move-out day.
 

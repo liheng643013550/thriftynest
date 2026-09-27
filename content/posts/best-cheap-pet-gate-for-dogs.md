@@ -6,8 +6,8 @@ category: pet
 type: comparison
 keywords:
 - best cheap pet gate for dogs
-description: You need to stop your dog from charging up the stairs or barking through
-  the front door, but you don’t want to spend a fortune on a fancy aluminum gat...
+description: "You need to stop your dog from charging up the stairs or barking through the front door, but you don’t want to spend a fortune on a fancy aluminum gate."
+
 ---
 You need to stop your dog from charging up the stairs or barking through the front door, but you don’t want to spend a fortune on a fancy aluminum gate. That is a smart place to start. The good news is that you can find a safe, sturdy pet gate for under $40 if you know which features actually matter and which ones are just expensive extras.
 
