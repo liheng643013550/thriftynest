@@ -1,5 +1,5 @@
 ---
-title: 'Smart Thermostat vs Manual: How Much Do You Save?'
+title: 'Best Budget Smart Thermostat: vs Manual, What You Save'
 slug: smart-thermostat-vs-manual-thermostat-saving
 date: '2026-10-04'
 category: energy
