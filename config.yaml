@@ -120,5 +120,19 @@ llm:
 # 构建时会在原地址生成一个最小跳转页（canonical + meta refresh + 可见链接）。
 # 键 = 旧路径（不含开头斜杠），值 = 目标路径。
 redirects:
+  "posts/how-much-doe-a-cleaning-service-cost-per-visit": "/posts/how-much-does-a-cleaning-service-cost-per-visit/"
+  "posts/how-much-doe-a-home-office-setup-cost-on-a-budget": "/posts/how-much-does-a-home-office-setup-cost-on-a-budget/"
+  "posts/how-much-doe-it-cost-to-build-a-basic-tool-kit": "/posts/how-much-does-it-cost-to-build-a-basic-tool-kit/"
+  "posts/how-much-doe-it-cost-to-keep-a-cat-indoor": "/posts/how-much-does-it-cost-to-keep-a-cat-indoor/"
+  "posts/how-much-doe-it-cost-to-leave-a-fan-on-all-day": "/posts/how-much-does-it-cost-to-leave-a-fan-on-all-day/"
+  "posts/how-much-doe-it-cost-to-run-a-slow-cooker-for-8-hour": "/posts/how-much-does-it-cost-to-run-a-slow-cooker-for-8-hour/"
+  "posts/how-much-doe-raised-bed-soil-cost-to-fill": "/posts/how-much-does-raised-bed-soil-cost-to-fill/"
+  "posts/why-doe-my-dog-destroy-every-toy": "/posts/why-does-my-dog-destroy-every-toy/"
+  "posts/why-doe-my-dog-refuse-to-walk-in-the-rain": "/posts/why-does-my-dog-refuse-to-walk-in-the-rain/"
+  "posts/why-doe-my-hammer-leave-mark-on-wood": "/posts/why-does-my-hammer-leave-mark-on-wood/"
+  "posts/why-doe-my-laptop-overheat-on-a-desk": "/posts/why-does-my-laptop-overheat-on-a-desk/"
+  "posts/why-doe-my-rice-cooker-overflow": "/posts/why-does-my-rice-cooker-overflow/"
+  "posts/why-doe-my-water-bill-keep-going-up": "/posts/why-does-my-water-bill-keep-going-up/"
+  "posts/how-much-doe-it-cost-to-run-a-space-heater": "/posts/how-much-does-it-cost-to-run-a-space-heater/"
   "posts/best-air-fryers-under-50": "/posts/best-air-fryer-under-50/"
   "posts/best-coffee-makers-under-100": "/posts/best-coffee-maker-under-100/"
