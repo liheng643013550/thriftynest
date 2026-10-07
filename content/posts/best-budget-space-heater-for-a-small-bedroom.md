@@ -14,7 +14,7 @@ The biggest mistake buyers make with a small-bedroom space heater is buying for 
 
 ## What actually matters
 
-- Wattage and real running cost. Most small-room heaters run 750W on low and 1,500W on high. At a typical US rate of roughly 12 to 17 cents per kWh, an hour on high usually costs somewhere between 18 and 26 cents. That sounds small until you run it eight hours a night for a month, which typically lands between $40 and $60 depending on your local rate.
+- Wattage and real running cost. Most small-room heaters run 750W on low and 1,500W on high. The U.S. average residential electricity price was 17.30 cents per kilowatt-hour in 2025, according to the Energy Information Administration's [Electric Power Monthly, Table 5.3](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=table_5_03). At that rate an hour on high costs about 26 cents and an hour on low about 13 cents. Run it eight hours a night for a month and you are at roughly $62 on high or $31 on low, depending on your local rate. That is why a cheap 1,500W heater can cost more to run over one winter than it cost to buy.
 - Cleaning time per week. This is the criterion almost nobody mentions. A heater with a wide, removable, dishwasher-safe grille might take 3 minutes a week. A heater with a narrow fixed grille and a dust-clogged fan might take 15 minutes with a vacuum crevice tool. Over a winter that is several hours of your life.
 - Filter or no filter. Some models have a washable dust filter, which is genuinely nice for dust control but adds a rinse-and-dry step every week or two. Filterless ceramic heaters are simpler but move dust straight through.
 - Thermostat and auto-off. A built-in adjustable thermostat lets the unit cycle instead of running flat out, which is where the real savings show up. Tip-over shutoff and overheat protection are standard on anything worth buying.
@@ -131,15 +131,23 @@ Who should buy it: the budget-minded reader who wants to know exactly what a hea
 | Kasa Smart Plug HS103 | Typically $8–$15 | Automatic shutoff | Scheduling, no maintenance |
 | P3 P4460 Kill A Watt EZ | Typically $30–$45 | Tracking real running cost | Shows actual watts and dollars |
 
+## How this list was built
+
+This list compares budget space heaters on three things a spec sheet does not tell you: running cost at your local rate, how long the grille takes to clean, and whether the thermostat actually cycles instead of running flat out.
+
+Running-cost figures use the U.S. average residential price of 17.30 cents per kWh published by the U.S. Energy Information Administration ([Electric Power Monthly, Table 5.3](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=table_5_03), 2025) rather than retailer claims or round-number rules of thumb.
+
+**What is not verified here.** Airflow, decibel noise, and long-term durability come from manufacturer specifications and have not been independently measured. Wattage is the manufacturer's rated draw, and real-world draw can differ from the rating, which is why a plug-in power meter is worth the money if exact cost matters to you. Prices shown are the list prices at the time of writing and move with sales.
+
 ## The bottom line
 
-If you want the lowest total cost of ownership, buy the cheapest heater that has a real thermostat and safety shutoffs, then spend ten dollars on a smart plug so it never runs unattended. If you would rather pay a bit more once and spend less time on maintenance, the Dreo Space Heater is the pick here, mainly because a washable filter turns a 15-minute grille-scrubbing chore into a 3-minute rinse. Either way, budget for the electricity honestly. A 1,500W heater on high for eight hours a night is typically $40 to $60 a month, which is more than most people expect when they hand over $30 at the register.
+If you want the lowest total cost of ownership, buy the cheapest heater that has a real thermostat and safety shutoffs, then spend ten dollars on a smart plug so it never runs unattended. If you would rather pay a bit more once and spend less time on maintenance, the Dreo Space Heater is the pick here, mainly because a washable filter turns a 15-minute grille-scrubbing chore into a 3-minute rinse. Either way, budget for the electricity honestly. A 1,500W heater on high for eight hours a night is about $62 a month at the 2025 U.S. average residential rate, which is more than most people expect when they hand over $30 at the register.
 
 ## Frequently Asked Questions
 
 ### How much does it cost to run a budget space heater every night?
 
-At typical US electricity rates, an hour on high usually costs somewhere between 18 and 26 cents. Running that eight hours a night for a month typically lands between $40 and $60, depending on your local rate.
+At the U.S. average residential rate of 17.30 cents per kWh ([EIA, Electric Power Monthly, Table 5.3](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=table_5_03), 2025), an hour on high costs about 26 cents and an hour on low about 13 cents. Eight hours a night for a month works out to roughly $62 on high or $31 on low. Your own rate will move those numbers, and the EIA table linked above lists monthly and state averages so you can check yours.
 
 ### Which budget heater is easiest to keep clean?
 
