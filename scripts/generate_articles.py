@@ -135,7 +135,16 @@ def build_meta_description(body, limit_max=160, limit_min=110):
     return window.rstrip(" ,;:-—") + "."
 
 
+# ---- 200 号修复：保护「非复数」的 s 结尾词 ----
+_NEVER_SINGULARIZE = {w.lower() for w in (
+    "does", "goes", "has", "was", "is", "as", "us", "this", "yes", "its", "across", "less", "plus", "always", "perhaps", "kids", "hours", "minutes", "seconds")}
+
+
 def _singularize(word):
+    # 以 s 结尾但【不是复数】的词不能砍（否则 does→doe、goes→goe）
+    if word.lower() in _NEVER_SINGULARIZE:
+        return word
+
     """Conservative English singularizer used only for slug de-duplication.
 
     We only need *consistency* between the keyword pool and existing filenames,
