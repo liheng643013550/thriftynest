@@ -11,6 +11,8 @@ description: "If you are looking for a new set of knives, you have probably noti
 ---
 If you are looking for a new set of knives, you have probably noticed that prices can range from $30 to over $500. The good news is that you do not need to spend a fortune to get a set that will handle your daily cooking tasks safely and efficiently. This guide breaks down the best budget knife sets on the market so you can cut prep time without cutting into your savings.
 
+Sharpness is not just a convenience question. Knife-related injuries send an estimated 1.56 people per 1,000 U.S. residents to the emergency department each year, and about two-thirds of those injuries are to fingers and thumbs ([PubMed, Knife-related injuries treated in United States emergency departments](https://pubmed.ncbi.nlm.nih.gov/23849364/)). A dull blade that slips is a large part of how that happens — which is why edge retention is worth weighing even on a budget set.
+
 ## What to look for
 
 Before you click "add to cart," here is what actually matters when you are shopping on a budget.
@@ -107,6 +109,16 @@ The downside is that they are not pretty. They look like industrial tools, and t
 ## The bottom line
 
 You truly do not need to spend $200 to get a functional knife set. If you want the best all-around deal that includes everything, the [Chicago Cutlery Fusion Set](https://www.amazon.com/dp/B08YMKNDNY?tag=__AMAZON_TAG__) offers the most value for the size. If you want the best performance for actual cooking, the [Mercer Culinary Renaissance Set](https://www.amazon.com/dp/B0034612OK?tag=__AMAZON_TAG__) or the [Victorinox Fibrox Pro Set](https://www.amazon.com/dp/B0016O8PGA?tag=__AMAZON_TAG__) will outperform sets twice their price. Stick to the criteria above, pick the one that fits your storage and cooking style, and you will be set for years without a dent in your wallet.
+
+## How this list was built
+
+This guide is assembled from published product specifications, manufacturer documentation, and recurring patterns across public owner reviews — not from hands-on testing of every set. Price bands reflect typical retail ranges at the time of writing and move with sales and stock.
+
+The injury figures are sourced from peer-reviewed research rather than estimated: the rate of knife-related emergency-department injuries, and the share affecting fingers and thumbs, come from a study of U.S. emergency-department data published in a surgical journal and indexed on PubMed ([PubMed, 23849364](https://pubmed.ncbi.nlm.nih.gov/23849364/)).
+
+What is not verified here: actual edge retention over time for any specific set, and handle comfort for your hand. Owner-review patterns describe recurring themes across many public reviews, not a controlled sample. **This page does not currently include interviews with named chefs or knife makers** — where it cites an authority, it links the primary source so you can check it yourself.
+
+Written and maintained by the ThriftyNest Team. Our guides are produced with AI assistance and pass automated checks before publishing (link validation, structured-data validation, and a source check on every statistic). We are not chefs or cutlers and do not claim first-hand testing of every set listed.
 
 ## Frequently Asked Questions
 
