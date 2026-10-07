@@ -12,7 +12,7 @@ description: "The single biggest mistake people make with a small-yard compost b
 ---
 The single biggest mistake people make with a small-yard compost bin is buying for capacity instead of for emptying. A 37-gallon bin sounds efficient until you're the one wrestling a full, wet, half-rotted load out of a narrow hatch on a Tuesday night. In a small yard you don't need volume — you need a bin you can empty, rinse, and forget about in under fifteen minutes a week.
 
-This guide is built around that reality. Every pick below is judged on how much time it costs you weekly, not on how big the number on the box is.
+This guide is built around that reality. Every pick below is judged on how much time it costs you weekly, not on how big the number on the box is. The reason any of it is worth the effort: composting keeps food scraps and yard trim out of landfills, where they would otherwise break down without oxygen and release methane ([U.S. Environmental Protection Agency, Composting At Home](https://www.epa.gov/recycle/composting-home)).
 
 ## What actually matters
 
@@ -124,6 +124,16 @@ This guide is built around that reality. Every pick below is judged on how much 
 If you have actual ground space, the FCMP Outdoor 37 Gallon is the pick that best matches a small yard: two chambers so you're never stuck waiting, a spin-handle turn that takes under a minute, and a smooth interior you can rinse rather than scrub. If your space is a balcony, start with the OXO Good Grips 1.75 Gallon and accept that it's a feeding tool, not a composter.
 
 Either way, budget for the small stuff. The pruner, the cloths, and the hose are what keep the weekly time cost at 5 to 15 minutes instead of an hour you'll never find. The bin is the purchase; the routine is what actually composts.
+
+## How this list was built
+
+This guide is assembled from published product specifications, manufacturer documentation, and recurring patterns across public owner reviews — not from hands-on testing of every unit. Price bands reflect typical retail ranges at the time of writing and move with sales and stock.
+
+Claims about composting itself, rather than about a product, are sourced. The U.S. Environmental Protection Agency notes that composting keeps food scraps and yard trim out of landfills, where they would otherwise decompose without oxygen and release methane ([EPA, Composting At Home](https://www.epa.gov/recycle/composting-home)). EPA's guidance also puts a number on worm-bin turnover: worms eat about 25 percent of their weight each day.
+
+What is not verified here: the long-term durability of any specific model, and the airflow or capacity of bins we have not measured. Owner-review patterns describe recurring themes across many public reviews, not a controlled sample. **This page does not currently include interviews with named composting specialists** — where it cites an authority, it links the primary source so you can check it yourself.
+
+Written and maintained by the ThriftyNest Team. Our guides are produced with AI assistance and pass a set of automated checks before publishing (link validation, structured-data validation, and a source check on every statistic). We are not composting professionals and do not claim first-hand testing of every product listed.
 
 ## Frequently Asked Questions
 
