@@ -15,6 +15,7 @@ You've just moved into your first apartment together, the living room has one sa
 ## What actually matters
 
 - **Airflow, measured in CFM.** Budget fans typically land between 2,000 and 3,500 CFM on high. That's plenty for a 10x12 bedroom. For a large living room, look for 4,000 CFM or more, which usually means stepping up a price tier.
+- **Energy efficiency (ENERGY STAR).** Fans that earn the ENERGY STAR label are up to 44% more efficient than conventional fans, per the U.S. EPA and Department of Energy. If you run a fan every summer evening, that gap shows up on the electric bill.
 - **Reversible motor.** A summer/winter switch flips blade direction. In winter, running it clockwise on low pushes warm air off the ceiling and can let you nudge the thermostat down a degree or two.
 - **Replacement parts availability.** This is the quiet dealbreaker. Blades, glass shades, pull chains, and remote receivers break or get lost. Brands that sell individual parts online keep a fan alive for years; no-name brands turn a $60 fan into landfill when one blade cracks.
 - **Light kit type.** Integrated LED arrays last years but often can't be replaced — you swap the whole fixture. Replaceable bulbs (E26 or candelabra base) cost more upfront and are far easier to fix later.
@@ -101,6 +102,12 @@ A 52-inch fan with a three-bulb light kit, this one is aimed at bigger spaces. T
 ## The bottom line
 
 For a first apartment, buy the fan whose parts you can actually find in three years. That usually means Hunter, Westinghouse, or a store brand with a physical return desk. Skip sealed LED arrays if you want cheap future repairs, and skip app-controlled fans unless you enjoy troubleshooting. A $70 fan with replaceable bulbs and available blades beats a $120 fan you throw away when the light dies.
+
+## How this list was built
+
+The efficiency claim comes from the [ENERGY STAR ceiling fan specification](https://www.energystar.gov/products/ceiling_fans), published by the U.S. Environmental Protection Agency and Department of Energy: certified ceiling fans are up to 44% more efficient than conventional fans. Airflow (CFM) ranges and price bands are typical retail values observed at the time of writing, not measured test results.
+
+What is not verified here: individual model airflow, noise, and long-term reliability, which we have not tested ourselves. Owner-review patterns reflect the recurring themes across many public reviews, not a controlled sample. Price bands drift with sales and stock, so treat them as a starting point, not a quote.
 
 ## Frequently Asked Questions
 
