@@ -14,6 +14,8 @@ Setting up a first apartment usually means a short list of furniture to assemble
 
 If you only cut a few pieces of trim or a couple of 2x4s a year, a hand saw is usually enough. If you're planning to build shelves, cut plywood, or take on weekend projects regularly, a circular saw tends to pay for itself in time saved. The choice matters most when you look at the total cost over the first year, not just the sticker price.
 
+One thing the price comparison leaves out: the safety gap is real. Portable circular saws account for roughly 11,861 emergency-department injuries a year in the U.S., based on Consumer Product Safety Commission surveillance data ([CPSC, National Electronic Injury Surveillance System](https://www.cpsc.gov/Research--Statistics/NEISS-Injury-Data)). A hand saw is not risk-free — a dull one slips — but it does not send people to the ER at anything like that rate.
+
 ## The biggest mistake beginners make
 
 The single most common mistake is buying the saw before buying the blade. A circular saw with the stock blade that comes in the box will cut, but on plywood and 2x4s it often burns, binds, and leaves splintered edges. A $12 to $20 replacement blade can change the whole experience.
@@ -94,6 +96,16 @@ If you can only buy one and you're genuinely unsure, start with the hand saw. It
 ## The bottom line
 
 For a couple in a first apartment, the hand saw is the smarter first purchase in most cases. It costs a fraction of a circular saw, stores anywhere, stays quiet, and handles furniture assembly and light trim without fuss. The circular saw earns its place the moment your projects involve sheet goods, repeated cuts, or anything you want to look square and consistent. If you expect that to happen within the first year, buy the circular saw now and budget for a real blade. If not, start with the hand saw and add the circular saw later when a specific project demands it.
+
+## How this guide was built
+
+This comparison is assembled from published tool specifications, manufacturer documentation, and recurring themes across public owner reviews — not from instrumented testing of every saw. Price bands reflect typical retail ranges at the time of writing and move with sales and stock.
+
+Injury figures are sourced rather than estimated: the circular-saw injury count comes from the U.S. Consumer Product Safety Commission's National Electronic Injury Surveillance System, which tracks emergency-department injuries by product ([CPSC NEISS](https://www.cpsc.gov/Research--Statistics/NEISS-Injury-Data)).
+
+What is not verified here: measured cut speed and dust output for specific models, and long-term durability. Owner-review patterns describe recurring themes across many public reviews, not a controlled sample. **This page does not currently include interviews with named trade professionals** — where it cites an authority, it links the primary source so you can check it yourself.
+
+Written and maintained by the ThriftyNest Team. Our guides are produced with AI assistance and pass automated checks before publishing (link validation, structured-data validation, and a source check on every statistic). We are not professional carpenters and do not claim first-hand testing of every tool listed.
 
 ## Frequently Asked Questions
 
