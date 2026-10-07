@@ -1,5 +1,5 @@
 ---
-title: Best Budget Ceiling Fans with Lights (Airflow on a Budget)
+title: "Affordable Ceiling Fans with Lights on a Budget"
 slug: best-budget-ceiling-fan-with-light
 date: '2026-09-18'
 category: energy

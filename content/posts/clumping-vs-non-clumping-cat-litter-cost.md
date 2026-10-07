@@ -1,5 +1,5 @@
 ---
-title: 'Clumping vs Non-Clumping Cat Litter: Which Costs Less?'
+title: 'Clumping vs Non-Clumping Cat Litter Cost (Renters Guide)'
 slug: clumping-vs-non-clumping-cat-litter-cost
 date: '2026-09-16'
 category: pet

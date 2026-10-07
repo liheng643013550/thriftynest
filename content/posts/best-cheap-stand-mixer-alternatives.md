@@ -1,5 +1,5 @@
 ---
-title: 'Best Cheap Stand Mixer Alternatives: What to Buy Instead'
+title: 'Stand Mixer Alternatives & Substitutes (Cheap Picks)'
 slug: best-cheap-stand-mixer-alternatives
 date: '2026-09-10'
 category: kitchen

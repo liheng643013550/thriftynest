@@ -1,5 +1,5 @@
 ---
-title: Best Budget Space Heaters for a Small Bedroom
+title: "Cheap Space Heaters for a Small Bedroom: Best Value Picks"
 slug: best-budget-space-heater-for-a-small-bedroom
 date: '2026-09-18'
 category: energy

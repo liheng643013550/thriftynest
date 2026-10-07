@@ -1,5 +1,5 @@
 ---
-title: 'Best Budget Cookware Sets in 2026: What''s Worth Buying'
+title: 'Best Cheap Cookware Sets Under $50 (Budget, Not Junk)'
 slug: best-budget-cookware-set
 date: '2026-09-04'
 category: kitchen

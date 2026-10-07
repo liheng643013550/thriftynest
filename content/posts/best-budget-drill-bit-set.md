@@ -1,5 +1,5 @@
 ---
-title: Best Budget Drill Bit Sets (Bits That Don't Snap)
+title: "Best Cheap Drill Bit Sets That Don't Snap (Budget Kits)"
 slug: best-budget-drill-bit-set
 date: '2026-09-04'
 category: tools

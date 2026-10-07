@@ -1,5 +1,5 @@
 ---
-title: Best Budget Compost Bins for a Small Yard
+title: "Best Cheap Compost Bins for a Small Yard: Cost & Picks"
 slug: best-budget-compost-bin-for-a-small-yard
 date: '2026-09-19'
 category: garden
