@@ -120,6 +120,7 @@ llm:
 # 构建时会在原地址生成一个最小跳转页（canonical + meta refresh + 可见链接）。
 # 键 = 旧路径（不含开头斜杠），值 = 目标路径。
 redirects:
+  "posts/why-doe-my-washing-machine-smell-musty": "/posts/why-does-my-washing-machine-smell-musty/"
   "posts/how-much-doe-a-cleaning-service-cost-per-visit": "/posts/how-much-does-a-cleaning-service-cost-per-visit/"
   "posts/how-much-doe-a-home-office-setup-cost-on-a-budget": "/posts/how-much-does-a-home-office-setup-cost-on-a-budget/"
   "posts/how-much-doe-it-cost-to-build-a-basic-tool-kit": "/posts/how-much-does-it-cost-to-build-a-basic-tool-kit/"
