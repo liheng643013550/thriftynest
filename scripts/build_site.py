@@ -558,7 +558,11 @@ class Site:
             # 真正做审核的是自动质检流水线，指向说明页如实交代。
             "reviewedBy": {"@type": "Organization", "name": self.name,
                            "url": self.path("editorial-policy")},
-            "author": {"@type": "Person", "name": self.site.get("author", self.name)},
+            # author：本项目没有具名的人类作者。"ThriftyNest Team" 是一支团队，
+            # 不是一个人，把它标成 Person 是类型上说谎。用 Organization 才准确，
+            # 并指向 about 页，让实体可被核查。
+            "author": {"@type": "Organization", "name": self.site.get("author", self.name),
+                       "url": self.path("about")},
             "publisher": {"@type": "Organization", "name": self.name},
             "mainEntityOfPage": canonical,
         }
@@ -583,10 +587,12 @@ class Site:
         toc_html, body_html = add_toc(body_html)
         body = (
             "<header class=\"post-head\"><h1>%s</h1>"
-            "<p class=\"post-meta\">%s &middot; %s</p></header>"
+            "<p class=\"post-meta\">By %s &middot; %s &middot; %s</p></header>"
             "<div class=\"post-body\">%s%s</div>%s"
-            % (html.escape(meta.get("title", "")), html.escape(date),
-               html.escape(category_name(cat)), toc_html, body_html, related_html)
+            % (html.escape(meta.get("title", "")),
+               html.escape(self.site.get("author", self.name)),
+               html.escape(date), html.escape(category_name(cat)),
+               toc_html, body_html, related_html)
         )
         # og:image. The original code only looked for static/pins/<slug>.png,
         # a directory nothing ever generates, so every page shipped with no
