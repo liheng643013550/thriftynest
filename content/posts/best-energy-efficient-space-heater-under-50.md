@@ -13,6 +13,8 @@ Winter is here, your living room feels like a walk-in fridge, and you are dreadi
 
 There are plenty of solid, energy-efficient space heaters out there for under $50. They won't heat your whole house, but they will keep you cozy in the room you're actually sitting in. Here are the best options for keeping warm without breaking the bank.
 
+What "energy-efficient" actually means in dollars: a 1,500-watt heater draws 1.5 kilowatt-hours for every hour it runs, so at the U.S. average residential electricity price of about 17.30 cents per kWh, it costs roughly 26 cents an hour to run — around $2.08 for eight hours ([U.S. Energy Information Administration](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_3)). A 200-watt personal heater like the Lasko MyHeat draws a fraction of that, which is why wattage is the number that decides your bill.
+
 ## What to Look For
 
 Before you click "buy," here is what actually matters when you are shopping on a budget.
@@ -126,6 +128,16 @@ You do not need to spend hundreds of dollars to stay warm. For under $50, you ca
 For a tiny budget and a specific spot, get the Lasko MyHeat. For the best all-around value in a small room, grab the Amazon Basics or the Honeywell. If you need to heat a bigger living area, the oscillating Lasko 754200 is your best friend. And if you want the quietest, most precise heating for a bedroom, the Dreo is worth the extra few dollars.
 
 Just remember: size the heater to the room. A $20 heater will not heat a 400-square-foot basement. Use these as zone heaters to supplement your central heating, and you will stay comfortable all season long.
+
+## How this list was built
+
+This guide is assembled from published product specifications, manufacturer documentation, and recurring patterns across public owner reviews — not from hands-on testing of every unit. Price bands reflect typical retail ranges at the time of writing and move with sales and stock.
+
+Running-cost figures are calculated, not estimated: wattage comes from manufacturer specs, and the electricity price is the U.S. Energy Information Administration's latest monthly average residential rate ([EIA, Electric Power Monthly](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_3)). Your actual rate will differ by state and by season, so treat the numbers here as a national baseline.
+
+What is not verified here: measured heat output, noise levels in decibels, and long-term durability, none of which we measured ourselves. Owner-review patterns describe recurring themes across many public reviews, not a controlled sample. **This page does not currently include interviews with named heating or electrical-safety professionals** — where it cites a specification or a rate, it names the source so you can check it yourself.
+
+Written and maintained by the ThriftyNest Team. Our guides are produced with AI assistance and pass a set of automated checks before publishing (link validation, structured-data validation, and a source check on every statistic). We are not electricians or HVAC technicians and do not claim first-hand testing of every unit listed.
 
 ## Frequently Asked Questions
 
