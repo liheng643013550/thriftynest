@@ -154,7 +154,7 @@ This guide is assembled from published product specifications, manufacturer docu
 
 Where a claim is about energy use rather than a product, it traces to a published standard: the U.S. Environmental Protection Agency's Energy Star program certifies dehumidifiers that meet its efficiency criteria, which is why the Energy Star label is called out as a buying criterion here ([Energy Star](https://www.energystar.gov/products/dehumidifiers)).
 
-What is not verified here: measured extraction rates, noise levels in decibels, and long-term reliability, none of which we measured ourselves. Pint-capacity figures are taken from manufacturer specs and reflect the current DOE rating standard, which differs from older marketing numbers. **This page does not currently include interviews with named HVAC or indoor-air-quality professionals** — where it cites a specification, it names the source so you can check it yourself.
+What is not verified here: measured extraction rates, noise levels in decibels, and long-term reliability, none of which are measured for this page. Pint-capacity figures are taken from manufacturer specs and reflect the current DOE rating standard, which differs from older marketing numbers. **This page does not currently include interviews with named HVAC or indoor-air-quality professionals** — where it cites a specification, it names the source so you can check it yourself.
 
 Written and maintained by the ThriftyNest Team. Our guides are produced with AI assistance and pass a set of automated checks before publishing (link validation, structured-data validation, and a source check on every statistic). We are not HVAC technicians and do not claim first-hand testing of every unit listed.
 

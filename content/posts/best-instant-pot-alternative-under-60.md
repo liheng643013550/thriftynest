@@ -9,7 +9,7 @@ keywords:
 description: "If you want the convenience of a multicooker but don't want to spend $100 or more on a brand-name Instant Pot, you are in the right place."
 
 ---
-If you want the convenience of a multicooker but don't want to spend $100 or more on a brand-name Instant Pot, you are in the right place. The market is full of solid, budget-friendly alternatives that can pressure cook, slow cook, sauté, and even make yogurt, often for less than the cost of a nice dinner out. This guide rounds up the budget multicookers that published specifications and patterns across public owner reviews describe most consistently — not units we tested ourselves — so you can get comparable results without the markup.
+If you want the convenience of a multicooker but don't want to spend $100 or more on a brand-name Instant Pot, you are in the right place. The market is full of solid, budget-friendly alternatives that can pressure cook, slow cook, sauté, and even make yogurt, often for less than the cost of a nice dinner out. This guide rounds up the budget multicookers that published specifications and patterns across public owner reviews describe most consistently — not units tested by this publication — so you can get comparable results without the markup.
 
 ## What to look for
 
@@ -114,7 +114,7 @@ This guide is assembled from published product specifications, manufacturer docu
 
 Wattage, capacity, and certification details are taken from manufacturer spec sheets, which is why they are the most reliable figures on this page. Where a claim comes from owner reviews rather than a spec sheet, it is described as such.
 
-What is not verified here: come-to-pressure times, cook results, and long-term durability, none of which we measured ourselves. Owner-review patterns describe recurring themes across many public reviews, not a controlled sample. **This page does not currently include interviews with named kitchen-equipment testers** — where it cites a specification, it names the source so you can check it yourself.
+What is not verified here: come-to-pressure times, cook results, and long-term durability, none of which are measured for this page. Owner-review patterns describe recurring themes across many public reviews, not a controlled sample. **This page does not currently include interviews with named kitchen-equipment testers** — where it cites a specification, it names the source so you can check it yourself.
 
 Written and maintained by the ThriftyNest Team. Our guides are produced with AI assistance and pass a set of automated checks before publishing (link validation, structured-data validation, and a source check on every statistic). We are not product testers and do not claim first-hand experience with every unit listed.
 

@@ -135,7 +135,7 @@ This guide is assembled from published product specifications, manufacturer docu
 
 Running-cost figures are calculated, not estimated: wattage comes from manufacturer specs, and the electricity price is the U.S. Energy Information Administration's latest monthly average residential rate ([EIA, Electric Power Monthly](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_3)). Your actual rate will differ by state and by season, so treat the numbers here as a national baseline.
 
-What is not verified here: measured heat output, noise levels in decibels, and long-term durability, none of which we measured ourselves. Owner-review patterns describe recurring themes across many public reviews, not a controlled sample. **This page does not currently include interviews with named heating or electrical-safety professionals** — where it cites a specification or a rate, it names the source so you can check it yourself.
+What is not verified here: measured heat output, noise levels in decibels, and long-term durability, none of which are measured for this page. Owner-review patterns describe recurring themes across many public reviews, not a controlled sample. **This page does not currently include interviews with named heating or electrical-safety professionals** — where it cites a specification or a rate, it names the source so you can check it yourself.
 
 Written and maintained by the ThriftyNest Team. Our guides are produced with AI assistance and pass a set of automated checks before publishing (link validation, structured-data validation, and a source check on every statistic). We are not electricians or HVAC technicians and do not claim first-hand testing of every unit listed.
 
