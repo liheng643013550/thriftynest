@@ -1089,9 +1089,11 @@ class Site:
         self.build_categories_index(posts)
         self.build_trust_pages()
         for i, post in enumerate(posts):
-            # 相关性排序（而不是同分类前 3 篇）+ 5 篇：
+            # 相关性排序（而不是同分类前 3 篇）+ 8 篇：
             # 让每篇文章都链向"最像它"的同伴，而不是永远链向同几个页面。
-            related = pick_related(post, posts, n=5)
+            # 2026-10-14 从 5 提到 8：GSC 显示 79 个 URL 卡在"已发现-尚未编入索引"，
+            # 那是爬取预算问题 —— 每页多 3 条内链 = 多 60% 的爬取通路。
+            related = pick_related(post, posts, n=8)
             self.build_post(post, related)
         self.build_seo_files(posts)
         self.build_redirects()
