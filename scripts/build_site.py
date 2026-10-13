@@ -1164,7 +1164,7 @@ def _relevance(a, b):
     return len(a & b) / ((len(a) ** 0.5) * (len(b) ** 0.5))
 
 
-def pick_related(post, posts, n=5):
+def pick_related(post, posts, n=8):
     """按相关性挑 n 篇相关文章（同分类加权，结果确定性可复现）。"""
     me = score_vec(post)
     cat = post.get("meta", {}).get("category", "")
