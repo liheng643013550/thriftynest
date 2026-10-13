@@ -1,5 +1,5 @@
 ---
-title: "Best Cheap Dehumidifiers for Damp Rooms (Budget Picks)"
+title: "Cheapest Dehumidifiers: Best Budget Picks for Damp Rooms"
 slug: best-budget-dehumidifier
 date: '2026-08-26'
 category: energy
@@ -147,6 +147,16 @@ You do not need to spend a fortune to get rid of the damp. For most people, the 
 If you have a big basement, go for the hOmeLabs 1,500 Sq. Ft Energy Star Dehumidifier for the best capacity-to-price ratio. And if you just need to fix a musty closet, the [Pro Breeze Electric Mini Dehumidifier](https://www.amazon.com/dp/B01DC5PPWM?tag=__AMAZON_TAG__) is a no-brainer at fifty bucks.
 
 The key is to match the machine to the room size. Buy a slightly bigger unit than you think you need, set it to 50% humidity, and let it do its job. Your sinuses, your walls, and your wallet will all be better off.
+
+## How this list was built
+
+This guide is assembled from published product specifications, manufacturer documentation, and recurring patterns across public owner reviews — not from hands-on testing of every unit. Price bands reflect typical retail ranges at the time of writing and move with sales and stock.
+
+Where a claim is about energy use rather than a product, it traces to a published standard: the U.S. Environmental Protection Agency's Energy Star program certifies dehumidifiers that meet its efficiency criteria, which is why the Energy Star label is called out as a buying criterion here ([Energy Star](https://www.energystar.gov/products/dehumidifiers)).
+
+What is not verified here: measured extraction rates, noise levels in decibels, and long-term reliability, none of which we measured ourselves. Pint-capacity figures are taken from manufacturer specs and reflect the current DOE rating standard, which differs from older marketing numbers. **This page does not currently include interviews with named HVAC or indoor-air-quality professionals** — where it cites a specification, it names the source so you can check it yourself.
+
+Written and maintained by the ThriftyNest Team. Our guides are produced with AI assistance and pass a set of automated checks before publishing (link validation, structured-data validation, and a source check on every statistic). We are not HVAC technicians and do not claim first-hand testing of every unit listed.
 
 ## Frequently Asked Questions
 
