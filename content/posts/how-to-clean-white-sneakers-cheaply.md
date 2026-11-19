@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How to Clean White Sneakers with Baking Soda (Works Every Time)
 slug: how-to-clean-white-sneakers-cheaply
 date: '2026-08-22'
