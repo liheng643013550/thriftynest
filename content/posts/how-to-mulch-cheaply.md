@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How to Mulch Cheaply (Free Sources of Mulch You're Ignoring)
 slug: how-to-mulch-cheaply
 date: '2026-08-19'
