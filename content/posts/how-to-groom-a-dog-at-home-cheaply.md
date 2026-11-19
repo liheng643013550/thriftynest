@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How to Groom a Dog at Home Cheaply (Save $50 a Visit)
 slug: how-to-groom-a-dog-at-home-cheaply
 date: '2026-08-26'
