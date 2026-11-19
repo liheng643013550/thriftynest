@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How to Save Seeds from Vegetables (Free Plants Forever)
 slug: how-to-save-seeds-from-vegetables
 date: '2026-09-01'
