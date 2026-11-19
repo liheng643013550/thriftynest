@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How to Clean a Washing Machine Cheaply (Yes, It Needs It)
 slug: how-to-clean-a-washing-machine-cheaply
 date: '2026-08-28'
