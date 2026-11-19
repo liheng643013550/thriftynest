@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How to Organize Holiday Decorations Cheaply (Undo the Tangle)
 slug: how-to-organize-holiday-decorations-cheaply
 date: '2026-08-26'
