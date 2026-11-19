@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How to Make a Home Office Private Without Walls
 slug: how-to-make-a-home-office-private-without-walls
 date: '2026-09-13'
