@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How to Clean Stainless Steel Appliances Cheaply (No Streaks)
 slug: how-to-clean-stainless-steel-appliances-cheaply
 date: '2026-09-11'
