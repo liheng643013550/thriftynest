@@ -120,6 +120,8 @@ llm:
 # 构建时会在原地址生成一个最小跳转页（canonical + meta refresh + 可见链接）。
 # 键 = 旧路径（不含开头斜杠），值 = 目标路径。
 redirects:
+  "posts/best-storage-bin-for-a-first-apartment": "/posts/best-cheap-storage-bins-for-closets/"
+  "posts/best-air-fryer-for-one-person": "/posts/best-air-fryer-under-50/"
   "posts/how-to-clean-blind-quickly": "/posts/how-to-clean-blinds-quickly/"
   "posts/are-cheap-led-bulb-worth-it": "/posts/are-cheap-led-bulbs-worth-it/"
   "posts/how-much-does-it-cost-to-run-a-slow-cooker-for-8-hour": "/posts/how-much-does-it-cost-to-run-a-slow-cooker-for-8-hours/"
