@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How to Start Seeds Indoors Cheaply (No Fancy Gear Needed)
 slug: how-to-start-seeds-indoors-cheaply
 date: '2026-09-11'
