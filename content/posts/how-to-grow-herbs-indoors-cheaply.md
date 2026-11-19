@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How to Grow Herbs Indoors Cheaply (Window Garden Guide)
 slug: how-to-grow-herbs-indoors-cheaply
 date: '2026-08-20'
