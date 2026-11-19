@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How Much Does a Home Office Setup Cost on a Budget?
 slug: how-much-does-a-home-office-setup-cost-on-a-budget
 date: '2026-09-16'
