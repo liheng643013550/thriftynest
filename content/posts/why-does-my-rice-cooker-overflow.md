@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: Why Does My Rice Cooker Overflow? Easy Fixes for Any Model
 slug: why-does-my-rice-cooker-overflow
 date: '2026-09-18'
