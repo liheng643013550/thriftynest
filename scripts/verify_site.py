@@ -186,10 +186,18 @@ def main():
     if sm.is_file():
         sm_xml = sm.read_text(encoding="utf-8")
         locs = re.findall(r"<loc>(.*?)</loc>", sm_xml)
-        want = len(posts) + NON_POST_URLS
+        # ★front matter 写了 noindex: true 的文章按设计不进 sitemap（冻结页），
+        #   所以期望值要减掉它们，不能还按「所有文章都收」来算。
+        #   load_post_slugs() 返回的是 (slug, meta, filename) 元组。
+        indexed = [p for p in posts
+                   if str(p[1].get("noindex", "")).strip().lower()
+                   not in ("true", "yes", "1")]
+        skipped = len(posts) - len(indexed)
+        want = len(indexed) + NON_POST_URLS
         rep.check(len(locs) == want,
-                  "sitemap has %d URLs (expected %d = %d posts + %d pages)"
-                  % (len(locs), want, len(posts), NON_POST_URLS),
+                  "sitemap has %d URLs (expected %d = %d posts + %d pages%s)"
+                  % (len(locs), want, len(indexed), NON_POST_URLS,
+                     (", %d noindexed excluded" % skipped) if skipped else ""),
                   "Update NON_POST_URLS if you added/removed category or trust pages.")
         bad_loc = [u for u in locs if base and not u.startswith(base)]
         if bad_loc:
