@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How to Save Money on Pet Food Without Cutting Corners
 slug: how-to-save-money-on-pet-food-safely
 date: '2026-09-04'
