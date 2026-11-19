@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How to Save on Vet Bills (Legally and Safely)
 slug: how-to-save-on-vet-bills-cheaply
 date: '2026-09-03'
