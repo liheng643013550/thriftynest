@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How to Water Plants While on Vacation (Cheap DIY Methods)
 slug: how-to-water-plants-while-on-vacation-cheaply
 date: '2026-08-26'
