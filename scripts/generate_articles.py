@@ -46,6 +46,7 @@ import yaml
 
 from llm import LLMError, complete
 from keywords import TOPICS
+import topic_gate
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG_PATH = ROOT / "config.yaml"
@@ -255,7 +256,7 @@ def existing_slugs():
     return {_topic_key(p.stem.replace("-", " ")) for p in POSTS_DIR.glob("*.md")}
 
 
-def pick_topics(config, limit, override=None):
+def pick_topics(config, limit, override=None, force=False):
     used = existing_slugs()
     if override:
         norm = _topic_key(override)
@@ -264,6 +265,15 @@ def pick_topics(config, limit, override=None):
                      None)
         if not topic:
             sys.exit("Topic not found in pool: %s" % override)
+        # 手动指定也过闸门（除非 --force）：别绕过质量门
+        ok, ptype, why = topic_gate.gate(topic["kw"])
+        if not ok:
+            if force:
+                print("[gate] WARN 手动题目被闸门拒绝，但 --force 放行: %s (%s)"
+                      % (topic["kw"], why))
+            else:
+                sys.exit("[gate] 这个题目被闸门拒绝: %s\n      原因: %s\n      "
+                         "要强推请加 --force" % (topic["kw"], why))
         return [topic]
     # 池子内部也要按归一后的键去重：池里若同时存在单复数两个变体，
     # 不能在同一天（或不同天）把同一件事写两遍。
@@ -274,8 +284,27 @@ def pick_topics(config, limit, override=None):
             continue
         seen.add(k)
         fresh.append(t)
-    random.shuffle(fresh)  # vary what gets written each day
-    return fresh[:limit]
+
+    # ★题目闸门：默认不发，过关才发。
+    #   垃圾题目在被写出来之前就丢掉，并记进 content/_topic_reject_log.jsonl。
+    #   用户 spec：「每天产出应该是少量过关页 + 大量被拒绝的题目」。
+    passed, rejected = [], 0
+    for t in fresh:
+        ok, ptype, why = topic_gate.gate(t["kw"])
+        if ok:
+            t["_page_type"] = ptype
+            passed.append(t)
+        else:
+            rejected += 1
+            topic_gate.log_reject(t["kw"], ptype, why)
+    if rejected:
+        print("[gate] 拒绝 %d 个题目（见 content/_topic_reject_log.jsonl）" % rejected)
+    if not passed:
+        print("[gate] ⚠️  池子里没有题目能过闸门 —— 今天不发文（这是设计行为，不是故障）")
+        return []
+
+    random.shuffle(passed)  # vary what gets written each day
+    return passed[:limit]
 
 
 # ---------------------------------------------------------------------------
@@ -738,13 +767,15 @@ def main():
     parser.add_argument("--topic", default=None, help="force one specific topic by keyword")
     parser.add_argument("--dry-run", action="store_true",
                         help="only list which topics would be generated")
+    parser.add_argument("--force", action="store_true",
+                        help="强推被题目闸门拒绝的 --topic（只对 --topic 有效，慎用）")
     args = parser.parse_args()
 
     config = load_config()
     pub = config.get("publishing", {})
     limit = args.limit if args.limit is not None else pub.get("posts_per_day", 3)
 
-    topics = pick_topics(config, limit, override=args.topic)
+    topics = pick_topics(config, limit, override=args.topic, force=args.force)
 
     # --dry-run 不做任何网络调用，因此不需要 API key
     if args.dry_run:
