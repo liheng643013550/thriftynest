@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How to Organize a Mudroom on a Budget (Even Without a Mudroom)
 slug: how-to-organize-a-mudroom-on-a-budget
 date: '2026-09-08'
