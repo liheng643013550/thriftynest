@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How to Clean an Oven Without Chemicals (The Baking Soda Paste)
 slug: how-to-clean-an-oven-without-chemicals
 date: '2026-08-26'
