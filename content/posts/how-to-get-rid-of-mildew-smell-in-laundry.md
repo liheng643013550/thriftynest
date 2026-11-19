@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How to Get Rid of Mildew Smell in Laundry (And Keep It Gone)
 slug: how-to-get-rid-of-mildew-smell-in-laundry
 date: '2026-09-15'
