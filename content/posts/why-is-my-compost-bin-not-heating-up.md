@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: Why Your Compost Bin Isn't Heating Up and How to Fix It
 slug: why-is-my-compost-bin-not-heating-up
 date: '2026-09-15'
