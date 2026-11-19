@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Organize a Small Kitchen on a Budget (12 Cheap Tricks)"
 slug: how-to-organize-a-small-kitchen-on-a-budget
 date: 2026-08-18
