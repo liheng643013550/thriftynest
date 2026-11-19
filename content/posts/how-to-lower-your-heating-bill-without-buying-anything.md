@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How to Lower Your Heating Bill Without Buying Anything
 slug: how-to-lower-your-heating-bill-without-buying-anything
 date: '2026-08-31'
