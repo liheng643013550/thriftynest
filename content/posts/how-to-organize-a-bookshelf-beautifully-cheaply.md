@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How to Organize a Bookshelf Beautifully for Under $20
 slug: how-to-organize-a-bookshelf-beautifully-cheaply
 date: '2026-09-07'
