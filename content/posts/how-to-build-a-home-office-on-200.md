@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "How to Build a Whole Home Office for $200 (Full Parts List)"
 slug: how-to-build-a-home-office-on-200
 date: 2026-08-18
