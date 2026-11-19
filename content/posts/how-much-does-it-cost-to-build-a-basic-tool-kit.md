@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How Much Does It Cost to Build a Basic Home Tool Kit?
 slug: how-much-does-it-cost-to-build-a-basic-tool-kit
 date: '2026-09-17'
