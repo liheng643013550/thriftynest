@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How to Organize a Laundry Room Cheaply in an Afternoon
 slug: how-to-organize-a-laundry-room-cheaply
 date: '2026-09-11'
