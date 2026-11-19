@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How to Build a Basic Tool Kit for Under $60 (12 Essentials)
 slug: how-to-build-a-basic-tool-kit-cheaply
 date: '2026-08-30'
