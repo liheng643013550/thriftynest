@@ -256,7 +256,7 @@ def existing_slugs():
     return {_topic_key(p.stem.replace("-", " ")) for p in POSTS_DIR.glob("*.md")}
 
 
-def pick_topics(config, limit, override=None, force=False):
+def pick_topics(config, limit, override=None, force=False, log_rejects=True):
     used = existing_slugs()
     if override:
         norm = _topic_key(override)
@@ -296,7 +296,8 @@ def pick_topics(config, limit, override=None, force=False):
             passed.append(t)
         else:
             rejected += 1
-            topic_gate.log_reject(t["kw"], ptype, why)
+            if log_rejects:      # --dry-run 不写日志，否则试跑几次就把日志刷爆
+                topic_gate.log_reject(t["kw"], ptype, why)
     if rejected:
         print("[gate] 拒绝 %d 个题目（见 content/_topic_reject_log.jsonl）" % rejected)
     if not passed:
@@ -775,7 +776,8 @@ def main():
     pub = config.get("publishing", {})
     limit = args.limit if args.limit is not None else pub.get("posts_per_day", 3)
 
-    topics = pick_topics(config, limit, override=args.topic, force=args.force)
+    topics = pick_topics(config, limit, override=args.topic, force=args.force,
+                         log_rejects=not args.dry_run)
 
     # --dry-run 不做任何网络调用，因此不需要 API key
     if args.dry_run:
