@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: 'How to Clean a House Fast: A 30-Minute Routine That Works'
 slug: how-to-clean-a-house-fast-in-30-minutes
 date: '2026-09-03'
