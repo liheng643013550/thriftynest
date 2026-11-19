@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How to Remove Pet Hair from Furniture (Cheap Tools That Work)
 slug: how-to-remove-pet-hair-from-furniture-cheaply
 date: '2026-08-26'
