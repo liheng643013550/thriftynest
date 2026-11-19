@@ -613,6 +613,13 @@ class Site:
         )
         out = OUT_DIR / "posts" / slug / "index.html"
         out.parent.mkdir(parents=True, exist_ok=True)
+        # ★按文章 noindex：front matter 写 noindex: true 就注入 meta robots，
+        #   并在 sitemap 里排除（见 build_seo_files）。用于「冻结」的 how-to 页：
+        #   内容还在、链接还能点，但不参与索引、不再抢排名。
+        if str(meta.get("noindex", "")).strip().lower() in ("true", "yes", "1"):
+            page = page.replace(
+                "</head>",
+                '<meta name="robots" content="noindex,follow">\n</head>', 1)
         out.write_text(page, encoding="utf-8")
 
     def build_index(self, posts):
@@ -1010,7 +1017,9 @@ class Site:
                     (self.path("editorial-policy"), today)]
         entries += [(self.path("category", c), today) for c in CATEGORY_NAMES]
         entries += [(self.path("posts", slug_of(p)), p["meta"].get("date") or today)
-                    for p in posts]
+                    for p in posts
+                    if str(p["meta"].get("noindex", "")).strip().lower()
+                    not in ("true", "yes", "1")]
         urls_xml = "".join(
             "<url><loc>%s</loc><lastmod>%s</lastmod></url>" % (u, lm)
             for u, lm in entries
