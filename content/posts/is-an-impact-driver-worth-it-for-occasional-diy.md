@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: Is an Impact Driver Worth It for Occasional DIY?
 slug: is-an-impact-driver-worth-it-for-occasional-diy
 date: '2026-09-17'
