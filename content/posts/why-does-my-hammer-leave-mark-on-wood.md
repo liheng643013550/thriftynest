@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: Why Your Hammer Leaves Marks on Wood (Simple Fix)
 slug: why-does-my-hammer-leave-mark-on-wood
 date: '2026-10-03'
