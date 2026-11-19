@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How to Find What Uses the Most Electricity in Your Home
 slug: how-to-find-what-us-the-most-electricity-at-home
 date: '2026-09-17'
