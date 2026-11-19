@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: Why Your Dog Destroys Every Toy and What to Buy Instead
 slug: why-does-my-dog-destroy-every-toy
 date: '2026-09-17'
