@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How to Clean Windows Without Streaks (The $2 Solution)
 slug: how-to-clean-windows-without-streaks-cheaply
 date: '2026-09-09'
