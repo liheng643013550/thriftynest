@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How to Reduce Water Heater Costs (5 Easy Wins)
 slug: how-to-reduce-water-heater-costs
 date: '2026-09-14'
