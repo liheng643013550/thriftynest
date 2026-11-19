@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: How to Reduce Food Waste at Home (and Save $100 a Month)
 slug: how-to-reduce-food-waste-at-home
 date: '2026-09-06'
