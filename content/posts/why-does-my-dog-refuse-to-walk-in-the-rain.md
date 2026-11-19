@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: Why Your Dog Refuses to Walk in the Rain (Simple Fixes)
 slug: why-does-my-dog-refuse-to-walk-in-the-rain
 date: '2026-09-15'
