@@ -299,7 +299,10 @@ def pick_topics(config, limit, override=None, force=False, log_rejects=True):
             if log_rejects:      # --dry-run 不写日志，否则试跑几次就把日志刷爆
                 topic_gate.log_reject(t["kw"], ptype, why)
     if rejected:
-        print("[gate] 拒绝 %d 个题目（见 content/_topic_reject_log.jsonl）" % rejected)
+        # 只有真写日志时才提日志路径，否则这句提示是假的
+        print("[gate] 拒绝 %d 个题目%s" % (
+            rejected,
+            "（见 content/_topic_reject_log.jsonl）" if log_rejects else "（dry-run，未写日志）"))
     if not passed:
         print("[gate] ⚠️  池子里没有题目能过闸门 —— 今天不发文（这是设计行为，不是故障）")
         return []
